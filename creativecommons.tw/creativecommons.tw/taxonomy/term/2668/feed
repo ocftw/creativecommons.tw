@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - DRM</title>
+ <link>https://creativecommons.tw/category/tags/drm</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>對抗DRM</title>
+ <link>https://creativecommons.tw/blog/20110523-1</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;盧美慈&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;一、淺談DRM技術&lt;/p&gt;
+
+&lt;p&gt;DRM技術，全名為Digital Rights Management，中文有稱呼為「數位權利管理」或是「數位版權管理」，其技術內容在於「為保障著作權人之著作內容，以科學技術限制檔案之使用。」&lt;a href=&quot;#_ftn1&quot;&gt;[1]&lt;/a&gt;DRM不僅限制檔案之複製，亦限制使用者對於該檔案進行修改、加密等行為。DRM無所不在，現代人每天使用的軟體如 Adobe Acrobat 、 Microsoft Office、APP Store等，或多或少都具備此功能。&lt;/p&gt;
+
+&lt;p&gt;DRM技術大抵區分為下列幾種：&lt;br /&gt;
+1) 限制使用時間，即限制消費者得使用該數位內容的期間。&lt;br /&gt;
+2) 限制使用次數 :限制使用者對該數位內容的使用次數，將消費者得開啟、編輯或列印等行為限制次數。&lt;br /&gt;
+3) 限制使用地點:係指讀取該數位內容之電腦或讀取裝置限於消費者下載該數位內容之裝置，即使將該數位內容複製並移動到其他讀取裝置，皆無法開啟或使用該數位內容。&lt;/p&gt;
+
+&lt;p&gt;另外，在權限管控的部分，依照數位內容之性質不同，權限控管程度各有不同。舉例來說，若該數位內容係文章性質，通常會限制其複製、修改、重製甚至是限制其列印次數；若數位內容為影音性質，會限制其複製、剪輯、修改等權限；而不論數位內容為何種性質，皆會限制消費者對該內容進行進一步加密。&lt;/p&gt;
+
+&lt;p&gt;呈前述，由於DRM技術本身限制了消費者使用數位內容的權利&lt;a href=&quot;#_ftn2&quot;&gt;[2]&lt;/a&gt;，並且侵害數位內容消費者之隱私權。且因為DRM技術設置後會持續存在，並不因該數位內容之著作權保障期限經過而消失，使得已進入公領域之數位內容，仍需付費購買授權，此部分也被認為DRM技術已經過度保障著作權，反而與著作權法鼓勵創新之目的相悖。&lt;/p&gt;
+
+&lt;p&gt;二、反對DRM技術之潮流興起&lt;/p&gt;
+
+&lt;p&gt;因為DRM已經過度限制消費者使用權限、侵害隱私權之虞，過度保障著作權而不利創新等問題，自由軟體聯盟在2006年時，即發起「對抗DRM日」(Day Against DRM)&lt;a href=&quot;#_ftn3&quot;&gt;[3]&lt;/a&gt;， 此活動在於結合世界各地之社會公益團體、網站以及個人，盡其全力告知大眾「DRM技術是一種危險的科技，將使得大眾必須放棄自己對電腦的控制或是放棄自己對某些數位媒體的接近使用權。&lt;a href=&quot;#_ftn4&quot;&gt;[4]&lt;/a&gt;」&lt;/p&gt;
+
+&lt;p&gt;而在2010年2月25日，自由軟體聯盟以及線上權利組織決定將每年度5月4日定為「國際對抗DRM日」&lt;a href=&quot;#_ftn5&quot;&gt;[5]&lt;/a&gt;。並且持續主張數位產業界應該使消費者重新獲得合法購買數位檔案之自由使用權，否則DRM只會淪為數位限制管理（Digital Restrictions Management）。&lt;/p&gt;
+
+&lt;p&gt;三、從創用CC角度看DRM之未來&lt;/p&gt;
+
+&lt;p&gt;在反對DRM技術者之努力下，DRM所造成的爭議已不如以往地多，目前DRM僅存於電子書籍、電影、音樂等數位內容中。&lt;/p&gt;
+
+&lt;p&gt;DRM技術與創用CC相關的比較如下&lt;a href=&quot;#_ftn6&quot;&gt;[6]&lt;/a&gt;：&lt;br /&gt;
+1) 創用CC授權並不允許授權人將DRM放入將採取CC授權之作品中：創用CC之目標在於促進作品流通並且以創用CC之搜尋工具讓使用者可以清楚知悉該作品的授權範圍並且免費加以利用。若置入DRM顯然將違反作品進行創用CC授權時之授權規定，並且和創用CC開放授權之目的不符。&lt;br /&gt;
+2) DRM技術之爭議性反而凸顯了創用CC授權的特點：DRM是藉由科技來阻止或妨礙作品之分享和協作；而創用CC目的在於藉由創用CC網站之技術，最大化作品分享和協作之機會。就此而言，DRM具有反社會利益的性質，創用CC則是具有促進社會利益之性質。&lt;/p&gt;
+
+&lt;p&gt;若將眼光放遠，DRM最終仍會敗在自由文化的風潮之下。在自由文化促進者的努力下，透過開放式教育、開放式政府以及自由軟體聯盟發起之活動，當社會已將「分享」和「協作」根深蒂固後，DRM將被社會大眾揚棄。&lt;/p&gt;
+
+&lt;div&gt;
+&lt;hr /&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;a href=&quot;#_ftnref1&quot;&gt;[1]&lt;/a&gt; Christopher T. Wheatley,&lt;em&gt;Overreaching Technological Means for Protection of Copyright: Identifying the Limits of Copyright in Works in Digital Form in the United States and the United Kingdom&lt;/em&gt;, 7 Wash. U. Global Stud. L. Rev. 353(2008)&lt;br /&gt;
+&lt;a href=&quot;#_ftnref2&quot;&gt;[2]&lt;/a&gt; 例如Digital Consumer 網站所提出之「消費者權利聲明」，指出消費者對於數位內容產品應有以下六大基本權益：易時使用權；易地使用權；備份權；對於合法取得之數位內容，消費者有權利決定採用何種工具播放；對於合法取得之數位內容，消費者有權利決定將之轉變為其他更方便的檔案格式；消費者有權利使用工具實行上述權利。參見Digital Consumer.org ,&lt;strong&gt;Bill of rights&lt;/strong&gt;, available at &lt;a class=&quot;newpage&quot; href=&quot;http://digitalconsumer.org/bill.html&quot;&gt;http://digitalconsumer.org/bill.html&lt;/a&gt; (last visited May 19th.)&lt;br /&gt;
+&lt;a href=&quot;#_ftnref3&quot;&gt;[3]&lt;/a&gt; &lt;a href=&quot;http://www.fsf.org/news/may-4-day-against-drm&quot;&gt;http://www.fsf.org/news/may-4-day-against-drm&lt;/a&gt; (last visited May 19th.)&lt;br /&gt;
+&lt;a href=&quot;#_ftnref4&quot;&gt;[4]&lt;/a&gt; &lt;a href=&quot;http://libreplanet.org/wiki/Group:DefectiveByDesign/Day_Against_DRM_2011#Blog&quot;&gt;http://libreplanet.org/wiki/Group:DefectiveByDesign/Day_Against_DRM_2011#Blog&lt;/a&gt;(last visited May 19th.)&lt;br /&gt;
+&lt;a href=&quot;#_ftnref5&quot;&gt;[5]&lt;/a&gt; 同註3。&lt;br /&gt;
+&lt;a href=&quot;#_ftnref6&quot;&gt;[6]&lt;/a&gt; DRM (a day against），&lt;a href=&quot;https://creativecommons.org/weblog/entry/27312&quot;&gt;https://creativecommons.org/weblog/entry/27312&lt;/a&gt;(last visited May 19th.)。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 23 May 2011 08:06:00 +0000</pubDate>
+ <dc:creator>bonjovilll</dc:creator>
+ <guid isPermaLink="false">512 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20110523-1#comments</comments>
+</item>
+<item>
+ <title>以網路為新閱讀媒體: 電子書的創意開放潛能</title>
+ <link>https://creativecommons.tw/blog/20100919</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Hui-Yin Wu&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;大家好！我是 Helen，是今年創用 CC 的暑期工讀生，目前就讀政治大學英國語文學系(輔修資訊科學)，對電子文學相關議題有興趣，因此這次實習也做了一些電子書與電子檔案標示語言相關研究。&lt;/p&gt;
+
+&lt;h3&gt;引言&lt;/h3&gt;
+
+&lt;p&gt;2008年，微軟總裁 Steve Ballmer 在與華盛頓郵報記者訪談中提出：十年內所有實體印刷媒體都會消失，所有內容將電子化透過網路傳遞。&lt;/p&gt;
+
+&lt;p&gt;距離 Steve Ballmer 的預測只有兩年，出版業就面臨電子書新技術引進的挑戰。在2010年第二季，亞馬遜電子書銷售量首次超越實體出版，每有1本實體書就有1.43本電子書出售。蘋果、索尼、亞馬遜、微軟也紛紛嵌入電子閱讀技術到他們的各種行動通訊設備中。同樣值得注意的，今年7月28日台灣的第一個網路電子書城 Pubu 成立。&lt;/p&gt;
+
+&lt;p&gt;到底何謂電子書？電子書將如何影響平面媒體？會如何激發創造力、催化開放標準以及自由思想的普及？或是科技的進步會使電子書又再經歷一次革命？希望能從中探討一些問題，也為未知的可能性留一些想像空間。&lt;/p&gt;
+
+&lt;h3&gt;IDPF 與 EPUB 介紹&lt;/h3&gt;
+
+&lt;p&gt;談及電子圖書相關議題，第一個就必須先介紹 EPUB。EPUB 由國際數位出版聯盟（IDPF）在2007年發表的電子書出版官方標準格式，取代了原來的開放式電子書標準 Open eBook。現今大多數的閱讀器〈亞馬遜的 Kindle 是一個例外〉都支持 EPUB 的檔案格式。&lt;/p&gt;
+
+&lt;p&gt;目前 EPUB 最新版本是2010年七月發表的2.0.1版，而下一版，2.1版預計在2011年一月發表。&lt;/p&gt;
+
+&lt;p&gt;EPUB 的目標在於提供一個開放且自由的電子書標準，包含可搜尋的文字與圖片、在跨閱讀器及閱讀平台都可正常顯示、並提供數位著作權與版權資訊內嵌機制。&lt;/p&gt;
+
+&lt;p&gt;EPUB 標準共包含三份規格：開放出版結構 (Open Publication Structure；OPS)、開放包裹格式 (Open Packaging Format；OPF)、以及 OEBPS 容納格式 (OEBPS Container Format；OCF). 他們之間的關係可用一個圖表示&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;epub_container.jpg;&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/epub_container.jpg&quot; style=&quot;width:300px&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;EPUB 標準最棒的地方，簡言之，就是它是由網頁組成並壓縮成 EPUB 檔：使用者想出版自己電子書時不需要對程式語言或是電腦軟硬體有極深的認識，出版門檻相對比較低。雖說數位版權以及著作權問題也將因此而生，但如此低的出版門檻更能激發創意以及使創作在網路上廣為傳播。&lt;/p&gt;
+
+&lt;h3&gt;文字的排版與呈現&lt;/h3&gt;
+
+&lt;p&gt;EPUB 的內容與呈現由 OPS 規格規範。內容的標示是使用 XHTML 的一個子集，主要是移除所有互動性的內容標示〈例如表單製作〉而內容樣式的呈現主要是由 CSS 樣式來做設定，目前是支持到 CSS 2.0。&lt;/p&gt;
+
+&lt;p&gt;其實 EPUB 對於內容與樣式的限制與原本自由且開放的原則有矛盾性存在：雖然個人化樣式是被允許的，但規範中同時要求跨平台呈現的一致性，也因為對於閱讀器規格沒有嚴謹的規範，使每個閱讀器呈現同一電子書檔的方式會約略不同，個人化樣式也相對比較困難。&lt;/p&gt;
+
+&lt;h3&gt;互動性與多媒體的嵌入&lt;/h3&gt;
+
+&lt;p&gt;電子書與實體書有甚麼不同？當然因為形式是一個電子檔，流通性較高、增加可攜帶度，同時也因為不需要紙，應該較能獲得環保團體親徠。不過真正在電子書與實體書之間畫上界線的是數位文學的興起；Katherine Hayes 曾定義電子文學為「並非由電子化的平面媒體轉換而來，而是『與生俱來』的數位內容，也通常以電腦為傳播與閱讀平台的文學。」Underland Press 一家外國出版社進而用 &quot;Wovel.&quot;，即「網頁 (Web)」與「小說 (Novel)」兩字組合成的新詞描述這種新文學形態。&lt;/p&gt;
+
+&lt;p&gt;雖然 EPUB 目前不支持影音內嵌與互動性內容，但未來標準可望會讓閱讀器提供相當好的支援，這樣才與傳統書本電子化有所區分，創造一種新的互動式媒體、網路文學，讓電子書的內容更加豐富多元。&lt;/p&gt;
+
+&lt;h3&gt;出版與作者資訊&lt;/h3&gt;
+
+&lt;p&gt;之前曾提及，EPUB 的低技術門檻使版權與 DRM 相關問題浮現。如何讓出版資訊能被各種閱讀器讀取、編譯還尚待解決。&lt;/p&gt;
+
+&lt;p&gt;EPUB 目前是使用 Dublin Core Metadata Initiative 來標示出版資訊，其元素是用 &quot;dc:&quot; 做為開頭以顯示它是 Dublin Core 的元素。Dublin Core 使出版資訊標示變得更容易，不過它疏鬆的內容規範使書與書之間的標示不一，一本平面書可能有獨有的 ISBN，電子書卻是沒有一個公定的 ID 標示方法，版權資訊的標示也沒有固定模式，使各種閱讀器無從讀取或是理解電子書相關資訊。&lt;br /&gt;
+雖說現在電子書出版資訊的標示仍然沒有一定規範，隨著語意網技術的成長與發展，使用者可以用 W3C 設計的 Resource Description Framework (RDF) 來更明確標示文件中的出版資訊。&lt;/p&gt;
+
+&lt;h3&gt;國際化以及跨文化議題&lt;/h3&gt;
+
+&lt;p&gt;EPUB 對於出版業是一種轉機，提供許多新可能性，不過目前它對於跨文化，或是非西方文化的文件出版，尤其是亞洲文化的支援仍然相當不足，很多人希望新的規範中能增加如直排書寫、Ruby 註解支援等等，這樣不只是出版商，同時文化保存、數位典藏相關工作也會因而受益。&lt;/p&gt;
+
+&lt;h3&gt;結語&lt;/h3&gt;
+
+&lt;p&gt;有鑑於電腦與網路技術不斷提升，電子出版的重要性也隨之提高。儘管至今仍有許多議題尚待討論，但望及 HTML5 與 CSS3 的進步，各種例如 DocBook、 TEI、DITA 的電子文件標示語言發展，以及電子書技術趨於成熟，一個創意、開放、自由的新網路媒體讓人相當期待！&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;EPUB: A Stage for Free, Open, and Creative Media&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Hi! My name is Hui-Yin, I am a summer intern at Creative Commons Taiwan. I am currently in my senior year in the English department at National Chengchi University, and I have a minor in computer science. I have an interest in literary computing as well as electronic literature, thus I have been studying ebook and document markup this summer.&lt;/p&gt;
+
+&lt;h3&gt;Introduction&lt;/h3&gt;
+
+&lt;p&gt;In a lunch session with the Washington Post, Microsoft CEO Steve Ballmer said an alarming statement regarding the future of the publishing industry: that printed media will disappear within ten years and all content will be delivered electronically over the internet.&lt;/p&gt;
+
+&lt;p&gt;Only two years away from his prediction, the publishing industry has turned upside down. In the second quarter of 2010, sales of e-books on Amazon for Kindle surpassed sales of hardcover books by 143 e-books for every 100 hardcover books sold. Apple, Sony, Amazon, Microsoft are all embedding e-reading technology into their mobile devices. To cap all, on July 28, 2010, Taiwan&#039;s first internet e-book store called PUBU was established.&lt;/p&gt;
+
+&lt;p&gt;So what are e-books? What impact will they bring to printed media? How will they stimulate creativity, open standards and free thinking? Will they also cease to exist in a few years if technology continues to advance? I hope to look into some of these questions, but some I shall leave unaddressed for further speculation.&lt;/p&gt;
+
+&lt;h3&gt;Introduction to IDPF and EPUB&lt;/h3&gt;
+
+&lt;p&gt;To talk about ebooks without talking first about EPUB would seem foolish. EPUB is the official standard for e-publishing set by the International Digital Publishing Forum (IDPF) in 2007, replacing the original Open eBook standards. Most ebook readers today, with an exception of Kindle, accept the EPUB format.&lt;/p&gt;
+
+&lt;p&gt;The newest version of EPUB is EPUB 2.0.1 which came out July 2, 2010. Version 2.1 is scheduled for release in January 2011.&lt;/p&gt;
+
+&lt;p&gt;The purpose of EPUB is to provide a free and open e-book standard which can display text and searchable graphic images, have good compatibility between readers, and provide DRM and metadata embedding support.&lt;br /&gt;
+There are mainly three components in the EPUB specification: the Open Publication Structure (OPS), Open Packaging Format (OPF), and OEBPS Container Format (OCF). Their relationship may be described in a diagram:&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;epub_container.jpg;&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/epub_container.jpg&quot; style=&quot;width:300px&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;The awesome thing about EPUB standards is that it&#039;s, in a word, a group of webpages zipped into a file. One wouldn&#039;t need profane knowledge about programming languages or technical aspects to create and distrubute their own epub book. Of course, this raises the issue of Digital Rights Management and copyright, but doubtless, the low publication bar will encourage a wide distribution of textual content over the website, igniting a flame of creativity.&lt;/p&gt;
+
+&lt;h3&gt;Textual Content and Styling&lt;/h3&gt;
+
+&lt;p&gt;The content and styling constraints of EPUB documents are specified in the OPS specification. The content is structuralized using a subset of XHTML that removes all interactive content. The layout of the e-document is decided by the CSS stylesheet, which in EPUB should support CSS 2.0.&lt;/p&gt;
+
+&lt;p&gt;The paradox of this publication structure is that it allows personalized styling and layout, yet it asks for presentational consistency between different readers. However, it is true that various readers tend to render various texts differently, which makes personalized styling difficult, since it is rendered differently across readers.&lt;/p&gt;
+
+&lt;h3&gt;Interactive Content and Media Support&lt;/h3&gt;
+
+&lt;p&gt;What makes an e-book different from a physical book? Of course, with the form of a electronic file, it is much more portable, environmental, and can be widely distributed. But furthermore, it triggers the birth of electronic literature, which defined by Katherine Hayes exclude print literature that has been digitized, is by contrast &#039;digital born,&#039; and (usually) meant to be read on a computer. Underland Press calls this a web novel, or a &quot;Wovel.&quot;&lt;br /&gt;
+Although EPUB has not yet supported video and audio embedding nor interactive coding, it is hopeful future standards and readers will provide such support. In a sense, an ebook is no longer merely the digitalizaing of a physical book, but text media for the internet, a new media form that combines all sorts of visual entertainment in one.&lt;/p&gt;
+
+&lt;h3&gt;Metadata and Bibliographic Information&lt;/h3&gt;
+
+&lt;p&gt;As mentioned previously, the ease of digital publication by EPUB standards brings the question of copyright and DRM into light. How copyright and metadata can be standardized for all machines to understand and interpret is a difficult question.&lt;/p&gt;
+
+&lt;p&gt;EPUB adopts the Dublin Core Metadata Initiative for presenting metadata. The prefix &quot;dc:&quot; is added to its elements to indicate a dublin core element. It provides a simple way to markup metadata. However, it raises as many difficulties as it resolves: there is not a standard way for expressing copyright information. One could simply mark a work as &quot;CC-BY-NC&quot; as well as other copyright statement. It would be impossible to ask browsers to interpret such metadata information.&lt;/p&gt;
+
+&lt;p&gt;A possible, though still immature, solution may be found with the development of the semantic web. The Resource Description Framework (RDF) designed by W3C serves the purpose of marking up the metadata in a document.&lt;/p&gt;
+
+&lt;h3&gt;Internationalization and Cross-Culture Issues&lt;/h3&gt;
+
+&lt;p&gt;EPUB offers many opportunities to the publishing industry. However, support for cross culture publication, especially for Asian languages such as Japanese is not sufficiently supported. Many hope that the new specifications will allow such features as vertical text and provide Ruby support for annotating. This is not only for the benefit of the publishing industry, but also for cultural preservation in digital archiving.&lt;/p&gt;
+
+&lt;h3&gt;Speculation&lt;/h3&gt;
+
+&lt;p&gt;With the constant improving of computer and internet technologies, the importance of e-documentation becomes more and more significant. Currently, HTML5 and CSS3 are under development, various document markup languages such as DocBook, TEI, DITA are flourishing across the World Wide Web. The improvement of ebook technology and the prospects of a creative, open, and free internet media is definitely exciting.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 19 Sep 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">222 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20100919#comments</comments>
+</item>
+<item>
+ <title>雷席格的CC每週通信（九）：談授權條款相容性</title>
+ <link>https://creativecommons.tw/in-depth/72</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jedi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;勞倫斯．雷席格（Lawrence Lessig）著，2005年11月30日&lt;/p&gt;
+
+&lt;p&gt;前情提要：&lt;/p&gt;
+
+&lt;blockquote&gt;下一次通信裡，我會說明我們於2006年將推出的另一個方案。這個方案不只對CC重要，對於創作環境的生態也將是不可或缺的。請繼續收看！&lt;/blockquote&gt;
+
+&lt;p&gt;在這一週的通信裡：&lt;/p&gt;
+
+&lt;p&gt;自由的公共授權條款，並不是CC發明的。自由的公共授權條款可以說是理查．史托曼（Richard Stallman）發明的，至少他是第一個獲得廣泛成功的條款發明人。頭一個為創作內容（content）所設計的自由公共授權條款，也不是 CC 發明的。在我們開始投入此一領域之前，有很多人承繼了史托曼的路線，推出了適合創作作品的自由授權條款。Art Libre授權條款應當是其中最出名的了。BBC的Creative Archive授權條款則是近來最著名的例子之一，該條款起碼讓英國公民可以自由取得重要的英國文化資源。最後，自由軟體基金會（FSF; Free Software Foundation）的GNU自由文件授權條款（FDL; Free Documentation License）原先是為軟體文件所設計的 copyleft&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-1&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-1&#039;)&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;的授權條款，但最著名的使用者則是維基百科（Wikipedia）。&lt;/p&gt;
+
+&lt;p&gt;這幾種自由授權條款都有著一個共同的目的。每一種授權條款都希望能給創作者機會，以將幾種重要的自由授與他人。至於哪幾種自由，則可能依條款不同而有差別。以Creative Archive條款來說，它並不是copyleft的條款。至於自由文件授權條款（FDL）因為有加諸多種限制，因此使用Art Libre授權的作品便不適宜使用自由文件授權條款。不過這些差異倒是反映了創作社群的多樣性。重點不在於其間的差異，而在於其共通的目標。&lt;/p&gt;
+
+&lt;p&gt;但是所有上述這些自由授權條款，連同CC目前的各種授權條款在內，都有一項共通的缺陷。這些授權條款對待創作作品的方式，反而使得不同的創意間無法共存，這就有如1970年代的電腦界，或者在一個創作內容被數位權利管理（DRM）技術所掌控的世界那般。&lt;/p&gt;
+
+&lt;p&gt;舉例來說，如果你是名高中生，要寫一份關於哲學家維根斯坦（Ludwig Wittgenstein）的報告。既然你是21世紀的高中生，你當然不可能只會寫一份傳統的書面報告。你想用短片的方式來做報告。短片題目是「維根斯坦的世界，當代版」。你要用維基百科上面關於維根斯坦的生平資料來製作你的短片。&lt;/p&gt;
+
+&lt;p&gt;你的構想很簡單：你想將維基百科裡關於維根斯坦的生平描述拍成電影，再加上你在Flickr這種相簿網站裡所找到的照片，並配上你從Opsound音樂網站所下載來的音樂檔。&lt;/p&gt;
+
+&lt;p&gt;如同我先前的通信內容說的，數位內容（digital content）最重要的特點就是，從技術面來看，像這樣的拍片計劃實在只是小事一樁。數位技術讓創作人──只要付出相對來講相當些微的代價──能夠取得我們身旁的各種聲音及影像等文化素材，並將之「重混」（remix）在一起，創造出新的作品。一位利用各種現有數位技術的高中生，可以輕易完成我剛說的混合剪輯創作，而不會碰到任何技術性的門檻。當然啦，你還是要有夠好的創意才行。即使有最好的技術在手上，要拍片還是不容易的事。但是我們可以說，那樣的挑戰，才正是對創作者重要的挑戰。不要讓技術性問題擋在路中間，創作本身才是真正需要努力挑戰的工作。&lt;/p&gt;
+
+&lt;p&gt;但是從事自由文化運動（Free Culture Movement）的人，慢慢開始發覺，上述的情景，開始日益變得困難起來。雖然「技術上」你可以混合剪輯各種創意作品，但是你在「法律上」能這樣做嗎？那些「自由」的創意作品所採用的各種授權條款，能否允許那些自由的作品也被人剪輯混用？&lt;/p&gt;
+
+&lt;p&gt;結果答案是不行，令人驚訝（而對像我們這樣的律師來說，這是個難堪的答案）。即便是你想要混合剪輯的作品，採用了copyleft的授權條款，但因那些copyleft授權條款各自不同，因此你不能說將一種創意作品拿來與另一種創意作品搭在一起。舉例來說吧，維基百科全書採用了自由文件授權條款。該條款要求所有的衍生著作只能使用自由文件授權條款來授權。Opsound上面的音樂內容，以及Flickr相簿網站上的照片，使用的則是CC的「姓名標示─相同方式分享」授權條款（Attribution-ShareAlike），該條款也規定所有的衍生著作只能使用CC的「姓名標示─相同方式分享」授權條款來授權。所有這類的條款，在制定的時候，都沒有考慮到所有數位時代的技術進步所帶有的基本價值──亦即，可互通性（interoperability）。&lt;/p&gt;
+
+&lt;p&gt;我們打算修正此一問題。至少，我們希望嘗試去改變。其中一種方法是叫大家都去用某一種CC的授權條款。但是強迫全世界的人只使用一種條款，既違背我們的價值，對於自由文化的生態也無益處。因此我們不這麼做，我們反而是發起一項計劃，以協助各種具備足夠彼此相容性的授權條款，能夠達到可互通性的目標。我們會努力說服所有在自由授權領域的人一起加入我們這項計劃。&lt;/p&gt;
+
+&lt;p&gt;以下便是我們發起計劃的大要（不過希望你能瞭解，在我們訂下定版的計劃前，一定還會有很多要討論的地方）。我們先前發展出一套策略，用以確保授權條款在不同法律管轄區之間得以相容；你會發現這項計劃也是建立在該策略的基礎之上：&lt;/p&gt;
+
+&lt;p&gt;CC授權條款有三個層次：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;供一般人閱讀的CC授權標章（Commons Deed），其描述了創作內容有哪些自由，使用大家都能瞭解的文字寫成；&lt;/li&gt;
+	&lt;li&gt;供律師閱讀的法律條款（Legal Code）──也就是授權條款（license）──使得創作內容所帶的自由，是可以在法律上成立、被執行的；最後是&lt;/li&gt;
+	&lt;li&gt;可供機器閱讀的後設資料（metadata），使得創作內容所帶的自由，可以被電腦所理解收集使用。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;我們可以將這三個層次變成下圖：.&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;w9-1.png;&quot; class=&quot;image&quot; src=&quot;http://lh5.ggpht.com/_a0muzrcaKwo/S-E3BpYJwqI/AAAAAAAAAWU/l9a1EFRId9A/s800/w9-1.png;&quot; style=&quot;width:650px&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;我們在早先將CC授權條款移植（port）到其他法律管轄區，好讓世界各地的人都能根據當地法律將其創作作品授權出去。我們在這過程中的目標，是要確保在一個國家所授權的創作作品，能夠與在另一個國家所授權的創作能夠相容。因此在架構上，我們增加了在第二層的授權條款，因此整個設計看起來會像是這樣：&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;w9-2.png;&quot; class=&quot;image&quot; src=&quot;http://lh5.ggpht.com/_a0muzrcaKwo/S-E3B-_g7hI/AAAAAAAAAWY/0rnHm_iyqOM/s800/w9-2.png;&quot; style=&quot;width:650px&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;從今天開始，我們將推動一項新計劃，希望將這樣的可互通性推廣出去，不再僅限於CC授權條款之間。我們已經開始著手設立一個顧問團（我們稱之為「CC法律顧問團」〔Creative Commons Legal Advisory Board〕，簡稱ccLab），該顧問團會由世界各地的授權專家組成。顧問團會設計一套程序，用以在授權條款制訂人送交條款後，能夠認定相似的自由授權條款間是否能夠「相容」。如果一種條款被認定是具有相容性的，顧問團便將之加上CC的後設資料，用以表述創作內容所帶有的自由，並連結至授權標章，以解釋創作內容帶有哪些自由，然後我們便會認可這個條款，將之放進我們正在設立的自由授權條款聯合（federation of free licenses）之中。這樣的授權條款世界看起來會像這樣：&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;w9-3.png;&quot; class=&quot;image&quot; src=&quot;http://lh3.ggpht.com/_a0muzrcaKwo/S-E3BymiS2I/AAAAAAAAAWc/FU2viN0kSOo/s800/w9-3.png;&quot; style=&quot;width:650px&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;如果本計劃成功，那麼創作作品便能在混用剪輯時，更容易地從一種條款轉移到另一種。一旦創作作品能轉用彼此間相容的授權條款，自由授權社群就會如同市場般，找出哪些授權是相容性更高、更可靠的。如此一來自由文化就不再會被哪一種特定的自由授權條款所框限住。自由文化將得以在所有相關且相容的條款之間走動。而自由軟體世界裡常見的那種「自閉的自由」（autistic freedom）在自由文化的世界中將得以避免。&lt;/p&gt;
+
+&lt;p&gt;當然啦，這個計劃並不會讓不相容的授權條款因此變成相容。舉例來說，使用了「姓名標示─禁止改作」（Attribution-NoDerivatives）是不能跟使用「姓名標示─相同方式分享」的作者混用在一起的。不過，這種不相容性是創作者自行設定的。雖然很多人認為，我們也應該努力減少這種不相容性，而我也同意這樣的看法，但是我認為，先消除因為不經意而產生的不相容性，會是更重要的。加入了自由文化運動的創作者，之所以願意將其創作作品用自由授權發表公開，是因為認同了這些授權條款所表述的價值。他們可不是因為哪一種自由授權的法條氣燄凌駕了其他授權才這麼做的。我們得想辦法別讓律師們的本位主義霸佔舞台，如此一來創作者所認同的價值才能夠真正被實現。&lt;/p&gt;
+
+&lt;p&gt;這不會是個簡單的計劃。這個計劃需要許多支持協助。更重要的，這計劃需要所有參與自由文化運動的人，放下我們自己圈出的小領地，一起為一種可行的目標合作。理查．史托曼有過下面的名言：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;「如果我們不想活在叢林裡，就得改變態度。我們得傳達一種訊息，亦即所謂的好公民，就是在得宜的情況下，與他人合作的人……」&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;誠哉斯言。選擇了認同自由文化價值的創作者，他們不會樂見這世界讓他們的創意與其價值無法搭配在一起。我們這些為自由文化從事基礎建設的人，必須負起責任尊重創作者所認同的價值才行。&lt;/p&gt;
+
+&lt;p&gt;在下次的通信裡，我會談論到針對CC的各種批評。&lt;/p&gt;
+
+&lt;p&gt;Footnotes&lt;/p&gt;
+
+&lt;div&gt;
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-1&#039;)&quot;&gt;1&lt;/a&gt;. copyleft，字面上有跟 copyright 的「right」（右，權利）相對的意思，有人翻成「版權屬左」（因此帶有左派色彩）、「版權沒有」、「公共版權」（這其實是錯誤的）等詞。廖漢騰譯為「著佐權」。他對此翻譯的說明如下：「目前中文翻譯筆者見過的有反版權、反著作權。筆者認為copyleft仍是在現有著作權體制下以個人權利要求他人回饋社群的方式，雖然與常見的著作權模式不同，但不應該是反對著作權的基本體制。筆者採著佐權一詞取中文『輔佐』之」。&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 23 Feb 2006 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">72 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/72#comments</comments>
+</item>
+<item>
+ <title>雷席格的CC每週通信（四）：論CC與合理使用</title>
+ <link>https://creativecommons.tw/in-depth/67</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jedi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;上週提要：&lt;/p&gt;
+
+&lt;blockquote&gt;DRM的廣泛使用，會破壞資訊的互通性。至少，這會破壞未先取得授權許可的（資訊的）可互通性。合理使用是在法律上所制定、針對該種控制所設計的例外。而依我們今日所見，DRM技術並無法尊重落實「合理使用」這件事。為什麼會這樣？CC又是怎麼能尊重落實合理使用？&lt;/blockquote&gt;
+
+&lt;p&gt;故事繼續說下去……&lt;/p&gt;
+
+&lt;p&gt;這一系列的文章，由先前幾週的歷史背景起了頭。本文是歷史背景這一段落中的最後一篇。&lt;/p&gt;
+
+&lt;p&gt;在這系列的第一篇文章，我描述了一下CC的基本理念──提供自由/免費的授權條款，以便告知世人，一份著作的作者，預期他的著作中能保留哪幾種自由。第二篇文章裡，我坦承這個概念是從自由軟體運動（Free Software Movement）偷來的。他們和我們身處的背景脈絡非常不一樣，但我們都使用了自由的授權條款，以避免限制過多的控制手段，所帶來扼殺人類創造力的後果。上一篇文章的主題，就這種控制手段──這種可以控制內容存取、內容使用的防盜拷措施，我們將之稱為DRM（數位權利管理）。我們擔心DRM會使得網際網路之上多了一層限制，造成資訊內容不再能互通流通使用（defeat content interoperability），而且還會削弱「合理使用」（fair use）。&lt;/p&gt;
+
+&lt;p&gt;「合理使用」：在和著作權有關的辯論之中，就屬這個詞受到的誤解最多。「合理使用」在美國稱作fair use，在世界其他地方常用fair dealing這個講法，這到底是什麼，而DRM又怎麼會威脅到合理使用呢？&lt;/p&gt;
+
+&lt;p&gt;對於受到著作權保護的作品，法律承認三種型態的「使用」（uses）：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;自由使用（不涉及著作權法的使用，例如閱讀一本實體的書）&lt;/li&gt;
+	&lt;li&gt;受到規範的使用（涉及著作權規範的使用，例如重印一本書）&lt;/li&gt;
+	&lt;li&gt;合理使用（涉及著作權規範、但因為法律認定其為「合理」，因而實際上是自由的使用──例如在一篇書評裡，從被評論的書籍中抄出若干文字）&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;數位科技正在改變這三種使用之間的平衡。隨然越來越多東西在線上進行，「自由使用」的空間縮小了。因為任何在數位網路上的行為，都會產製出一份複本，而「複本」就涉及到著作權法，因此數位空間裡的「自由使用」情形，要遠比在類比（現實）世界裡少得多。&lt;/p&gt;
+
+&lt;p&gt;這樣的縮減，意味著「合理使用」這一項應該要開始肩負起更多責任，以保護先前還是自由的著作使用。但是並沒有太多保護這種新的「合理使用」的判例。例如說，還沒有訴訟案件告訴我們，把書拿給別人是一種「合理使用」。這是因為在類比（現實）世界裡，把書給別人，永遠不會涉及著作權法，所以根本沒有人需要拿著作權法裡面對「合理使用」的辯護，來合法化這樣的給書行為。但是在數位世界裡，把書給別人，就意味著製造一份複本。如果這樣的重製行為沒有經過授權，那就只剩「合理使用」可以確保分享的自由了。而所有希望為該種給予的自由來辯護的人，就必須研究「合理使用」的法律體系，但該種法律體系原是為另一個世界（現實世界）所建構的。&lt;/p&gt;
+
+&lt;p&gt;這一點非常關鍵：我們現在得依靠一個笨拙、昂貴的法律辯護（「合理使用」），來保護先前被認為是理所當然的自由。雖然無可置疑的，只要世上的人願意花錢花時間，我們就還能想像「合理使用」的自由會取得最終的平衡。但也就在這一點上，DRM變成了尤其危險的問題。&lt;/p&gt;
+
+&lt;p&gt;因為，在你還沒宣稱你的使用是「合理」的之前，你就必須得先擁有某種使用著作物的技術能力。「合理使用」是一種辯護；在你為自己進行辯護前，你卻得要先有辦法使用著作物，而這種辦法（編按：例如破解防盜拷措施）會產生著作權上的疑慮。&lt;/p&gt;
+
+&lt;p&gt;但是要是DRM真的如設計他們的人所希望的那樣被全面使用，那麼DRM的技術，便會拿走上述這種賦予你對著作物進行合理使用的技術能力。結果「合理使用」不是被法律（law）剝奪。「合理使用」會被程式碼（code）給剝奪。而，至少以美國的情況來說，製造工具來撥開該種程式碼，是觸法的行為──即使其目的原是為了「合理使用」亦然──於是你就知道DRM危險在什麼地方了：數位科技限縮了「自由使用」的範圍（因為任何一種使用都會製造出一份複本）；這一類新時代的數位科技（DRM）則更限縮了「合理使用」的範圍，DRM連原本可以是「合理」的著作物使用能力，都一起剝奪了。&lt;/p&gt;
+
+&lt;p&gt;這就是DRM為「合理使用」帶來的問題。CC如何能協助解決此一問題？&lt;/p&gt;
+
+&lt;p&gt;有兩個重要的管道：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;我們藉由提倡CC標示著作物的層面，來擴展不需使用DRM的著作物的種類範圍。&lt;/li&gt;
+	&lt;li&gt;如果DRM干預了由我們的授權條款所保證給出的自由，我們會禁止這種使用；我們因此能確保，我們建構於CC授權條款中的自由，不會受到DRM的限制。這些自由裡面，頭一個便是「合理使用」的自由。我們任何一套授權條款的第二條都會寫著：「CC授權條款不修改或限制「合理使用」的權利」。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;因此，我們靠著強化「合理使用」的自由這個層面，利用我們的授權條款，來塑造出著作人希望釋出的自由。CC也因此是「加強版的合理使用」（”fare use”-plus）：CC承諾，任何釋出的自由，都是法律所保障之自由的延伸。&lt;/p&gt;
+
+&lt;p&gt;以上便是CC的起源和背景了。從下一篇文章開始，我會來說說CC做過的各種有趣事情，並且進一步討論我們接下來的方向。&lt;/p&gt;
+
+&lt;p&gt;雷席格教授的&lt;a href=&quot;http://creativecommons.org/weblog/entry/5681&quot;&gt;英文原文出處&lt;/a&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 23 Dec 2005 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">67 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/67#comments</comments>
+</item>
+<item>
+ <title>雷席格的CC每週通信（三）：論資訊的可互通性（interoperability）</title>
+ <link>https://creativecommons.tw/in-depth/66</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jedi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;承續上一篇通信的內容：&lt;/p&gt;
+
+&lt;blockquote&gt;我們認為，〔CC〕這樣的設計，會和自由軟體運動相似，讓創造力能有一塊空間，不致受到著作權的太多束縛。但我們和自由軟體運動不同的是，我們的目標並不在去除「私有財產的文化」，而在自由軟體運動裡，起碼有一部份的人是希望除去私有軟體的。相反地，我們認為，藉著建立自由文化（free culture）這道支柱（自由文化的意思是，文化創作物可以為了一些重要的目的而自由地被運用），我們可以抵擋潮流往另一條路走。這所謂的另一條路，最主要的，就是被「數位權利管理」（DRM; digital rights management）的狂潮所推動的那種方向。DRM出了什麼問題？那「合理使用」又如何？好問題。我們下次會起個頭來回答這些問題。&lt;/blockquote&gt;
+
+&lt;p&gt;於是讓我們繼續說故事：&lt;/p&gt;
+
+&lt;p&gt;想像這幅美好的景像：你有位14歲的女兒，要寫一篇2005年夏天美國紐奧良大水災的報告。老師給她的寫作題目是：「人們對這場天災的看法，如何因為出身背景不同，而有所差異？」於是她就開始做一件現在越來越多小孩會做的事：上網查資料做作業。她進 google 找到關於水災的新聞報導。然後她開始收集寫報告所要用的網站資料。&lt;/p&gt;
+
+&lt;p&gt;想像一下，她找到了一個水災災戶的錄音檔案庫。然後她也找到了報導水災的新聞資料庫。最後她還找到了民意調查資料，裡面問到了美國政府該對水災採取什麼措施，以及詢問受訪者對美國政府已經採取的措施有什麼看法等等。&lt;/p&gt;
+
+&lt;p&gt;然後，你女兒用這些聲音檔、影片檔、文字描述等等，製成了一部短片。她用錄音資料庫裡的聲音當作短片旁白，又從新聞檔案中剪幾個小段來呈現不同的觀點。她把作業做完，得意地拿給你看，（我猜）你一定會覺得，你女兒就會是下一個大導演喬治．盧卡斯（George Lucas）了吧。&lt;/p&gt;
+
+&lt;p&gt;資訊的可互通性（interoperability）。或許，網際網路對我來說最重要的意義，就是成為一種平台，讓人類的經驗和資訊可以在上面互通。最早，那些電腦及網路天才們只是想設計一套讓電腦可以互相溝通的方法。接著設計應用程式的天才，設計出一套方法，讓各種在不同器材上運作的內容資料，可以在單一一個數位平台上互通。我們現今這個世界，幾乎已經可以讓任何一種格式的聲音資料，與任何一種格式的影像資料搭配，還能再搭配上任何格式的文字或影像。這之中有例外；有些人不想參與這種互通的交流。但是網路的發展之快，我們已經來到這樣一個世界，任何人幾乎可以剪裁、組合任何一種資料，來創造出新的東西。數位網路和大腦相似，我們的感官處理各種不同的經驗（聲音、視覺、味覺、情感），並將之放在一個單一的平台（大腦）上面轉換意義，網路也讓我們可以組合各種形式的媒體資料，並將之放在一個單一的平台上來利用。&lt;/p&gt;
+
+&lt;p&gt;這種工具的聚合（convergence），便是使你女兒得以完成她創作的背後動力。說穿了，她做的事，其實和過去一世紀以來電影導演做的事並無任何不同。但是差別在於，她不是製片人，而你也不需要花數十萬來買製片設備。數位科技和網際網路，讓任何人都可以以此發聲。而我們也還只是剛開始目睹這樣的變化所能帶來的創造力。&lt;/p&gt;
+
+&lt;p&gt;但是讓我們停下來想想，是什麼讓你女兒可以製作出她的片子。這不只是因為某些科技的存在使然──這些科技包括了數位科技，尤其是網際網路。同時這也是因為一些其他的科技不存在，才有可能──特別是，那些用來控制她能否使用、怎麼使用她所找到的資料內容的科技。你女兒在拷貝風災生還者的錄音資料時，電腦不會問她「要拷貝這個做什麼？」而當她把這些錄音資料整合進她的電影檔時，軟體也不會要求她要得到什麼許可證明。她之所以能做上述這些動作，是因為這些資訊技術不在乎她是否有為她做的事取得任何許可。網際網路設計的時候並沒有考慮到許可的問題。主導網際網路的是自由的資訊存取（free access）。&lt;/p&gt;
+
+&lt;p&gt;自由存取為很多人帶來了許多問題──在原理上，自由存取很可能為我們所有人都帶來問題。唱片和電影公司因為抱怨網路的這項特性，而惡名昭彰。根據網際網路的最初設計，你可以將你所有的唱片和影片收藏，跟你的十萬個「好朋友」一同「分享」。難怪這些公司要把這質性視為一種缺陷（bug）而不是特色（feature）了。我這邊倒是要指出來，在特定情況下，我們是有可能希望網路寧可不要有這質性的。例如你寄了信給某個人，你會希望這個人把這封私人信件，轉寄給他的其他一百個好朋友嗎？&lt;/p&gt;
+
+&lt;p&gt;所以重點是，不管自由存取這事有多好，起碼有時候有些人認為它不怎麼好，至少對他們來說是這樣。而那些人當中最有權力的一群，就會因此去推動某些技術的發展，讓這些技術擺在網際網路上頭，好讓他們（一般是資訊內容的擁有者），得以控制數位內容該被怎麼使用。結果，如果你向一家線上音樂商店買了一首歌，你可以將之拷貝至你的其他四台或五台機器上，但你不能將之拷貝到二十台機器上，或是將它放到網路上給其他人用。或是，如果別人寄給你一份機密報告，這類控制科技會讓你無法列印文件，或是讓你無法將文件搬移到其他機器上。這類控制的能力，本質上是無邊無界的──你所能想到任何控制的方式，都有人在努力研究，將之加入進控制網路的技術裡。&lt;/p&gt;
+
+&lt;p&gt;讓我們把這類技術統稱為「數位權利管理」或是 DRM 技術（Digital Rights Management）。我在上一封信件末尾的結語說，目前有一股強大的力量要把DRM技術套在網際網路上，而這樣的風潮不是一件好事。&lt;/p&gt;
+
+&lt;p&gt;但我認為DRM不是好事的理由，倒不是因為我認為說侵犯別人的權利就是件好事。 DRM 不好的地方在於，要是它被普遍使用的情況變成了常態，這會使我們從一個極端跑到另一個極端去。無庸置疑的是，DRM讓唱片公司能容易地扼止音樂內容的非法散播。但這也會扼殺所有我這封信開頭所說的種種應用的可能──各種創造性的、出乎意料的、重要的應用。我們會從一個原本一切事物都是自由存取的世界，跑到另一個一切使用都要獲得許可的世界去。&lt;/p&gt;
+
+&lt;p&gt;那麼，CC授權條款要怎麼協助克服此一問題呢？我們的看法是，CC授權條款得協助人們在上述的兩個極端間取得某種平衡。我們相信，如果我們能為創作者提供一套方法，讓他們能標明他們創作的內容上要載有哪些自由，這樣對許多創作者來說已經足夠。也許對發行新片的好萊塢電影公司還不足就是了。但是對絕大多數將作品放到網路上供人取用的創作者來說，這樣已經足夠。&lt;/p&gt;
+
+&lt;p&gt;或者換個方式說，我們希望提供一套技術，讓人們能很簡單地標示說，哪些權利要保留給著作人，哪些權利不保留，我們希望如此一來，就不需要使用什麼技術，能強制確保那些保留下來的權利確實被保護到。我們的目標是「數位權利表述」（Digital Rights Expression; DRE）。我們希望好的DRE至少能減少一些對DRM的粗暴需求。&lt;/p&gt;
+
+&lt;p&gt;但是為何不把DRM加進CC的DRE所表述出的權利裡呢？如果有一套低廉的系統，能強制確保那些仍被保留的權利，確實有被保護到，這樣又有什麼不對呢？&lt;/p&gt;
+
+&lt;p&gt;這其中至少有兩個問題。如果我們回歸到讓網際網路如此神奇的畫面，就會看到頭一個問題之所在──資訊的可互通性。DRM的廣泛使用，會破壞這樣的互通性。至少，DRM會破壞未先取得授權許可的可互通性。我們變成只有在得到了內容控制者的許可後，才能混用、增添、批評或是使用數位內容。而這種需要事先取得許可的狀態，一定會讓網際網路的潛能大大地受創。&lt;/p&gt;
+
+&lt;p&gt;第二個問題則與「合理使用」（fair use）有關。著作權法從來沒有讓著作權人，擁有對其著作物的完全控制。合理使用便是在法律上所制定、針對該種控制所設計的例外。而依我們今日所見，DRM技術並無法尊重落實「合理使用」這件事。&lt;/p&gt;
+
+&lt;p&gt;為什麼會這樣？CC又是怎麼能尊重落實合理使用？我們將在下一次的通信中繼續回答這些問題，敬請繼續收看。&lt;/p&gt;
+
+&lt;p&gt;雷席格教授的&lt;a href=&quot;http://creativecommons.org/weblog/entry/5676&quot;&gt;英文原文出處&lt;/a&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 20 Dec 2005 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">66 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/66#comments</comments>
+</item>
+<item>
+ <title>雷席格的CC每週通信（二）：CC，使命與其累積的經驗</title>
+ <link>https://creativecommons.tw/in-depth/65</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jedi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;所以，CC到底想要解決什麼樣的問題？大家在過去又學到了哪些東西？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;CC的理念──建立一套自由的著作權授權規範──是從自由軟體運動（Free Software Movement）來的。不過我們意圖解決的問題，畢竟還是有些不同。&lt;/p&gt;
+
+&lt;p&gt;理查．史托曼（Richard M. Stallman）於整整二十年前創立自由軟體基金會（FSF; Free Software Foundation）的時候，他所在處理的，是一個在軟體開發這個領域裡的新現象。就他的經驗來說，軟體過去一直是自由的，這裡自由的意思是，軟體程式的源碼（source code）是可以自由取得、可以自由修改的。但是在1980年代初期，這種常態發生了變化。軟體漸漸成為私有財產（proprietary），意思是，程式源碼被收了起來，使用者不能自由地瞭解程式源碼怎麼運作，或是修改源碼。因此史托曼發起了他的運動，他希望開發一套自由的作業系統，藉此抵擋那樣的走向，而他所熟悉的自由，能在這套作業系統中延續下去。&lt;/p&gt;
+
+&lt;p&gt;在文化層面上，情況其實不太一樣。我們這世界一開始可不是沒有私有文化這種事。正好相反，世界上一直有私有文化──意思是說，一直有這種作品受到獨占權利保障的文化。而這，至少在我看來，並不是件壞事。藝術家需要飯吃。作者也是。要有一套系統來保障帶給創作團體的收益，起碼能讓人有動機從事某些創造性的活動，這是很重要的。&lt;/p&gt;
+
+&lt;p&gt;但是，在我們（美國）過去歷史的大多數時期，著作權對於其他創作人所帶來的負擔，以及著作權帶給文化的負擔，相當輕微。而且，有相當多的創作，都可以是在沒有法律約束的情形下完成。著作權對文化的發展很重要，但是作用在是在邊緣的事務上。著作權（的概念及法律）明確規範了一些行為活動，但也讓我們大多數人落在其控制的範圍外。&lt;/p&gt;
+
+&lt;p&gt;這一切都因為數位科技的誕生，而開始改變，而改變的原因，是先前沒有人想到過的。&lt;/p&gt;
+
+&lt;p&gt;著作權規範的是「複本」，而在網路以外的世界，要使用文化創作，只有一小部份是會需要用到「複本」的；然而，在網路任何一種使用文化創作的舉動，都是由製造一份複本開始的。在實體世界裡，你讀一本書，這並不是一件受到著作權法規範的行為，因為在實體世界裡，讀一本書這件事並不會產生一份複本出來。在網際網路上，同樣的行為卻會涉及著作權法，因為在數位世界裡讀一本書，總是會要有一份「複本」的。因此，隨著世界上越來越多東西上了線，許多自由便消失了（這裡的自由，指的是生活裡不受著作權管制面向）。任何針對有著作權的內容的使用行為，起碼理論上都會涉及取得授權這件事。而無法真確獲得授權這件事，會造成使用內容的合法性，蒙上一層不確定的疑慮。（在美國法律的傳統，唯一沒這種疑慮的例外，便是「合理使用」fair use，我在下一篇文章中會提到。）&lt;/p&gt;
+
+&lt;p&gt;很多人並不真的關心這種不確定的疑慮。很多人就是想做啥就做啥，對於會有什麼後果並不予理會（不僅僅只是對網路上使用的後果）。但還是有些人及機構，尤其是像中小學、大學、政府機關、企業團體等重要的組織，面對這種疑慮而裹足不前，這樣的考量是有道理的。有些單位，例如有越來越多大學，要求人們在課堂裡使用網路上找來的資料，必須要有明確的授權許可。有些單位，例如越來越多的公司企業，乾脆禁止員工在簡報裡使用網路上找來的材料。結果，網路科技雖然讓群體合作的創意及知識分享得有蓬勃發展，這種對於取得授權的不確定感，卻干擾了這樣的合作可能。&lt;/p&gt;
+
+&lt;p&gt;作為CC的成員，我們認為，這是法律荒謬的地方──事實上，是一種被法律創造出來的荒謬。倒不是因為說，我們認為人們要被迫分享東西。反而是我們認為，很多把作品放到網路上的人，其實是很樂意把作品跟別人分享的。或者是，他們樂意在某些用途下分享，有些用途則不想。也或者是，有些人很積極想要讓作品廣為流傳，而不管著作權法裡面是怎麼規定的。我們認為，對於有這樣想法的人，應該能有一套簡單的方法，來表達他們的意願為何。&lt;/p&gt;
+
+&lt;p&gt;所以這就是設計CC授權的動機了：提供一套簡單的方法，讓作者和藝術家可以表達，他們的創意作品帶有哪些自由。如果著作人想說的是「保留所有權利」，就不需考慮CC。但是如果著作人只是想要「保留部份權利」（Some Rights Reserved），就可以用我們的CC授權，很簡單地表達出這個想法。而任何人或機關團體，想要使用他們在網路上找來的著作物，也就不用擔心，他們會被當成那種完全不理會著作權（No Rights Respected）的人。&lt;/p&gt;
+
+&lt;p&gt;我們認為，這樣的設計，會和自由軟體運動相似，讓創造力能有一塊空間，不致受到著作權的太多束縛。但我們和自由軟體運動不同的是，我們的目標並不在去除「私有財產的文化」，而在自由軟體運動裡，起碼有一部份的人是希望除去私有軟體的。相反地，我們認為，藉著建立自由文化（free culture）這道支柱（自由文化的意思是，文化創作物可以為了一些重要的目的而自由地被運用），我們可以抵擋潮流往另一條路走。這所謂的另一條路，最主要的，就是被「數位權利管理」（DRM; digital rights management）的狂潮所推動的那種方向。&lt;/p&gt;
+
+&lt;p&gt;DRM出了什麼問題？那「合理使用」又如何？好問題。我們&lt;a href=&quot;http://creativecommons.tw/betacc/in-depth/66&quot;&gt;下次&lt;/a&gt;會起個頭來回答這些問題。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 06 Dec 2005 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">65 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/65#comments</comments>
+</item>
+<item>
+ <title>雷席格的 CC 每週通信</title>
+ <link>https://creativecommons.tw/in-depth/16</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;2005 年底， Creative Commons 主席 Lawrence Lessig 開始撰寫一系列的信件，以每週一封的頻率透過郵遞論壇寄出，闡述 Creative Commons 的來由、現狀以及未來的目標。&lt;/p&gt;
+
+&lt;p&gt;這些信件幾乎已全數翻譯成華文（台灣），您可在此閱讀：&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;1. 緣起&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;&lt;a href=&quot;http://creativecommons.tw/betacc/in-depth/64&quot;&gt;CC ，誕生的故事&lt;/a&gt; (2005/10/05)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://creativecommons.tw/betacc/in-depth/65&quot;&gt;CC ，使命與其累積的經驗&lt;/a&gt;&amp;nbsp;(2005/10/12)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://creativecommons.tw/betacc/in-depth/66&quot;&gt;論資訊的可互通性(interoperability)&lt;/a&gt; (2005/10/19)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://creativecommons.tw/betacc/in-depth/67&quot;&gt;論 CC 與合理使用&lt;/a&gt;&amp;nbsp;(2005/10/26)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4&gt;&lt;strong&gt;2. 現狀&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;&lt;a href=&quot;http://creativecommons.tw/betacc/in-depth/68&quot;&gt;讓 CC 運動走下去&lt;/a&gt;&amp;nbsp;(2005/11/02)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://creativecommons.tw/betacc/in-depth/69&quot;&gt;什麼是 Science Commons ？&lt;/a&gt;&amp;nbsp;(2005/11/09)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://creativecommons.tw/betacc/in-depth/70&quot;&gt;iCommons 簡介&lt;/a&gt;&amp;nbsp;(2005/11/16)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4&gt;&lt;strong&gt;3. 走向&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;&lt;a href=&quot;http://creativecommons.tw/betacc/in-depth/71&quot;&gt;談 CC 授權條款&lt;/a&gt;&amp;nbsp;(2005/11/23)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://creativecommons.tw/betacc/in-depth/72&quot;&gt;談授權條款相容性&lt;/a&gt;&amp;nbsp;(2005/11/30)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://creativecommons.tw/betacc/in-depth/73&quot;&gt;論重要的自由&lt;/a&gt;&amp;nbsp;(2005/12/07)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://creativecommons.tw/betacc/in-depth/74&quot;&gt;介紹各種 CC 工具&lt;/a&gt;&amp;nbsp;(2005/12/14)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://creativecommons.tw/betacc/in-depth/75&quot;&gt;介紹幾個新計劃&lt;/a&gt;&amp;nbsp;(2005/12/21)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://creativecommons.tw/betacc/in-depth/76&quot;&gt;結語&lt;/a&gt;&amp;nbsp;(2005/12/28)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 22 Nov 2005 07:36:09 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">16 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/16#comments</comments>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - reading</title>
+ <link>https://creativecommons.tw/taxonomy/term/3159</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>社群的藝術-CC好書導讀系列（一）</title>
+ <link>https://creativecommons.tw/blog/20160728</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/The%20Art%20of%20Community%2C%20Second%20Edition%20-%20Google%20Chrome_098.png?itok=McGru7kN&quot; style=&quot;height:250px; width:690px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;The cover of &quot;The Art of Community - Building the New Age of Participation&quot; Second Edition, Jono Bacon, O&#039;REILLY.&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;對於「公眾授權、群眾參與」如何運作感到興趣，有意願參與實作的朋友。2012 年重新編撰二版的「社群的藝術-營建參與的新時代 (The Art of Community - Building the New Age of Participation)」，是一本高度推薦給您閱讀的好書。開放授權的力量影響這個社會愈來愈深，從開放源碼、開放內容的創用CC 授權，目前也正式進展到開放資料的時代，甚而最「堅實」的硬體設計領域，近年也不乏開放硬體的倡議者。然而，開放的前期，僅是一個協力機制的表態，透過配合的公眾授權條款來表達其運作性格，但開放之所以能引領動力，其背後更重要的是社群成員、參與份子的參與，所謂「開放素材、開放資源」，必須要與「社群協作、群體共工」產生正向的連結，否則，徒開放不足以自行，若是沒有社群、群體的參與，就如同溼度高、氣態水分子高度聚集，但卻缺乏凝結核，實務上是沒有辦法達到自然落水、水到渠成的目標的。Jono Bacon 依據其網路社群參與和管理 14 年的經驗所編撰的「社群的藝術」一書，主要的內容就是從環境分析與經驗分享的角度，說明如何去找到群聚社群力量的凝結核，並實作之。這本書採「創用CC 姓名標示-非商業性-相同方式分享 (CC BY-NC-SA)」的模式授權釋出，這代表，該書的每一段內容，都可以被自由地重製、散布，甚至修改之後運用在任何地方，只要使用的方式不是直接換取金錢對價式的報酬，即可！&lt;/p&gt;
+
+&lt;p&gt;事實上，過去 15 年開放式線上社群的發展，讓我們觀察到，社群的形塑不但可以為新創活動帶來更寬廣的發展機會，例如在市場行銷甚至服務研發方面吸納更多可行的創意與作法，甚至可以用來建置一套完善可行、功能強大的開源軟體專案。「社群的藝術」這本書，Jono Bacon 身為 Ubuntu 資深的社群管理員，透過其多年的觀察與經驗，協助對社群營造有興趣的讀者，了解如何召募社群成員，激勵社群成員，再進而透過事務管理的手段，讓大家能夠將能量放在同一條線上。書籍的內容訪問了 12 個重量級網路社群的帶領者與精神領袖，包括 Linus Torvalds、Tim O&#039;Reilly，以及 Mike Shinoda，每一個受訪者，都無私的分享了他們的獨到的洞見。本書依社群營造的前後階段，大分了 15 個主題作為章節架構，其中最引發筆者興趣的，有以下幾個章節。&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;3、溝通要清楚：事實上社群運作的核心就是溝通，而那些好的溝通成員，是珍寶，將可以在社群運作上發展無可比擬的正向效應。這個章節將討論這些溝通方式的根本原則，以及使用這些溝通方式的最佳實踐。&lt;/li&gt;
+	&lt;li&gt;4、建立簡要流程以達到運作穩固：將下來必須要把基礎流程設定好，社群才有辦法開始運作來完成更美好的事物。在這個章節，作者建議透過簡要、有效、去官僚階層化的流程，來運轉網路社群，讓成員能夠一起以協力、經驗分享的方式，來進行合作事務的處理。&lt;/li&gt;
+	&lt;li&gt;6、社群媒體：除了傳統的線上溝通，近年有些網路社群的互動，更有賴於社群媒體的群體溝通，什麼樣的社群媒體經營才是有效的，如何利用它來增強社群的互動，是值得研究與分享經驗的大事。&lt;/li&gt;
+	&lt;li&gt;7、建立群內流行維持參與動機：所有的社群參與都不能缺乏動機和熱情，而兩者缺一不可，一開始也許每個參與者都有自己入群的動機，但憑恃動機不能讓參與者維持長久的互動，它還必須透過不斷創作群內流行的活動 (building buzz)，來維繫參與者的熱情。&lt;/li&gt;
+	&lt;li&gt;11、處理衝突關係：在社群領導事務上，最敏感的主題之一就是處理衝突事件。俗話說&lt;strong&gt;有人的地方就有江湖，而江湖就一定會產生紛爭，網路社群也不例外。&lt;/strong&gt;當衝突和紛爭發生時，該如何建立原則來辨識它、處理它，然後避免未來相似的衝突無止境的再發生，這是&lt;strong&gt;網路社群推動人員不得不費心思考與琢磨的重要技能。&lt;/strong&gt;&lt;/li&gt;
+	&lt;li&gt;13、聘用一個社群經理：當網路社群發展到一定規模時，眾多參與者無可避免的想法就是，聘一個專職人員來從事社群管理。然而，具有什麼樣人格特質的人，才能夠勝任這個工作？又一個專職的人員，如何將前述章節所述「去官僚階層化的流程」，內化到適當的管理機制裡？&lt;/li&gt;
+	&lt;li&gt;14、社群營造具體範例：透過對不同成功社群領導者與精神領袖的訪談，以了解在這些社群發展的過程中，他們自認做對了什麼事，或做錯了什麼事，用這些實際的經驗來啟發，以讓讀者能更進一步，了解網路社群的推動實務。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;無可否認的，近年網路社群的發展與進步，確實在知識普及與生活典範的轉移上，裨益了這個時代的進步，本書由於其內容多元、實例豐富，並且編撰過程就如同該書所傳達的理念，重視參與者的意見表達與社群參與，所以選為 CC好書導讀系列的第一篇，推薦給有意願進一步了解「網路社群」這個主題的朋友閱讀。&lt;br /&gt;
+&lt;br /&gt;
+下載 &amp;nbsp;&lt;a href=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/Art_of_Community_Second_Edition.pdf&quot; target=&quot;_blank&quot;&gt;The Art of Community - Building the New Age of Participation&lt;/a&gt;。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;參考資訊：The Art of Community - Building the New Age of Participation,2012 CC Jono Bacon, O&#039;REILLY: &lt;a href=&quot;http://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf&quot; target=&quot;_blank&quot;&gt;http://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf&lt;/a&gt;, CC BY-NC-SA.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 27 Jul 2016 16:03:27 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1228 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20160728#comments</comments>
+</item>
+</channel>
+</rss>

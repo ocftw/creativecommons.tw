@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 網路資源</title>
+ <link>https://creativecommons.tw/category/tags/%E7%B6%B2%E8%B7%AF%E8%B3%87%E6%BA%90</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Google, Yahoo! 及 Microsoft 聯手採用創用 CC 授權條款釋出新版網站地圖協定</title>
+ <link>https://creativecommons.tw/blog/20061201-4</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jedi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;今年11月16日，三家致力發展網頁搜尋引擎的跨國大型企業─谷歌（Google) 、雅虎(Yahoo!) 及微軟 (Microsoft) 首次合作，以 XML為基礎共同制訂了網站地圖的協定標準，提供給網站開發人員使用。藉由這個協定標準，谷歌、雅虎、微軟以及其他的搜尋引擎將更能有效率地得知動態網站上的資訊分佈，並逐一建立索引，以提供更精確即時的搜尋結果。&lt;/p&gt;
+
+&lt;p&gt;網站開發人員可按照此協定標準，為站台提供即時的 XML網站地圖描述，除了可以協助搜尋引擎建立完整的內容索引外，也將有助於搜尋引擎最佳化 (SearchEngine Optimize, SEO) 。原本網站地圖協定為谷歌自訂的規格，雅虎與微軟則各自有其規範，使得網站開發人員得將同一件事做好幾遍，撰寫數個不同的檔案並分別呈遞到不同的搜尋網站上。藉由這次破天荒的合作，不但網站開發人員不再需要花費多餘的時間，而且搜尋引擎廠商也可以省下各自定義規格的成本，締造了雙贏的局面。&lt;/p&gt;
+
+&lt;p&gt;這份網站地圖協定目前為 0.90 版，採用創用 CC 「姓名標示─相同方式分享」 2.5版授權條款釋出給公眾使用。任何搜尋服務業者也可以在依循此授權條款的前提下，再行修改或擴充此規格。因此這次的合作案藉由創用 CC 授權，為協定規範標準立下了良好的榜樣，使私人企業及相關的社群機構均能從中獲益，並讓協定規範標準能有良性的發展。&lt;/p&gt;
+
+&lt;p&gt;若對相關內容有興趣者，可至該網站參觀使用；網址如下：&lt;a class=&quot;external&quot; href=&quot;http://www.sitemaps.org/&quot;&gt;http://www.sitemaps.org/&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 30 Nov 2006 16:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">863 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20061201-4#comments</comments>
+</item>
+</channel>
+</rss>

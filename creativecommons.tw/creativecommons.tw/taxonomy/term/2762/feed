@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 合作</title>
+ <link>https://creativecommons.tw/category/tags/%E5%90%88%E4%BD%9C</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>繪圖技法大公開</title>
+ <link>https://creativecommons.tw/blog/20141201</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;程式語言往往被看成冷冰冰、沒有生命力的，但是透過&lt;a href=&quot;http://blog.lyhdev.com/2012/04/processing.html&quot;&gt;Processing&lt;/a&gt;，就可以將程式語言轉化為藝術品，工程師也能身兼藝術家；透過&lt;a href=&quot;http://www.openprocessing.org/&quot;&gt;OpenProcessing&lt;/a&gt;，則可以讓這些「程式語言藝術家」在分享與互動的過程中，更能善用 processing 創造出多元、突破自我的作品。&lt;br /&gt;
+&lt;br /&gt;
+Processing是奠基於JAVA的開放源碼程式語言，由麻省理工學院媒體實驗室的Casey Reas和Ben Fry所開發。它以視覺化的方式呈現學習者撰寫的電腦程式，在影音、動畫、互動領域裡都算是容易上手的介面，透過剪貼和複製就能完成有趣的程式、畫出具創 造力的圖像。&lt;a href=&quot;http://www.openprocessing.org/&quot;&gt;OpenProcessing.org&lt;/a&gt;則是一個協力合作的社群平台，讓Processing的開發者和藝術家能上傳、分享、瀏覽、評論與研究彼此的互動繪圖和程式原始碼。&lt;br /&gt;
+&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/hui_tu_ji_fa_1_0.jpg&quot; /&gt;&lt;br /&gt;
+OpenProcessing的前身是OpenVisuals，是開發者&lt;a href=&quot;http://www.wiredpieces.com/&quot;&gt;Sinan Ascioglu&lt;/a&gt;在 紐約大學互動通訊學程(Interactive Telecommunications)的碩士論文成品。當時他十分著迷於網路上的社會互動演進，也對將程式語言視覺化的Processing社群感興 趣，因此他設計了OpenVisuals平台讓Processing使用者社群能簡單上傳和分享繪圖，並將這些記錄視覺化呈現，以了解使用者彼此的互動關 係。&lt;br /&gt;
+&lt;br /&gt;
+在這個過程中，Sinan Ascioglu發現Processing使用者社群很需要一個類似flickr的平台設計協助他們的創作；同時，他的指導教授Daniel Shiffman鼓勵他能設計出一個能讓使用者上傳Processing繪圖成品的平台，不只是蒐集和分析使用者的記錄而已。於是，他就改版設計了 OpenProcessing平台。&lt;br /&gt;
+這個平台與其他具有社會互動性、使用者參與的平台不同之處在於，人們不只是想要被娛樂或是有個整理編排資料的工具，而是真的很想在此貢獻自己的知識。使用者將自己的創作公開到平台上，以便共享和對話，並由自己定標籤(tag)來決定作品的分類和與他人作品的關聯性。&lt;br /&gt;
+&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/hui_tu_ji_fa_2_0.jpg&quot; /&gt;&lt;br /&gt;
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(&lt;a href=&quot;http://www.openprocessing.org/sketch/100835&quot;&gt;http://www.openprocessing.org/sketch/100835&lt;/a&gt;)&lt;br /&gt;
+許多老師會在此平台上開課，將課程示範的原始碼和成品圖由淺入深、循序漸進的提供給學生參考。在教學過程中，學生可以同時看到原始碼和成品圖的對應關係、可以快速複製一段寫得很好的程式碼，也能互相評論和學習同儕的編碼或構圖方式。&lt;br /&gt;
+&lt;br /&gt;
+Sinan Ascioglu曾做過一個比喻，將程式原始碼比喻為藝術家的畫筆，一般人不會用畫筆來定義藝術家作品的好壞，也不會因此影響藝術作品的價值；開放程式原 始碼相當於分享藝術家操作畫筆的方式，透過方法的效仿和改造，或是讓這些方法有機會與不同藝術美感經驗的結合，將會帶來更多創新的機會。&lt;br /&gt;
+為了能讓讓這個社群能真正的分享，這個平台採取創用CC「&lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/us/&quot;&gt;姓名標示─相同方式分享&lt;/a&gt;」授權，著明創作者的姓名後就可以利用此平台上的程式語言和繪圖成品，但是利用後產生的作品也必須利用此授權方式分享，確保創新的過程不會中斷。&lt;br /&gt;
+&lt;br /&gt;
+現在，OpenProcessing的流量僅次&lt;a href=&quot;http://processing.org/&quot;&gt;processing.org&lt;/a&gt;， 已成為繪圖、原始碼和社群溝通的大型圖書館，網站也持續根據使用者的資料分析加以修正。最大的問題是Processing社群是現在少數的java使用者 之一，而Java和許多瀏覽器的相容性不高，對於創作者和使用者而言都不甚方便，不過，此平台目前還沒有朝其他方向發展的打算。&lt;br /&gt;
+&lt;br /&gt;
+註 : 可以參考成功大學建築系簡聖芬教授的課程利用方式&lt;a href=&quot;http://www.openprocessing.org/user/4674&quot;&gt;http://www.openprocessing.org/user/4674&lt;/a&gt; - See more at: http://creativecommons.tw/blog/20141201#sthash.OWk3Tvnq.dpuf&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 03 Dec 2014 02:52:36 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">690 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20141201#comments</comments>
+</item>
+<item>
+ <title>彷彿沒有明天的資料狂歡會（datapalooza）</title>
+ <link>https://creativecommons.tw/in-depth/671</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;S.H. Shih /文 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;2010年，美國華盛頓。&lt;/p&gt;
+
+&lt;p&gt;在美國資訊長（U.S. Chief Technology Officer）陶德‧帕克（Todd Park）的號招下，來自軟體工程，醫療產業還有創投背景的45位高手聚在一起， 仔細挖掘美國國家科學院醫學研究所（Institute of Medicine）提供的開放資料（open data），試圖從中解決目前醫療問題，甚至，找出下一個可能的創業點子。&lt;/p&gt;
+
+&lt;p&gt;他們的碰面，並不是偶然，而是為了美國白宮第一次舉辦的「資料狂歡會」（datapalooza），這樣的活動形式，正成為目前開放資料界的流行語。但，到底什麼是資料狂歡會？&lt;/p&gt;
+
+&lt;p&gt;翻開美國俚語字典，&lt;a href=&quot;http://www.urbandictionary.com/define.php?term=palooza&quot; target=&quot;_blank&quot;&gt;palooza&lt;/a&gt;指的是「彷彿沒有明天」的聚會。資料狂歡會並沒有那麼迷幻，反而是場紮紮實實的討論會，主要可以分成3個階段：&lt;/p&gt;
+
+&lt;p&gt;1. 挖掘資料（Priming the pump）：所有創新者（innovators）得花上8小時聚在一起，仔細思考，究竟需要哪些資料才能推動新應用程式的產生？如同搖滾樂團練習時， 透過 “jam”，一種實驗性的摸索過程，來找尋適合的旋律及和旋，這一個階段也被稱為：“data jam”。&lt;/p&gt;
+
+&lt;p&gt;2. 展示發現（Showcasing the results）：第二階段則是讓創新者們在創投和其他可能的投資者前展示第一階段的發現成果。 過程中，為了確保討論的熱烈度，主辦單位也會宣布，若創新計畫實現，未來可能獲得的獎勵。&lt;/p&gt;
+
+&lt;p&gt;3. 持續投入（Continuing the work）：展示會結束後，接下來有一系列的見面會、視訊會議或程式馬拉松（hackathons）等活動， 除了能繼續挖掘需要解決的問題，這個階段也提供創新者進行使用者測試，持續修正產品。&lt;/p&gt;
+
+&lt;p&gt;和過往的程式馬拉松（hackathon）等開放資料活動相比，資料狂歡會以現有公共問題為出發點， 尋求創新解決方案，還有商業化的機會。簡單而言，這項活動背後事實上也代表了3個新意義。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;首先，活動以創新者為中心。&lt;/strong&gt;在 2012年 Personal Democracy Forum 會議上，帕克特別強調，既然目前趨勢是專業分工細緻，每一位專家擅長的領域個不同，大家更應該去思考如何配對不同領域的專家。這當中，政府面對創新者時， 應該是提供關鍵資料的角色，就好比把各類資料攤開在桌面上， 詢問各領域專家有沒有哪些資料是值得注意？剩下的工作，就交由這群創新者負責後續的開發。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;第二，強調資料的可應用性。&lt;/strong&gt;在2010年第一場的資料狂歡會上，歷經8小時的腦力激盪後，第一階段就已產出超過20個關於新興應用程式和產品的點子。「我們告訴與會的人，在90天後將會舉辦一場成果發表會， 看看你們從今天的基礎上還能繼續做什麼努力，」帕克接受採訪時提到，「3個月後，這些創新者研發出超過20個應用程式，所有人都很驚訝。」&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;最後，狂歡會不能只有3分鐘熱度，得有後續的組織和活動延續討論熱度。&lt;/strong&gt;在第一場資料狂歡會後，一些關於醫療產業的創業組織和活動，如&lt;a href=&quot;http://www.startuphealth.com/&quot; target=&quot;_blank&quot;&gt;StarUp Health&lt;/a&gt;, &lt;a href=&quot;http://rockhealth.com/&quot; target=&quot;_blank&quot;&gt;RockHealth&lt;/a&gt; 也隨之升起。 又如2012年，兩位約翰霍普金斯的醫學院學生，也接續利用疾病管制局的資料，建立網路和手機應用程式&lt;a href=&quot;http://symcat.com/&quot; target=&quot;_blank&quot;&gt;Symcat&lt;/a&gt;， 病人可從中查詢自己可能罹患的疾病和原因，這項程式也已獲得美金10萬美元的獎金。&lt;/p&gt;
+
+&lt;p&gt;短短兩年，資料狂歡會目前已不止發生於美國政府單位，非營利組織和私人企業也開始流行舉辦類似活動；討論焦點也從醫療產業，跨足教育,能源, 貧窮等議題， 皆以政府開放資料為基礎，鼓勵跨界合作和應用資料的機會。&lt;/p&gt;
+
+&lt;p&gt;「帕克的模式告訴我們，不是只要把資料公開、丟在那兒期待好事發生就好，」知名公益投資組織 Omidyar Network 政策負責人馬丁‧帝斯內（Martin Tisné）特別&lt;a href=&quot;http://hbr.org/special-collections/insight/scaling-social-impact/an-all-out-crazy-party-of-data&quot; target=&quot;_blank&quot;&gt;撰文&lt;/a&gt; 分析，「相反的，帕克的團隊鼓勵非營利組織和私人企業勇於使用和應用政府公開資料。」儘管資料狂歡會的活動概念仍算年輕， 能否擴大活動規模，需要再觀察，但「資料狂歡會」的確讓人看到政府開放資料的另一種可能性。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;延伸閱讀：&lt;/strong&gt;&lt;br /&gt;
+1. Health datapalooza 官方網站：&lt;br /&gt;
+&lt;a href=&quot;http://healthdatapalooza.org&quot; target=&quot;_blank&quot;&gt;http://healthdatapalooza.org&lt;/a&gt;&lt;br /&gt;
+2. 2012年美國教育部第一場 datapalooza 活動記錄：&lt;br /&gt;
+&lt;a href=&quot;http://storify.com/usedgov/education-datapalooza&quot; target=&quot;_blank&quot;&gt;http://storify.com/usedgov/education-datapalooza&lt;/a&gt;&lt;br /&gt;
+3. 2012年美國交通運輸部門第一場 Safety datapalooza 活動影音全紀錄：&lt;br /&gt;
+&lt;a href=&quot;http://www.youtube.com/user/whitehouse/videos?query=safety+datapalooza&quot; target=&quot;_blank&quot;&gt;http://www.youtube.com/user/whitehouse/videos?query=safety+datapalooza&lt;/a&gt;&lt;br /&gt;
+4. 2012年美國能源部首場 Energy datapalooza 成果展示：&lt;br /&gt;
+&lt;a href=&quot;http://energy.gov/articles/celebrating-innovation-and-open-data-energy-datapalooza&quot; target=&quot;_blank&quot;&gt;http://energy.gov/articles/celebrating-innovation-and-open-data-energy-datapalooza&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 05 Apr 2013 01:39:09 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">671 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/671#comments</comments>
+</item>
+<item>
+ <title>OPEN的力量：小出版者作出大事業</title>
+ <link>https://creativecommons.tw/blog/20120807-2</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;PRATHAM BOOKS / 班加羅爾 &amp;amp; 新德里（更多資訊：&lt;a class=&quot;newpage&quot; href=&quot;http://prathambooks.org&quot;&gt;http://prathambooks.org&lt;/a&gt;）&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/prathambooks.org_.jpg&quot; style=&quot;display:block; height:340px; margin-left:auto; margin-right:auto; width:686px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;位於印度的小型非營利圖書出版者 Pratham Book，懷抱一個簡單卻宏大的使命，那就是將書送到每一位孩子的手裡。為此，Pratham 在 2008 年開始在 Flickr 和 Scribd 上，以創用 CC 授權分享書籍和插圖。Pratham Books 新專案經理 Gautam John 說，「作為小型出版者，我們沒有資源對各合作夥伴客制化授權方案。創用 CC 授權讓我們得以和多個合作夥伴合作，卻無需負擔隨之而來的法律談判開銷和所耗費的時間。」&lt;/p&gt;
+
+&lt;p&gt;使用創用 CC 帶來各式各樣的重用以及社群參與提升。John 說，「我們的社群創作出各種衍生著作。許多組織和個人將我們的書轉換成有聲書、點字以及讓視覺受損人士得以存取這些內容的 DAISY 格式，創用 CC 授權使這一切成為可能。」&lt;/p&gt;
+
+&lt;p&gt;越多社群重複使用 Pratham 的內容，組織直接參與的重要性就越低。藉由在 Flickr 等平台上以創用 CC 授權釋出，不論 Pratham Books 發生什麼事，其他人對這些書籍的存取仍可獲得保障。&lt;/p&gt;
+
+&lt;p&gt;Pratham Books 可以將節省下來的資源，集中在擴增創用 CC 授權作品的檔案庫，並且計劃打造供重用與混搭之用的新平台。「對於像我們一樣的小型組織，時間確實是珍貴的資源，在我們的例子中，創用 CC 幫助我們節省了時間、金錢、氣力。」&lt;/p&gt;
+
+&lt;p&gt;本文出自 &lt;a class=&quot;newpage&quot; href=&quot;http://thepowerofopen.org/&quot;&gt;The Power of Open&lt;/a&gt; P17&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 31 Oct 2012 09:59:34 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">631 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120807-2#comments</comments>
+</item>
+<item>
+ <title>OPEN的力量：混搭風席捲全球</title>
+ <link>https://creativecommons.tw/blog/20120719-1</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;DJ VADIM / 柏林和倫敦 （更多資訊：&lt;a class=&quot;newpage&quot; href=&quot;http://www.djvadim.com&quot;&gt;http://www.djvadim.com&lt;/a&gt;）&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/dj_vadim__home.jpg&quot; style=&quot;display:block; height:300px; width:750px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;出生於俄國列寧格勒，在倫敦長大的 DJ Vadim 成為了全球嘻哈與電子音樂界的一份子。他作為一名製作人，與史提夫汪達、 The Roots、Prince and Public Enemy 等傳奇藝人共同演出。他也以不同的藝名發行過許多自己的專輯。&lt;/p&gt;
+
+&lt;p&gt;當他尋找靈感與新的人才時，Vadim 使用社群混搭網站 ccMixter 讓其他製作人下載他用創用 CC 授權的曲目，並以他們的喜好加以重製。&lt;/p&gt;
+
+&lt;p&gt;有多達 3000 人曾下載 Vadim 的 ccMixter 曲目，並創作出超過 500 首混搭音樂。根據為 DJ Vadim 的唱片公司 Organically Grown Sounds 工作的 Ben Dawson 表示，&quot;人們上傳自己的混搭音樂，然後與朋友分享，為音樂帶來了許多的關注。這是讓人們置身於音樂，投注情感、心情、靈魂的絕佳方式，而非僅是聆聽音樂。&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Vadim 經常環遊世界各地，與歌唱家、音樂家和其他 DJ 一起合作和對話。&quot;如今網路替我們提供了更多的對話方式，像是 ccMixter 與其他很棒的音樂平台。&quot;&lt;/p&gt;
+
+&lt;p&gt;Vadim 認為，這樣的合作相當重要。&quot;在環遊世界的旅途上，與相遇的人撰寫歌曲，這樣的協同合作是 OGS 的全部。音樂是創作者與聆聽者之間的交談，會為音樂這個熔爐帶來各自的體驗。&quot;&lt;/p&gt;
+
+&lt;p&gt;本文出自 &lt;a class=&quot;external&quot; href=&quot;http://thepowerofopen.org/&quot;&gt;The Power of Open&lt;/a&gt; P15&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 25 Oct 2012 00:56:37 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">622 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120719-1#comments</comments>
+</item>
+<item>
+ <title>人性的美麗與哀愁：跨越時空的利人與利己基因</title>
+ <link>https://creativecommons.tw/in-depth/648</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;李治安/文 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;（本文擷取自&amp;lt;人性的美麗與哀愁：跨越時空的利人與利己基因&amp;gt;，《新聞學研究》，第111期，頁257-263，2012年4月。為《The Penguin and the Leviathan: The Triumph of Cooperation over Self-Interest》之書評。）書名：The Penguin and the Leviathan: The Triumph of Cooperation over Self-Interest&amp;nbsp;&lt;br /&gt;
+作者：Yochai Benkler&amp;nbsp;&lt;br /&gt;
+出版日期：2011年&amp;nbsp;&lt;br /&gt;
+出版社：Crown Business&lt;/p&gt;
+
+&lt;p&gt;哈佛大學法學院Yochai Benkler教授是當代資訊法學界最重要的思想家之一，在其2011年的專書《企鵝與利維坦：協力如何超越自利》 （The Penguin and the Leviathan: The Triumph of Cooperation over Self-Interest）中，Benkler刻意的擺脫了其過去所擅長的冗長、縝密的抽象理論推陳書寫模式， 也捨棄了一般學術著作所必須附帶的註釋及參考文獻，取而代之的是以一個通俗作家的筆觸，藉由許多生動例子來延續並印證過去的相關研究， 相較於以往的誘因、行為、組織及政策分析，這次Benkler探索的其實是更深層的人性本質問題。書中參酌神經科學、認知心理學、人類學、社會學、政治學、管理學、 實驗經濟學及演化生物學等不同領域發展出研究成果，說明自私自利並非人類行為的唯一可能；相反的，在不同的時空環境中，人類常會自發性的實踐協力合作的利他行為， 而這種協力合作在網路時代中更是屢見不鮮，包括維基百科（Wikipedia）的創作及自由或開放原始碼軟體（free/open source software）的開發等，都是典型的例子。Benkler認為， 雖然協力合作早已成為人類行為的一種典型，但是既有的社會科學理論及制度假設卻未將其納入考量，這也是本書主要的寫作動機。&lt;/p&gt;
+
+&lt;p&gt;書名中的「利維坦」（Leviathan）原本是舊約聖經中記載的一種怪獸，十七世紀時的政治學家霍布斯（Thomas Hobbes）認為，由於人類都是短視而且自私的， 因此社會上需要如利維坦一般的強勢國家政府控制人類行為，防止人類因自私心作祟而相互殘害。然而，包括亞當史密斯（Adam Smith）在內的許多經濟學家則認為， 人類的自私心其實是市場運作的原動力與理性選擇（rational choice）理論的基礎，這種自私心理有益於社會整體發展，因為為了滿足個人的自私心理，人類會從事市場交易、各取所需， 如此｢看不見的手｣（invisible hand）得以運作，而整體社會福祉也得以提升，此外，人性自私的主張也是諸如公共選擇、代理理論及賽局理論等諸多重要經濟學理論的假設前提。 相同的假設亦反映在其他社會架構的設計上，如嚴刑峻罰的法律規範及階層化的企業管理結構等，其實都是為了處理人性本質自私的問題。&lt;/p&gt;
+
+&lt;p&gt;本書作者認為，霍布斯及亞當史密斯的共同假設基礎——人類行為的自私本質——其實並不足以說明許多不同型態的人類行為，作者以社群協力開發的Linux系統吉祥物企鵝， 代表非因自私心而發生的協力行為，並說明該等非以自利為導向的人類行為其實早已存在，而且所在多有，企業應善用該等行為，設計產品、研發技術、並發展新的經營獲利模式； 政府政策及制度設計亦應妥適考量協力互助行為的社會價值，而非如過去完全植基於人類本性自私的假設之上。 作者在書中所舉關於人類利他行為的諸多例子跨越時空，並不限於二十一世紀或數位網路中的人類行為，其中包括了2009年諾貝爾經濟學獎得主Elinor Ostrom的研究發現：在不同時空環境中， 人類如何以自律的方式，永續分配天然資源，追求社群整體利益，避免竭澤而漁的社會浩劫；就充滿著作權爭議的線上音樂分享而言， 作者以Magnatune等網站及英國搖滾團體Radiohead於2007年推出的專輯In Rainbows為例，說明由利用人自主決定支付下載或重製音樂價格的經營模式其實是可行的， 多數利用人並不會以低於平均成本的價格下載音樂檔案，相較於受到網路分享嚴重衝擊的傳統唱片產業而言，由利用人或使用者自由付費（pay-as-you-wish）的經營模式反而能提升表演者的平均報酬， 對於制度或經營模式設計者而言，重要的是應如何營造出符合著作人權益的社會規範（social norms），讓利用人知道應支付多少的價錢方符合社會期待，一旦該等社會規範成功型塑，則雙贏且互利的人類行為自然會成為社會慣例。&lt;/p&gt;
+
+&lt;p&gt;事實上，自利與協力有時並非絕對不相容，有時行為人亦可透過利他的協力行為獲得經濟或非經濟利益，如書中所舉關於西南航空與豐田汽車的協力工作模式，員工相互協力的動機未必全然是為了利他目的， 很可能是為了提升自己的工作效率與表現，許多實證研究也發現，軟體工程師參與自由或開放原始碼開發的動機除了興趣、利他、克服挑戰及價值等因素外，其實還包含經濟性誘因，因為在自由或開放原始碼社群的卓越聲望， 有時可為程式設計師帶來極佳的工作機會或職位。作者透過這本書所欲呈現的其實是人類行為與動機的複雜性，絕非單一理論或假設所能解釋，且不同人在面臨相同情境時，也會有不同的行為動機與偏好， 若所有的制度設計與對人類行為的解釋均以單一的假設作為前提，則很容易會忽視甚至破壞其他行為與誘因的社會價值。&lt;/p&gt;
+
+&lt;p&gt;作者認為制度的設計要同時兼顧人類的自私與利他動機，避免獨尊前者而傷害後者，一個制度在提供經濟上誘因給自私行為人的同時，也應考慮促進、鼓勵利他行為的社會規範與價值， 作者以參與開放原始碼軟體的公司為例，說明制度設計的微妙之處，通常公司要求員工參與開放原始碼開發工作及社群的同時，會給予員工相當的自主性， 不像一般軟體公司透過嚴格的組織架構及工作流程管控程式開發工作，因為開放原始碼社群強調的是自主、熱情與價值，若公司對員工的控制過強，則很有可能降低員工的參與熱情和社群歸屬感。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 06 Sep 2012 16:00:00 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">648 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/648#comments</comments>
+</item>
+<item>
+ <title>OPEN的力量：滿滿的驚喜</title>
+ <link>https://creativecommons.tw/blog/20120723</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;YUNYU / 新南威爾斯（更多資訊：&lt;a class=&quot;newpage&quot; href=&quot;http://www.yunyu.com.au&quot;&gt;http://www.yunyu.com.au&lt;/a&gt;）&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/man_man_de_jing_xi__0.jpg&quot; style=&quot;display:block; height:340px; margin-left:auto; margin-right:auto; width:686px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;對澳洲詞曲創作者和音樂家 Yunyu 來說，媒體混搭再自然不過。跟其他藝術家與粉絲分享作品可以說是她創作歷程的生產性延伸。&lt;/p&gt;
+
+&lt;p&gt;Yunyu 為科幻小說作家 Marianne de Pierres 的青少年小說撰寫並錄製了一首歌曲，她將兩人之間的成功合作歸功於開放授權，她說，「我用創用 CC 免費釋出音樂的名聲，將我們兩個湊到了一塊。」&lt;/p&gt;
+
+&lt;p&gt;一開始採用創用 CC 授權的決定，是音樂探索的一部分。「我主要是想知道我的音樂的可能性，當人們可以免費使用我的作品時，會發生什麼事。」&lt;/p&gt;
+
+&lt;p&gt;她說，「我完全沒有預料到，會有這麼多的驚喜出現。」粉絲開始在 Youtube 放上為她的歌製作的影片。來自底特律的年輕女生在知名科幻小說網站上，用了一些歌詞製作出一幅肖像。一個法國女子樂團錄製她其中一首歌，有遊戲設計師想要授權使用她的音樂。&lt;/p&gt;
+
+&lt;p&gt;「從詞曲作者的角度，很難和對創用 CC 授權代表的意涵和影響仍有所顧慮的音樂產業，進行開放授權的討論。我希望與產業的對話中看到如何讓創用 CC 的精神往前更進一步。想控制人們如何在非商業層次上看待和運用你的作品，很像是試著對付九頭海蛇怪一樣，最後總會以失敗收場。」&lt;/p&gt;
+
+&lt;p&gt;她說，「藝術家們需要基本的保障，從他們音樂的商業使用獲得報酬，但是除此之外我想不到還需要什麼。對分享和混搭你的作品的粉絲緊追不捨，一點意義也沒有。」&lt;/p&gt;
+
+&lt;p&gt;圖文出自 &lt;a class=&quot;external&quot; href=&quot;http://thepowerofopen.org/&quot;&gt;The Power of Open&lt;/a&gt; P14&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 23 Jul 2012 12:55:47 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">621 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120723#comments</comments>
+</item>
+<item>
+ <title>開放專業教育網路為美國勞工部贊助對象舉辦會議</title>
+ <link>https://creativecommons.tw/blog/20120611</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/32889&quot;&gt;Anna Daniel，2012 年 5 月 29 日&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;以創用 CC 為首的開放專業教育網路 (&lt;a class=&quot;newpage&quot; href=&quot;http://open4us.org/&quot;&gt;OPEN&lt;/a&gt;)，將為獲得美國勞工部貿易調整協助社區大學與職業培訓資助計劃 (TAACCCT)&amp;nbsp; 5 億美金的受贊助人舉行會議。受贊助人將會學到如何開放地授權 (在創用 CC 姓名標示之下) 在此一計畫下創作的所有教材，以便讓所有人免費存取、分享、重覆使用。創用 CC 姓名標示是獲得贊助的條件之一。受贊助人還會瞭解到：&lt;/p&gt;
+
+&lt;p&gt;* 如何使用工具與技術改善其教材的存取途徑與通用設計；&lt;br /&gt;
+* 最大化相互操作性，以及&lt;br /&gt;
+* 符合電子化學習開放標準與規格的最佳實踐方式。&lt;/p&gt;
+
+&lt;p&gt;受贊助人將可在此與類似專案尋求彼此可能的合作機會，協同合作或許能提高課程開發的品質與速度，並能有更多時間調整課程以符合地區需求。由於許多新的課程來自於新興產業，像是機器人學、機電整合、醫療資訊技術、綠建築、環保能源、地理空間技術，這些領域的教材並非普遍，許多專案致力於採用如虛擬實驗室之類的創新教學工具，因此協同合作格外重要。&lt;/p&gt;
+
+&lt;p&gt;此次會議的參加名額已經額滿，顯示出外界對了解開放教育最佳實踐的極大關注。&lt;/p&gt;
+
+&lt;p&gt;開放專業教育網路包含了創用 CC、卡內基梅隆大學的開放學習計劃、CAST、華盛頓州社區大學及技術學院理事會，並有來自比爾與米蘭達蓋茲基金會 (The Bill &amp;amp; Melinda Gates Foundation) 的資助，提供受贊助人免費支援，協助他們達到補助要求。更多有關 OPEN 的資訊請見 http://open4us.org。&lt;/p&gt;
+
+&lt;p&gt;TAACCCT 計畫透過增加獲得學位、證書以及其他產業公認憑證的工作者數量，支持歐巴馬總統在 2020 年達到擁有全球最高比例大學畢業生的目標。開放地授權此計劃下開發的教材，能夠對課程內容與全球發展製造乘數效益。優點包括：加速課程開發與學習、改進教學方法與、跨地域與貧富差異的公民存取機會。透過開放授權，花費在 TAACCCT 撥款上的納稅人稅金就能夠發揮最大的影響力。&lt;/p&gt;
+
+&lt;p&gt;原文出處：&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/32889&quot;&gt;http://creativecommons.org/weblog/entry/32889&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 11 Jun 2012 07:16:53 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">604 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120611#comments</comments>
+</item>
+<item>
+ <title>開放課程正夯 你跟上了麼？</title>
+ <link>https://creativecommons.tw/blog/20110528</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;周文茵&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;無意間看到《正義：一場思辨之旅》的介紹，作者Michael Sandel正是網路上熱門很久、&lt;a href=&quot;http://www.justiceharvard.org/&quot;&gt;哈佛唯一開放課程&lt;/a&gt;的講課教授。&lt;/p&gt;
+
+&lt;p&gt;網路上現在已經可以看到很多著作採用創用CC授權釋出，而開放課程計畫則是運用此授權相當重要的例子。開放課程是由美國名校麻省理工學院率先開啟的&lt;a href=&quot;http://ocw.mit.edu/index.htm&quot;&gt;MIT OCW&lt;/a&gt;計畫，目標希望能將學校的一些教育資源開放給所有人，以提升整體科學領域知識，讓世界變得更好。&lt;/p&gt;
+
+&lt;p&gt;目前已經累積相當數量的開放式課程教育資源，操作上則是將課程相關內容透過創用CC授權釋出，供大眾進行後續的翻譯、散佈以及再利用。在台灣除了因應而生的&lt;a href=&quot;http://www2.myoops.org/main.php&quot;&gt;OOPS開放式課程計畫&lt;/a&gt;，也由交通大學領軍發起&lt;a href=&quot;http://www.tocwc.org.tw/&quot;&gt;台灣開放式課程聯盟&lt;/a&gt;，約有23所大專院校共襄盛舉。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://zh.wikipedia.org/wiki/%E9%96%8B%E6%94%BE%E5%BC%8F%E8%AA%B2%E7%A8%8B%E7%B6%B2%E9%A0%81&quot;&gt;各國高等教育學校&lt;/a&gt;也紛紛投入，國際也有一個開放式課程協會（&lt;a href=&quot;http://www.ocwconsortium.org/en/aboutus/abouttheocwc&quot;&gt;OCW Consortium&lt;/a&gt;）來做串連與推動。&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/&quot;&gt;Creative Commons&lt;/a&gt; 也透過&lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/OER_Project&quot;&gt;OER Project&lt;/a&gt;，希望建立平台匯聚&lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/OER_Case_Studies&quot;&gt;各國的OER推動計畫&lt;/a&gt;。最近&lt;a href=&quot;https://creativecommons.org/weblog/entry/27355&quot;&gt;CC News也提到&lt;/a&gt;一所非洲的科技大學（KNUST）已經採納以姓名標示做為校際教育資源釋出的預設授權選項。KNUST是非洲健康開放教育資源的伙伴之一，並且與密西根醫學院與口腔醫學院緊密地合作，發展和散佈健康領域的開放教育資源。KNUST的開放教育資源託管於&lt;a href=&quot;http://web.knust.edu.gh/oer&quot;&gt;KNUST Open Educational Resources&lt;/a&gt;的平台上，同時也將這些教育資源放在&lt;a href=&quot;https://open.umich.edu/education/med/oernetwork/&quot;&gt;Open.Michigan&lt;/a&gt;與&lt;a href=&quot;http://www.oerafrica.org/healthoer/HealthOERHome/tabid/151/Default.aspx&quot;&gt;OER Africa&lt;/a&gt; 網站上。&lt;/p&gt;
+
+&lt;p&gt;加入開放課程的行列，除了可以善加利用這些教育資源做學習素材，與朋友分享分享上述的教育資源，也可以投身翻譯的工作，讓這些教育資源的傳遞與分享更加自由無阻。&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+OER Africa連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 28 May 2011 06:53:47 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">518 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20110528#comments</comments>
+</item>
+<item>
+ <title>商業的開放心態．開放的商業型態</title>
+ <link>https://creativecommons.tw/in-depth/498</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Polley Wong&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;在全球 16 個國家中擁有 21 個據點的品牌設計公司 Landor Associates 的客戶群囊括 Coca-Cola、Levi&#039;s、FedEx、HP 以及 HSBC 等公司。Landor 從 1941 年開始在各種領域，輔佐各式大小的公司創立品牌，建立行銷與廣告形象。不單單熟知世界潮流，更引領潮流的 Landor，其執行創意總監 Paul Owen 於2010年底發表了篇對&lt;a class=&quot;external&quot; href=&quot;http://creativebits.org/opinion/trends_design&quot;&gt;2011年世界營銷的預告&lt;/a&gt;：&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;創新、影響力營銷和客戶體驗是2010年商界的時髦詞彙。消費者不再相信傳統營銷施展的虛假障眼法。要贏得消費者信任，企業必須每天、長期都要有良好的表現。而企業和消費者之間的公開合作程度是前所未有的。我們認識到，如果缺乏分享，那麼我們無法成為聰明的人，無法富有創意性和創新性。早在21世紀初，科技的爆炸性發展就已經優化了這種相互協作的關係。 …成功不再取決于遵照嚴謹的品牌指南並始終與之保持一致性，而是取決于品牌設計是否具有開放性、靈活性以及是否能帶來創新性的體驗，唯有如此才能讓品牌設計在不斷變化的市場環境中贏得消費者的心智。（以上譯文引自「&lt;a class=&quot;external&quot; href=&quot;http://big5.hdcmr.com/bgfree29734.html&quot;&gt;慧典市場研究報告網&lt;/a&gt;」）--&amp;nbsp;&lt;em&gt;Paul Owen&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;價值觀 (Value Recognition) 與生活型態 (Life Style) 認同才能長久聚眾&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;開放，意味著對學習與被學習抱持敞開的態度，意味著對於自身所擁有的創意與能力，能毫無私心並充滿虛心地分享努力的成果。開放的人，當然也讓他人學習的成果建築在自己的之上，因為今日自己的成果並非單靠自己努力，也倚賴了前人的智慧累積。&lt;/p&gt;
+
+&lt;p&gt;商業行為的歷史演進，從以物易物、商品買賣、以及體驗服務，進化成價值觀與生活型態的商業活動。開放的價值觀已深入各種領域中；政治上有美國歐巴馬總統，企業中有Google，藝術上有韓國的 JYP Entertainment 等，都看到獨排眾議，擁抱分享主義的身影。他們信任大眾 (The Crowd) ，也認為開放才能讓大眾信任；建立在信任關係下的使用者或支持者，才會深度參與並長期支持他們的工作。企業與消費者間的互動正以難以置信的速度趨向直接、真實並密切的合作模式，您的企業是否跟上了這種合作潮流呢？&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;分享行為激發新點子；新點子驅動新設計；新設計帶來新商機&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;協力合作 (Collaborative Working) 帶來的效果，以及給成員的滿足感，比孤軍奮鬥帶來的多。在企業內部如此，在企業外部亦然。我認為對創業作品持開放態度與商業利益完全不衝突。創意激勵新作品，分享新作品引發共鳴，所產生的共鳴具體化成另一個新作品，熱情與夢想就在這樣自給自足的情況下成長。創業家與商人具有市場靈敏且不畏改變的特質，他們擅長在既有環境下創造新價值，激發供需互動。攤販都知道要在遊樂園或馬戲團取得周邊效益，經由協力合作層層不斷產生的新作品潮與共鳴，與因受共鳴而來的人潮，難道無法產生商業效益嗎？&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;種子撒在對的地方，就會生出果園&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;除了市場需求驅動的商業模式改變，像&amp;nbsp;&lt;a class=&quot;external&quot; href=&quot;http://www.collaborativefund.com/&quot;&gt;Collaborative Fund&lt;/a&gt;&amp;nbsp;這樣的創投公司也跟上這波協力合作潮。&amp;nbsp;&lt;a class=&quot;external&quot; href=&quot;http://www.cnn.com/&quot;&gt;CNN&lt;/a&gt;和&amp;nbsp;&lt;a class=&quot;external&quot; href=&quot;http://www.ted.com/&quot;&gt;TED&lt;/a&gt;&amp;nbsp;等媒體也極其關注「社群創投」公司&amp;nbsp;&lt;a class=&quot;external&quot; href=&quot;http://www.kickstarter.com/&quot;&gt;Kickstarter&lt;/a&gt;&amp;nbsp;的成功。藉著「資訊共享」，讓社群「共同參與」，最終使「社會共利」。以下是知名共筆部落格&amp;nbsp;&lt;a class=&quot;external&quot; href=&quot;http://www.inside.com.tw/2010/11/30/kickstarter-funding-platform-for-creative-projects&quot;&gt;Inside&lt;/a&gt;&amp;nbsp;對 Kickstarter 的介紹。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Kickstarter 於2009年4月上線，網站本身的定位非常明確：創意專案的募資平台（Funding platform for creative projects）， Kickstarter 提供了媒合「有創意、有想法，但缺乏資金」與「有資金，也願意捐款支持好創意」的平台。 Kickstarter 相信，一個好的創意，透過適當的溝通，是可以快速地廣為流傳的；同時，集結眾人的力量來集結資金與精神上的鼓勵，可以讓你更實際也更有勇氣的實踐自己的好點子。-- Inside&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Collaborative Fund 像撒種的農夫，用對的方法（資訊分享），撒在對的地方（社群中），便會生出果子以提供更多的種子，形成自給自足的生態循環，供應更廣泛的人得利。真正的挑戰在於獨排眾議撒下第一顆種子。新一代的創業家要能夠跨越傳統的商業獲利模式，帶著長遠眼光，以社會共同得益為方向，導引無遠弗屆的網路社群進入互享互惠的情境，使建立資訊共享平台者、內容貢獻者，內容吸收者三方皆贏，持續共同成長。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 01 Apr 2011 15:14:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">498 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/498#comments</comments>
+</item>
+<item>
+ <title>產品設計師Ronen Kadushin的開放式設計</title>
+ <link>https://creativecommons.tw/blog/20110111</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Juoping&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;以色列的設計師 Ronen Kadushin。設計範疇含家具、燈飾及其他配件。他於碩士期間展開開放設計（Open Design）的相關想法，對開放原始碼（open source）有相當程度涉略及了解，深信其與工業設計結合之機會。2004年發表了開放設計的理論，同時落實於現實世界中。&lt;/p&gt;
+
+&lt;p&gt;其&lt;a class=&quot;newpage&quot; href=&quot;http://www.ronen-kadushin.com/&quot;&gt;個人網站&lt;/a&gt;中的設計作品透過一種可延伸的設計方法，讓瀏覽者自由發揮創造力。期盼能藉此拉近產品設計師及各領域間的距離（如音樂、平面設計、動畫、攝影等）（Kadushin，2009）。&lt;/p&gt;
+
+&lt;h3&gt;方式：&lt;/h3&gt;
+
+&lt;p&gt;以 CC 中的 BY-NC-SA 的方式釋出作品，包含了產品的圖片、尺寸、材質、工程圖及作者自身對該產品加工方式、背景的文字闡述。確保沒有相關知識領域的人也可以理解作法。鼓勵大眾任意改作、再散佈或直接與設計師交流。並提醒若商業性使用，需與他洽談；會酌收部份費用。&lt;/p&gt;
+
+&lt;p&gt;Open Design 的方法中，設計師以電子檔的型式釋出其創作，而其他人看到這個設計後進一步發展。設計師並不會有直接的收益。但是，它提供了低成本的創作方式及市場服務，以建立自己的名聲及確立協同的夥伴。學者指出 Open Design 能夠發展設計師和產品的自由社群。儘管存在著限制，它依然存在著讓製造商及設計師擁有「自然合夥關係」（natural partnership）的機會（Arnold &amp;amp; Smith）。不過 Kadushin 保守地表示 Open Design 的發展牽涉許多著作權議題及新的商業邏輯。仍要繼續實行前進才能探討出最佳的方式。目前仍僅是個開端，他以正面的態度審視著。並樂於以這種方式設計及生產（Pooja，2007）。&lt;/p&gt;
+
+&lt;p&gt;觀察 Ronen Kadushin 的網站，除了他單方地釋出作品外，還未像學者所預期發展出完整設計師和產品的自由社群，或是協同合作關係。除了因初起步外，或許也是因為對於非產品設計領域的一般民眾而言 CAD 檔的衍生及利用並不易；使用者須擁有能夠開啟 CAD 檔的軟體外，也得具備軟體的操作之能力。&lt;/p&gt;
+
+&lt;p&gt;幸好近年新興線上生產服務興起，CAD 檔只要透過線上生產服務的網站，如 &lt;a class=&quot;newpage&quot; href=&quot;http://www.ponoko.com/&quot;&gt;Ponoko&lt;/a&gt;、&lt;a class=&quot;newpage&quot; href=&quot;http://www.shapeway.com/&quot;&gt;Shapeway&lt;/a&gt;、&lt;a class=&quot;newpage&quot; href=&quot;http://www.materialise.com/&quot;&gt;Materialise&lt;/a&gt;，上傳 CAD 檔，即可付費生產自用。使用者無須投資任何設備。然而後手將產品完全複製生產並不完全代表創作的合作、衍生。Open Design 目前仍未達到其宗旨所期盼「拉近各領域間距離」，後手仍須具備一定的產品設計領域的知識及技術門檻；擁有軟體及軟體的熟練度，才有辦法針對 CAD 檔進行改作。&lt;/p&gt;
+
+&lt;p&gt;為此 Kadushin 盡可能的降低使用者之技術門檻，其作品多數是以比3D更簡易的2D創作為起始。像 Thinology 系列作品是由雷射切割金屬薄片，透過使用者自行摺疊為三維立體物件。此種金屬材質在摺疊的過程中他不會斷裂，再度攤平時也不會留下痕跡。這類型的產品除了加工成本較低，作品也能夠平坦地包裝運送至各處。&lt;/p&gt;
+
+&lt;p&gt;圖1-1Thinology系列作品Flat Knot- Stainless，圖截自：&lt;a class=&quot;newpage&quot; href=&quot;http://www.ronen-kadushin.com/productZoom.asp?product_id=224&quot;&gt;http://www.ronen-kadushin.com/productZoom.asp?product_id=224&lt;/a&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;01.png&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/01__2.png&quot; /&gt;&lt;/div&gt;
+
+&lt;h3&gt;Oneliners—發泡材料產品的實際運用&lt;/h3&gt;
+
+&lt;p&gt;Oneliners 系列重點在於了解電腦控制（computer controlles）技術於傢俱設計中的應用。另一方面，透過網際網路作為溝通媒介，「直接傳送檔案」（directly from file）的生產方式（Pooja）。&lt;/p&gt;
+
+&lt;p&gt;椅子側視時的外輪廓線是以電腦輔助設計軟體所繪製，透過電子郵件傳送給製造商，製造商將立方體的泡棉以 CNC 發泡材料切割機（CNC foam-cutting），因機械的刀具為帶狀，為了因應加工程序，這個設計的挑戰在於必須將產品側視圖的外輪廓線設計為一個連續線，因此產品也命名為 Oneliner。製造商完成後即為成品，無須再加工或組裝。產品有效利用了發泡材料較薄部分顯現的彈性、較厚部份擁有的結構性。在不使用時又因其彈性再度回到原本的形狀(官網)。Kadushin 認為在這個專案中設計師和製造商間合作模式之意義遠大於產品本身（Pooja）。&lt;/p&gt;
+
+&lt;p&gt;Ronen Kadushin 是極富責任感的設計師，上述的作品中，除了做產品設計外，他也將設計師的社會責任深植於各作品中，每件產品幾乎都訴說著一個信念。而開放式設計則是他最認真投入的部份。&lt;/p&gt;
+
+&lt;p&gt;圖1-2 Ｏneliners 系列作品—Ploop! 圖截自: &lt;a class=&quot;newpage&quot; href=&quot;http://www.ronen-kadushin.com/portfolio.asp?cat=142&quot;&gt;http://www.ronen-kadushin.com/portfolio.asp?cat=142&lt;/a&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;02.png&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/02__2.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;參考文獻&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Arnold, C. &amp;amp; Smith, B. Micro-Mass-Production: The Creative Revolution. Retrieved June 5, 2010, from &lt;a class=&quot;newpage&quot; href=&quot;http://www.idsa.org/absolutenm/articlefiles/NEC05-C-Arnold_B-Smith.pdf&quot;&gt;http://www.idsa.org/absolutenm/articlefiles/NEC05-C-Arnold_B-Smith.pdf&lt;/a&gt;&amp;nbsp;(連結失效)&lt;/li&gt;
+	&lt;li&gt;Kadushin, Ronen, Ronen Kadushin, Retrieved May 29, 2010, from &lt;a class=&quot;newpage&quot; href=&quot;http://www.ronen-kadushin.com/&quot;&gt;http://www.ronen-kadushin.com/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Kadushin, Ronen. (2009). Open design exploring creativity in IT context, Retrieved May 29, 2010, from &lt;a class=&quot;newpage&quot; href=&quot;http://www.ronen-kadushin.com/uploads/2382/Open%20Design%20edu3.pdf&quot;&gt;http://www.ronen-kadushin.com/uploads/2382/Open%20Design%20edu3.pdf&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Pooja. (2007,12,10). Meet Ronen Kadushin: The first to offer blueprints for his designs as free downloads! Retrieved June 5, 2010, from &lt;a class=&quot;newpage&quot; href=&quot;http://www.thedesignblog.org/entry/meet-ronen-kadushin-the-first-to-offer-blueprints-for-his-designs-as-free-downloads/&quot;&gt;http://www.thedesignblog.org/entry/meet-ronen-kadushin-the-first-to-offer-blueprints-for-his-designs-as-free-downloads/&lt;/a&gt;&amp;nbsp;(連結失效)&lt;/li&gt;
+	&lt;li&gt;Piller, F. (2008,10,27). Hard Copies: New Open Designs by Ronen Kadushin, Retrieved June 5, 2010, from &lt;a class=&quot;newpage&quot; href=&quot;http://mass-customization.blogs.com/mass_customization_open_i/2008/10/hard-copies-new-open-designs-by-ronen-kadushin.html&quot;&gt;http://mass-customization.blogs.com/mass_customization_open_i/2008/10/hard-copies-new-open-designs-by-ronen-kadushin.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;本文為著作人接受中央研究院資訊科技創新研究中心台灣創用 CC 計畫「專題研究獎助計畫」的產出。本文內容不必然代表中央研究院資訊科技創新研究中心或台灣創用 CC 計畫的立場。本文的著作權利為著作人所有，且著作人（Juoping）已同意採用創用 CC 「姓名標示」3.0 台灣版授權條款釋出。&lt;/blockquote&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 11 Jan 2011 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">239 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20110111#comments</comments>
+</item>
+</channel>
+</rss>

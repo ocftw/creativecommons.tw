@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 藝術</title>
+ <link>https://creativecommons.tw/category/tags/%E8%97%9D%E8%A1%93</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>開放公眾領域圖像的中繼站：Artstor的IAP服務</title>
+ <link>https://creativecommons.tw/blog/20151228</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;許多博物館投入大量資金人力數位化館藏，因此無法輕易答應立刻以開放授權釋出這些公眾領域館藏的圖像。然而，國外有許多博物館選擇加入「學術印刷用圖像 (The Images for Academic Publishing, IAP)」計畫，提供高品質數位化館藏圖像於學術及教學用途。&lt;/p&gt;
+
+&lt;p&gt;2006年，大都會藝術博物館決定投入數位化過程，預期到2013年時將會有超過54萬幅數位化的館藏圖像，同時他們也制定了圖像使用的策略規劃。2007年，注意到學術出版在數位時代使用素材時遭遇不少挑戰，大都會藝術博物館開始推動IAP計畫，由博物館提供免費圖像供學術出版使用。所有參與計劃的博物館可以將圖像上傳到&lt;a href=&quot;http://www.artstor.org/&quot;&gt;Artstor數位圖書館&lt;/a&gt;，並會簽訂一份授權契約，像是他們的授權契約內就明訂使用者只能將圖像用於非商業性用途，而且不能印刷超過2000份(因為多數學術出版品都不會超過2000刷)。&lt;/p&gt;
+
+&lt;p&gt;若要使用Artstor的IAP服務，使用者只要提供姓名、職稱、所屬機構、信箱、刊登圖像的刊物書目資料，就可以取用學術印刷圖像。不過，使用者要使用特定軟體下載圖像，印製圖像時也必須使用圖書館預設的印刷功能，印出來的成品將會標示不能用於商業用途。另外，使用者也不能有重製、散佈、再次授權等行為，印刷術量也通常會有限制。雖然看似嚴格，但是只要是用於教學與研究，其實都可以輕易地在符合要求的情況下善用這些圖像。&lt;/p&gt;
+
+&lt;p&gt;印第安納波利斯藝術博物館(The Indianapolis Museum of Art)同樣有參與ARTstor的IAP計畫。該館的權利與重製管理人Anne Young指出，參加IAP計畫的目的並非想控制圖像或是為了能賺取商業性用途的授權費，主要是因為博物館能根據契約追蹤圖像使用情形，館方就能因而知道館藏圖像將出現在哪些出版品中，除了能更了解使用者，也會讓館方持續討論開放近用的議題。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/iap.jpg&quot; style=&quot;height:366px; width:650px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;印第安納波利斯藝術博物館在數位化圖像的使用條款非常類似IAP計畫的要求只要印刷量不超過5000份就能免費使用，若用於商業用途則須另行支付費用，而且都需要標示來源。他們發現，在開放學術與教育用途可以免費使用後他們的利潤增加不少，可能是因為知名度上升的緣故。&lt;/p&gt;
+
+&lt;p&gt;Artstor早在1990年代就已經開始進行數位化文化資產的活動。當時，高等教育機構才開始正要往數位化道路邁進，數位化的成本高、缺乏標準且有智慧財產權的問題都是重重關卡，Andrew W. Mellon基金會因應此問題成立了Artstor。計畫第一階段和來自中國、法國、英國與美國的夥伴合作建立了&lt;a href=&quot;http://www.artstor.org/content/mellon-international-dunhuang-archive&quot;&gt;Mellon國際敦煌典藏&lt;/a&gt;，將西方國家探險家由中國戈壁大沙漠40個洞壁帶走的壁畫與絲綢、手稿進行圖像數位化。由於這個計畫非常成功，展現了物件保存以及讓來自不同文化地區的人合作的能力，於是開始持續對於不同文化與不同時代的館藏開始進行數位化。目前網站上有來自&lt;a href=&quot;http://www.artstor.org/content/contributors&quot; target=&quot;_blank&quot;&gt;超過250間博物館、檔案館、學校以及一些個別的藝術家&lt;/a&gt;190萬張以上的圖像，以及有過1500間機構申請服務。&lt;/p&gt;
+
+&lt;p&gt;Artstor除了IAP計畫，也由不同計畫或合作中持續探索數位科技對於藝術領域教學的助益。2013年，他們與美國數位公共圖書館(DPLA)合作，提供六個博物館超過上千件高品質畫像給DPLA的讀者使用。DPLA會提供圖像的資料紀錄與連結，讓讀者連到博物館原網站上的圖片，而且可以利用&lt;a href=&quot;http://www.artstor.org/content/terms-and-conditions-use-open-artstor&quot; target=&quot;_blank&quot;&gt;Open Artstor軟體&lt;/a&gt;瀏覽與下載圖片，無疑讓Artstor圖像的開放性更上一層。不過，讀者在使用Artstor的圖像時需要遵守原機構的使用條款，因此在機構尚未採用開放授權或公眾領域標章PDM、公眾領域貢獻宣告CC0之際，恐怕還是會有很多權利受到限制。&lt;/p&gt;
+
+&lt;p&gt;參考資料&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://support.artstor.org/?article=images-for-academic-publishing&quot;&gt;http://support.artstor.org/?article=images-for-academic-publishing&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://support.artstor.org/?article=iap-terms-and-conditions-of-use&quot;&gt;http://support.artstor.org/?article=iap-terms-and-conditions-of-use&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.artstor.org/content/collaborations&quot;&gt;http://www.artstor.org/content/collaborations&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.artstor.org/press-release/artstor-help-launch-digital-public-library-america&quot;&gt;http://www.artstor.org/press-release/artstor-help-launch-digital-public-library-america&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.artstor.org/mission&quot;&gt;http://www.artstor.org/mission&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.smk.dk/fileadmin/user_upload/Billeder/forsiden/94124_sharing_is_Caring_UK.pdf&quot;&gt;Sharing is Caring 2014：Openness and sharing in the cultural heritage sector / Merete Sanderho (Statens Museum for Kunst)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 28 Dec 2015 01:17:16 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1181 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151228#comments</comments>
+</item>
+<item>
+ <title>美國國家藝廊採取的開放政策</title>
+ <link>https://creativecommons.tw/blog/20151227</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;美國國家藝廊(National Gallery of Art)的&lt;a href=&quot;https://images.nga.gov/en/page/openaccess.html&quot;&gt;開放政策&lt;/a&gt;時常受到推薦，因為他們在政策裡清楚說明開放的願景、範圍以及使用者注意事項，像是提供使用圖像時的出處標示範例，以及特別提醒使用者自行使用國家藝廊的圖像於作品內時，不能聲稱國家藝廊認同該作品的內容。&lt;/p&gt;
+
+&lt;p&gt;國家藝廊在2012年制定開放政策，並開始將2幅數位館藏圖像上傳到網站，至2014年網站上已有3萬5千張圖像。使用者可以在無任何限制下，免費下載高畫素的圖像，網站發布後的六個月內，就已經累積了超過一百多萬的下載次數。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/nga.jpg&quot; style=&quot;height:366px; width:650px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;國家藝廊在開放政策裡提到，開放館藏符合國家藝廊的願景，也就是讓高品質的館藏圖像與資訊能供學者、教育人士及一般大眾用於研究、教學、個人成長、啟發新創作等用途。他們認為「增加高品質藝術作品圖像的取用機會，會強化知識、學術、創新的交流，啟發不同的使用方式，持續改變我們觀看與理解世界的藝術之道。」&lt;/p&gt;
+
+&lt;p&gt;2004年，Alan Newman自芝加哥藝術博物館(Art Institute of Chicago)被國家藝廊雇用為圖像與視覺服務的負責人，協助建立數位攝影館藏的種種機制。一開始他被要求擬定數位圖像資訊科技的十年計畫，在此計畫中評估了著作權法及使用者再製的問題，最終認定開放近用帶來的好處遠多於壞處。&lt;/p&gt;
+
+&lt;p&gt;Alan說：「我們有個目標，就是看到我們的公眾領域圖像被用在每個角落。藉由提供免費自取的高品質權威圖像，希望能將品質不好的文化遺產圖像從我們的文化中淘汰。」……「當然，我們很樂於看到維基百科、維基共享資源及各種管道能使用我們的圖像。」&lt;/p&gt;
+
+&lt;p&gt;除了希望能讓館藏與使用者持續互動，以及減少網路上的低品質館藏作品，國家藝廊決定採取開放政策還有一個特殊的原因。有鑑於國家藝廊與大都會藝術博物館互為主要客戶，每年雙方都會支付差不多的圖像使用費給對方，兩相抵銷後相當於是免費使用彼此的圖像。在此情況下，雙方開始思考一個新的圖像授權政策。&lt;/p&gt;
+
+&lt;p&gt;雖然國家藝廊並未採用創用CC授權條款或公眾領域標章PDM、公眾領域貢獻宣告CC0，然而僅要求使用者要標示出處，而無其餘要求，相當於是採用創用CC 姓名標示的授權方式。&lt;/p&gt;
+
+&lt;p&gt;國家藝廊網站上若有圖像只有縮圖而無法下載使用，可能是因為該圖像仍在著作權保護期間或是著作權狀態未明，需要釐清後才能開放使用。也有可能是因為基於個人隱私或政治議題的考量、作者或捐贈者曾經有訂定限制取用的契約的緣故，或是因為該館藏不完全屬於國家藝廊、圖像的攝影不符藝廊標準而不予開放。&lt;/p&gt;
+
+&lt;p&gt;參考資料：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;https://images.nga.gov/en/page/openaccess.html&quot;&gt;https://images.nga.gov/en/page/openaccess.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://openglam.org/2013/01/17/keep-it-free-national-gallery-of-art-us-creates-open-access-policy&quot;&gt;http://openglam.org/2013/01/17/keep-it-free-national-gallery-of-art-us-creates-open-access-policy&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://openglam.org/2014/04/15/us-national-gallery-of-art-releases-35k-public-domain-images/&quot;&gt;http://openglam.org/2014/04/15/us-national-gallery-of-art-releases-35k-public-domain-images/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 27 Dec 2015 01:40:11 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1182 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151227#comments</comments>
+</item>
+<item>
+ <title>分享獨到的景物色彩調色盤</title>
+ <link>https://creativecommons.tw/blog/20141224</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;不論是平面設計、網頁設計、室內設計、工業設計……，色彩的選擇與搭配一向是非常重要的一環，因為它會影響整體的設計質感、形象，帶給使用者不同的感受。也因此，許多設計師會養成將影像拆解為調色盤的習慣，並訓練出以色彩組合傳達意象的直覺。&lt;/p&gt;
+
+&lt;p&gt;Jessica 是一個對色彩懷有熱情的設計師，他在美國創意研究學院取得工業設計藝術學位(BFA)，曾在Ford Motor、Timberland、Reebok工作過。2009年起，他開始經營&lt;a href=&quot;http://blog.design-seeds.com/&quot; style=&quot;text-decoration:none;&quot;&gt;&lt;u&gt;Design Seeds&lt;/u&gt;&lt;/a&gt;，並擔任社群媒體、廠牌、潮流、顏色和設計的顧問，2013年正式成為專業部落客。&lt;/p&gt;
+
+&lt;p&gt;早在就學階段，Jessica就常常從雜誌中獲得靈感，自己創造出顏色調色盤，他認為Design Seeds是現代版的色彩配色雜誌，用來啟發更多人的靈感，讓看到的人可以將這些顏色運用在自己正在進行的各種計劃上，像是設計作品、裝修房間、婚禮布置等。&lt;/p&gt;
+
+&lt;p&gt;在 這個網站，Jessica分享許多美麗照片和從該照片抓出來的顏色，讓對於色彩不夠敏感的一般人，透過這些照片瞭解可以如何搭配不同色調顯示出自己想傳達 的感覺。事實上，這個網站就提供了&lt;a href=&quot;http://design-seeds.com/index.php/search&quot; style=&quot;text-decoration:none;&quot;&gt;&lt;u&gt;從主題查詢顏色&lt;/u&gt;&lt;/a&gt;的功能，讓人知道如果自己想要傳達秋天的感覺可以怎麼配色。(如果喜歡他的照片，也可以追隨他的&lt;a href=&quot;http://instagram.com/designseeds&quot; style=&quot;text-decoration:none;&quot;&gt;&lt;u&gt; instagram&lt;/u&gt;&lt;/a&gt;，至於一些比較早的照片則是他付費購買圖像版權後使用的，很可惜許多照片他都忘記出處網址了)&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/design%20seed%201.jpg&quot; style=&quot;height:591px; width:658px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Design Seeds以創用CC「姓名標示—非商業性—禁止改作」條款進行授權，因此在分享這些美麗的照片與配色時，不能修改圖片，而且要標記來源為Design Seeds®及附上出處網址。這些顏色可以被自由的應用在各種新的創作上，如果只是應用顏色，就不需要標記出處。&lt;/p&gt;
+
+&lt;p&gt;Jessica將他這些圖片與配色搭配文字集結成冊，成為一本讓愛好色彩的人可以方便使用的電子書&lt;a href=&quot;http://design-seeds.com/index.php/books&quot; style=&quot;text-decoration:none;&quot;&gt;&lt;u&gt;「Design Seeds顏色年鑑」&lt;/u&gt;&lt;/a&gt;，這本電子書&lt;a href=&quot;http://store.blurb.com/ebooks/491010-design-seeds-color-almanac&quot; style=&quot;text-decoration:none;&quot;&gt;&lt;u&gt;售價9.99元美金&lt;/u&gt;&lt;/a&gt;。由此可見，先以開放授權分享自己的點子讓更多人獲得啟發，再提供收費的加值服務讓非常有興趣的人可以珍藏，或許是己利利人的雙贏之道。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/design%20seeds2.png&quot; style=&quot;height:522px; width:640px&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 23 Dec 2014 16:00:00 +0000</pubDate>
+ <dc:creator>ally</dc:creator>
+ <guid isPermaLink="false">1075 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20141224#comments</comments>
+</item>
+<item>
+ <title>繪圖技法大公開</title>
+ <link>https://creativecommons.tw/blog/20141201</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;程式語言往往被看成冷冰冰、沒有生命力的，但是透過&lt;a href=&quot;http://blog.lyhdev.com/2012/04/processing.html&quot;&gt;Processing&lt;/a&gt;，就可以將程式語言轉化為藝術品，工程師也能身兼藝術家；透過&lt;a href=&quot;http://www.openprocessing.org/&quot;&gt;OpenProcessing&lt;/a&gt;，則可以讓這些「程式語言藝術家」在分享與互動的過程中，更能善用 processing 創造出多元、突破自我的作品。&lt;br /&gt;
+&lt;br /&gt;
+Processing是奠基於JAVA的開放源碼程式語言，由麻省理工學院媒體實驗室的Casey Reas和Ben Fry所開發。它以視覺化的方式呈現學習者撰寫的電腦程式，在影音、動畫、互動領域裡都算是容易上手的介面，透過剪貼和複製就能完成有趣的程式、畫出具創 造力的圖像。&lt;a href=&quot;http://www.openprocessing.org/&quot;&gt;OpenProcessing.org&lt;/a&gt;則是一個協力合作的社群平台，讓Processing的開發者和藝術家能上傳、分享、瀏覽、評論與研究彼此的互動繪圖和程式原始碼。&lt;br /&gt;
+&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/hui_tu_ji_fa_1_0.jpg&quot; /&gt;&lt;br /&gt;
+OpenProcessing的前身是OpenVisuals，是開發者&lt;a href=&quot;http://www.wiredpieces.com/&quot;&gt;Sinan Ascioglu&lt;/a&gt;在 紐約大學互動通訊學程(Interactive Telecommunications)的碩士論文成品。當時他十分著迷於網路上的社會互動演進，也對將程式語言視覺化的Processing社群感興 趣，因此他設計了OpenVisuals平台讓Processing使用者社群能簡單上傳和分享繪圖，並將這些記錄視覺化呈現，以了解使用者彼此的互動關 係。&lt;br /&gt;
+&lt;br /&gt;
+在這個過程中，Sinan Ascioglu發現Processing使用者社群很需要一個類似flickr的平台設計協助他們的創作；同時，他的指導教授Daniel Shiffman鼓勵他能設計出一個能讓使用者上傳Processing繪圖成品的平台，不只是蒐集和分析使用者的記錄而已。於是，他就改版設計了 OpenProcessing平台。&lt;br /&gt;
+這個平台與其他具有社會互動性、使用者參與的平台不同之處在於，人們不只是想要被娛樂或是有個整理編排資料的工具，而是真的很想在此貢獻自己的知識。使用者將自己的創作公開到平台上，以便共享和對話，並由自己定標籤(tag)來決定作品的分類和與他人作品的關聯性。&lt;br /&gt;
+&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/hui_tu_ji_fa_2_0.jpg&quot; /&gt;&lt;br /&gt;
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(&lt;a href=&quot;http://www.openprocessing.org/sketch/100835&quot;&gt;http://www.openprocessing.org/sketch/100835&lt;/a&gt;)&lt;br /&gt;
+許多老師會在此平台上開課，將課程示範的原始碼和成品圖由淺入深、循序漸進的提供給學生參考。在教學過程中，學生可以同時看到原始碼和成品圖的對應關係、可以快速複製一段寫得很好的程式碼，也能互相評論和學習同儕的編碼或構圖方式。&lt;br /&gt;
+&lt;br /&gt;
+Sinan Ascioglu曾做過一個比喻，將程式原始碼比喻為藝術家的畫筆，一般人不會用畫筆來定義藝術家作品的好壞，也不會因此影響藝術作品的價值；開放程式原 始碼相當於分享藝術家操作畫筆的方式，透過方法的效仿和改造，或是讓這些方法有機會與不同藝術美感經驗的結合，將會帶來更多創新的機會。&lt;br /&gt;
+為了能讓讓這個社群能真正的分享，這個平台採取創用CC「&lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/us/&quot;&gt;姓名標示─相同方式分享&lt;/a&gt;」授權，著明創作者的姓名後就可以利用此平台上的程式語言和繪圖成品，但是利用後產生的作品也必須利用此授權方式分享，確保創新的過程不會中斷。&lt;br /&gt;
+&lt;br /&gt;
+現在，OpenProcessing的流量僅次&lt;a href=&quot;http://processing.org/&quot;&gt;processing.org&lt;/a&gt;， 已成為繪圖、原始碼和社群溝通的大型圖書館，網站也持續根據使用者的資料分析加以修正。最大的問題是Processing社群是現在少數的java使用者 之一，而Java和許多瀏覽器的相容性不高，對於創作者和使用者而言都不甚方便，不過，此平台目前還沒有朝其他方向發展的打算。&lt;br /&gt;
+&lt;br /&gt;
+註 : 可以參考成功大學建築系簡聖芬教授的課程利用方式&lt;a href=&quot;http://www.openprocessing.org/user/4674&quot;&gt;http://www.openprocessing.org/user/4674&lt;/a&gt; - See more at: http://creativecommons.tw/blog/20141201#sthash.OWk3Tvnq.dpuf&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 03 Dec 2014 02:52:36 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">690 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20141201#comments</comments>
+</item>
+<item>
+ <title>Alchemy--實驗性的開放電腦繪畫計畫</title>
+ <link>https://creativecommons.tw/blog/20131227-6</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;羅凱勻 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;煉金術(Alchemy)指，將原不相稱、性質矛盾的元素，經由理性無法解釋的過程組合出意想不到的結果」─ Figurative。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://al.chemy.org/&quot;&gt;Alchemy&lt;/a&gt;是一個開放繪畫計畫，去探索人們如何用電腦的素描速寫、繪畫等方式創造出新的藝術表達方法。Alchemy並非一個創造藝術完成品的軟體，但它激發你腦袋裡的想法視覺化，將點子以即興和實驗性的方式表達出來，拓展創作的可能性和空間，為初始階段的創造過程提供了一個素描的環境。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/al.chemy_.jpg&quot; style=&quot;border:0px; height:376px; line-height:inherit; margin:0px; padding:10px; vertical-align:baseline; width:317px&quot; /&gt;&amp;nbsp;&amp;nbsp;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/alchemy2.jpg&quot; style=&quot;border:0px; line-height:inherit; margin:0px; padding:10px; vertical-align:baseline&quot; /&gt;&lt;a href=&quot;http://al.chemy.org/&quot;&gt;http://al.chemy.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Alchemy這個程式的互動式介面，可記錄下創作過程並轉為PDF檔等格式分享出去，在Alchemy Project的官方網站上也有許多影片、作品藝廊、文件手冊、媒體報導、工作坊世界巡迴教學、論壇等資訊，讓更多想挑戰實驗性視覺創作的人士有交流討論的平台。&lt;/p&gt;
+
+&lt;p&gt;全站採用創用CC「姓名標示—非商業性—相同方式分享」的授權方式，藝術和設計愛好者只要標示原作者和來源並以同樣的授權條件，就能複製、散佈、改作這些創意作品於非商業用途上，邀請更多人一起來探索Alchemy與實驗藝術創作的樂趣。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/alchemy_gallery.jpg&quot; style=&quot;border:0px; line-height:inherit; margin:0px; padding:10px; vertical-align:baseline&quot; /&gt;&lt;a href=&quot;http://al.chemy.org/gallery/&quot;&gt;http://al.chemy.org/gallery/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;像&lt;a href=&quot;http://www.androidjones.com/&quot;&gt;Andrew Jones&lt;/a&gt;這張具有時尚與未來科技感的平面設計作品，就是使用Alchemy的「形狀追蹤模型」(Trace Shapes module)當創作初期的工具，最後再以 Painter X軟體完成藝術之作。&lt;/p&gt;
+
+&lt;p&gt;現代藝術充滿了無限的想像力揮灑空間，你準備將自己別出心裁、匠心獨具的前衛想法化為實際的藝術成品了嗎？讓Alchemy助你一臂之力，和平面設計師、視覺藝術工作者們，一起體驗煉金術化腐朽為神奇、宛如魔法實驗的快感和成就感吧！&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 30 Mar 2014 16:00:00 +0000</pubDate>
+ <dc:creator>kathy4106</dc:creator>
+ <guid isPermaLink="false">929 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20131227-6#comments</comments>
+</item>
+<item>
+ <title>營造讓點子成真的創意世界...</title>
+ <link>https://creativecommons.tw/blog/20130517</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;劉芊影 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;這裡跟大家介紹&amp;nbsp;&lt;a href=&quot;http://www.behance.net/&quot;&gt;The Behance Network&lt;/a&gt;，它是一個陳列、發掘創意作品的平台，透過此平台提高創作的曝光度、創作者的知名度，以及合作的媒合機會。此網站的宗旨即是在不同範圍得作品和物體間，使設計師和消費者有直接性得連結。&lt;a href=&quot;http://www.behance.net/&quot;&gt;The Behance Network&lt;/a&gt;是免費加入，透過徵才刊登以及販售週邊產品來獲利。在這裡，有許多不同類性的藝術家和創作者以創用CC的授權方式分享了許多特別的作品喔!&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/1209491251457812.jpg&quot; style=&quot;display:block; height:400px; margin-left:auto; margin-right:auto; vertical-align:middle; width:700px&quot; /&gt;圖/授權資訊 &lt;a class=&quot;newpage&quot; href=&quot;http://www.behance.net/IainCrawford&quot;&gt;Iain Crawford&lt;/a&gt;，&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by-nc/3.0/&quot;&gt;姓名標示-非商業性3.0&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;像是Levi van Veluw在&lt;a href=&quot;http://www.behance.net/Gallery/Levi-van-Veluw-Landscapes/41274&quot;&gt;人體畫布上展示了縮小型的景觀&lt;/a&gt;，並採用創用CC條款中之姓名標示─非商業性─禁止改作條款(&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-nd/3.0/&quot;&gt;BY-NC-ND&lt;/a&gt;)；Glenn Jones則提供了&lt;a href=&quot;http://www.behance.net/Gallery/Glennz-Tee-Concepts-2008/157662&quot;&gt;未來T恤上的構想&lt;/a&gt;，採用的條款為姓名標示─非商業性使用(&lt;a href=&quot;http://creativecommons.org/licenses/by-nc/3.0/&quot;&gt;BY-NC&lt;/a&gt;)；L Filipe dos Santos在其系列名為&lt;a href=&quot;http://www.behance.net/Gallery/See-_-Saw/56191&quot;&gt;&lt;em&gt;See. Saw&lt;/em&gt;&lt;/a&gt;上的各種插圖，採用的條款為姓名標示─非商業性─禁止改作條款(&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-nd/3.0/&quot;&gt;BY-NC-ND&lt;/a&gt;)；Si Sott提供名為&lt;a href=&quot;http://www.behance.net/Gallery/Silent-Records/125085&quot;&gt;Silent Records&lt;/a&gt;的作品系列中之作品，所採用的條款為姓名標示─非商業性使用(&lt;a href=&quot;http://creativecommons.org/licenses/by-nc/3.0/&quot;&gt;BY-NC&lt;/a&gt;)；而Iain Crawford則以姓名標示─非商業性使用(&lt;a href=&quot;http://creativecommons.org/licenses/by-nc/3.0/&quot;&gt;BY-NC&lt;/a&gt;)之條款分享了他那令人驚嘆的&lt;a href=&quot;http://www.behance.net/Gallery/Portfolio/293875&quot;&gt;靜態攝影&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;非常令人開心，有這麼多採用創用CC條款的創作，這樣的授權方式也能幫助增加更多的分享和再利用。大家是不是覺得這些作品都很特別呢?在這個網站中還有許多新奇的作品，等待大家的探索喔!&lt;/p&gt;
+
+&lt;p&gt;參考來源：&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/18706&quot;&gt;http://creativecommen.org/weblog/entry/18706&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 17 May 2013 09:13:09 +0000</pubDate>
+ <dc:creator>sunlight</dc:creator>
+ <guid isPermaLink="false">683 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20130517#comments</comments>
+</item>
+<item>
+ <title>OPEN的力量：為開放歌頌</title>
+ <link>https://creativecommons.tw/blog/20120817</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Nina PALEY/ 紐約（更多資訊：&lt;a class=&quot;newpage&quot; href=&quot;http://www.ninapaley.com&quot;&gt;http://www.ninapaley.com&lt;/a&gt;）&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/angel-of-death11-640x360.png&quot; style=&quot;display:block; height:340px; margin-left:auto; margin-right:auto; width:686px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;「和我的粉絲站在同一邊感覺真好，」 紐約市製片人、動畫家、 開放授權擁護者 Nina Paley 說。當許多藝術工作者和粉絲變成敵對關係，她卻看到藝術家們從分享作品中可以獲得的好處。是的，其中一項就是錢。&lt;/p&gt;
+
+&lt;p&gt;Paley 對開放的態度是逐漸轉變而來。作為一名年輕動畫家，創造知識產權的概念吸引着她且不斷增強。「每個人都告訴我著作權是如何提供保障與地位。沒有著作權的世界簡直難以想象。」&lt;/p&gt;
+
+&lt;p&gt;她在 2008 年發行的自製動畫電影 「Sita Sings the Blues」，為了數首 80 年老歌授權的高昂成本而延宕。「當我的電影無法合法發行，正要付出大筆法律與授權成本時，我開玩笑說如果這部電影是免費的，我就可以賣 T恤了。」她開始研究有些人透過免費軟體來賺錢生活的方法。「我發現商品和自願贊助是獲利的來源，」Paley 說。&lt;/p&gt;
+
+&lt;p&gt;最後發行並獲得評論者讚譽的 「Sita Sings the Blues」，以創用 CC 姓名標示-相同方式分享授權 (BY-SA license) 給所有人免費下載。透過 archive.org、YouTube 與無數的 BT 網站，這部電影的全球觀影人次多達數百萬。&lt;/p&gt;
+
+&lt;p&gt;Paley 說，「在使用創用 CC 姓名標示-相同方式分享之前，我從未賺到那麼多錢。如今我的知名度更高，我不用花任何錢在宣傳上。我的粉絲會購買商品並幫我做宣傳。分享讓我有了一席之地。」&lt;/p&gt;
+
+&lt;p&gt;本文出自 &lt;a class=&quot;external&quot; href=&quot;http://thepowerofopen.org/&quot;&gt;The Power of Open&lt;/a&gt; P12&lt;br /&gt;
+圖片來源：&lt;a class=&quot;newpage&quot; href=&quot;http://blog.ninapaley.com/2012/05/10/work-in-progress/&quot;&gt;。&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 17 Aug 2012 03:57:38 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">620 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120817#comments</comments>
+</item>
+<item>
+ <title>[急徵視覺創作]  創用CC數位視覺藝術展＠Warsaw</title>
+ <link>https://creativecommons.tw/blog/20110905-1</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ChiuHao Chen&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;2011年創用CC年會將於9月中旬於波蘭 - 華沙&lt;a href=&quot;../../../../../../../../blog/20110901&quot;&gt;展開&lt;/a&gt;，同時，&lt;a class=&quot;newpage&quot; href=&quot;http://art.cckorea.org/&quot;&gt;創用CC視覺藝術展覽&lt;/a&gt;也將隨著大會開幕而粉墨登場。這場展覽將由阿拉伯CC (CC Arab) 策展人Naeema Zarif 策劃主導，韓國CC (CC Korea) 提供創作的展示與上傳平台，任何願意使用創用CC授權的創作者，都可以藉此用力秀出你的創作！&lt;/p&gt;
+
+&lt;p&gt;藝展資訊如下（詳情&lt;a href=&quot;http://art.cckorea.org/?page_id=95&quot;&gt;請見&lt;/a&gt;）：&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;何時截止？&lt;/strong&gt;&lt;br /&gt;
+請於9/10前送出你的創作，這樣才有機會在年會中與所有人分享你的創作。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;徵求的展品型態？&lt;/strong&gt;&lt;br /&gt;
+任何可被投影的創用CC授權視覺創作都可以。包含了：攝影、圖畫設計、插畫或是裝置藝術等等。&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;容納&lt;/strong&gt;&lt;strong&gt;多少徵件？&lt;/strong&gt;&lt;br /&gt;
+我們希望可以收到來自台灣的30件創作，其中10-15件將會被投影在年會的大廳入口。&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;怎麼上傳？&lt;/strong&gt;&lt;br /&gt;
+請&lt;a href=&quot;http://goo.gl/SUW6V&quot;&gt;在此&lt;/a&gt;註冊帳號，參考&lt;a href=&quot;http://art.cckorea.org/?page_id=95&quot;&gt;這裡&lt;/a&gt;的圖解說明，就可以囉！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;台灣創用CC計畫邀請你一同加入這個盛會，讓世界看到您的創作能量，在*開放*的展場中，與來自全世界的創作者融合發光！&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Sep 2011 06:23:13 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">548 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20110905-1#comments</comments>
+</item>
+<item>
+ <title>分享主義與保護主義下的省思</title>
+ <link>https://creativecommons.tw/blog/20100521</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Polley Wong&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;英國線上新聞 &lt;a class=&quot;newpage&quot; href=&quot;http://www.timesonline.co.uk/tol/news/&quot;&gt;Timesonline&lt;/a&gt; 前兩日(05/23/2010)刊登了一則&lt;a class=&quot;newpage&quot; href=&quot;http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/music/article7131439.ece&quot;&gt;報導&lt;/a&gt;，描述新一代的藝術表演者對商業型的成名方式越來越不感興趣，他們將自己的創意訴諸各種社群共享平台和媒體分享機制，自己營造屬於自己的、超越地界的、貼近的粉絲群。藝術家們喜歡將自己的生活作息、價值觀、創作過程、心情點滴毫無保留地以網誌或影片的形式分享。藝術創作者以傳遞一種生活方式(Lifestyle)和創造的過程為滿足，影片點閱率或混音片段下載次數，代替了銷售量成為創作者&quot;夯&quot;度指標。更諷刺(或有趣)的是，許多大牌藝術創作者會把其他人模仿(盜版?)或衍生出來的作品數量拿來炫耀，以證明自己豎立了指標並引領著風潮。若按 Zuckerberg 的說法就是：『人們越來越可以接受自己將更多種、更大量的資訊分享給更多更廣大的人群。這個社會規範只是自然演化出來的結果。』&lt;strong&gt;(註1)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;毫不意外地，此一說法瞬間被各路人馬&lt;a class=&quot;newpage&quot; href=&quot;http://www.readwriteweb.com/archives/why_facebook_is_wrong_about_privacy.php&quot;&gt;抨擊&lt;/a&gt;，因為發言者是擁有3億5千萬用戶的網路服務平台，&lt;a class=&quot;newpage&quot; href=&quot;http://www.facebook.com/&quot;&gt;Facebook&lt;/a&gt; 的公司負責人，而這似乎也代表著這些用戶的隱私權將被公開&lt;strong&gt;(註2)&lt;/strong&gt;。而當爭論點在於隱私權是否重要時，大概口水戰就無法避免了，除非我們把問題點重新回歸到著作權，即創作人創造出來的有形或無形物上面。當然，Facebook也可以作為創作平台用，是否應該就每一小份資訊定義其授權，又所謂的&quot;一小份&quot;，單位又為何，這中間也有極大的探討空間。筆者就見到網路上有人對他在Google Buzz上的每一則留言，聲明他這段話要用CC授權，讓筆者意識到創作授權的政策速度似乎需加速趕上微網誌(micro-blogging)時代的變化。&lt;/p&gt;
+
+&lt;p&gt;若把攝影機焦距拉遠，服裝設計界的開放運動也正默默推動知識共享潮。&lt;a class=&quot;newpage&quot; href=&quot;http://www.learcenter.org/html/&quot;&gt;Norman Lear Center&lt;/a&gt; 的代理負責人 Johanna Blakely 最近在 &lt;a class=&quot;newpage&quot; href=&quot;http://www.ted.com/&quot;&gt;TED&lt;/a&gt; 發表了&lt;a class=&quot;newpage&quot; href=&quot;http://www.youtube.com/watch?v=zL2FOrx41N0&quot;&gt;一篇演說&lt;/a&gt;，主題是「從服裝界中的自由文化的學習 (Lessons from fashion&#039;s free culture)」，講述模仿行為如何幫助服裝設計更蓬勃發展，以及創意的擁有模式應由該產業中的人，以激發出最大創意可能為宗旨來制定規則&lt;strong&gt;(註3)&lt;/strong&gt;。演說中提到了道德倫理上的立場，社會演化的角度，和商業經營和潮流建立角度的看法，非常值得一看。&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;放眼望去全世界中的各領域都在為這個剪下、複製、貼上的新時代，研究新的經營模式。因為無論是服裝設計業、飲食業、娛樂業、出版業、還是學術界，甚至到單一使用者的自身權益都被深刻影響。分享概念相對於保護概念的利益，終究需在量化與質化間取得平衡。與其花時間爭論誰對誰錯，還不如把時間花在思考對策並解決問題上。畢竟今天是過去的演化結果，那演化中物競天擇，適者生存再自然不過，因此學習成為適者即為智者。&lt;/p&gt;
+
+&lt;p&gt;聲明：以上是我的個人言論。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;註 1&lt;/strong&gt;：&lt;a class=&quot;newpage&quot; href=&quot;http://www.readwriteweb.com/archives/facebooks_zuckerberg_says_the_age_of_privacy_is_ov.php&quot;&gt;Facebook&#039;s Zuckerberg Says The Age of Privacy is Over&lt;/a&gt; - by &lt;a class=&quot;newpage&quot; href=&quot;http://www.readwriteweb.com/archives/author/marshall-kirkpatrick.php&quot;&gt;Marshall Kirkpatrick&lt;/a&gt; from &lt;a class=&quot;newpage&quot; href=&quot;http://readwriteweb.com/&quot;&gt;Read Write Web&lt;/a&gt;, 01/09/2010&lt;br /&gt;
+&lt;strong&gt;註 2&lt;/strong&gt;：&lt;a class=&quot;newpage&quot; href=&quot;http://www.readwriteweb.com/archives/why_facebook_is_wrong_about_privacy.php&quot;&gt;Why Facebook is Wrong: Privacy Is Still Important&lt;/a&gt; - by &lt;a class=&quot;newpage&quot; href=&quot;http://www.readwriteweb.com/archives/author/marshall-kirkpatrick.php&quot;&gt;Marshall Kirkpatrick&lt;/a&gt; from &lt;a class=&quot;newpage&quot; href=&quot;http://readwriteweb.com/&quot;&gt;Read Write Web&lt;/a&gt;, 01/11/2010&lt;br /&gt;
+&lt;strong&gt;註 3&lt;/strong&gt;：&quot;…you want an inner disciplinary team of people, hash-n&#039; this out, try to figure out what is the kind of ownership model, in a digital world, that&#039;s going to lead to the most innovation…&quot; - by Johanna Blakely, from &quot;&lt;a class=&quot;newpage&quot; href=&quot;http://www.youtube.com/watch?v=zL2FOrx41N0&quot;&gt;Lessons from fashion&#039;s free culture&lt;/a&gt;&quot;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 21 May 2010 04:00:00 +0000</pubDate>
+ <dc:creator>polley</dc:creator>
+ <guid isPermaLink="false">206 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20100521#comments</comments>
+</item>
+<item>
+ <title>北京舉行「混合與分享」CC綜合藝術展</title>
+ <link>https://creativecommons.tw/blog/20091229</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;莊庭瑞&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;&lt;img alt=&quot;remix%20and%20share.jpg&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/remix_and_share.jpg&quot; style=&quot;width:250px&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;今年12月13日到7日之間，在北京798藝術區的&lt;a class=&quot;newpage&quot; href=&quot;http://www.intergallery.cn/&quot;&gt;映藝術中心&lt;/a&gt;舉辦了一場由&lt;a class=&quot;newpage&quot; href=&quot;http://cn.creativecommons.org/&quot;&gt;知識共享中國大陸項目（Creative Commons China Mainland）&lt;/a&gt;和&lt;a class=&quot;newpage&quot; href=&quot;http://artintern.net/&quot;&gt;藝術國際&lt;/a&gt;所共同主辦的「混合與分享」CC綜合藝術展。該藝術展的核心理念為合法的分享、混合與再使用，意旨於實現創作與傳播的良性互動。該藝術展以公開徵求的方式，收到了200多位藝術者的作品，作品涵蓋了新媒體、裝置、影像、繪畫等類型，皆以CC授權條款釋出。&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;creativecommons.tw/betacc&quot;&gt;台灣創用CC計畫 (Creative Commons Taiwan)&lt;/a&gt;應知識共享中國大陸項目主持人、中國人民大學法學院王春燕教授之邀，參加了這次藝術展於13日的開幕式。於同日的「混合與分享」跨界交流論壇，莊庭瑞以&lt;a class=&quot;newpage&quot; href=&quot;http://www.slideshare.net/trc/collaborative-works-public-licenses&quot;&gt;〈協同創作與公眾授權〉&lt;/a&gt;為題，就數位時代的資訊技術、文化傳承、法律限制等議題，和與會者進行交流。&lt;/p&gt;
+
+&lt;p&gt;台灣新媒體藝術家、藝術策展人蔡宏賢先生也應邀參加，以〈CC歷程〉為題分享他的經驗，介紹才剛在台北結束、為期五天的&lt;a class=&quot;newpage&quot; href=&quot;https://sites.google.com/site/playaroundcc/&quot;&gt;「科技游民」&lt;/a&gt;工作坊，引發了熱烈討論。論壇講者尚包括香港大學法學院李亞虹教授，她同時也是&lt;a class=&quot;newpage&quot; href=&quot;http://hk.creativecommons.org/&quot;&gt;香港共享創意（Creative Commons Hong Kong）&lt;/a&gt;的法律部門主持人，和來自CC澳大利亞的侍孝祥先生，以及知識共享中國大陸項目成員和曉琳小姐。孔伯華國醫學堂創辦人孔令謙先生，以及參展藝術家沈怡小姐，也分別就中藥知識的共享以及創作理念的散布，提出看法。&lt;/p&gt;
+
+&lt;p&gt;「混合與分享」CC當代藝術作品展的策展人為吳鴻先生與朱捍東先生。參展的藝術創作者及作品資訊，可以由&lt;a class=&quot;newpage&quot; href=&quot;http://show.artintern.net/html.php?id=2582&quot;&gt;藝術國際的網頁&lt;/a&gt;取得。關於此次活動的詳細報導，請參閱&lt;a class=&quot;newpage&quot; href=&quot;http://cn.creativecommons.org/2009/12/18/ccremixshow/&quot;&gt;CC中國大陸的網站&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 29 Dec 2009 04:00:00 +0000</pubDate>
+ <dc:creator>trc</dc:creator>
+ <guid isPermaLink="false">188 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20091229#comments</comments>
+</item>
+</channel>
+</rss>

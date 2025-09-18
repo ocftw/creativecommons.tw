@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 授權選擇工具</title>
+ <link>https://creativecommons.tw/category/tags/%E6%8E%88%E6%AC%8A%E9%81%B8%E6%93%87%E5%B7%A5%E5%85%B7</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>新的創用 CC 授權選擇工具</title>
+ <link>https://creativecommons.tw/blog/20120813</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/33430&quot;&gt;Jonathan Palecek，2012 年 7 月 31 日&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;創用 CC 很榮幸宣布推出新授權選擇工具，儘管原有的授權選擇工具成功地簡化了選擇和採用授權的動作，由於工具本身經過多次擴充，介面顯得越來越雜亂。這次雖然只是使用者介面的重新翻修，在功能方面並無任何新增，熟悉舊工具的使用者還是會有耳目一新之感。&lt;/p&gt;
+
+&lt;p&gt;創用 CC 有 6 種國際通用的授權，對於特定的法律轄區也有額外的本地化版本。新的選擇工具將選擇器和結果頁面結合到 4 個簡單的面板中。某些已經在授權契約中的資訊會呈現在選擇器中，產生了非線性的工作流程：在某面板中調整資訊會影響到其他面板的內容。這一點鼓勵了反覆的互動模式，可供釐清之前過於模糊的選項，並且讓用戶在選擇最適合其情況以及各種選項的取捨上，作出更為明智的決定。&lt;/p&gt;
+
+&lt;p&gt;有人對於我們在選擇工具中「這是自由文化授權」和「這不是自由文化授權」的訊息上有些許疑問。自由文化的概念在自由及開放源碼軟體的歷史中有其出處，也是創用 CC 授權組合一個重要的哲學基礎。在英文中，「free」這個字表示免費或是不受限制的意思。在自由文化中的「free」指的是後者。&lt;/p&gt;
+
+&lt;p&gt;我們的授權契約頁面已經包含該授權是否為自由文化授權的資訊。舉例來說，Attribution-Sharealike 是一個自由文化授權，其契約和徽章的顏色都是綠色的。另外一方面，Attribution-NonCommercial-NoDerivs 包含了定義上並非自由文化授權的限制，因此採用不同的契約顏色，也沒有徽章。因為用戶不可能開啟契約一個個相互比較，新的授權選擇工具在選用授權面板上就納入了這些資訊。&lt;/p&gt;
+
+&lt;p&gt;我們認為新的互動授權選擇工具是一大改進，看到該工具經過更適當組織，所採用的簡約設計讓如此複雜的工具更具親和力，進而讓用戶熟悉創用 CC 授權與架構背後的理念，實在是令人振奮。&lt;/p&gt;
+
+&lt;p&gt;原文出處：&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/33430&quot;&gt;http://creativecommons.org/weblog/entry/33430&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 13 Aug 2012 02:12:36 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">632 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120813#comments</comments>
+</item>
+</channel>
+</rss>

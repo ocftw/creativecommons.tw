@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 附加元件</title>
+ <link>https://creativecommons.tw/taxonomy/term/2997</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>MS Office 2007 使用的 CC 附加元件登場</title>
+ <link>https://creativecommons.tw/blog/20081215</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;趙柏強 Po-chiang Chao&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;微軟曾為 MS Office XP、2003 推出創用 CC 附加元件，方便你為文件加上創用 CC 宣告。雖然過去的方法已經蠻不錯，但有幾個比較重大的缺點：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;只有英文版&lt;/li&gt;
+	&lt;li&gt;似乎有的電腦 (if not all) 會出現按鈕上的麻煩&lt;/li&gt;
+	&lt;li&gt;內嵌後設資訊的方法似乎一直沒有在標準規格內&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;不支援 MS Office 2007&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;日前微軟推出了 CC add-on for MS Office 2007，除了改善了第三點之外、順帶也解決了前兩點問題。首先你插入的字串有正體中文了！這全拜 CC 方便的 Web service 所賜，各種程式都可以輕鬆取用已經翻譯好的字句讓使用者挑選授權方式；接著，由於 Office 2007 的檔案格式主力是 XML，所以微軟如 OpenDocument 一樣在檔案中訂下了 custom.xml 及相關語彙來嵌入數位授權資訊，這些資料可以在安裝套件後的說明文件中看到。&lt;/p&gt;
+
+&lt;p&gt;操作介面也因應 Office 2007 的方式做了些調整，抓些圖來瞧瞧：&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;image1.jpg&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/image1.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;img alt=&quot;image4.jpg&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/image4.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;img alt=&quot;image3.jpg&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/image3.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;總之，一切都還不錯，有需要的朋友可以到&lt;a class=&quot;newpage&quot; href=&quot;http://www.microsoft.com/downloads/details.aspx?FamilyId=D1DDBDC8-627F-415A-9B0A-97362BC9B480&amp;amp;displaylang=en&quot;&gt;微軟網站&lt;/a&gt;上下載。&lt;/p&gt;
+
+&lt;p&gt;如果你常關注 CC 的新聞，或許會抱怨「可是這玩意不是在八月就推出了嗎，你怎麼拖到現在才講？」事實上八月推出的版本有個功能出了點問題，因此在與 MS、CC 之間魚雁往返了一陣子之後，MS 在九月左右就飛快地修好了問題，而在十二月初 (終於) 把修改版推到大家的眼前。&lt;/p&gt;
+
+&lt;p&gt;是什麼問題呢？就是碰到正體中文環境會判讀錯誤，太搞笑了！所以，我們就只好稍稍晚點報導啦，無論如何還是要感謝 MS 團隊飛快的溝通速度與親切態度 :)&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 15 Dec 2008 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">121 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20081215#comments</comments>
+</item>
+</channel>
+</rss>

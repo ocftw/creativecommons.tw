@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 創作</title>
+ <link>https://creativecommons.tw/category/tags/%E5%89%B5%E4%BD%9C</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>創用CC授權條款 4.0 繁中譯文已近定稿：即日起歡迎大家貢獻您的評論！</title>
+ <link>https://creativecommons.tw/blog/20160605</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林懿萱、林誠夏／文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/CC_BY-NC-SA-4.0-common_deed.png&quot; style=&quot;height:422px; width:700px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;台灣創用CC 計畫協助進行的創用CC 授權條款 4.0 繁體中文翻譯，即日起至 2016 年 7&amp;nbsp;月 31&amp;nbsp;日止，進入了為期約一個月的公眾評論期 (public comments period)。此一模組化式的創用CC 授權條款 4.0 版，是因應 Open Data 及跨國協作專案所升級改版的法律工具，其適用對象包括具資料庫權利保護地位的素材 (material)，可以協助創作、素材的提供者，選擇他們偏好的授權組合，再依其規劃，讓這些作品與素材，可以採授權文字全球均一化的方式釋出，裨利於跨域與跨界合作共工，以產生更完整、更具影響力的公眾參與式創作！&lt;/p&gt;
+
+&lt;p&gt;Creative Commons 組織於 2013 年 11 月 25 日，便已推出現行 4.0 版的授權條款，然而因為此一版本與全球各地合作網絡的互動模式改變，故整體更新的進度較為慎重而緩慢，但目前也已取得頗多進展，主要是，創用CC 4.0 版授權條款最大的改變特點有三：第一、走的是國際化路線，僅有推出時的英文版本為具有正式法律準據力的授權文本，故其條款原則上不再進行「本地化 (porting)」的法規調適，而是建議一個語言一個翻譯版本；第二、納入資料庫權利保護 (sui generis database rights)，明定其為創用CC 新版條款的授權所及客體，以讓創用CC 授權條款，正式前進到開放資料 (Open Data) 的應用環境下；第三、參酌若干常見自由開源軟體授權條款的設計，以為創用CC 授權條款日後再改版，或在實際運用環境下，能與自由開源軟體授權條款結合運用，例如 4.0 新增的 30 天即時更正自動復權條款、編撰時以白話淺顯的方式來行文，還有於 2015 年 10 月初確定，CC BY-SA 4.0 授權素材能單向轉換為 GPL-3.0 授權被使用在軟體專案裡，在在都是在與自由開源軟體授權條款進行的相容性規劃。&lt;/p&gt;
+
+&lt;p&gt;由於此次 CC-4.0 的繁體中文翻譯，並不設限以臺灣一地的創作人與使用者為預設採用族群，而是著眼讓全球各地的繁體中文使用者，有相關需求時都可以自主採用，故如香港、北美，或其他有機會使用繁體中文文本來釋出或使用作品的朋友，亦非常歡迎能夠提出您對翻譯的反饋與修正意見出來。以下為您簡介此段時間進行 CC-4.0 繁體中文翻譯的重要要點或爭點，相關項目將會在未來近一個月的討論期間進行最後的決斷，亦非常歡迎您能就這些項目要點，提供您真灼的評論意見：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;Creative Commons public licenses 是否仍然中譯為 3.0 本地化版本時使用之「創用CC 授權條款」？維持原創用CC 授權條款之譯文，在傳達上最不易造成誤會，然此一翻譯方式，並不受香港及北美一地的潛在使用者所熟悉。目前暫訂為求譯文上的連續性與一致性，且原「創用CC 授權條款」用詞已具一定之識別性，將建議保留之並以英文加註。&lt;/li&gt;
+	&lt;li&gt;CC 授權作品、改用作品等詞彙是否配合 CC-4.0 通俗化之用字，改稱之為 CC 授權素材、改用素材？此一作法尊重新版條款以素材 (material) 一字統合作品 (work) 與資料庫權利 (Sui Generis Database Rights) 之設計；然「素材」固為尊重 CC-4.0 新版條款之新創字，於國內外著作權法尚屬較不常見之表達方式。&lt;/li&gt;
+	&lt;li&gt;權利之例外與限制條款裡，是否將英制之 Fair Dealing 及其他多數國家慣用之 Fair Use 統稱合理使用？因此兩者在細部上固有不同內涵，然多數國家之著作權法析之並無過大差異，或是分譯讓「合理使用、合理處置」並列，也是一個可資考量的作法。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;本文附件為創用CC「姓名標示─非商業性─相同方式分享」4.0 國際 公眾授權條款之法律條款 (Legal Code) 的中英對照全文草稿，您可協助閱覽之後，透過右列開放文化基金會 (Open Culture Foundation, OCF) 與台灣創用CC 計畫一同協作的「CC社群授權討論室：&lt;a href=&quot;https://groups.google.com/forum/#!forum/cctw-discussion&quot; target=&quot;_blank&quot;&gt;https://groups.google.com/forum/#!forum/cctw-discussion&lt;/a&gt;」，直接公開發布您的寶貴評論與看法！或者，您希望以英文為主進行評論的編寫時，可透過電子郵件的方式，於信件標題上標註[cc-4.0-tc-draft]作為識別之後，將您的英文評論寄到 cc-licenses AT lists.ibiblio.org&amp;nbsp;給全球 CC 授權的討論群組，亦可。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/20160606-cc-4.0_tc_draft-plain_text_0.txt&quot; target=&quot;_blank&quot;&gt;下載 CC BY-NC-SA 4.0 法律條款繁中草稿純文字檔&lt;/a&gt;、&lt;a href=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/20160606-cc-4.0_tc_draft-odt_format_3.odt&quot; target=&quot;_blank&quot;&gt;下載 CC BY-NC-SA 4.0 法律條款繁中草稿 odt 檔&lt;/a&gt;、&lt;a href=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/20160606-cc-4.0_tc_draft-pdf_format_3.pdf&quot; target=&quot;_blank&quot;&gt;下載 CC BY-NC-SA 4.0 法律條款繁中草稿 pdf 檔&lt;/a&gt;。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;參考資料：&lt;br /&gt;
+&lt;a href=&quot;http://creativecommons.tw/blog/20131127&quot; target=&quot;_blank&quot;&gt;http://creativecommons.tw/blog/20131127&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.fsf.org/blogs/licensing/creative-commons-by-sa-4-0-declared-one-way-compatible-with-gnu-gpl-version-3&quot; target=&quot;_blank&quot;&gt;https://www.fsf.org/blogs/licensing/creative-commons-by-sa-4-0-declared-one-way-compatible-with-gnu-gpl-version-3&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://creativecommons.org/faq/#should-i-choose-an-international-license-or-a-ported-license&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/faq/#should-i-choose-an-international-license-or-a-ported-license&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 05 Jun 2016 14:32:45 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1221 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20160605#comments</comments>
+</item>
+<item>
+ <title>Alchemy--實驗性的開放電腦繪畫計畫</title>
+ <link>https://creativecommons.tw/blog/20131227-6</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;羅凱勻 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;煉金術(Alchemy)指，將原不相稱、性質矛盾的元素，經由理性無法解釋的過程組合出意想不到的結果」─ Figurative。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://al.chemy.org/&quot;&gt;Alchemy&lt;/a&gt;是一個開放繪畫計畫，去探索人們如何用電腦的素描速寫、繪畫等方式創造出新的藝術表達方法。Alchemy並非一個創造藝術完成品的軟體，但它激發你腦袋裡的想法視覺化，將點子以即興和實驗性的方式表達出來，拓展創作的可能性和空間，為初始階段的創造過程提供了一個素描的環境。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/al.chemy_.jpg&quot; style=&quot;border:0px; height:376px; line-height:inherit; margin:0px; padding:10px; vertical-align:baseline; width:317px&quot; /&gt;&amp;nbsp;&amp;nbsp;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/alchemy2.jpg&quot; style=&quot;border:0px; line-height:inherit; margin:0px; padding:10px; vertical-align:baseline&quot; /&gt;&lt;a href=&quot;http://al.chemy.org/&quot;&gt;http://al.chemy.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Alchemy這個程式的互動式介面，可記錄下創作過程並轉為PDF檔等格式分享出去，在Alchemy Project的官方網站上也有許多影片、作品藝廊、文件手冊、媒體報導、工作坊世界巡迴教學、論壇等資訊，讓更多想挑戰實驗性視覺創作的人士有交流討論的平台。&lt;/p&gt;
+
+&lt;p&gt;全站採用創用CC「姓名標示—非商業性—相同方式分享」的授權方式，藝術和設計愛好者只要標示原作者和來源並以同樣的授權條件，就能複製、散佈、改作這些創意作品於非商業用途上，邀請更多人一起來探索Alchemy與實驗藝術創作的樂趣。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/alchemy_gallery.jpg&quot; style=&quot;border:0px; line-height:inherit; margin:0px; padding:10px; vertical-align:baseline&quot; /&gt;&lt;a href=&quot;http://al.chemy.org/gallery/&quot;&gt;http://al.chemy.org/gallery/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;像&lt;a href=&quot;http://www.androidjones.com/&quot;&gt;Andrew Jones&lt;/a&gt;這張具有時尚與未來科技感的平面設計作品，就是使用Alchemy的「形狀追蹤模型」(Trace Shapes module)當創作初期的工具，最後再以 Painter X軟體完成藝術之作。&lt;/p&gt;
+
+&lt;p&gt;現代藝術充滿了無限的想像力揮灑空間，你準備將自己別出心裁、匠心獨具的前衛想法化為實際的藝術成品了嗎？讓Alchemy助你一臂之力，和平面設計師、視覺藝術工作者們，一起體驗煉金術化腐朽為神奇、宛如魔法實驗的快感和成就感吧！&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 30 Mar 2014 16:00:00 +0000</pubDate>
+ <dc:creator>kathy4106</dc:creator>
+ <guid isPermaLink="false">929 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20131227-6#comments</comments>
+</item>
+<item>
+ <title>著作權保護跟開放之間的抉擇</title>
+ <link>https://creativecommons.tw/in-depth/808</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;戴雅彣 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;著作權人往往主張著作權是他們的「權利」，而這項「權利」應該被絕對保護。從西元1710年世界上第一部著作權法安妮法案開始，「給予創作人著作權以保障 創作誘因」就成為各國著作權法普遍存在的立法目的。我國著作權法第一條亦明訂：「為保障著作人著作權益，調和社會公共利益，促進國家文化發展，特制定本 法。」因此，著作權法被視為「鼓勵創作」的工具，為了這項目的，著作權受絕對保護好像也是理所當然的。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;著作權保護，真能提供創作誘因嗎？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;然而，真的是如此嗎？美國學界近年來開始對於著作權法是否真的能夠提供創作誘因產生質疑，他們對於著作權法不斷擴張保護著作權人以鼓勵創新的作法感到焦 慮。在Does Copyright Law Promote Creativity? An Empirical Analysis of Copyright’s Bounty, 62 VAND. L. REV. 1669 (2009)一文中，Raymond Shih Ray Ku等學者便指出 實證研究發現：著作權法擴張保護的政策，對於鼓勵創作並直接無助益。&lt;/p&gt;
+
+&lt;p&gt;美國和台灣一樣，最初立法時，著作權的保護期限並不像現在那麼長，保護範圍不像現在那麼廣，損害賠償的額度也不像現在那麼大。然而，經歷多次修法，美國和 台灣的著作權法逐漸擴張著作權的保護範圍，希望透過較強的著作權保護，鼓勵創作。歷次修法背後的邏輯很簡單：著作權讓創作者對於自己的作品有排他權 （排除他人未經同意使用的權利），這樣的排他權確保創作者能夠獲得一定的經濟上報酬，因為其他人在利用創作者的作品時需要付出授權金或是其他對價。越大的 著作權保護，帶來越高的報酬；越高的報酬，帶來越大的創作誘因；越大的創作誘因，為整個社會帶來越高的創造力和生產力。&lt;/p&gt;
+
+&lt;p&gt;在美國，這樣的「中心思想」一直指引著國會立法方向，也影響最高法院的態度。在1998年的「著作權期間延長法案」(Copyright Term Extension Act,簡稱CTEA)的立法過程中，議會參酌了多位藝術工作者的證詞，如Quincy Jones, Bob Dylan, Don Henley和 Carlos Santana等，他們表示，如果著作權保護期間延長， 他們將有更大的動力進行創作。法案通過後，「擴張著作權就是增加創作誘因」的精神似乎更加不可動搖，美國最高法院在Eldred v. Ashcroft一案中，也明白承認這樣的教條。然而，這樣的中心思想卻很少被實際檢驗，擴張著作權後是否真的能夠增加創作誘因？著作權法修法擴大著作權 人權利後， 整個社會的創作數量是否真的有增加？這些正是Raymond Shih Ray Ku等學者在這份研究中想要找出答案的問題。&lt;/p&gt;
+
+&lt;p&gt;在這份研究中，學者試著將這幾十年美國著作權法的修法變化和著作權登記數量相比對，看看修法擴張著作權保護，與著作權登記數量間是否有正相關。當然，在做 相關性分析時，學者也將大環境的政治、社會、經濟等變數考量進去，扣除掉因為人口擴張或是政策變化帶來的影響。研究結果顯示， 在各個創作領域中，著作權登記數量跟擴張著作權保護的修法都沒有顯著的正相關，也就是說，擴張著作權保護的立法，不論是增加刑責、擴大損害賠償範圍、增長 保護年限等，都不會讓著作權的登記數量產生顯著的增加。&lt;/p&gt;
+
+&lt;p&gt;研究者甚至發現，在所有數據中，一些限制或是減少著作權人權利的修法，反而與著作權登記數量正相關性最大，也就是說，限制或減少著作權人權利，反而跟著作 權登記數量的增加最有關係，不過數據也未達到顯著的程度。這樣的研究結果無疑是對「擴張著作權就是增加創作誘因」的傳統教條投下一顆震撼彈， 著作權實際運行幾十年的結果顯示，「擴張保護著作權人」的立法政策雖然可能帶給著作權人更高的經濟上報酬，卻沒有相對提供他們較高的創作誘因，或是誘使他 們作出更多的創作。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;「擴張著作權，就會增加創作誘因」的立論基礎，有待商榷。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;有了實務數據的研究，學者開始反思創作誘因是否真的受著作權影響。學者Jessica Silbey透過訪談研究發現，著作權並非誘發創作者創作的必要要素。許多創作者在訪談過程中描繪自己的創作過程時，都鉅細靡遺地形容「靈感」如何湧現、 「一瞬間的刺激」如何激發創作、「內在的驅動力」(自己內心一股說不上 來想要創作的動力)有多麼重要。另外，研究者也發現創作人多數時候會忽略較小的侵害行為，甚至在衡量訴訟成本和賠償金額後，放棄對明確的侵權行為採取法律 行動&lt;strong&gt;[註]&lt;/strong&gt;。 也就是說，「以著作權作為索賠手段」對於他們而言根本不重要，甚至是會放棄的選項。&lt;/p&gt;
+
+&lt;p&gt;對於這樣的研究結果，我們可以試著提出解釋。首先，這不表示著作權對於創作誘因是完全不重要的，若是沒有著作權，任何人都可以隨意抄襲，創作者投入心力和 成本的創作將得不到應有的報酬，那不會有人願意創作。只是，在滿足最低程度的成本回收後，擴張著作權是否還能夠增加創作者的誘因就有疑問了。&lt;/p&gt;
+
+&lt;p&gt;「擴張著作權就是增加創作誘因」的中心教條犯的其中一個錯誤，就是忽略了著作權本身也是創作新作品的成本。沒有人可以完全獨立創作，再厲害的電影導演，若 是沒有取得電影配樂的授權、劇本的授權，也難以拍出一部好電影。生活中，利用別人的著作來完成自己著作的情形所在多有，著作權擴張保護雖然可能為創作者 帶來更多經濟上報酬，但也會增加創作者的創作成本，因為在他們創作時，勢必也需要利用別人的著作。就算不是直接利用，「接觸他人作品」對於自己的創作也很 重要，就算是音樂神童莫札特，也接受過基礎的樂理訓練、聽過且練習過其他人的音樂作品；許多偉大的畫家，也都是受其他畫家作品的「啟發」。如果擴張保護著 作權，大家因為害怕侵權就不敢任意重製、流通著作，著作的流通降低，創作者接觸到各式各樣著作的機會也大幅降低，對創作者的創造力來說是有負面影響的。&lt;/p&gt;
+
+&lt;p&gt;因此，傳統著作權立法政策中強調「著作權的存在是為了提供創作誘因」的立論基礎即有待商榷。著作權人的創造力來自於接觸其他人的著作，若因為嚴格的著作權 法保護 導致市場上著作不再流通了，或是導致利用別人著作的成本大幅增加，創作的成本和困難度會變很高。透過Raymond Shih Ray Ku等學者對美國這幾十年著作權法的修法變化和著作權登記數量比對的實證研究我們可以發現，著作權的擴張保護並不會增加市場上著作權的數量。&lt;/p&gt;
+
+&lt;p&gt;相反的，在一些相對鬆綁的規定實行後，數據顯示著作數量反而增加了。所以，在面對「著作權作為創作誘因」這個看似理所當然的立法政策時，我們應該仔細思考 著作權人在創作時是否真的有將著作權保護視為考量的要素之一，也就是 著作權保護是否真的對創作行為的發生與否、持續與否產生影響力。學者Jessica Silbey針對美國創作人的訪談研究顯示創作活動的發生與著作權保護並無太大關係，更多的只是創作人靈感的湧現。這些學術研究或許只是一個開端，未來還 待更多實證研究，為著作權法的立法政策提供一個更具說服力的發展方向。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[註]&lt;/strong&gt;：Jessica Silbey, Harvesting Intellectual Property: Inspired Beginnings and “Work-Makes-Work,” Two Stages in the Creativity Processes of Artists and Innovators, 86 NOTRE DAME L. REV. 1635 (2011).&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 06 Dec 2013 12:11:00 +0000</pubDate>
+ <dc:creator>vilyak</dc:creator>
+ <guid isPermaLink="false">938 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/808#comments</comments>
+</item>
+<item>
+ <title>你Wondero了沒？</title>
+ <link>https://creativecommons.tw/blog/20130703</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;周佳穎&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;「Wondero = Wonder + WO!。Wonder的意思是think different，WO的代名詞是改變。Wondero 使牛頓發現蘋果。Wondero 使你像牛頓發現蘋果。」這是Wondero的部落格副標，也是成立的宗旨。&lt;br /&gt;
+&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/11297837245_f484c26cb2_o.jpg?itok=8s6nNIHV&quot; style=&quot;height:250px; width:690px&quot; /&gt;&lt;br /&gt;
+(圖片來源：&lt;a href=&quot;https://www.flickr.com/photos/britishlibrary/&quot; style=&quot;line-height: 1.6;&quot; title=&quot;移至 The British Library 的所有相片&quot;&gt;The British Library&lt;/a&gt;，&lt;a href=&quot;https://www.flickr.com/photos/12403504@N02/11297837245/&quot; target=&quot;_blank&quot;&gt;無已知版權&lt;/a&gt;&lt;span style=&quot;line-height:1.6&quot;&gt;)&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://woundero.wordpress.com/&quot;&gt;Wondero&lt;/a&gt;是一個成立一年左右的部落格，由三位創辦人與夥伴們共同經營，他們秉持著對事物的好奇及懷疑，希望透過寫部落格的方式，將他們所發現的事物分享給大家。他們聽說改變世界有兩種方式，一種是靠武力，另一種則是靠思想，雖然他們認為改變世界機率不高，但至少有機會改變讀者們，他們試著改變更多人，讓世界可以從小塊小塊開始改變。&lt;/p&gt;
+
+&lt;p&gt;Wondero文章的主題包括社會、經濟、環境、教育、思考等主題，內容兼具深度及廣度，以各種不同的方式剖析議題、分析時事，長期持續發表文章已經為他們累積了兩萬七千多名的臉書粉絲關注，臉書粉絲頁的經營也受到粉絲的轉貼及回響，如果你也想改變世界或改變自己看世界的方式，不如去Wondero的網站逛逛吧！&lt;/p&gt;
+
+&lt;p&gt;而Wondero的文章創作目前受到創用cc「姓名標示─非商業性─相同方式分享」條款保護，意思是你可以將他們的文章分享給你的朋友們，也可以修改他們的文章，分享、修改之後別忘了加上Wondero作者們的名字，同時也要跟wondero使用一樣的授權方式才可以噢！當然也不能把他們的作品當成自己寫的po在自己的部落格上，或是拿去投稿賺錢。但想成為他們改變世界的助力嗎？盡情分享他們的文章吧！&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 03 Jul 2013 07:52:01 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">703 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20130703#comments</comments>
+</item>
+<item>
+ <title>OPEN的力量：讓理念傳播到全世界</title>
+ <link>https://creativecommons.tw/blog/20130204</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;
+&lt;p&gt;Dan GILLMOR / 聖荷西（ 更多資訊：&lt;a class=&quot;newpage&quot; href=&quot;http://dangillmor.com&quot;&gt;http://dangillmor.com&lt;/a&gt; ）&lt;/p&gt;
+
+&lt;p&gt;當記者 Dan Gillmor 在 2004 年寫了 We the Media: Grassroots Journalism by the People, for People 一書，他決定將這本書以創用 CC BY-NC-SA 授權完全釋出。Gillmor 不認為掌握他在著作權下擁有的所有專屬權利，會為他帶來最大利益。他說「我認為更大的風險是無法將這些想法散佈到全世界。」&lt;/p&gt;
+
+&lt;p&gt;Gillmor 同時也是一名多產的部落客，他和新聞評論網站 Salon.com 達成了一項協議，他的部落格文章上線一星期後，他可以在自己的網站上用創用 CC 授權重新發佈。&lt;/p&gt;
+
+&lt;p&gt;2010 年 12 月，Gillmor 發表了他的第二本書 Mediactive。Amazon 上裝訂版售價為 14 元美金，但由於採 CC BY-NC-SA 授權，所有人都可以從他的網站免費下載全部內容。在發行後前 3 天，有 1500 人下載了這本書。&lt;/p&gt;
+
+&lt;p&gt;Gillmor 表示如果沒有創用 CC，或許就沒有 We the Media 這本書的成功。「由於美國報章雜誌一開始完全忽略這本書，如果我沒有那麼做，說這本書會消失的無影無蹤可是一點都不為過。」而且和許多人預料的相反，免費 散佈這本書仍然為 Gillmor 帶來財務上的成功。「現在我每季還是會拿到版稅收入。對於一本已經出版 6 年之久的書，還算不錯。」&lt;/p&gt;
+
+&lt;p&gt;圖文出自 &lt;a class=&quot;external&quot; href=&quot;http://thepowerofopen.org/&quot;&gt;The Power of Open&lt;/a&gt; P25&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 04 Feb 2013 02:14:12 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">662 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20130204#comments</comments>
+</item>
+<item>
+ <title>OPEN的力量：新聞傳播</title>
+ <link>https://creativecommons.tw/blog/20120807-1</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Solana Larsen，GLOBAL VOICES / 全世界（更多資訊：&lt;a class=&quot;newpage&quot; href=&quot;http://globalvoicesonline.org&quot;&gt;http://globalvoicesonline.org&lt;/a&gt;）&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/lingua-plainlogo_0.gif&quot; style=&quot;float:left; height:80px; margin:10px; width:200px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;大型媒體在傳遞有關全球事件的深度資訊上可能有所不足，在地部落客與公民記者通常更為熟悉他們筆下的社群。Global Voices，一個由記者 Rebecca MacKinnon 創立的非營利機構，提供平台給全球 350 位編輯、自願作者、翻譯者，用以傳遞有關於他們社群的新聞。這些公民記者提供各種詳盡且即時的報導，所有內容都以創用 CC BY 授權。&lt;/p&gt;
+
+&lt;p&gt;當去年 12 月突尼西亞的失業抗議引發暴動時，Global Voices 貢獻者在主流媒體作出反應前，就放上了數十篇詳述相關自殺事件的文章、翻譯自阿拉伯語的市民目擊描述以及推特貼文。感謝創用 CC 授權，Global Voices 的報導得以被轉載於紐約時報、路透社、AlterNet 和歐普拉電視網。&lt;/p&gt;
+
+&lt;p&gt;Global Voices 是沒有辦公室的虛擬非營利組織，但是在無數地點都可以感受到它真實的影響力。Global Voices 執行總編 Solana Larsen 說，「創用 CC 提供的自由便於我們每天提供十數種語言的翻譯。只要受非營利組織甚至主流媒體委托撰寫文章，我們都會堅持我們的創用 CC 條款，讓我們可以轉載、翻譯，以及開啟和世界的對話。」&lt;/p&gt;
+
+&lt;p&gt;本文出自 &lt;a class=&quot;newpage&quot; href=&quot;http://thepowerofopen.org/&quot;&gt;The Power of Open&lt;/a&gt; P16&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 06 Dec 2012 08:59:01 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">630 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120807-1#comments</comments>
+</item>
+<item>
+ <title>和詩人相聚的週三夜</title>
+ <link>https://creativecommons.tw/blog/20121128</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;周文茵&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;昏黃黃的燈，襯著慵懶悠閒的輕音樂，讓人忘卻落地玻璃窗外那喧鬧的車水馬龍。&lt;br /&gt;
+那夜下著雨，人客卻意外的多，都是愛詩的朋友。&lt;br /&gt;
+齊聚，然後以詩會友。&lt;/p&gt;
+
+&lt;p&gt;今天的方式很特別，有點像是詩的療癒坊，&lt;br /&gt;
+首先，由她帶領著大家讀詩，在座的朋友輪著念幾句，想念幾句就念幾句。&lt;br /&gt;
+爾後，每人分發一張印有短詩的A4紙。這次是由她來念詩。聽詩同時，各自將手中的紙，撕出當下的感覺，&lt;br /&gt;
+接著，她一一解讀每個人的撕紙意象，並即席以短詩回贈給對方。&lt;br /&gt;
+&lt;br /&gt;
+原來，詩，也可以這樣玩。&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/shi_ren_ye_.jpg&quot; style=&quot;height:500px; width:700px&quot; /&gt;&lt;br /&gt;
+詩可以變身成歌詞，譜曲就可以成就一首歌曲。&lt;br /&gt;
+或者是一場遊戲的語言，或者是一齣劇的楔子，亦或是一個故事的源頭......&lt;/p&gt;
+
+&lt;p&gt;精鍊的文字，蘊含無邊的想像。&lt;br /&gt;
+這就是詩的魅力與能量。&lt;br /&gt;
+&lt;br /&gt;
+當然，詩作也可以透過如創用CC這樣的公眾授權，用一種開放的方式，讓眾人創意累積於其上，創造出更多可能。&lt;br /&gt;
+（凡是自己的創作，你擁有著作權，就可以進一步思考是否要採用如創用CC這類的公眾授權。）&lt;/p&gt;
+
+&lt;p&gt;到12月底，每週三晚上8：00-9：00在&lt;a class=&quot;newpage&quot; href=&quot;https://www.facebook.com/pages/%E4%B8%83%E8%99%9F%E5%92%96%E5%95%A1%E5%BA%97/121372384592421&quot;&gt;七號咖啡&lt;/a&gt;，都有創作詩人領著大家，感受詩多樣的呈現面貌。&lt;br /&gt;
+歡迎大家一起到七號咖啡坐坐聊聊。&lt;/p&gt;
+
+&lt;p&gt;11、12月 駐點詩人：&lt;br /&gt;
+11.07 李俊宏 11.14 丁威仁 11.21 代橘&amp;nbsp;&amp;nbsp;&amp;nbsp; 11.28 潘家欣&lt;br /&gt;
+12.05 陳建男 12.12 羅任玲 12.19 侯馨婷 12.26 聶豪&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 28 Nov 2012 03:55:19 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">654 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20121128#comments</comments>
+</item>
+<item>
+ <title>重混之魂 Remix Soul</title>
+ <link>https://creativecommons.tw/blog/20101223</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Polley Wong&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;混音派對『混很大 蛙咖啡混音派對 Remix-and-Jam: Tracks into Treasures』圓滿結束了。報名人數在最後一分鐘滿了，現場最後一秒鐘在 MoShang 的 loungy beats畫上最美的句點。我們，台灣創用 CC 計畫，很榮幸參與到各位來訪者對音樂的熱血，以及四位音樂老師對於傳承的熱情，在此我謹此代表整體團隊獻上極大感謝。活動結束後，我們收到無數鼓勵和許多良性建議，受益無窮。&lt;/p&gt;
+
+&lt;p&gt;對筆者來說，音樂，及至於各樣自由藝術，及其中追求自由與美的精神都是一種態度，一種生活方式。Monbaza 老師會中語重心長地說道：「不要太在意其他人對於你的作品的想法與意見，只要想到一個創意，就去做。」真的是這樣。現場有如此多對音樂有熱誠的人，卻沒有兩個人做出一模一樣的音樂，我們真需要對獨特的自己和獨一無二的創作有更多的自信，畢竟一開始追求的本來就不是他人的認可，而是創作本身的喜悅。與其每個作品盡善盡美，不如隨興隨心玩出最開心的過程，而紀錄這個過程的，就它所產生的音樂，即便稍不完美，也是最真實的生命呈現。&lt;/p&gt;
+
+&lt;p&gt;活動之後我們收集了各方各自拍攝的照片與影片，因為好玩，我就隨意取了一張加以混之，寫入了我對這個世代的想法，厚臉皮秀在這與各位分享。要是有人覺得好玩，或想加入重混之魂的陣列，歡迎將您的創作也&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.tw/betacc/contact&quot;&gt;分享&lt;/a&gt;給我們，或透過我們的 &lt;a class=&quot;newpage&quot; href=&quot;http://www.facebook.com/group.php?gid=52661243284&quot;&gt;Facebook 網頁&lt;/a&gt;與眾多熱血人分享。&lt;/p&gt;
+
+&lt;div&gt;&lt;a href=&quot;http://0rz.tw/sM1sB&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;REgeneration-origin.jpg&quot; class=&quot;image&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/regeneration-origin.jpg&quot; style=&quot;height:525px; width:700px&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;div&gt;
+&lt;p&gt;原圖 Taken by Tyng-Ruey Chuang(CC-BY)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;加上一點Photoshop的魔力後….&lt;/p&gt;
+
+&lt;div&gt;&lt;a href=&quot;http://0rz.tw/uMrK1&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;REgeneration.jpg&quot; class=&quot;image&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/regeneration.jpg&quot; style=&quot;height:522px; width:700px&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;div&gt;
+&lt;p&gt;Created by Polley Wong (CC-BY). Original photo taken by Tyng-Ruey Chuang&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 23 Dec 2010 04:00:00 +0000</pubDate>
+ <dc:creator>polley</dc:creator>
+ <guid isPermaLink="false">237 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20101223#comments</comments>
+</item>
+<item>
+ <title>詩人鴻鴻的《土製炸彈》</title>
+ <link>https://creativecommons.tw/blog/20101124</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Juoping&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;藝文創作者鴻鴻，曾在2006年出版詩集《土製炸彈》時，以創用CC中的「姓名標示－非商業性」授權釋出，是台灣首位使用創用CC釋出詩集的詩人。鴻鴻於受訪時表示，他認為寫詩就是要介入社會，而文學與藝術應該要對更多人產生影響。創用CC倡議的理念正巧與他的寫作理念契合；因此選用CC做為自己態度的表述。他強調：「我覺得藝術應該是像江上之清風與山間之明月，取之不盡，用之不竭。我創作出來不見得說就是我的東西；或我有什麼了不起，就是有個機緣創作出來嘛！」&lt;/p&gt;
+
+&lt;p&gt;而此本詩集中有首詩－下小雨，其創作方式趣味十足值得做分享。鴻鴻在人文藝術網的&lt;a class=&quot;newpage&quot; href=&quot;http://arts.edu.tw/integ/game/rain/index.html&quot;&gt;「詩樂園」&lt;/a&gt;，設計了兩個網路遊戲，包含了：「心理測驗詩」瀏覽者填寫心理測驗，結果會自動填入詩篇中；而另一個遊戲「補詩人」，瀏覽者可以以滑鼠快速地補捉如下雨般飄落的字詞，系統會自動將點選到的字詞填入詩的空格中。鴻鴻在詩集中敘述：「這兩種再創作的方式都很「隨機偶合」，自然會產生匪夷所思的詩行。有些讀者將結果回傳給我，讓我笑得在地上滾來滾去。」至於內容有多逗趣，能讓詩人鴻鴻在地上滾來滾去，有興趣者可自行參照《土製炸彈》詩集，或是也親自體驗兩個詩篇創作的小遊戲。&lt;/p&gt;
+
+&lt;p&gt;鴻鴻利用數位媒介，讓讀者輕易、無負擔地「再創作」。網友們不需深厚文學背景；當然也不用絞盡腦汁，即可感受創作過程的趣味以及作品完成時的喜悅。網友將自己完成的作品回覆給鴻鴻時說道：原來寫詩可以這樣。的確，這種實驗性創作方式與以往文學創作截然不同。不過受訪時鴻鴻說明，自己並非每首詩都可以套用於此種創作方式之下，下小雨一詩因為本身並沒有要講什麼主題，所以能夠以這種方式做字詞的代換，是一首適合被拿來實驗的詩。&lt;/p&gt;
+
+&lt;p&gt;創作人鴻鴻的巧思搭配數位媒介；延伸了文學領域的可能性，在這種手法下，文學創作不再僅是刻板印象中屬於個人、私密地，反而有了合作、交流的新風貌。原本說不定一輩子與詩詞創作無緣的網友們，竟然也能夠在幾分鐘內創造出一首簡單、逗趣的作品。實際上是拉近了文學與一般民眾間的距離。而這爆發力十足的《土製炸彈》，是炸破了文學與民眾間的藩籬。某種程度上也實現了鴻鴻提到的：文學與藝術應該對更多人產生影響。&lt;/p&gt;
+
+&lt;p&gt;鴻鴻的樂多部落格 : &lt;a class=&quot;newpage&quot; href=&quot;http://blog.roodo.com/hhung&quot;&gt;http://blog/roodo.com/hhung&lt;/a&gt;&lt;br /&gt;
+鴻鴻的中時部落格 : &lt;a class=&quot;newpage&quot; href=&quot;http://blog.chinatimes.com/hhung/&quot;&gt;http://blog.chinatimes.com/hhung/&lt;/a&gt; (連結失效)&lt;/p&gt;
+
+&lt;blockquote&gt;本文為著作人接受中央研究院資訊科技創新研究中心台灣創用 CC 計畫「專題研究獎助計畫」的產出。本文內容不必然代表中央研究院資訊科技創新研究中心或台灣創用 CC 計畫的立場。本文的著作權利為著作人所有，且著作人（Juoping）已同意採用創用 CC 「姓名標示」3.0 台灣版授權條款釋出。&lt;/blockquote&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+詩樂園連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 24 Nov 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">232 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20101124#comments</comments>
+</item>
+<item>
+ <title>與出版社商量採用創用 CC 授權</title>
+ <link>https://creativecommons.tw/blog/20090115</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;趙柏強 Po-chiang Chao&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;台灣一年有 40,000 本左右的出版品面世，採用創用 CC 授權者寥寥可數，或許有些人是因為出版社等等的契約關係、想做而不得？Michael Mandiberg 日前跟 AIGA Design Press/New Riders 合作出了一本以創用 CC 授權的書，也是該出版社的第一本公眾授權書籍，以此經驗，他寫了一篇&lt;a class=&quot;newpage&quot; href=&quot;http://www.mandiberg.com/2009/01/12/howto-negotiate-a-creative-commons-license-ten-steps/#respond&quot;&gt;「與出版社商量、採用創用 CC 授權」的十個步驟&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;大概介紹如下：&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;1. 提出要求&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;提出要求前當然要先確認自己想要什麼，此例雖是要求以創用 CC 授權釋出你的作品，但亦不排除採用其他較為自由的授權與配套措施。他舉的一個例子是「約定賣出一定數量後，再行以 CC 釋出」，這跟 &lt;a class=&quot;newpage&quot; href=&quot;http://blog.bobchao.net/2008/09/isummit-08-open-business.html&quot;&gt;then you win&lt;/a&gt; 的作法很類似、我個人覺得很值得參考，尤其電腦軟體教學書這種會需要汰舊的更是。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;2. 清楚知道出版社其實都很擔心&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;直接引用吧：Publishers know things are going to change, but they don’t know what that change is going to be. Know that your publisher is willing to experiment. “Inspire them to be leaders.” 看來中外皆然啊。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;3. 告訴他們這會賺錢 &amp;amp; 4. 拿出實據&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;企業不賺錢是罪，雖然創用 CC 乃至於自由軟體好像一直被認為是某種程度的反商，不過咱們其實一點也不啊… 你可以評估一下整體的利益 (包括公關上的)，以及可能會造成的損失 (我懷疑會有多少… 可以問問看網路作家在 BBS 連載的文章出書後的銷售量影響多大？)&lt;/p&gt;
+
+&lt;p&gt;又，雖然有作家聲稱買了書才能看到某些在 blog 上隱藏起來的文章，不過由於我本來就沒有很想看、也不會買，所以… 會買的就是會買，&lt;a class=&quot;newpage&quot; href=&quot;http://ascii.textfiles.com/archives/865&quot;&gt;不會買的還是不會買&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;文中提到 O&#039;Reilly 網站上 &lt;a class=&quot;newpage&quot; href=&quot;http://radar.oreilly.com/2007/06/free-downloads-vs-sales-a-publ.html&quot;&gt;Free Downloads vs. Sales: A Publishing Case Study&lt;/a&gt;，結論簡單說是「提供免費下載可能會稍損銷售量，但無顯著相關」，可以看一下 —— 況且其實以 CC 授權並不表示你要&lt;strong&gt;主動&lt;/strong&gt;提供免費下載呢！&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;5. 確認擁護者與決策者&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;簡單說就是找到對的人說話：了解他想什麼、要什麼，然後針對這些事情下手。這基本上是談判實務了、其實與 CC 無關。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;6. 找伙伴，訂計劃&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;文中提到他推出的書 (Adobe 多媒體軟體的教學) 很有潛力在「自由化」之後，依循一樣的技巧「翻譯」成其他如 GIMP (影像處理)、Inkscape (向量繪圖) 等等的教學，於是與 &lt;a class=&quot;newpage&quot; href=&quot;http://en.flossmanuals.net/&quot;&gt;FLOSSManuals&lt;/a&gt; 網站合作，試圖提高這本書面世之後的影響力，讓出版者確實體會以 CC 授權後的力量。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;7. 搶先在 Wiki 寫草稿&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;「這樣的話，即使出版社不同意採用 CC 出版，那至少 Wiki 上的草稿已經是 CC 授權了」… 個人覺得這真是險招啊，我想有必要先提醒看官：他的書在「簽約前」就已經在一個協定以創用 CC 授權的 Wiki 上寫了。一般說來簽約時都會提出不可預先將稿件流出影響銷售的條款，我不確定這招對台灣出版社的情況有用。&lt;/p&gt;
+
+&lt;p&gt;殺手當初以 CC 授權時也有類似的「影響力擴散計劃」，不曉得他們執行的結果怎樣 ^^;&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;8. 先提供修改後的草約以為參考&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;因為出版社的法律部門可能得因為你用 CC 授權重新調整契約內容，所以你可以先提供一些「樣本」給他們方便做事。我個人不很認同原作者簡短的「出版社同意將創用 CC 授權宣告放到作品的版權頁」，不過如他所說，對方律師既然已經同意了就不用太在意。&lt;/p&gt;
+
+&lt;p&gt;另，個人認為「姓名標示—非商業性—禁止改作」其實比「姓名標示—非商業性—相同方式分享」更不自由，不過對利用人其實只是不同方向的限制而已。國內很多圖文網誌作家都採用了「禁止改作」，可以參考一下。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;9. 自己要做足功課&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;權利釋出前，的確應該先多了解 CC，才能解決出版社大大小小的問題。創用 CC 的使用上其實有很多議題，例如你對自己的權利了解多少、指定授權範圍、引用他人著作時的姓名標示方式及利用程度、授權的「感染性」等等。目前很多使用創用 CC 授權自己著作的伙伴，甚至也不見得清楚。&lt;/p&gt;
+
+&lt;p&gt;維基百科創辦人 &lt;a class=&quot;newpage&quot; href=&quot;http://ilyagram.org/blog/archives/1707.html&quot;&gt;Jimmy Wales 曾提到&lt;/a&gt;「維基人…… 因為要研究數十萬筆各式各樣的知識，我們變成了著作權專家」。你不必得是著作權專家，不過依然強力推荐先閱讀&lt;a class=&quot;newpage&quot; href=&quot;creativecommons.tw/betacc/faq&quot;&gt;創用 CC 的 FAQ&lt;/a&gt;，了解一些「眉角」。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;10. 要有耐心&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;出版社評估也是需要時間的，請保持耐心，法律部門的考慮時間可能比你想像中漫長很多。&lt;/p&gt;
+
+&lt;p&gt;有心以創用 CC 授權自己著作的朋友，可以參考一下。另外關於創用 CC 授權與利用上的問題，也可以到&lt;a class=&quot;newpage&quot; href=&quot;http://groups.google.com/group/cctw-discussion&quot;&gt;創用 CC 討論室&lt;/a&gt;去找大家聊聊。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 15 Jan 2009 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">127 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20090115#comments</comments>
+</item>
+</channel>
+</rss>

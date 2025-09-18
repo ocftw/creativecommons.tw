@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - iSummit</title>
+ <link>https://creativecommons.tw/category/tags/isummit</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>iSummit 08報導之二—Open Business</title>
+ <link>https://creativecommons.tw/in-depth/388</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;趙柏強&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;br /&gt;
+&quot;Open business… is just business — using new methods that tend to include (though not necessarily): Sampling (free content), reliance on modem technology, online community culture, increased transparency and fair sharing of returns with creators — still subject to familar business concerns. &quot; — iSummit &#039;08 Open Business track&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;柏克萊大學哈斯商學院開放式創新研究中心主任亨利．伽斯柏曾著有一本暢銷商管書籍 &quot;Open Innovation&quot;，這本書的中心概念是：由於公司不可能集結世界上所有最頂尖的人才，所以應該多多借重別間公司的創意，同時也把自己閒置、不知作何應用的創意開放給別的公司應用，方能獲取最大效益。雖然本書中提的方式多為專利轉讓或有限授權，但已經有公眾授權支持者經常強調的「合作」概念在裡頭。&lt;/p&gt;
+
+&lt;p&gt;與自由軟體相同，創用 CC 並不反商，事實上 Creative Commons 正試圖與商業組織合作、尋找合適的公眾授權商業模式。舉例來說，本年度 iSummit 會議重點之一：創用 CC 開發中的 CC+ (&quot;CC Plus&quot;) 協定，就可以更有效的促進線上授權代理公司接受創用 CC 授權。&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;CC Plus&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;創用 CC 打創立開始就致力研究、發展授權的後設資料格式，唯有如此才能讓機器了解作品的授權方式、進而衍生其他應用，例如 CC 搜尋就是利用數位授權後設資料來協助您搜尋特定授權方式的素材。新的協定 CC Plus 說穿了就是另一個用以標注「若有其他需求，該到何處索求」的方法，讓機器也能找到著作人留下的授權媒介管道。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;iSummit08-OpenBusiness04.jpg&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/isummit08-openbusiness04__2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;舉例來說，某甲是愛好創用 CC 的攝影師，今天將作品放上網路、並以「姓名標示—相同方式分享」授權他人使用。此時有一位創作者某乙很喜歡這張照片，想將其與自己的繪圖作品合成、卻希望改以「姓名標示—非商業性—禁止改作」釋出，該怎麼辦呢？就以往的作法，某乙必須先找到某甲，並且向他要求授權、使自己的作品可以改用另一種方式釋出（亦即不需遵守「相同方式分享」的條件），此時某乙可能付費給某甲、又或者以另外的條件來交換以便獲得授權。這個「要求授權」的機制或可轉換為線上服務：某甲直接與某丙公司合作，在某丙公司網站上販售此作品的其他授權條件，例如「毋需標示姓名」、「毋需以相同方式分享」等，標以價格；而某乙只要從某丙公司網站上點選所需購買的條件並付費、便可直接獲得某甲授權。&lt;/p&gt;
+
+&lt;p&gt;這樣的作法並沒有問題，但如果加上 CC Plus 機制、讓機器也能懂得該到哪裡請求額外授權，或許情況就會變成這樣：某乙看到某甲的相片後，在瀏覽器上立刻出現了「此相片以創用 CC 姓名標示—相同方式分享授權您使用，如您需要其他授權方式，請點此」的說明。某乙直接點選該說明，則前往某丙公司網頁、選定自己需要的授權方式後立即購買。某乙不需要費神尋找授權資訊，因為創用 CC 後設資料已經告訴瀏覽器此照片的授權方式、且 CC Plus 也說明了可前往某丙網站取得其他權利。&lt;/p&gt;
+
+&lt;p&gt;對鼓勵使用者創作內容的網站來說，可以加入 CC Plus 機制、並推薦使用者合適的授權代理。在會場中也有人表示，正在為自己的網站加入 CC Plus 機制、以加強使用者跟自身平台的黏性。&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;公平貿易&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;除了與授權方式相關的討論外，更多人有興趣的是企業的「態度」問題。在 iSummit 會場討論的許多夥伴認為，應該賦予 Open Business 一些道德上的責任。於是方才處理了公眾授權與商業之間的關係後，接下來就討論到利益的分配問題：從產品創造出來、一路到消費者手中，中間付出過努力的人們、各該得到多少報酬？這似乎就與公平貿易要追求的理想相當接近。&lt;/p&gt;
+
+&lt;p&gt;當今世上的企業經常仰賴「創造」某些資訊不對稱來為自己取得議價優勢，相對來說對於整體商業操作較不熟撚的兩端：創作人與消費者就不見得真知道怎樣的價格才是公平的（行銷人常說自己是在作「附加價值最高」的工作，以這個觀點來看還真諷刺）。公平貿易的一大要件為「價格公平」，鼓勵價值鍊的每一份子透過積極對話來了解對彼此「公平」的報酬。換到 Open Business 來，創作人、通路商及消費者也該能夠以透明的流程搭配相對完善的資訊，決定對彼此公平的價格。&lt;/p&gt;
+
+&lt;p&gt;這是不是很有所謂的「2.0」風格呢？透明公開的對話、誠實且快速地反應問題，尋求對彼此最好的解決方案。&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;其他方式？&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;參與會議的人大都同意， &quot;Open Business&quot; 這個詞彙原先還是個行銷用詞，不見得需要如何地嚴肅定義。在場也有一些人提出有趣的點子，例如紀錄片網站 &quot;Then You Win&quot; 。&lt;/p&gt;
+
+&lt;p&gt;這套紀錄片由法國 Loin de l&#039;il 協會所籌組，目的是要以紀錄片形式關懷全球各地的發展情況。系列名稱 &quot;Then you win&quot; 由甘地的名言 &quot;First they ignore you, then they laugh at you, then they fight you, then you win.&quot; 而來，這句話也經常被自由文化社群所引用。（我們現在正是最常被忽略、被笑的一群 :)&lt;/p&gt;
+
+&lt;p&gt;由於協會支持自由文化、網站也全由自由軟體所構成，這套系列影片一開始就打算以創用 CC 釋出，但他們採用了一種特別的模式：你可以捐款給這個網站、或購買紀錄片的 DVD，若此專案總收入達到 20000 歐元、則本片將以「創用 CC 姓名標示—非商業性—禁止改作」釋出；若專案總收入達到 35000 歐元、則本片將再以「創用 CC 姓名標示—非商業性—相同方式分享」進一步釋出權利；如果總收入突破 50000 歐元，則「非商業性」也條件也會拿掉、成為以自由軟體愛好者較為偏好的「姓名標示—相同方式分享」條款授權。為此、Loin de l&#039;il 開發了一個可以依據捐款額度逐步釋出權利金流網站，未來也打算提供其他專案加以利用、並收取服務費供協會利用。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;iSummit08-OpenBusiness05.jpg&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/isummit08-openbusiness05.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;就筆者的觀點來說，這或許適合一些國片來使用：如果收入達到一定水準、就將權利再釋放、藉此更加散播自己的作品，日後要籌拍新影片如需找投資人、機會就大很多。無論如何， &quot;Open Business&quot; 的想法，也是相當開放、值得我們再多動點腦筋的。&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;還是需要營利&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;大會最後， &quot;Open Business track&quot; 並沒有完成「定義」的工作，但畢竟有個方向：「開放商業模式… 依然是『商業』，只是有些比較新的手法，例如：自由素材取樣、新科技、線上社群文化、透明、公平分配資源…等等，但仍然依據類似的商業考量施行。」因此，非營利組織的模式「至少要打平」應該不能算在內，既然是商業就要盡力提高股東的資產、也就是必須營利才行。&lt;/p&gt;
+
+&lt;p&gt;所以，他還是你我熟知的商業模式，只是某些部份更 &quot;Open&quot; 一點吧？如果把我們對於公平貿易等道德上的要求看作是企業公共關係營造上需要追求的形象，也說得通，莫怪乎 Jon 在他的微網誌這麼寫：&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&quot;Open Business&quot; is a marketing term to be exploited to earn more money (and make people feel better). — &lt;a class=&quot;newpage&quot; href=&quot;http://identi.ca/notice/191557&quot;&gt;rejon&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;走筆至此，大概把我們對這個名詞的想像略為描述了一回。如果您有興趣探索開放式商業的世界，維基百科及 iCommons 網站上都有相關文章，可以參考：&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://archive.icommons.org/tag/openbusiness&quot;&gt;iCommons &quot;Open Business&quot; 相關文章&lt;/a&gt;&lt;br /&gt;
+&lt;a class=&quot;newpage&quot; href=&quot;http://icommonssummit.org/summit_blog/open-business&quot;&gt;iSummit &quot;Open Business track&quot; Wiki 網頁&lt;/a&gt;&lt;br /&gt;
+&lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/CCPlus&quot;&gt;CC Plus&lt;/a&gt;&lt;br /&gt;
+&lt;a class=&quot;newpage&quot; href=&quot;http://thenyouwin.yooook.org/&quot;&gt;Then You Win&lt;/a&gt;(連結失效)&lt;br /&gt;
+&lt;a class=&quot;newpage&quot; href=&quot;http://en.wikipedia.org/wiki/Open_business&quot;&gt;維基百科(資料中包括本文提到的書籍)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+rejon連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 05 Sep 2008 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">388 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/388#comments</comments>
+</item>
+<item>
+ <title>iSummit 2008 開放壽司食譜投稿</title>
+ <link>https://creativecommons.tw/blog/20080415</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;趙柏強 Po-chiang Chao&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;別再找藉口不參與創作及分享了，現在連你阿媽都可以投 iSummit 的稿！&lt;/p&gt;
+
+&lt;p&gt;iSummit &#039;08 將在七月底於日本札榥舉行，主辦單位特別結合當地文化、辦了個「&lt;a class=&quot;newpage&quot; href=&quot;http://forum.gaijinpot.com/showthread.php?52637-Sushi-Contest-Submissions-being-accepted!&amp;amp;p=612506&quot;&gt;CC 世界盃壽司創作大賽&lt;/a&gt;」。即日起至 5 月 16 日止，你可以將你創作的壽司食譜寄到主辦單位處，優勝者的食譜將以創用 CC 授權，並刊登在札榥市政府的網站上喔！(是也有獎品的樣子，但沒有寫得很明確 ^^; )&lt;/p&gt;
+
+&lt;p&gt;詳細的比賽細節請參考 &lt;a class=&quot;newpage&quot; href=&quot;http://icommonssummit.org/&quot;&gt;iSummit 08 Sushi Project&lt;/a&gt; 網站。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 15 Apr 2008 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">107 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20080415#comments</comments>
+</item>
+<item>
+ <title>創用 CC 徵求公眾授權案例</title>
+ <link>https://creativecommons.tw/blog/20071110</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;趙柏強 Po-chiang Chao&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;明年一月，創用 CC 將與亞洲關心公眾授權議題的團體合力編撰一本小手冊，介紹亞洲各國的公眾授權案例、並在明年於札榥舉辦的 &lt;a class=&quot;newpage&quot; href=&quot;http://icommonssummit.org/&quot;&gt;iSummit 2008&lt;/a&gt; 會議中發表。為此，創用 CC 團隊想公開向各位徵求案例，您是否知道有任何具代表性的團體或個人使用任何公眾授權方式（如創用 CC 授權條款）對大眾釋出自己的著作？又或者，您正進行某項大規模的公眾授權計畫？歡迎您與我們&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.tw/betacc/contact&quot;&gt;連絡&lt;/a&gt;！&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;strong&gt;徵求時間：&lt;/strong&gt;即日起至 11 月 20 日止（這是指您寄信給我們的時間，我們會另外約訪談時程）&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;案例要求：&lt;/strong&gt;實作！我們希望能訪談到已經突破規劃階段、開始著手實踐的案例。這本小手冊將彙集亞洲各國的經典實作案例，讓閱讀者實際了解這些授權模式如何為人所應用。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;我們願意幫您將您的經典案例推向世界，所以請別錯過這個機會，馬上&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.tw/betacc/contact&quot;&gt;連絡我們&lt;/a&gt;吧！&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 10 Nov 2007 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">101 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20071110#comments</comments>
+</item>
+<item>
+ <title>線上音樂網站 Magnatune 創辦人 John Buckman 先生訪談紀要</title>
+ <link>https://creativecommons.tw/in-depth/363</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;莊庭瑞/採訪　林懿萱/整理&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;前言：今年的 iCommons Summit 六月在克羅埃西亞 (Croatia) 杜布洛夫尼克 (Dubrovnik) 舉行。台灣「創用CC」計畫趁參加會議之便，特別訪問線上音樂網站 Magnatune 的創辦人 John Buckman 先生，希望可以透過訪談瞭解以創用CC授權的音樂網站其營運細節，包括跟創作人的合作以及著作權仲介團體之間關係等等的議題。 John Buckman 同時也是 Creative Commons 此組織的董事會成員。以下為訪談概要。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;莊： 您能簡要描述一下 Magnatune 的經營模式嗎？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Buckman： Magnatune 的經營模式是：大眾購買和下載我們的音樂專輯，而且我們也對大眾，像是電視頻道業者、廣告商、手機製造商等進行音樂授權。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;莊：請問 Magnatune 網站上的音樂是否開放給任何人使用？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Buckman ：一般大眾可前往 Magnatune 網站免費聆聽整張專輯，並且如果您喜歡這張專輯，您可以下載整張專輯並同時購買專輯的CD；您同時決定你想支付的金額（從美元5元到美元18元不等），以購買或下載這張專輯。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;莊：我們知道 Magnatune 使用 「創用 CC」授權，請問使用「創用CC」授權對 Magnatune 來說，很重要嗎？其中的「非商業性」授權要素，對 Magnatune的經營模式來說，重要性如何？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Buckman ：我不會說 Magnatune 仰賴「創用 CC」授權，我認為使用「創用 CC」授權只是讓事情變得容易。當然，我們可以聘請律師來擬定授權合約，但這只是花費昂貴成本來重複「創用 CC」已經做過的事罷了；而對一般大眾來說，他們也必須請律師來幫助他們瞭解這些合約的內容。「創用 CC」授權方式讓使用 Magnatune 網站的大眾瞭解他們對這個網站上的音樂，有哪些使用的權利：是否可以重製、分享或重混這些音樂等；「創用 CC」授權方式幫助我們向大眾解釋 Magnatune 的運作方式。因此，「創用 CC」非常有幫助，讓事情變得容易，降低了雙方的成本。當然，您永遠可以依照您自己的方式，選擇使用或不使用「創用 CC」授權（來經營線上音樂）。&lt;/p&gt;
+
+&lt;p&gt;「非商業性」授權要素對我們很重要，因為我們大部份的獲利是來自於對廣告商或其他商業使用者的商業授權；一般大眾只能依非營利方式來免費使用我們的音樂。這樣的方式讓很多人能聽到我們的音樂，但如果您想要用這些音樂來賺錢，那您就要付授權費金給我們。這樣的商業模式運作的很好。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;莊：那請問「相同方式分享」授權要素對 Magnatune 的經營，重要性如何？我們注意到你們也使用了「相同方式分享」這個要素。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Buckman ：「相同方式分享」背後的概念是：我們的音樂以「創用 CC」方式釋出，您用了這些音樂（來創作），那您也必須將您的東西以相同的授權條款釋出。 Magnatune 只是單純的認為，這種促使再使用(reuse)的方式是一個好主意，（使用「相同方式分享」授權要素）同時也避免他人拿走我們的作品，但用其他的授權條款釋出的情形。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;莊：您能說明 Magnatune 是如何找到合作的藝術家（創作人）的嗎？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Buckman ：Magnatune 製造了在全世界媒體前的許多曝光機會，人們知道有Magnatune 這個網站。每個月我們都會收到約 400 張專輯 CD，我們會在聆聽過每張專輯 CD 後挑選出10至20張我們認為最為突出的，然後跟這些專輯 CD 的創作人簽合約。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;莊：創作人需要和 Magnautne 簽訂專屬授權合約嗎？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Buckman ：創作人和 Magnatune 簽訂的合約是非專屬的，他們能自由的和 Magnatune 之外的其他公司簽合作契約。我認為 Magnatune 所發展的經營模式是：讓音樂創作人在保有他們所創作音樂的權利下，能和 Magnatune、Jamendo 以及許多其他的公司簽約，所有的這些合約都是非專屬的；音樂創作人因此能保有對他們音樂的權利，來做更多的嘗試。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;莊：這與音樂創作人所屬的著作權仲介團體之間，是否會引發議題？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Buckman ：因為 Magnatune 是在美國營運的公司，所以 Maganatune 是遵循美國法的。在1980年代，美國政府控告了著作權仲介團體，要求他們必須允許音樂創作人自己來決定契約的內容、簽訂合約。因此在美國，音樂創作人和仲介團體間的關係是非專屬的，但這裡指的只是美國的情況。因為 Magnatune 是一家美國公司，那代表歐洲人、華人的音樂創作者都能和 Magnatune 簽約；即便，舉例來說，德國並不一定喜歡「創用 CC」授權方式，但因為 Magnatune 是依美國法來營運，所以這種情形仍屬合法。Magnatune 這樣的運作不會有問題，而且我已在好幾個國家的政府聽證會中，陳述 Magantune 的運作模式對（音樂的）散布及促進文化是有幫助的。透過像 Magnatune 這樣的運作方式，一般大眾可以（方便的）來瞭解 Magnatue 及其音樂；如果 Magnatune 不是一家美國公司，Magnatue 的經營模式也不一定能是合法的。我想，如果其他國家想在全球舞台上保持競爭力，著作權仲介團體的專屬管理的運作方式，有加以修改的必要。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;莊：您對現在及未來的音樂製作和音樂市場的看法如何？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Buckman ：我想音樂市場會愈來愈蓬勃，大眾會消費更多的音樂。iPod 和其他科技產品擴大了一般大眾所預期的家中使用音樂的數量，而與此同時，我們看到了音樂創作量和創作素材的來源都在增加。主要的唱片公司（廠牌）仍然有影響力，但同時他們只是許多音樂素材來源（podcasting、線上收聽、獨立音樂創作）來源之一。未來我們將看到愈來愈多的人使用自己家中的錄音室，可能只需花費 300 美元，但卻在家創造出專業錄音品質的音樂作品。所有的這些模式，如過往一樣，會並存於現在。&lt;/p&gt;
+
+&lt;p&gt;經過此次訪談，我們發現該音樂網站與創作人並非專屬授權，相對於一般著作權人仲介團體，創作人的自由度提高許多，未來若是台灣有相似的網站出現時，可參考Magnatune的營運方式，相信也會使台灣的創作環境更加具有彈性。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 06 Jul 2007 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">363 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/363#comments</comments>
+</item>
+<item>
+ <title>Jon Phillips 談社群經營 and SlideShare</title>
+ <link>https://creativecommons.tw/blog/20070705</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;趙柏強 Po-chiang Chao&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://rejon.org/&quot;&gt;Jon Phillips&lt;/a&gt; 是 Creative Commons 的軟體工程師，他在今年世界級的 Creative Commons 大會「iSummit 2007」發表與社群經營相關的演說，並隨後以「姓名標示」的方式釋出投影片：&lt;/p&gt;
+
+&lt;div&gt;&lt;a href=&quot;http://www.slideshare.net/rejon/phillips-building-communities-isummit-2007&quot;&gt;&lt;img alt=&quot;Jon%20Phillips%20slideshare.jpg;&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/jon_phillips_slideshare.jpg&quot; style=&quot;width:500px&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;突然覺得沒去有點可惜，我想聽這個… orz…&lt;/p&gt;
+
+&lt;p&gt;Anyway, 這才發現 Jon 使用的投影片分享平台「SlideShare」也支援 CC授權！SlideShare 這個網站可以讓你把投影片（.ppt .odp 都行）丟上去後分享給大家，可以想做是 YouTube 的投影片版。我把懿萱前幾天去法鼓山&lt;a class=&quot;newpage&quot; href=&quot;http://www.slideshare.net/bobchao/cc-200706&quot;&gt;說明 CC 的投影片&lt;/a&gt;丟上去了，您也可以參考一下。這個平台不錯，可惜中文的支援能力差強人意，瞧那 tag 的「創用 CC」都只剩「cc」了、投影片中的中文字也會走位。還好，它提供下載原始檔案的功能，所以您也可以在依循「姓名標示-非商業性-相同方式分享 2.5 台灣」的方式自由使用該投影片創作衍生著作喔！&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 05 Jul 2007 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">95 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20070705#comments</comments>
+</item>
+<item>
+ <title>iSummit 2006現場15種語言錄音已上線</title>
+ <link>https://creativecommons.tw/blog/20060901-2</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;台灣創用CC計畫&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;巴西的 Estudio Livre 今年在 iSummit 2006現場邀請了24位朋友，以 15 種不同的語言暢談大家心中的創用 CC ，並錄製成 Podcast，台灣創用 CC 計畫的成員也在其中貢獻了兩段錄音。有興趣的朋友除了可以至&lt;a class=&quot;external&quot; href=&quot;http://estudiolivre.org/tiki-browse_freetags.php?tag=ccpod&amp;amp;type=gallery&quot;&gt;此站播放串流&lt;/a&gt;外，也可以下載 Ogg Vorbis 格式的錄音檔。這 25 段錄音都採創用CC 「姓名標示─相同方式分享」 2.5 巴西版授權條款釋出，供人們依此授權方式使用。&lt;br /&gt;
+&lt;br /&gt;
+備註：&lt;br /&gt;
+播放串流連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 31 Aug 2006 16:00:00 +0000</pubDate>
+ <dc:creator>ccworker</dc:creator>
+ <guid isPermaLink="false">872 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20060901-2#comments</comments>
+</item>
+<item>
+ <title>iCommons Summit 2006 報導</title>
+ <link>https://creativecommons.tw/in-depth/340</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;莊庭瑞&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;繼去年 6 月於美國波士頓第一次舉行的 iCommons Summit，今年的iCommons Summit（亦稱 iSummit）甫於 6 月 23 至 25 日於巴西里約熱內盧 (Rio de Janeiro) 舉行完畢。相較於去年約 80 人，參與者多數為於各國進行創用 CC 授權條款本地化的工作者，今年的參加者高達 250人左右，且專業背景繁複，分別來自 40 多個國家。議程的安排，也非常多樣。以下依議程簡略描繪今年的會議。&lt;/p&gt;
+
+&lt;p&gt;大會於 23 日早上由地主國巴西 FGV 大學法學院教授 Ronaldo Lemos 主持下開幕。 Creative Commons 董事會主席 Lawrence Lessig 回顧創用CC授權條款快速被廣為採用的情形，並和與會者分享新進的一些發展，包括微軟所新開發的 Office 軟體 plug-in ，以方便使用者選用創用 CC 授權，標示於該軟體所產生的文件中。大會也宣佈於同日起，Radiobrás （或稱 Agência Brasil ，為巴西國營的新聞通訊社）網站上的內容，將全面採用創用 CC 「姓名標示 2.5 」授權條款釋出。&lt;/p&gt;
+
+&lt;p&gt;由 iCommons 董事會主席 Joi Ito 致歡迎詞後（ iCommons 與 Creative Commons 兩者的關係詳於本文最後），巴西文化部長、知名的音樂人Gilberto Gil ，以及智利文化部長 Paulina Urrutia 分別發表演說。Gil 的演講以英文闡述他為創作人的親身歷程，以及巴西的多樣文化與包容，獲得與會者熱烈迴響。他的演講文稿以創用 CC 授權方式釋出，並據說為使用上述微軟 Office 軟體新功能所產生的頭一批 Word 檔案。（Creative Commons 與微軟於此事合作，並非沒有受到批評。）&lt;/p&gt;
+
+&lt;p&gt;第一天接下來的議程一分為二：一邊是法律與政策事務工作坊，另一邊是創作與技術實務工作坊。法律與政策事務包括：法國、荷蘭、澳洲三國代表說明與各自國家的著作權集體管理團體交涉的過程；西班牙、荷蘭兩件與創用 CC 授權相關的訴訟案件分析（註：以上兩件個案的報導，可參考第一、二期的《創用 CC 電子報》）；WIPO （世界智財權組織）與 FTA （自由貿易協定）等相關議題討論；3.0 版授權條款的修訂內容與進程；以及各國推展創用 CC 授權的作法與經驗（台灣與南非、日本、波蘭、義大利等國於此場次報告）。&lt;/p&gt;
+
+&lt;p&gt;在創作與技術實務方面，Freedom Toaster, Open Publishing in a Box, ccMixter/ccPublisher/ccHost 等工具的開發者現身和與會者互動。巴西的 Pontos de Cutural （文化熱點）人員也解說巴西文化部一項稱為Estúdio Livre（自由創作室）的影音多媒體創作的自由軟體及其教學推廣計畫。傍晚時分並有分組聚會，亞洲地區的參與者彼此交換了經驗，對區域性的合作也作了一些初步討論。&lt;/p&gt;
+
+&lt;p&gt;第二天早上的座談，對於科學、藝術、創新等不同領域，就其公眾資源概念，或其橋接可能，進行討論。座談人為 James Boyle（美國杜克大學法學院教授；公共領域的專家，倡導以 environmentalists —環境保護運動者—的角度切入智財權體制的改革）Jenny Toomey （ Future of Music Coalition 執行長，先前經營 Simple Machines 獨立音樂廠牌）、Niva Elkin-Koren（以色列海法大學法學院教授；對現有的著作權體制和創用 CC 授權條款都有批評）、以及 John Wilbanks （ Science Commons 計畫執行長）。&lt;/p&gt;
+
+&lt;p&gt;Boyle 呼籲眾人需有策略性的思考，不要自限於枝節上的作為。Toomey 指出，對音樂創作人而言，授權條款的選擇只是整體創作環境的一部份。Elkin-Koren 批評創用 CC 授權條款，只是次佳的選擇，而改革現行的著作權體制才是要務。她並認為創用 CC 授權條款的廣為使用，有可能進一步強化了「創作為商品」的思維，薄弱了創作的溝通與分享本意。她並批評目前的創用 CC 授權條款，有些並彼此不相容。Wilbanks 說明科學界資料分享的傳統與實務，以及目前 Science Commons的一些工作。此場座談人的意見似可歸納為：創用 CC 授權條款為法律面的工具，但它不是解決所有問題的處方；各領域各有其考量與需求，眾人需多聆聽，以貼近實務並尋求解決。&lt;/p&gt;
+
+&lt;p&gt;這天其他的場次中， Revver 這家公司的介紹引起相當注意。這家公司將短片數位檔案的最後，加上一段程式碼，於播放時從該公司網站即時下載一則托播廣告，廣告收益則依比例分配給創作者、檔案散布者、以及Revver 該公司。Revver 強調創作者可選擇托播廣告的種類，且該公司講究廣告托播數據的透明化。目前一支《健怡可樂與曼陀珠的實驗》的短片，已用這種方式，為創作者（一對特技魔術師）收取可觀的收入。Revver說很多這些短片是以創用 CC「姓名標示—非商業性—禁止改作」授權方式釋出的。&lt;/p&gt;
+
+&lt;p&gt;第三天早上的座談主題是「國際公眾資源」。 Jimmy Wales 說明Wikipedia 的創立理念（知識近用）與經營模式（人性為善），並說到中國大陸封鎖該國人民讀取編輯 Wikipedia，但這種自我設限的後果，讓來自台灣、香港、北美等地的中文使用者，對中文詞條的撰寫，扮演了更重要的角色，反而不利中國大陸當局。他同時也讚揚台灣的 KJ，以 Skype 聯繫各地的使用者，協力進行中文詞條的編寫。Cory Doctorow（boingboing 編輯群之一）以他參加 WIPO 會議的經驗，說明民間團體如何經由參與討論與的過程，施展力量以逐步進行體制內的改革。&lt;/p&gt;
+
+&lt;p&gt;下午在 iCommons 董事會主持的總結討論之前，Joi Ito 說明了廣播電視界對只採「姓名標示」授權的影音素材的需求，以編輯製作節目。他同時說明一組錄影人員已同時紀錄會議的舉行，也歡迎大家貢獻自己的對此會議的影音紀錄，一同進行編輯。目前已完成 Gilberto Gil 飲用 free beer 的短片。目前在 dotSUB 這個網站上，可以為這支短片配上各種語言的字幕。&lt;/p&gt;
+
+&lt;p&gt;iCommons 的董事會成員和與會者，接著對往後的方向與工作，進行討論。iCommons 為註冊於英國的非營利組織，規劃進行以創用 CC 授權為核心的連繫與培育活動，和 Creative Commons 是不同但關係密切的夥伴。目前於各司法管轄區內進行的創用 CC 授權條款的本地化工作（不論是初始進行或是後續維護），還是由位於柏林的 Creative Commons International（簡稱 CCi）此 Creative Commons 組織內部的計畫進行。但對於創用 CC 授權於世界各地的廣泛採用、以及跨界的活動，則由 iCommons 統籌。目前 Creative Commons 董事會成員中 Ito, Lessig, Wales 三位同時兼任 iCommons 董事會成員。&lt;/p&gt;
+
+&lt;p&gt;討論中多人問及 iCommons 的核心思維與重點方向為何？是廣義的自由文化運動？還是只是創用CC授權的推廣組織？今年 iCommons Summit 的贊助者與參與團體非常多，從微軟、Linden Lab（Second Life網站）、Shuttleworth基金會（ubuntu 版 Linux散布套件）到 Open Society Institute、OpenDemocracy、Association of Progressive Communication 等。議程的安排從授權條款、科學與藝術創新、媒體與社會運動、到開放內容的商業模式等，眾人關注的焦點未必相同。Lessig認為這場運動需要一些時間成長，再來討論組織與代表性的議題。他認為世界各地與自由文化相關的計畫，都可以是 iCommons 的「節點」(nodes)。目前 iCommons的執行長 Heather Ford 也強調 iCommons 在聯繫與培育這些節點的角色與工作。&lt;/p&gt;
+
+&lt;p&gt;會議最後眾人授權 iCommons 董事會簽署關於開放近用的柏林宣言與布達佩斯發起文（Berlin Declaration and Budapest Open Access Initiative；已有多個團體簽署，以及對數位權利管理以及現於 WIPO 討論的廣播條約兩個議題，作出立場宣示。大會並宣佈明年的會議於克羅埃西亞 Dubrovnik 舉行。&lt;/p&gt;
+
+&lt;p&gt;關於這次 iCommons Summit 的報導，可以參見 iCommons 的報導網站（網站上並有世界各地採用創用 CC 授權的音樂與影片，其中包含朱約信與林強兩位創作人的作品），或是以 iSummit 或 iCommons Summit 為關鍵詞查詢各部落格作者的網頁。6 月 26 日的紐約時報的藝術版也刊有一篇會議的報導。&lt;/p&gt;
+
+&lt;p&gt;註：本報導加註超連結的版本（含《健怡可樂與曼陀珠的實驗》短片的網址等），請見 &lt;a href=&quot;http://creativecommons.org.tw/&quot;&gt;創用 CC 計畫網站&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 07 Jul 2006 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">340 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/340#comments</comments>
+</item>
+<item>
+ <title>雷席格的CC每週通信（七）：iCommons簡介</title>
+ <link>https://creativecommons.tw/in-depth/70</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jedi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;兩個禮拜前，我提到我們開始要將CC推廣到國際。那就是「iCommons計劃」的開端。這項計劃是從柏林帶動的，其宗旨是：將CC的授權條款「移植」（port）以配合各地方的司法制度。我們的目標，是要為自由的授權規範做好國際性的基礎建設，這樣創作既能從一個司法管轄區（地域）拿到另一個司法管轄區（地域）使用，同時又能夠保有創作者所選擇要帶上的自由。短短不到三年時間，我們已經有超過70位志工，從事CC授權條款的移植工作，還有25個司法管轄區已經發表了合於當地所用的授權條款了。&lt;/p&gt;
+
+&lt;p&gt;這初次建立國際性的 iCommons 的工作，比我當初想像要來得成功。我曾經擔心我們能否找到國際性的合作伙伴，為此過了許多無法成眠的夜。不過這樣說吧，現在還會睡不著的原因早已經不是這個了。真要說起來，我們目睹了 iCommons 成長得比我們想像得更廣闊。隨著CC各項計劃開始在世界各地開展，這些計劃和有著同樣理念的運動結合了起來。這種「共享」的理念不是美國獨有的。這是人類共通的理念。而既然 iCommons 開啟了討論這些理念的各種管道，我們於是發現，iCommons 計劃必須要長大才行。&lt;/p&gt;
+
+&lt;p&gt;去年六月，iCommons 超過四十個司法管轄區、大約百來位志工齊聚一堂，到波士頓參加了第一次的 iCommons 高峰會。我們討論如何能對這個成長中的國際運動做最好的支援。我在聽 iCommons 成員敘述他們想從事的工作時，才發覺 iCommons 所承諾做到的，是要比CC這個（相對起來）較為簡單的計劃，要來得更多。CC的成立，是要打造自由的基礎建設；iCommons 則承諾要創造出全球性的運動，要納入這種自由的基礎建設，並（以儘可能最適切的方式）將之加以延伸出去。&lt;/p&gt;
+
+&lt;p&gt;所以六月的時候，我們開始公開討論由一位 iCommons 成員所提出的構想──也就是要把 iCommons 分割出去，變成一個獨立組織，讓世界各地的年輕運動領袖來帶領。我很高興宣佈，在寫這篇通信的時候，我們已經做到這件事了。&lt;/p&gt;
+
+&lt;p&gt;現在 iCommons 是一個分開的非營利組織，依英國的法律成立。iCommons 的理監事會由世界各地的運動人士組成。iCommons 既會繼續支持推廣CC的授權條款，也會做得比這還要多。iCommons 會成為各種運動結盟的核心，這些運動將推動鼓勵國際性創作以及知識及文化流通。&lt;br /&gt;
+CC會為此運動提供財務及組織上的支援（這是另一些我們需要您捐款支持的原因！）但隨著 iCommons 自己成為一項有自己特色的運動，CC在這運動結盟中將只擔任其中一員的角色。&lt;/p&gt;
+
+&lt;p&gt;那，要將CC授權條款移植到世界各地的計劃呢？這項工作將繼續待在CC裡面。克莉絲提安妮．亞申費爾特（Christiane Asschenfeldt）會繼續帶領CC在這個部份的計劃。不過工作內容也會集中在建立一套CC所需的法律基礎架構。克莉絲提安妮會繼續網羅世界各地的志工，協助將CC的授權條款移植到他們居住地的法律制度下。我們會繼續為這些當地版授權條款的發表舉行慶祝活動。其中也有一些CC的地方性伙伴（我們其實希望是所有伙伴）還會加入成為iCommons的一員。&lt;/p&gt;
+
+&lt;p&gt;那麼，CC除了授權條款，還有什麼別的東西？目前我們正在設立全球性的自由授權條款基礎架構。我們也和科學研究工作者及學者合作，將這些理念推廣到科學工作的領域。我們已經為這項國際性的運動播下了種，得到了諸於藝術家、教育工作者、著作權仲介團體、博物館、出版商及政府的參與，大家將一起為自由文化建立這樣的基礎架構。&lt;/p&gt;
+
+&lt;p&gt;CC代表的就是這次通信所提及的這些計劃。更重要的是，它們都需要您的支持。&lt;/p&gt;
+
+&lt;p&gt;在接下來的兩封通信裡，我會介紹另項新發起的計劃，這兩個計劃將定義我們2006年度工作的內容。之後這個系列文章，將討論針對我們已完成或將要做之事的各種批評。請繼續收看！&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 15 Feb 2006 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">70 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/70#comments</comments>
+</item>
+<item>
+ <title>iCommons Summit!!</title>
+ <link>https://creativecommons.tw/blog/20050706</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jedi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;今年iCommons Summit於2005/06/24-25在哈佛大學舉辦，集結了全球約八十餘個Creative Commons計畫的執行者。此次會議有幾個主要議題諸如著作權仲介團體(Collecting Societies)、WIPO、全球CC推展工作狀況報告與分享等。以下為詳細議程：&lt;/p&gt;
+
+&lt;div&gt;&lt;a href=&quot;http://picasaweb.google.com/lh/photo/PTlItk1kSwUCAvzzM5gWiQ?feat=directlink&quot;&gt;&lt;img alt=&quot;icommons%20summit_01.jpg;&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/icommons_summit_01.jpg&quot; style=&quot;width:350px&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;iCommons Summit 2005 at Harvard Law School June 24 − 26, 2005&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Agenda: All sessions will take place at Hauser Hall, room 102&lt;/p&gt;
+
+&lt;p&gt;■Friday, June 24&lt;br /&gt;
+Arrivals&lt;/p&gt;
+
+&lt;p&gt;■Saturday, June 25&lt;br /&gt;
+9:00 am - 10:30 am: Welcome and Introductory Remarks&lt;br /&gt;
+Keynote Address, Professor Lawrence Lessig&lt;br /&gt;
+Organizational Presentation, Creative Commons Staff&lt;br /&gt;
+10:30 am - 11:00 am: Break&lt;br /&gt;
+11:00 am - 12:30&amp;nbsp;pm: Country Session I: Creative Commons and Developing Nations&lt;br /&gt;
+Chair: Professor William Fisher&lt;br /&gt;
+CC Africa, Heather Ford&lt;br /&gt;
+CC Brazil, Ronaldo Lemos&lt;br /&gt;
+12:45&amp;nbsp;pm - 1:45&amp;nbsp;pm: Lunch&lt;br /&gt;
+John Chipman Gray room, 2nd floor, Pound Hall&lt;br /&gt;
+2:00&amp;nbsp;pm - 4:00&amp;nbsp;pm: International Legal Issues&lt;br /&gt;
+Chair: Professor Jonathan Zittrain&lt;br /&gt;
+Moral Rights, Professor Marcus Bornfreund&lt;br /&gt;
+Collecting Societies, Melanie Dulong de Rosnay and Paul Keller&lt;br /&gt;
+4:00&amp;nbsp;pm - 4:30&amp;nbsp;pm: Break&lt;br /&gt;
+4:30&amp;nbsp;pm - 5:30&amp;nbsp;pm: Where we are, where we should go&lt;br /&gt;
+Chair: Professor Charles Nesson&lt;br /&gt;
+7:00&amp;nbsp;pm: Dinner: iCommons at Charles Nesson&#039;s house&lt;/p&gt;
+
+&lt;p&gt;■Sunday, June 26&lt;br /&gt;
+9:00 am - 10:00 am: Science Commons&lt;br /&gt;
+Jonathan Wilbanks&lt;br /&gt;
+10:00 am - 10:30 am: Break&lt;br /&gt;
+10:30 am - 12:30&amp;nbsp;pm: Country Session II: Asia and South Pacific&lt;br /&gt;
+Chair: Joichi Ito&lt;br /&gt;
+The Practical Copyright Licensing in Mainland China, Professor Chunyan Wang&lt;br /&gt;
+CC South Korea, Jongsoo Yoon&lt;br /&gt;
+CC Taiwan, Tyng-Ruey Chuang&lt;br /&gt;
+CC Japan, Keisuke Kamimura&lt;br /&gt;
+CC Australia, Professor Brian Fitzgerald&lt;br /&gt;
+12:45&amp;nbsp;pm - 1:45&amp;nbsp;pm: Lunch&lt;br /&gt;
+John Chipman Gray room, 2nd floor, Pound Hall&lt;br /&gt;
+2:00&amp;nbsp;pm - 3:00&amp;nbsp;pm: Country Session III: Europe&lt;br /&gt;
+Chair: Professor Jonathan Zittrain&lt;br /&gt;
+CC Italy, Professor Juan Carlos DeMartin&lt;br /&gt;
+CC Slovenia, Maja Bogataj&lt;br /&gt;
+3:00&amp;nbsp;pm - 4:00&amp;nbsp;pm: Creative Commons and WIPO&lt;br /&gt;
+Chair: Mary Rundle&lt;br /&gt;
+WIPO, Lucinda Jones&lt;br /&gt;
+4:00&amp;nbsp;pm - 5:30&amp;nbsp;pm: Wrap-up and Perspectives&lt;br /&gt;
+Professor Lawrence Lessig&lt;br /&gt;
+6:00&amp;nbsp;pm: Dinner: Barbeque and Drinks, Holmes Field&lt;/p&gt;
+
+&lt;p&gt;■ More iCommons Summit Photos from &lt;a href=&quot;http://www.flickr.com/photos/ccsummit/&quot;&gt;Creative Commons@www.flickr.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;■ 更多資源：&lt;br /&gt;
+→iCommons Summit相關議題後續討論持續進行中，可訂閱&lt;a href=&quot;http://lists.ibiblio.org/mailman/listinfo/cc-icommons&quot;&gt;iCommons mailing list&lt;/a&gt;參與追蹤討論。&lt;br /&gt;
+→&lt;a href=&quot;http://creativecommons.org/contact#discuss&quot;&gt;Creative Commons相關議題討論&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 06 Jul 2005 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">56 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20050706#comments</comments>
+</item>
+</channel>
+</rss>

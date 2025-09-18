@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - source code</title>
+ <link>https://creativecommons.tw/category/tags/source-code</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>雷席格的CC每週通信（二）：CC，使命與其累積的經驗</title>
+ <link>https://creativecommons.tw/in-depth/65</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jedi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;所以，CC到底想要解決什麼樣的問題？大家在過去又學到了哪些東西？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;CC的理念──建立一套自由的著作權授權規範──是從自由軟體運動（Free Software Movement）來的。不過我們意圖解決的問題，畢竟還是有些不同。&lt;/p&gt;
+
+&lt;p&gt;理查．史托曼（Richard M. Stallman）於整整二十年前創立自由軟體基金會（FSF; Free Software Foundation）的時候，他所在處理的，是一個在軟體開發這個領域裡的新現象。就他的經驗來說，軟體過去一直是自由的，這裡自由的意思是，軟體程式的源碼（source code）是可以自由取得、可以自由修改的。但是在1980年代初期，這種常態發生了變化。軟體漸漸成為私有財產（proprietary），意思是，程式源碼被收了起來，使用者不能自由地瞭解程式源碼怎麼運作，或是修改源碼。因此史托曼發起了他的運動，他希望開發一套自由的作業系統，藉此抵擋那樣的走向，而他所熟悉的自由，能在這套作業系統中延續下去。&lt;/p&gt;
+
+&lt;p&gt;在文化層面上，情況其實不太一樣。我們這世界一開始可不是沒有私有文化這種事。正好相反，世界上一直有私有文化──意思是說，一直有這種作品受到獨占權利保障的文化。而這，至少在我看來，並不是件壞事。藝術家需要飯吃。作者也是。要有一套系統來保障帶給創作團體的收益，起碼能讓人有動機從事某些創造性的活動，這是很重要的。&lt;/p&gt;
+
+&lt;p&gt;但是，在我們（美國）過去歷史的大多數時期，著作權對於其他創作人所帶來的負擔，以及著作權帶給文化的負擔，相當輕微。而且，有相當多的創作，都可以是在沒有法律約束的情形下完成。著作權對文化的發展很重要，但是作用在是在邊緣的事務上。著作權（的概念及法律）明確規範了一些行為活動，但也讓我們大多數人落在其控制的範圍外。&lt;/p&gt;
+
+&lt;p&gt;這一切都因為數位科技的誕生，而開始改變，而改變的原因，是先前沒有人想到過的。&lt;/p&gt;
+
+&lt;p&gt;著作權規範的是「複本」，而在網路以外的世界，要使用文化創作，只有一小部份是會需要用到「複本」的；然而，在網路任何一種使用文化創作的舉動，都是由製造一份複本開始的。在實體世界裡，你讀一本書，這並不是一件受到著作權法規範的行為，因為在實體世界裡，讀一本書這件事並不會產生一份複本出來。在網際網路上，同樣的行為卻會涉及著作權法，因為在數位世界裡讀一本書，總是會要有一份「複本」的。因此，隨著世界上越來越多東西上了線，許多自由便消失了（這裡的自由，指的是生活裡不受著作權管制面向）。任何針對有著作權的內容的使用行為，起碼理論上都會涉及取得授權這件事。而無法真確獲得授權這件事，會造成使用內容的合法性，蒙上一層不確定的疑慮。（在美國法律的傳統，唯一沒這種疑慮的例外，便是「合理使用」fair use，我在下一篇文章中會提到。）&lt;/p&gt;
+
+&lt;p&gt;很多人並不真的關心這種不確定的疑慮。很多人就是想做啥就做啥，對於會有什麼後果並不予理會（不僅僅只是對網路上使用的後果）。但還是有些人及機構，尤其是像中小學、大學、政府機關、企業團體等重要的組織，面對這種疑慮而裹足不前，這樣的考量是有道理的。有些單位，例如有越來越多大學，要求人們在課堂裡使用網路上找來的資料，必須要有明確的授權許可。有些單位，例如越來越多的公司企業，乾脆禁止員工在簡報裡使用網路上找來的材料。結果，網路科技雖然讓群體合作的創意及知識分享得有蓬勃發展，這種對於取得授權的不確定感，卻干擾了這樣的合作可能。&lt;/p&gt;
+
+&lt;p&gt;作為CC的成員，我們認為，這是法律荒謬的地方──事實上，是一種被法律創造出來的荒謬。倒不是因為說，我們認為人們要被迫分享東西。反而是我們認為，很多把作品放到網路上的人，其實是很樂意把作品跟別人分享的。或者是，他們樂意在某些用途下分享，有些用途則不想。也或者是，有些人很積極想要讓作品廣為流傳，而不管著作權法裡面是怎麼規定的。我們認為，對於有這樣想法的人，應該能有一套簡單的方法，來表達他們的意願為何。&lt;/p&gt;
+
+&lt;p&gt;所以這就是設計CC授權的動機了：提供一套簡單的方法，讓作者和藝術家可以表達，他們的創意作品帶有哪些自由。如果著作人想說的是「保留所有權利」，就不需考慮CC。但是如果著作人只是想要「保留部份權利」（Some Rights Reserved），就可以用我們的CC授權，很簡單地表達出這個想法。而任何人或機關團體，想要使用他們在網路上找來的著作物，也就不用擔心，他們會被當成那種完全不理會著作權（No Rights Respected）的人。&lt;/p&gt;
+
+&lt;p&gt;我們認為，這樣的設計，會和自由軟體運動相似，讓創造力能有一塊空間，不致受到著作權的太多束縛。但我們和自由軟體運動不同的是，我們的目標並不在去除「私有財產的文化」，而在自由軟體運動裡，起碼有一部份的人是希望除去私有軟體的。相反地，我們認為，藉著建立自由文化（free culture）這道支柱（自由文化的意思是，文化創作物可以為了一些重要的目的而自由地被運用），我們可以抵擋潮流往另一條路走。這所謂的另一條路，最主要的，就是被「數位權利管理」（DRM; digital rights management）的狂潮所推動的那種方向。&lt;/p&gt;
+
+&lt;p&gt;DRM出了什麼問題？那「合理使用」又如何？好問題。我們&lt;a href=&quot;http://creativecommons.tw/betacc/in-depth/66&quot;&gt;下次&lt;/a&gt;會起個頭來回答這些問題。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 06 Dec 2005 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">65 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/65#comments</comments>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 非營利組織</title>
+ <link>https://creativecommons.tw/category/tags/%E9%9D%9E%E7%87%9F%E5%88%A9%E7%B5%84%E7%B9%94</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>彷彿沒有明天的資料狂歡會（datapalooza）</title>
+ <link>https://creativecommons.tw/in-depth/671</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;S.H. Shih /文 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;2010年，美國華盛頓。&lt;/p&gt;
+
+&lt;p&gt;在美國資訊長（U.S. Chief Technology Officer）陶德‧帕克（Todd Park）的號招下，來自軟體工程，醫療產業還有創投背景的45位高手聚在一起， 仔細挖掘美國國家科學院醫學研究所（Institute of Medicine）提供的開放資料（open data），試圖從中解決目前醫療問題，甚至，找出下一個可能的創業點子。&lt;/p&gt;
+
+&lt;p&gt;他們的碰面，並不是偶然，而是為了美國白宮第一次舉辦的「資料狂歡會」（datapalooza），這樣的活動形式，正成為目前開放資料界的流行語。但，到底什麼是資料狂歡會？&lt;/p&gt;
+
+&lt;p&gt;翻開美國俚語字典，&lt;a href=&quot;http://www.urbandictionary.com/define.php?term=palooza&quot; target=&quot;_blank&quot;&gt;palooza&lt;/a&gt;指的是「彷彿沒有明天」的聚會。資料狂歡會並沒有那麼迷幻，反而是場紮紮實實的討論會，主要可以分成3個階段：&lt;/p&gt;
+
+&lt;p&gt;1. 挖掘資料（Priming the pump）：所有創新者（innovators）得花上8小時聚在一起，仔細思考，究竟需要哪些資料才能推動新應用程式的產生？如同搖滾樂團練習時， 透過 “jam”，一種實驗性的摸索過程，來找尋適合的旋律及和旋，這一個階段也被稱為：“data jam”。&lt;/p&gt;
+
+&lt;p&gt;2. 展示發現（Showcasing the results）：第二階段則是讓創新者們在創投和其他可能的投資者前展示第一階段的發現成果。 過程中，為了確保討論的熱烈度，主辦單位也會宣布，若創新計畫實現，未來可能獲得的獎勵。&lt;/p&gt;
+
+&lt;p&gt;3. 持續投入（Continuing the work）：展示會結束後，接下來有一系列的見面會、視訊會議或程式馬拉松（hackathons）等活動， 除了能繼續挖掘需要解決的問題，這個階段也提供創新者進行使用者測試，持續修正產品。&lt;/p&gt;
+
+&lt;p&gt;和過往的程式馬拉松（hackathon）等開放資料活動相比，資料狂歡會以現有公共問題為出發點， 尋求創新解決方案，還有商業化的機會。簡單而言，這項活動背後事實上也代表了3個新意義。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;首先，活動以創新者為中心。&lt;/strong&gt;在 2012年 Personal Democracy Forum 會議上，帕克特別強調，既然目前趨勢是專業分工細緻，每一位專家擅長的領域個不同，大家更應該去思考如何配對不同領域的專家。這當中，政府面對創新者時， 應該是提供關鍵資料的角色，就好比把各類資料攤開在桌面上， 詢問各領域專家有沒有哪些資料是值得注意？剩下的工作，就交由這群創新者負責後續的開發。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;第二，強調資料的可應用性。&lt;/strong&gt;在2010年第一場的資料狂歡會上，歷經8小時的腦力激盪後，第一階段就已產出超過20個關於新興應用程式和產品的點子。「我們告訴與會的人，在90天後將會舉辦一場成果發表會， 看看你們從今天的基礎上還能繼續做什麼努力，」帕克接受採訪時提到，「3個月後，這些創新者研發出超過20個應用程式，所有人都很驚訝。」&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;最後，狂歡會不能只有3分鐘熱度，得有後續的組織和活動延續討論熱度。&lt;/strong&gt;在第一場資料狂歡會後，一些關於醫療產業的創業組織和活動，如&lt;a href=&quot;http://www.startuphealth.com/&quot; target=&quot;_blank&quot;&gt;StarUp Health&lt;/a&gt;, &lt;a href=&quot;http://rockhealth.com/&quot; target=&quot;_blank&quot;&gt;RockHealth&lt;/a&gt; 也隨之升起。 又如2012年，兩位約翰霍普金斯的醫學院學生，也接續利用疾病管制局的資料，建立網路和手機應用程式&lt;a href=&quot;http://symcat.com/&quot; target=&quot;_blank&quot;&gt;Symcat&lt;/a&gt;， 病人可從中查詢自己可能罹患的疾病和原因，這項程式也已獲得美金10萬美元的獎金。&lt;/p&gt;
+
+&lt;p&gt;短短兩年，資料狂歡會目前已不止發生於美國政府單位，非營利組織和私人企業也開始流行舉辦類似活動；討論焦點也從醫療產業，跨足教育,能源, 貧窮等議題， 皆以政府開放資料為基礎，鼓勵跨界合作和應用資料的機會。&lt;/p&gt;
+
+&lt;p&gt;「帕克的模式告訴我們，不是只要把資料公開、丟在那兒期待好事發生就好，」知名公益投資組織 Omidyar Network 政策負責人馬丁‧帝斯內（Martin Tisné）特別&lt;a href=&quot;http://hbr.org/special-collections/insight/scaling-social-impact/an-all-out-crazy-party-of-data&quot; target=&quot;_blank&quot;&gt;撰文&lt;/a&gt; 分析，「相反的，帕克的團隊鼓勵非營利組織和私人企業勇於使用和應用政府公開資料。」儘管資料狂歡會的活動概念仍算年輕， 能否擴大活動規模，需要再觀察，但「資料狂歡會」的確讓人看到政府開放資料的另一種可能性。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;延伸閱讀：&lt;/strong&gt;&lt;br /&gt;
+1. Health datapalooza 官方網站：&lt;br /&gt;
+&lt;a href=&quot;http://healthdatapalooza.org&quot; target=&quot;_blank&quot;&gt;http://healthdatapalooza.org&lt;/a&gt;&lt;br /&gt;
+2. 2012年美國教育部第一場 datapalooza 活動記錄：&lt;br /&gt;
+&lt;a href=&quot;http://storify.com/usedgov/education-datapalooza&quot; target=&quot;_blank&quot;&gt;http://storify.com/usedgov/education-datapalooza&lt;/a&gt;&lt;br /&gt;
+3. 2012年美國交通運輸部門第一場 Safety datapalooza 活動影音全紀錄：&lt;br /&gt;
+&lt;a href=&quot;http://www.youtube.com/user/whitehouse/videos?query=safety+datapalooza&quot; target=&quot;_blank&quot;&gt;http://www.youtube.com/user/whitehouse/videos?query=safety+datapalooza&lt;/a&gt;&lt;br /&gt;
+4. 2012年美國能源部首場 Energy datapalooza 成果展示：&lt;br /&gt;
+&lt;a href=&quot;http://energy.gov/articles/celebrating-innovation-and-open-data-energy-datapalooza&quot; target=&quot;_blank&quot;&gt;http://energy.gov/articles/celebrating-innovation-and-open-data-energy-datapalooza&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 05 Apr 2013 01:39:09 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">671 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/671#comments</comments>
+</item>
+<item>
+ <title>OPEN的力量：小出版者作出大事業</title>
+ <link>https://creativecommons.tw/blog/20120807-2</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;PRATHAM BOOKS / 班加羅爾 &amp;amp; 新德里（更多資訊：&lt;a class=&quot;newpage&quot; href=&quot;http://prathambooks.org&quot;&gt;http://prathambooks.org&lt;/a&gt;）&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/prathambooks.org_.jpg&quot; style=&quot;display:block; height:340px; margin-left:auto; margin-right:auto; width:686px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;位於印度的小型非營利圖書出版者 Pratham Book，懷抱一個簡單卻宏大的使命，那就是將書送到每一位孩子的手裡。為此，Pratham 在 2008 年開始在 Flickr 和 Scribd 上，以創用 CC 授權分享書籍和插圖。Pratham Books 新專案經理 Gautam John 說，「作為小型出版者，我們沒有資源對各合作夥伴客制化授權方案。創用 CC 授權讓我們得以和多個合作夥伴合作，卻無需負擔隨之而來的法律談判開銷和所耗費的時間。」&lt;/p&gt;
+
+&lt;p&gt;使用創用 CC 帶來各式各樣的重用以及社群參與提升。John 說，「我們的社群創作出各種衍生著作。許多組織和個人將我們的書轉換成有聲書、點字以及讓視覺受損人士得以存取這些內容的 DAISY 格式，創用 CC 授權使這一切成為可能。」&lt;/p&gt;
+
+&lt;p&gt;越多社群重複使用 Pratham 的內容，組織直接參與的重要性就越低。藉由在 Flickr 等平台上以創用 CC 授權釋出，不論 Pratham Books 發生什麼事，其他人對這些書籍的存取仍可獲得保障。&lt;/p&gt;
+
+&lt;p&gt;Pratham Books 可以將節省下來的資源，集中在擴增創用 CC 授權作品的檔案庫，並且計劃打造供重用與混搭之用的新平台。「對於像我們一樣的小型組織，時間確實是珍貴的資源，在我們的例子中，創用 CC 幫助我們節省了時間、金錢、氣力。」&lt;/p&gt;
+
+&lt;p&gt;本文出自 &lt;a class=&quot;newpage&quot; href=&quot;http://thepowerofopen.org/&quot;&gt;The Power of Open&lt;/a&gt; P17&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 31 Oct 2012 09:59:34 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">631 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120807-2#comments</comments>
+</item>
+<item>
+ <title>論非營利組織於資訊共享環境中所扮演的角色（下）</title>
+ <link>https://creativecommons.tw/in-depth/432</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;李治安&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;在(上)篇中，筆者以公共財作為分類依據，羅列出資訊共享環境中的各類非營利組織後，(下)篇中本文選擇以當今非營理組織學說中最具影響力的兩個理論，解釋資訊共享運動中的各參與組織。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;一、契約失靈理論：&lt;/strong&gt;第一個理論是 Henry Hansmann 提出的契約失靈理論 (contract failure theory)，該理論指出，在交易雙方之間存在著資訊不對稱的情況時，買方無法檢驗商品的品質，因此賣方可能會提供劣質的服務或產品。此時，如果由非營利組織扮演賣方的角色，該等組織的「不分配限制」特質將可適度防止其濫用優勢資訊，欺壓買方。&lt;/p&gt;
+
+&lt;p&gt;契約失靈理論在資訊共享環境中有傳統的應用角度，亦即非營利組織可代社群接受並管理他人捐贈。與營利事業相較，非營利組織較不會濫用該等捐贈，此外，亦存在以下三種新形態的契約失靈情境：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;(一)、近用失靈&lt;/strong&gt;&lt;br /&gt;
+許多個人創作者都希望其作品能廣為流傳，但並非所有的潛在讀者都能接近使用該等作品，當作者無法為其讀者提供理想的近用資訊時，即發生了近用失靈的情況。以學術文章為例，作者通常希望自己的文章能夠廣為流傳，因為該等文章被引用率可一定程度的象徵作者的學術聲望，而著作權通常不是學術作者所需要的創作誘因；但以營利為目的的出版商卻希望控制期刊的流傳數量以獲取最大的利潤，就此而言，出版商和作者具有相當程度的利害衝突。像 Public Library of Science (PLoS) 般的非營利組織出版社，因為不追求最大利潤，所以無須控制期刊內容的著作權，如此反而符合學術作者的利益，也解決了近用失靈的不效率。其他處理近用失靈的機構包括了 Internet Archive、Television Archive、免費提供課程資訊的麻省裡工學院、以及支持維基百科的 Wikimedia Foundation 等機構。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;(二)、協力失靈&lt;/strong&gt;&lt;br /&gt;
+協力失靈可能發生於個人間或組織間。個人間的協力失靈指的是在同儕生產社群中，如果沒有正式組織作後盾，協力工作將因欠缺集體產權管理、交易主體、承擔潛在責任主體、制度化決策程序及標準等問題而無法完成，而如維基基金會(Wikimedia Foundation)及阿帕契基金會(Apache Software Foundation)等非營利組織的存在即適度解決了該等問題。通常大型的同儕生產社群才會成立非營利組織，因為社群須有相當規模，才有足夠的資源成立正式組織；而且規模大使得資訊內容逐漸複雜，才會需要組織的存在。&lt;/p&gt;
+
+&lt;p&gt;某些非營利組織則是專注於處理組織間的協力失靈問題，像 Eclipse Foundation 和 Linux Foundation 都是商會型的非營利組織，他們是由營利機構所組成，可視為各公司會員為了構築商業基礎設施（如標準）、分擔成本而採取的集體行動。因為對所有會員公司而言，如果基礎設施被單一營利機構所掌握，則公司的經營將被鎖死(lock-in)，產品成本也勢必大幅增加。除了商會型的非營利組織以外，一些負責智慧財產權公益遊說的團體如 Public Knowledge 也扮演了統合各組織共同利益的角色，就此而言，這些組織都解決了組織間協力失靈的問題。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;(三)、授權失靈&lt;/strong&gt;&lt;br /&gt;
+授權失靈分成兩種形態，第一種授權失靈是由於著作權法的規定，使得創作人無法隨心所欲的讓他人使用其創作，針對該種失靈，Creative Commons 提供了一系列的授權條款，協助創作人依其喜好，授權其作品。&lt;/p&gt;
+
+&lt;p&gt;第二種授權失靈則是指授權條款間的不相容，導致資訊的使用人不能隨心所欲的使用依據不同授權條款授權的共享資訊，就此問題，包括 Creative Commons 及 Free Software Foundation (FSF)組織已開始推動授權條款間的相容性。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;二、市場與政府失靈理論：&lt;/strong&gt;第二個關於非營利組織的理論是市場與政府失靈理論(market and government failure theory)，此理論認為市場及政府對於某些公共財的供給都會發生失靈，因此為非營利組織提供了生存利基，市場失靈主要是因為經濟學上的搭便車現象，使得生產者欠缺誘因從事生產活動；而政府失靈則是因為在民主社會中，政府只能提供有限的資源，因此其通常會選擇滿足部分人的需求，而捨棄其他人的需求。&lt;/p&gt;
+
+&lt;p&gt;在資訊共享環境中，政府失靈與著作權法有密切的關係，對許多非營利組織言，著作權法本身就是一種政府失靈，而被商業利益控制的著作權法立法過程，則是另一種政府失靈。許多非營利組織及與其密切相關的自由文化運動，都是因為不滿國會通過數位千禧著作權法(Digital Millennium Copyright Act, DMCA)及著作權期限延長法案(Copyright Term Extension Act, CETA) 通過而形成。市場失靈則包含了前述的契約失靈，以及資訊公共財過度受到獨佔及生產不足所導致的不效率情況。&lt;/p&gt;
+
+&lt;p&gt;非營利組織型塑了當今的資訊訊共享生態系統，本文以上係以當代兩個主流的非營利組織理論分析相關非營利組織於資訊共享環境中所扮演的角色，這兩個理論對於理解該等組織於資訊共享運動中之價值及功能，具有相當助益，當然，各理論均有其不足之處，而各理論間也可互補其不足。本文中界定出近用失靈、協力失靈及授權失靈三種新型態的契約失靈。&lt;/p&gt;
+
+&lt;p&gt;此外，非營利組織的出現與存在亦與市場失靈及政府失靈有關，該等失靈包括了著作權法本身、著作權法的立法過程以及公共財的過度壟斷及供給不足。在可預見的未來，相信各種組織形態將繼續在不同的資訊環境中，扮演不同的角色，其互動及相關發展亦值得繼續關注。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 02 Jul 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">432 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/432#comments</comments>
+</item>
+<item>
+ <title>印度出版者+創用CC=給愛看書的印度小朋友一個看書的機會</title>
+ <link>https://creativecommons.tw/blog/20100618</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;王珮儀 Pei-yi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;過去，在台灣，為了讓住在偏遠地區的小朋友可以有更多接觸到書本的機會，而有捐助故事書等書籍的活動。&lt;/p&gt;
+
+&lt;p&gt;現在，在印度，一個名為 &lt;a class=&quot;newpage&quot; href=&quot;http://www.prathambooks.org/&quot;&gt;Pratham Books&lt;/a&gt; (以下稱 Pratham)的非營利兒童書籍出版者，為了讓印度的小朋友可以看得到市場上具有良好品質、合理價格、且各種不同印度語言的兒童書籍，Pratham 於他們的 &lt;a class=&quot;newpage&quot; href=&quot;http://www.scribd.com/prathambooks&quot;&gt;Scribd&lt;/a&gt; 網頁上，採用創用CC「姓名標示-非商業性使用-相同方式分享｣授權條款，讓大家可以直接看到這些故事書。之後又改變授權政策，將前述授權條款改為限制較少的創用CC「姓名標示｣授權條款，並且又將政策擴張，將他們的其他書籍貢獻至公共領域，並鼓勵大家混搭創作他們以創用CC授權所釋出的作品。&lt;br /&gt;
+&lt;br /&gt;
+&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/A_Book.jpg?itok=HqSmPY34&quot; style=&quot;height:250px; width:690px&quot; /&gt;&lt;br /&gt;
+(圖片來源：&lt;a href=&quot;http://www.flickr.com/people/35026043@N03&quot; target=&quot;_blank&quot;&gt;Pratham Books&lt;/a&gt;，&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:%22Vision_-%22A_Book_in_Every_Child%27s_Hand%22_-_Flickr_-_Pratham_Books.jpg&quot; target=&quot;_blank&quot;&gt;以CC BY授權釋出&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;在幾個月前，Pratham為了國家視盲協會(&lt;a class=&quot;newpage&quot; href=&quot;http://www.nabindia.org/index.htm&quot;&gt;National Association of the Blind&lt;/a&gt;)，將三份作品，請 &lt;a class=&quot;newpage&quot; href=&quot;http://www.radiomirchi.com/&quot;&gt;Radio Mirchi&lt;/a&gt; 以錄音製作之方式重新製作出錄音版本，再以創用CC 授權釋出。&lt;/p&gt;
+
+&lt;p&gt;大家都很好奇，是甚麼原因促使 Pratham 採用更｢自由｣的授權條款？以及這些創用CC授權書籍的未來？Pratham 的發言人 Guatam John 認為，採用創用CC「姓名標示-非商業性使用-相同方式分享｣授權條款，以及「姓名標示｣授權條款，最能符合 Pratham 與 &lt;a class=&quot;newpage&quot; href=&quot;http://www.radiomirchi.com/&quot;&gt;Radio Mirchi&lt;/a&gt; 的雙方需求，即便 Radio Mirchi 於其所錄製的作品並未附加任何限制，但是因為把這些作品定位為｢為公眾服務(pro nono) ｣，因此他們決定採用創用CC「姓名標示-非商業性使用-相同方式分享｣授權條款。未來他們也將陸續提供著作，並於 &lt;a class=&quot;newpage&quot; href=&quot;http://cnx.org/&quot;&gt;Connexions&lt;/a&gt; 網路平台鼓勵大家重新創作或改作這些作品，讓小朋友可以看到更多的故事書。&lt;/p&gt;
+
+&lt;p&gt;在未來電子書市場中，究竟出版商要扮演甚麼樣的角色？採取何種以數位方式結合的出版模式？過去所出版、甚至絕版的書籍，是否有一天能夠重現江湖？令人拭目以待。&lt;/p&gt;
+
+&lt;p&gt;參考文章: &lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/21430&quot;&gt;Pratham Books uses CC to make children’s books accessible&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+National Association of the Blind 連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 18 Jun 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">209 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20100618#comments</comments>
+</item>
+<item>
+ <title>論非營利組織於資訊共享環境中所扮演的角色（上）</title>
+ <link>https://creativecommons.tw/in-depth/430</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;李治安&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;知識及資訊的創造是一個累進式的社會過程，所有的創意活動都是植基於既有的資訊基礎之上，因此，共享資訊（intellectual commons）對於人類的創新及創意活動具有重要的社會功能，該等資訊是所有創意活動的素材來源，而維持一個健全的資訊共享環境已成為當代創新政策及資訊政策的重要考量之一。一般而言，社會上的正式組織形態有三種：政府、營利組織以及非營利組織，有趣的是，資訊共享運動的主要推手皆為非營利組織，該等組織包括創用CC（Creative Commons ）、Electronic Frontier Foundation （ EFF ）、Free Software Foundation （FSF）以及 Public Knowledge （PK）等。&lt;/p&gt;
+
+&lt;p&gt;非營利組織為共享資訊的生產提供了不可或缺的基礎結構，而該等結構迥異於支持專屬資訊（proprietary information）生產的其他社會結構。藉由提升共享資訊的生產、接近使用、可搜尋性以及受保護的程度，非營利組織對當今社會提供了重要的公共財 （public goods），並發揮了政府及營利組織無法發揮的社會功能。&lt;/p&gt;
+
+&lt;p&gt;要瞭解非營利組織與資訊共享運動之間的關係，先以非營利組織的概念談起。 非營利組織係指不得將利潤分配給任何組織相關人的私人組織，學者將此特性稱為「不分配限制」。多數的非營利組織理論認為，該等組織的存在是為了提供特定的公共財，本文以公共財作為分類依據，羅列出資訊共享環境中的各類非營利組織。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;1. 社會規範與授權條款&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;關於分享的社會規範其實存在於學術機構已久，但該規範於1980年代開始受到商業智慧財產權侵蝕，因此Richard Stallman成立了FSF捍衛該規範，FSF對於資訊共享運動最重要的貢獻在於制定了通用授權條款（GNU Public License， GPL），確保自由軟體不被商業軟體吞噬，並保障了分享的社會規範。Open Source Initiative （OSI）是另一個執行分享社會規範的非營利組織，該組織所做出的開放原始碼定義（Open Source Definition， OSD）目前已成為開放原始碼的共識基礎，所有經過該組織審核通過的授權條款才會被社群接受為開放原始碼授權。&lt;/p&gt;
+
+&lt;p&gt;在軟體以外的資訊共享環境，非營利組織CC提供了多種不同的授權條款供創作者選擇，Creative Commons目前已成功的推動了全球性的社會運動，並型塑出鼓勵資訊分享及資訊再利用的社會規範。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;2. 同儕生產所需的正式組織架構&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;參與開放原始碼開發及維基百科等資訊共享計畫的人都是自發性的個人所組成的社群，學者將這種分散式的資訊形成過程稱為「同儕生產」（peer production），在資訊共享環境中，非營利組織為這些同儕生產設群提供了必要的組織架構。一些非營利組織代表社群接受捐獻，並持有同儕生產所必需的資產。此外，該等組織亦是共享資訊所屬智慧財產權的管理人，由單一的非營利組織為社群管理共享資訊的智慧財產權具有許多優點，過去許多開放原始碼軟體的智慧財產權，都歸屬於主要程式開發者之僱主，或由該僱主管理，但由於此等僱主均為營利機構，所以對於該等智慧財產權的處理通常係以其商業利益，而非整體社群利益，作為優先考量。此外，由單一組織管理同儕生產的成果亦可節省交易成本， 如Apache Software Foundation （ASF）及 FSF 甚至要程式開發者將著作權移轉或授權給該等組織，以統一管理。&lt;/p&gt;
+
+&lt;p&gt;同儕生產社群並非法律主體，所以無法與他人形成法律關係，準此，非營利組織的法人身分可協助設群與其他組織形成法律關係，以有利於社群的長期發展。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;3. 法律扶助&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;承前所述，參與共享資訊協力生產的個人常面臨了被訴的法律風險及成本，因此一些非營利組織專為個人提供法律協助，一旦有個人被控侵害他人智慧財產權，這些組織即出面代為處理訴訟，在自由及開放原始碼軟體世界中，最著名的即是Software Freedom Law Center （SFLC），而在其他的資訊共享環境中，EFF則已代理過許多具指標性的智慧財產權訴訟。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;4. 公益遊說&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;由於許多商業團體、媒體集團、及智慧財產權密集產業的遊說，美國國內及國際智慧財產權法的範圍不斷擴張，面對此趨勢，包括PK、EFF及 Knowledge Ecology International （KEI）在內的非營利組織都致力於透過在國會及國際組織的遊說，遏止智慧財產權無止境的擴張。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;5. 資訊近用及典藏&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;許多非營利組織提供了網路上共享資訊的近用及典藏，如 Public Library of Science （PLoS）是一家專門出版生物、醫學方面的學術期刊出版社，該機構將期所出版的期刊文章皆以CC授權，至於網站上，供人下載使用。另外包含麻省裡工學院在內的許多知名學術機構，則將課程或教授著作，置於網站上，供人下載使用。Internet Archive則以建立全球最大的網路公共圖書館為目標，收錄了各類資訊。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;6. 財務支援&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;上述所有非營利組織皆需財務支援，而通常來自個人的小額捐款卻不足以支付組織所需的各項開支。事實上，有許多大型基金會在資訊共享運動中扮演了重要的角色，它們提供了前述各組織所需的大部分資金來源，這些基金會包括了 William and Flora Hewlett Foundation （Hewlett Foundation）、 John D. and Catherine T. MacArthur Foundation （MacArthur Foundation）及Open Society Institute等。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 04 Jun 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">430 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/430#comments</comments>
+</item>
+</channel>
+</rss>

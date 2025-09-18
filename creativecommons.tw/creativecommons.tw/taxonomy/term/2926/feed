@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 自我典藏</title>
+ <link>https://creativecommons.tw/category/tags/%E8%87%AA%E6%88%91%E5%85%B8%E8%97%8F</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>開放近用（出版）的定義、發展歷程及自我典藏</title>
+ <link>https://creativecommons.tw/in-depth/371</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;李治安、林懿萱&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;前言：創用CC電子報從本月開始將連載三期有關開放出版的長篇文章。本文是兩位曾經任職於台灣創用CC計畫的優秀同仁李治安與林懿萱，憑著長期對創用CC等相關議題的研究，合著了「從傳統到開放的學術期刊出版-開放近用出版相關問題初探」一文。由於全文具學術性質，篇幅較長，為讓電子報讀者更容易閱讀，因此僅取文中三大段連載，分別為「開放近用（出版）的定義、發展歷程及自我典藏」、「學術出版開放近用經營模式分析」、「Science Commons中的出版計畫」三部分。而該全文已於2007年4月刊載於「圖書館學與資訊科學」期刊，文中參考書目與附註，或有興趣延伸閱讀的朋友都可以&lt;a class=&quot;newpage&quot; href=&quot;http://jlis.glis.ntnu.edu.tw/ojs/index.php/jlis/article/viewFile/486/486&quot;&gt;全文查詢&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;何謂「開放近用」？根據目前最為人所熟知的布達佩斯開放近用提議(Budapest Open Access Initiative)，「開放近用」指的是：資料能在公眾網際網路上被自由取用，並允許任何使用者得閱讀、下載、重製、散布、列印、搜尋或連結至該等文章的全部內容、得為檢索目的爬梳(crawl) [1]該等文章、得傳遞該等文章至軟體作為資料，或為任何其他合法目的，在除了與近用網際網路不可分離的限制外，別無財政、法律或科技障礙之下而能使用該等文章。對於重製及散布的唯一限制，及著作權在上述範圍內的唯一角色，是必須允許作者得控制他們著作的完整性，和保障作者應被適當表彰及引用[2]。&lt;/p&gt;
+
+&lt;p&gt;而貝斯達開放近用出版宣言(Bethesda Statement on Open Access Publishing)則對何謂「開放近用出版」給了定義。只要符合以下兩個條件，即可稱為開放近用出版[3]。&lt;/p&gt;
+
+&lt;p&gt;1. 作者及著作權人給予所有使用者自由、不可撤回、全球、永久的得近用其著作的權利，並授權所有使用者得在任何數位媒介、為任何合法目的、在適當表彰著作人的條件下重製、使用、散布、傳輸、公開展示、改作其著作，及得為個人使用的目的少量印刷其著作。2. 完整的著作內容及所有補充資料，包含上述所允許的著作重製物，必須以適當的標準化電子格式、在著作初出版時立即被存放在至少一種線上素材庫(online repository)中，而該等線上素材庫必須是由學術機構、政府組織或其他設立完善以尋求促進開放近用、不受限制地散布、可互通性及長期典藏為目的的組織所支持。&lt;/p&gt;
+
+&lt;p&gt;延續布達佩斯開放近用提議及貝斯達開放近用出版宣言的精神，於2003年簽署的柏林宣言關於科學及人文學知識的開放近用 (Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities)進一步列舉了開放近用內容(Open Access Contribution)，舉凡原始科學研究結果、原始資料及後設資料、以數位方式呈現的圖像資料和學術多媒體資料都屬此處所定義的「開放近用內容」；此外，柏林宣言關於科學及人文學知識的開放近用對於「開放近用內容」的判斷標準，則幾乎相同於貝斯達開放近用出版宣言對於「開放近用出版」的認定標準 [4]。&lt;/p&gt;
+
+&lt;p&gt;值得一提的是，源自於Creative Commons、卻獨立於Creative Commons、旨在建立全球社群的連結來共同推動開放教育、開放近用出版、自由軟體等運動的iCommons，在去年七月於巴西里約熱內盧舉行的 iCommons年會會後，與會者本著相信科學研究的未來、高等學習及教育需要讀者及研究人員能最廣泛、最即時的接近使用學術記錄文件，因而請求 iCommons及其董事會簽署柏林宣言和布達佩斯宣言[5]；而Creative Commons則在2005年成立了Science Commons計畫以處理更複雜的科學層面的著作權授權相關議題，本文之後會詳細介紹Science Commons的「出版」計畫。&lt;/p&gt;
+
+&lt;p&gt;開放近用運動(open access movement)始自何時，並無確切的起始時間點，但可以肯定的是網際網路的發展對開放近用運動的發展影響很大(Denicola, 2006)。網際網路及全球資訊網的出現，對期刊出版商提供了能降低成本及改善效能的誘因，因此期刊出版商將電子化期刊的作業移植到網際網路的平台上；然而，因為學術出版業中營利性質者占多數，而這些出版商運用他們對於價格的聯合操控力量，使得期刊價格不降反升(Carroll, 2006)。因此，網際網路的發展及不停調漲的期刊訂閱價格都可說是促成開放近用運動的因素(Carroll, 2006; Hunter, 2005)。&lt;/p&gt;
+
+&lt;p&gt;不停調漲的期刊價格除了影響到個人訂戶，學術期刊的大宗訂戶（如預算有限的大學）也是苦不堪言，對於解決這個困境，布達佩斯開放近用提議中提供了兩種作法：(1)鼓勵學者置放其著寫的期刊文章於開放電子檔案庫中（這通常稱為自我典藏(self-archiving)）；及 (2)開創認同開放近用理念的新期刊及協助現行採傳統向使用者收費模式的期刊轉換至開放近用模式，以達到開放近用學術期刊的目標。&lt;/p&gt;
+
+&lt;p&gt;傳統學術出版模式，多數要求作者轉讓著作權予期刊經營者，在此情況下作者需要獲得期刊經營者的授權才能將其著作典藏於開放近用的素材庫中，目前儘管並非全部傳統收費模式的期刊皆允許作者將刊後版本(postprint)自我典藏，但已有高達七成的期刊允許刊後版本的自我典藏(Suber, 2006)。英國的聯合資訊系統委員會(Joint Information Systems Committee)所成立的SHERPA/RoMEO計畫以羅蜜歐色系(RoMEO colours)，將期刊出版商允許作者自我典藏的程度，作了由寬至嚴的四種分類：綠色、藍色、黃色及白色[6]。綠色代表該出版商出版的期刊允許作者將刊前版本(preprint)及刊後版本自我典藏；藍色代表該出版商出版的期刊允許作者將刊後版本自我典藏；黃色代表該出版商出版的期刊允許作者將刊前版本自我典藏；白色則代表該出版商不支持作者自我典藏。不論是刊前版本或刊後版本的自我典藏，對於學術研究者而言，皆在透過傳統訂閱學術期刊或專業領域資料庫瞭解其專業領域中最新研究現況的途徑之外，另開啟一資訊得被近用的便捷管道，長遠來看，對資訊的開放近用、學術研究的產出及知識文化的累積皆具有相當正面的助益，因此自我典藏的概念已為多數期刊所採納。（待續）&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 02 Nov 2007 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">371 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/371#comments</comments>
+</item>
+</channel>
+</rss>

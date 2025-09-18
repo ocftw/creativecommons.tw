@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 創用 CC 2.5</title>
+ <link>https://creativecommons.tw/category/tags/%E5%89%B5%E7%94%A8-cc-25</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>我可以把過去以創用CC授權2.5版釋出的作品，改版成3.0版嗎？</title>
+ <link>https://creativecommons.tw/blog/20091125</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;王珮儀 Pei-yi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;自從「創用CC授權3.0版臺灣華語版」正式上線後，常有人來詢問這個問題「我可以把過去以創用CC授權2.5版釋出的作品，改版成3.0版嗎？」&lt;/p&gt;
+
+&lt;p&gt;大家在詢問這個問題之前，可能要先再次確定自己是否了解3.0版與2.5版的差異性之外，還要了解這個差異性對於授權人與被授權人雙方有什麼影響，再決定要不要作「變動」。而所謂的「變動」，究竟是「直接升級成3.0版，並取代掉2.5版」？還是「3.0版與2.5版共同並存」呢？答案是後者「3.0版與2.5版共同並存」。&lt;/p&gt;
+
+&lt;p&gt;還記得創用CC授權的性質是具有「不可撤回性」的嗎？在法律文字中寫到「授權人授與您全球、免權利金、非專屬、『永久的（在著作權存續期間內）』許可」。因此，這個「改版成3.0版」，是沒有辦法直接升級的，並且2.5版與3.0版並沒有哪一個比較好、哪一個比較壞的問題，只有哪一個版本比較符合權利人（授權人）的需求的問題。&lt;/p&gt;
+
+&lt;p&gt;因此如果您（權利人）在比較過後，覺得3.0版比2.5版更符合您的需求，並希望將過去以創用CC授權2.5版釋出的作品，改版成3.0版，這時，會變成「3.0版與2.5版兩種授權共同並存」，結果是被授權人(例如：使用者)可以依照自己的想法，選擇適用對自己比較有利的授權條款，而履行其契約上的義務。例如2.5版沒有在契約裡規定「禁止背書的規定」，而3.0版有，即便授權人先採用2.5版釋出作品後，發現3.0版比較符合自己的需求，因此將2.5版的授權圖示或文字拿掉或取消後，再採用3.0版釋出一遍，被授權人(例如：使用者)還是可以主張因為2.5版沒有「禁止背書的規定」，而在使用該著作時，有可能隱涉到與該著作的原始著作人、授權人或姓名標示對象有任何關聯時，也不會被認定違反3.0版的契約義務（不過在這邊如何判斷使用情形有背書關係仍有待確定）。當然此處被授權人有沒有涉及到侵害法律上所賦予權利人的其他權利（例如人格權），又是另外一回事，而必須另外判斷。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 25 Nov 2009 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">184 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20091125#comments</comments>
+</item>
+<item>
+ <title>CC授權條款2.5版</title>
+ <link>https://creativecommons.tw/blog/20050801</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jedi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;CC 授權條款 2.5版只針對2.0版中與姓名標示有關的條項作細部修改，目的是為了滿足wikis和開放近用期刊社團 (open access journal community)的需要。&lt;/p&gt;
+
+&lt;p&gt;對應到限制條件最寬鬆的「姓名標示」授權條款（Attribution license）第4(b)條，主要的修改是基於以下兩原因：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;姓名標示與著作權聲明（copyright notice）相關，而依wiki內容的作者/授權人的意願，允許被授權人表彰wiki（而非wiki內容的作者）或wiki及一位或多位wiki內容作者的署名。&lt;/li&gt;
+	&lt;li&gt;考量開放近用期刊的需求，使學者和其他人能確保他們自己及其任教的大學或贊助機構及/或期刊的屬名被保留。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;CC授權條款2.5版修改部份，請&lt;s&gt;&lt;a href=&quot;http://creativecommons.org/drafts/by_2.5.pdf&quot;&gt;點此連結&lt;/a&gt;&lt;/s&gt;&amp;nbsp;(連結失效)&amp;nbsp;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 01 Aug 2005 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">57 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20050801#comments</comments>
+</item>
+</channel>
+</rss>

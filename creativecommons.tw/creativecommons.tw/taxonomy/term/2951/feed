@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 網站設計</title>
+ <link>https://creativecommons.tw/category/tags/%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>GLYPHICONS—ICON圖像設計分享平台</title>
+ <link>https://creativecommons.tw/blog/20150330</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;「回去請幫我在臉書按個讚吧！」聽到這句話，你的腦海想必浮現出一個藍色外框的大拇指圖像。&lt;/p&gt;
+
+&lt;p&gt;這就是ICON的驚人影響力。&lt;/p&gt;
+
+&lt;p&gt;隨著資訊量不斷增長，ICON扮演的角色越來越重要，不論是電腦桌面的應用軟體圖示、網站上的分類標記，同樣都是透過一個簡單的ICON取代文字、迅速標出重點用途，減少使用者自己花時間摸索的挫折感，甚至能留下一個深刻的品牌印象，讓人一想到某個服務時自動在心中浮現某個圖像。在觸控式螢幕和app日益普及的今日，更是極為仰賴以一個簡單小圖案來傳達產品訊息，ICON的大小也因為觸控的便利性受到重視。&lt;/p&gt;
+
+&lt;p&gt;設計ICON時，並沒有想像中的容易。一方面，不能過於複雜或簡單到讓人無法一眼了解圖像代表的意義，也要避免和其他符號混淆，加上由於ICON通常是一整組的，需要考量光線、陰影、風格、材質等的一致性，還有要因應不同的用途調整大小。更重要的是，要考量使用者的社會文化脈絡，設計出使用者可以掌握圖像對應意義的ICON，舉例來說，在一個沒有漢堡的國家中以漢堡做為代表食物的ICON，就會讓使用者無法了解以及使用。&lt;/p&gt;
+
+&lt;p&gt;Jan Kovařík是網站和平面設計師，他發現網路上現有的ICON組合不符合他的需要，而且很多都過時了，所以就設計出一套自己的ICON，並建了一個網站&lt;a href=&quot;http://glyphicons.com/&quot;&gt;GLYPHICONS&lt;/a&gt;做為單一顏色、具有一致性、強調簡單和易用性的ICON圖書館。&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/icon.jpg&quot; style=&quot;border:0px; display:block; height:403px; line-height:inherit; margin:0px; padding:10px; vertical-align:baseline; width:640px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;起初，這些ICON是為了用在行動裝置的按鈕和瀏覽列上而設計，不過最終的成品也能用在一般的網頁上。在設計時，他的靈感來源是美國平面設計協會(AIGA)的&lt;a href=&quot;http://www.aiga.org/symbol-signs/&quot;&gt;圖形文字集&lt;/a&gt;以及Apple設計的符號，另外，有鑑於自己當初無法應用其他網站上ICON的原因，他最終的設計讓這些ICON很容易結合，也很容易改變大小、顏色、背景，並能在各種裝置上使用、輸出成紙本或電子的不同格式。&lt;/p&gt;
+
+&lt;p&gt;不過，由於這些ICON是Jan Kovařík的經濟收入來源，因此ICON的利用方式分成三個等級：GLYPHICONS PRO、GLYPHICONS ALL和GLYPHICONS FREE，雖然三個等級都可以使用網站上的420個ICON，但是能利用的程度不同。&lt;/p&gt;
+
+&lt;p&gt;前兩個等級都需要付費，GLYPHICONS PRO可以使用ICON的向量圖檔，方便更改調整、可以輸出成不同格式，而且可以使用網站上任何新的產品；GLYPHICONS FREE等級則是以創用CC「&lt;a href=&quot;http://creativecommons.org/licenses/by/3.0/deed.en&quot;&gt;姓名標示&lt;/a&gt;」授權，使用時要標示出此網站的站名與連結和CC授權方式，雖然可以用在商業或個人用途，但是只能使用小的PNG檔，修改和調整的空間不如付費的版本，能創新的可能性也就比較低了。&lt;/p&gt;
+
+&lt;p&gt;參考資料：&lt;br /&gt;
+&lt;a href=&quot;http://www.dreamtemplate.com/blog/web-design-tips/importance-of-icons-in-website-designing/&quot;&gt;http://www.dreamtemplate.com/blog/web-design-tips/importance-of-icons-in-website-designing/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://psd.tutsplus.com/articles/7-principles-of-effective-icon-design/&quot;&gt;http://psd.tutsplus.com/articles/7-principles-of-effective-icon-design/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 30 Mar 2015 05:45:30 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">711 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20150330#comments</comments>
+</item>
+</channel>
+</rss>

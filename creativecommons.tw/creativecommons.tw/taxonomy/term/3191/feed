@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - contribution</title>
+ <link>https://creativecommons.tw/taxonomy/term/3191</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>何種權利吸納能轉以政府資料開放進行應用？ - 公眾授權討論系列（二）</title>
+ <link>https://creativecommons.tw/blog/20161127</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/Taiwan%20Open%20Government%20Data%20License-1.0.png?itok=uXpVpsE5&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;政府資料開放授權條款－第 1 版: &lt;a href=&quot;http://data.gov.tw/license&quot; target=&quot;_blank&quot;&gt;http://data.gov.tw/license&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;「&lt;a href=&quot;http://data.gov.tw/license&quot; target=&quot;_blank&quot;&gt;政府資料開放授權條款－第 1 版&lt;/a&gt;&amp;nbsp;(Open Government Data License version 1.0, OGDL-1.0)」，已於 2015 年 7 月 27 日訂定並公告生效，此一版本為行政院國家發展委員會邀集中央各部會集思廣益，並廣納民間建議進行討論後，取得共識的革新版本。OGDL-1.0 與過往「使用規範」在授權處理上，亦具有極大的差異，並提供使用者極高的應用空間與自由。整體而言，OGDL-1.0 的革新性有三大要點：1、明訂所提供之資料，在著作權領域的授權不會被撤回，且不限制使用時間、地域，與目的，讓使用者都能夠安心使用這些資料；2、使用者得以自己名義，對這些資料以再轉授權之模式進行利用，有助於開放資料被用於任何情境，包括商業目的之脈絡；3、於第 4 條第 2 項新增「創用CC 授權轉換條款」，讓原以 OGDL-1.0 提供的資料，必要時得轉以「創用CC 姓名標示 4.0 國際版本授權條款 (Creative Commons Attribution License 4.0 International, CC BY 4.0)」的方式進行利用。綜合上述三點，OGDL-1.0 是一個對使用者非常親善，且鼓勵再行衍生利用的授權模式。只不過，對於公務單位來說，要提供如此大範圍的授權利用，依傳統模式原則上僅有公務人員自行產製的編輯著作，或是採購契約上明定機關取得所有權利的素材，才適合採用 OGDL-1.0 進行公眾授權。&lt;/p&gt;
+
+&lt;p&gt;然而，若是在採購、補助之初，即可透過契約附款的方式，明確表示公務機關構，得採非專屬 (non-exclusive)、不可撤回 (irrevocable)、得再轉授權 (sublicensable) 之模式，取得專案相關著作財產權利之授權，且嗣後亦得進行任何目的之利用(for any purpose)，則即使在非專屬授權之基礎，亦不妨礙取得素材之機關構，嗣後將其轉以 OGDL-1.0 授權，並置於 data.gov.tw 平台上進行不限制對象之流通！在必要時，亦得以選擇任一組合的創用CC 授權條款，進行後續的公眾釋出。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【非專屬授權吸納卻不限制使用目的、期間之國際先例】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;從商用領域與社群發展的著例來看，Google Android 與全球擴散的「開放街圖專案 (OpenStreetMap)」，其用於著作權利吸納的貢獻條款，皆是以非專屬、不可撤回、不限制使用目的、時間、地域，得再轉授權方式取得貢獻後，再由被授權之統轄法人，以接續得允許再轉授權方式將這些成果以集合方式釋出予公眾使用。前者依此條件取得貢獻者授權後，是 Google 採自身名義，以 Apache-2.0 開源授權釋出軟體專案的集合成果，而後者則採「開放資料庫授權條款 1.0 (Open Database License, ODbL-1.0)」，由開放街圖基金會 (OpenStreetMap Foundation，OSMF) 為授權人，釋出所編撰的地圖資料庫。&lt;/p&gt;
+
+&lt;p&gt;此外，國外政府就公部門這端，亦開始靈活運用授權吸納與再轉授權機制，以較低廉的價金取得著作權利授權，嗣後亦得在必要時指定改採公眾授權模式來釋出相關素材。例如美國聯邦政府勞動部，透過補助契約要求 1 億 5000 萬美元的失業人口再就職輔導計畫成果，明示保留其「已償付、非專屬、不可撤回」的被授權地位；而美國國家地理資訊局 (National Geospatial-Intelligence Agency, NGA) 與民間廠商，透過圖資授權契約取得之被授權地位，原本僅得用於公務目的之使用，然註記一旦發生重大災難，其可援引附約規定，將國家地理資訊局本來取得的授權，轉予其他協助災難救助的州政府、地方政府、國際協助組織，或其他協力救災的相關機構進行使用。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【改採政府資料開放授權條款提供素材之吸納要點】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;可知國際上政府機構或大型機構，透過著作權指定或讓予取得權利，並非唯一方式，而以非專屬、不可撤回、得再轉授權、不限制目的；或在特殊狀況如急難救助的名義下，開啟得再轉授權與不限制目的之特殊地位，是一個更靈活與便利被授權者未來舉措的模式與趨勢。一般來說，要達到這樣的授權吸納，於最初的著作權及相關權利授權同意書，應具體述明下列的權利吸納要點：&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;茲將本人／公司提交之_XXXXX專案_之著作財產權，採非專屬 (non-exclusive)、不可撤回 (irrevocable)、得再轉授權 (sublicensable) 之模式，授權予「機關構名稱」嗣後進行任何目的之利用 (for any purpose)，包括但不限於以本人／公司名義、被授權人名義，或其他合法經被授權人依本同意書再授權者，採「政府資料開放授權條款-第 1 版 (http://data.gov.tw/license)」或其他開放授權條款向外釋出。&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;如未涉及著作人格之污衊，本人／公司同意不向被授權人及其後續授權對象，行使著作人格權。&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;設此，則被授權之公務機關構，即取得一個雖基於非專屬的基礎，但無礙將相關素材未來改以開放授權提供予公眾使用之地位，並且必要時，得逕以提交者本身名義，或公務機關構名義進行授權散布。從實而言，過去我國多數的公務機關，並未知曉是類契約的訂立方式，然隨著開放資料、開源軟體的逐年推廣與加深應用，未來勢必將有部份重要的資料、素材，應透此種吸納模式取得，一方面能夠讓原權利人繼續深度活化應用其創作或編輯成果，另一方面則亦可在必要時，將最符合公眾需求的素材，酌採開放授權的模式進行散布，以收權利保障與推展應用相合益彰之效果。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;政府資料開放授權條款－第1版：&lt;a href=&quot;http://data.gov.tw/license&quot; target=&quot;_blank&quot;&gt;http://data.gov.tw/license&lt;/a&gt;，2015 行政院國家發展委員會。&lt;/li&gt;
+	&lt;li&gt;Google Individual Contributor License Agreement: &lt;a href=&quot;https://cla.developers.google.com/clas/new?domain=DOMAIN_GOOGLE&amp;amp;kind=KIND_INDIVIDUAL&quot; target=&quot;_blank&quot;&gt;https://cla.developers.google.com/clas/new?domain=DOMAIN_GOOGLE&amp;amp;kind=KIND_INDIVIDUAL&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;OpenStreetMap Contributor Terms 1.2.4: &lt;a href=&quot;https://wiki.osmfoundation.org/w/index.php?title=Licence/Contributor_Terms&amp;amp;redirect=no&quot; target=&quot;_blank&quot;&gt;https://wiki.osmfoundation.org/w/index.php?title=Licence/Contributor_Terms&amp;amp;redirect=no&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;Notice of Availability of Funds and Solicitation for Grant Applications for H-1B Ready to Work Partnership Grants: &lt;a href=&quot;https://www.doleta.gov/grants/pdf/SGA_DFA_PY_13_07.pdf, 2014 U.S. DEPARTMENT OF LABOR&quot; target=&quot;_blank&quot;&gt;https://www.doleta.gov/grants/pdf/SGA_DFA_PY_13_07.pdf, 2014 U.S. DEPARTMENT OF LABOR&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;NextView Imagery End User License Agreement: &lt;a href=&quot;http://geocenterusaid.org/rswebpage/NextView.html&quot; target=&quot;_blank&quot;&gt;http://geocenterusaid.org/rswebpage/NextView.html&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Nov 2016 17:39:47 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1236 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20161127#comments</comments>
+</item>
+<item>
+ <title>非專屬授權用於公務權利吸納之應用與討論 - 公眾授權討論系列（一）</title>
+ <link>https://creativecommons.tw/blog/20161126</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/Creative%20Commons%20Taiwan%E5%AE%A3%E5%82%B3%E6%89%8B%E5%86%8A%E5%B0%81%E9%9D%A2-01.png?itok=lW13Tj6-&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/download/Creative_Commons_Taiwan_manual_v1.pdf&quot; target=&quot;_blank&quot;&gt;Creative Commons Taiwan宣傳手冊&lt;/a&gt;封面，總編輯莊庭瑞、主編黃靖元、執行編輯林懿萱，&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/2.0/tw/&quot; target=&quot;_blank&quot;&gt;CC BY-SA 2.0 TW&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;台灣創用CC計畫 (Creative Commons Taiwan) 於近 2003 年底成立時，所編撰的第一版宣傳手冊上的標語是「權利不變、創意無限」，意指著作權利依照著作權法的規定，為權利人保留所有權利 (All rights reserved)，這樣的預設雖然高度保障著作權利人的法律地位，但在這個數位時代卻也常常造成著作分享與再利用的障壁，而若能善用創用CC 授權條款 (Creative Commons Licenses)，則權利狀態改為權利人保留部份權利 (Some rights reserved)，一般使用者若能夠辨析 CC授權的應用方式，即得「不問可取」的合法利用這些素材，從而激勵更多後續的創意與創作。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【權利微變、創意無限 - 非專屬授權帶來的改變與契機】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;雖然實質來論「權利不變」，並不是一個高度精準的詞彙，因為畢竟採用 CC授權的素材，原則上皆已被允許重製、散布，及公開演播，只要使用者額外注意這些利用行為，是否限定在非商業環境或不去改作的前提下才得以進行，所以權利人所能掌控的權利範圍，確實有所變動。然而，CC授權屬於「非專屬授權 (non-exclusive)」，意指原權利人嗣後仍得以自行利用這些素材，而不會喪失自主另行授權利用該素材的地位。這樣的彈性方式，從權利提供方開啟了該素材得被多為利用的機會，而現在這股非專屬授權的潮流，也影響到公務機關在權利吸納方面的舉措，進一步從權利吸納方，拓展了許多公務補助素材的應用廣度。&lt;/p&gt;
+
+&lt;p&gt;近期文化部正就文化科技政策進行規劃研擬，期間亦就願意提供反饋意見的產學代表進行了焦點訪談。於產製文化創作領域的期中審查，有論者指出：「在補助政策與文化創作環境的清整與扶持上，應讓創作者保有其智慧財產權，而不是奪走其相關權利，如此的調整方式，才能真正的扶植創作者、深化國內的創作環境。」其實，這樣的論點近年於公眾授權的推廣領域已不乏見，舉例來說，美國勞動部於 2014 年，執行 1 億 5000 萬美金的促進就職補助計畫時，要求相關素材必須以非專屬、不可撤回，得再為深度利用之方式提供授權予聯邦政府，並以創作者自己名義，將這些素材以「創用CC-4.0-姓名標示 (CC-BY-4.0)」授權條款進行公眾釋出；而美國聯邦教育基金，從 2011-2015 年撥款 20 億美元，來浥注各社區大學編撰與推廣職業進修課程ー申請補助金的前提與交換條件，亦是相關教材與產出資源，必須以非專屬、不可撤回，得再為深度利用之方式提供授權予補助機關，同時以創作者自己名義，以創用CC 姓名標示-3.0 條款提供予公眾再利用。此種作法的要點在於：1、毋須要求著作人將相關素材進行著作權轉讓 (copyright assignment)，2、提供補助金之機關構取得之授權並非專屬授權，3、得以著作人本身名義為其進行素材的公眾授權。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【非專屬授權與著作權轉讓、專屬授權之間的差異】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;所謂著作權轉讓，是以契約約定當著作完成時，本屬於著作權利人之著作財產權，悉然轉讓予提供補助金或發包金的機關構，也就是說，雖然著作人還是原始創作者，但所有重製、散布、改作、公開演播等樣態的財產權利，已全然移轉予公務機關。而從字義上來了解「專屬／非專屬」授權的關係時，可以合理的與「獨佔／非獨佔」這兩個字詞做一定程度的連結，專屬授權屬於一種封閉、排外的獨佔關係，針對特定人或是特定背景做出授權行為，並排斥其他「非被授權人」使用該作品，也就是說，在專屬授權期間內，原始創作者自己都不得就財產權方面利用該著作，但非專屬授權則可向不特定多數人進行授權動作，類似非獨占的概念，故著作權利人在過往的授權關係中，雖已約定將特定作品在一定期間內將一部份的權利以非專屬的方式授權給對方，但在其後的授權關係中，仍然可以將該等權利另外授權給他人進行使用。所以說，公務機關若能在必要時，改採非專屬授權模式取得授權，有時並不妨礙其後續公務之推展，亦可不限定原始創作者自行深化利用該著作，在該素材需要被廣為流傳的情境下，更是雙贏策略。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Creative Commons Taiwan宣傳手冊：&lt;a href=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/download/Creative_Commons_Taiwan_manual_v1.pdf&quot; target=&quot;_blank&quot;&gt;http://creativecommons.tw/sites/creativecommons.tw/files/download/Creative_Commons_Taiwan_manual_v1.pdf&lt;/a&gt;，2003 中研院資訊所, CC BY-SA 2.0 TW。&lt;/li&gt;
+	&lt;li&gt;取之於公眾、回歸於公眾ー公部門出資成果轉以創用CC 及自由開源軟體授權條款回歸公眾利用的實務範例！：&lt;a href=&quot;http://creativecommons.tw/blog/20140517&quot; target=&quot;_blank&quot;&gt;http://creativecommons.tw/blog/20140517&lt;/a&gt;，2014 林誠夏、黃郁文編譯，CC BY 4.0。&lt;/li&gt;
+	&lt;li&gt;CC BY 4.0 required on U.S. Department of Labor $150M grant: &lt;a href=&quot;https://creativecommons.org/2014/03/28/cc-by-4-0-required-on-u-s-department-of-labor-150m-grant/&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/2014/03/28/cc-by-4-0-required-on-u-s-department-of-labor-150m-grant/&lt;/a&gt;, 2014 Cable Green CC BY 4.0.&lt;/li&gt;
+	&lt;li&gt;Notice of Availability of Funds and Solicitation for Grant Applications for Trade Adjustment Assistance Community College and Career Training Grants Program: &lt;a href=&quot;https://www.doleta.gov/grants/pdf/SGA-DFA-PY-10-03.pdf&quot; target=&quot;_blank&quot;&gt;https://www.doleta.gov/grants/pdf/SGA-DFA-PY-10-03.pdf&lt;/a&gt;, 2011 U.S. DEPARTMENT OF LABOR.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Nov 2016 15:18:35 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1235 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20161126#comments</comments>
+</item>
+</channel>
+</rss>

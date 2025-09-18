@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 反科技保護措施</title>
+ <link>https://creativecommons.tw/category/tags/%E5%8F%8D%E7%A7%91%E6%8A%80%E4%BF%9D%E8%AD%B7%E6%8E%AA%E6%96%BD</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>創用CC 授權條款3.0台灣華語版面世前之先行導讀</title>
+ <link>https://creativecommons.tw/in-depth/406</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林懿萱&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;在大家殷殷期盼下，創用CC授權條款 3.0台灣華語版即將於今年夏季正式推出了！之前，在創用CC計畫網站上能找到最新版的本地化創用CC授權條款是於2006年推出的2.5版，隨著Creative Commons（以下簡稱CC）推出了授權條款3.0 「尚未本地化」(unported)的版本，各國陸續展開本地化的工作，台灣創用CC計劃亦不例外。然為何時隔二年多才完成3.0版的台灣華語本地化授權條款？&lt;/p&gt;
+
+&lt;p&gt;一來因為3.0版相較於之前的2.5版，不是只有小幅度的用語調整，而是對授權條款內容有大幅度的增修；二來因為台灣創用CC計畫團隊為求謹慎，3.0版中關於著作權仲介團體的規定，不但特別尋訪智慧局著作權組諸位專家的意見，針對3.0版細部用語，更是邀集諸位法學專家，如台灣大學的謝銘洋教授、台灣科技大學的陳曉慧教授等，字字斟酌使本地化版本最貼近台灣法律用語，並同時不偏離原文太多。在多次開會討論後，終於完成了本地化的3.0台灣華語版，以下將分別針對3.0版主要新增或變動的內容，及用詞增修暨中譯用語調整兩大部份，分別為讀者介紹：&lt;/p&gt;
+
+&lt;h2&gt;&lt;strong&gt;一、3.0版主要變動內容：&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;(一) 區分「尚未本地化版」與「美國版」授權條款：2.5版及之前的授權條款是奠基於美國著作權法而來，自3.0版以下CC另制定一奠基於伯恩公約、羅馬公約、世界智慧財產權組織著作權條約(WCT)及保護表演人及錄音物製作人權利之條約(WPPT)等國際智慧財產協定的「尚未本地化」授權條款，以符合參與Creative Commons International計畫的眾多司法管轄領域在移植授權條款上的需求。&lt;/p&gt;
+
+&lt;p&gt;(二) 增加被授權人創作及重製衍生著作的「條件」：只有當改用作品(Adaptation)（如譯本）中，以合理方式清楚標示、區分或以其他方法指&lt;br /&gt;
+明本著作之原始版本已被變更，被授權人方得創作及重製改用作品&lt;strong&gt;[註1]&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;(三) 關於收取權利金的規定，3.0「尚未本地化」版針對各司法管轄領域不同的規定，設計三種處理方式，台灣原則上適用自願性授權結構(voluntary license schemes)，規定授權人「拋棄」由個人，或當授權人是著作權集體管理團體（或稱為「著作權仲介團體」）的會員的情況下，透過該集體管理團體，向被授權人收取權利金的權利。然而，在授權人是著作權集體管理團體的會員的情況下，授權人能否拋棄上述權利，仍須視授權人與該集體管理團體所訂立的管理契約內容而定。&lt;/p&gt;
+
+&lt;p&gt;(四) 調整關於「反科技保護措施」(anti-technology protection measures)規定的用語：2.5版原則上允許被授權人對採用創用CC釋出的該著作或該著作的衍生著作的接近或使用，採取「合於該創用CC授權條款」之科技措施加以控制；而3.0版則禁止被授權人在散布或公開演播(publicly perform)該著作或該著作的改用作品時，使用任何有效的科技措施，來限制從被授權人處取得該著作或該著作的改用作品的接受者，行使創用CC授權條款所授與他的權利&lt;strong&gt;[註2]&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;(五) 建構相容性(compatibility)的架構：讓改用作品能依「創用CC相容授權條款」釋出&lt;strong&gt;[註3]&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;(六) 新增禁止背書規定：除非取得原始著作人、授權人或姓名標示對象(Attribution Parties)的同意，否則被授權人不得主張其使用該著作，而與該著作的原始著作人、授權人或姓名標示對象有任何關聯。&lt;/p&gt;
+
+&lt;h2&gt;&lt;strong&gt;二、3.0版用詞增修暨中譯用語調整部分：&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;(一) 在第1條「定義」中，增修了數個用語，包含：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;使用較“Derivative Work”(衍生著作) 涵蓋範圍更廣的、更上位的詞彙“Adaptation”(改用作品) &lt;strong&gt;[註4]&lt;/strong&gt;，而不沿用Derivative Work。針對Adaptation作本地化中譯時，因為考量到若沿用「衍生著作」，讀者可能對將Adaptation與我著作權法中的「衍生著作」作直接聯想，且3.0版授權條款中Adaptation的定義，不見得必定達到我著作權法需具創作性的「著作」程度，所以另使用「改用作品」此一較中性的譯詞。&lt;/li&gt;
+	&lt;li&gt;使用較“Collective Work”(編輯著作)更為中性的詞彙“Collection”(彙編)&lt;strong&gt;[註5]&lt;/strong&gt;。因為2.5版對“Collective Work”及3.0版對“Collection”兩者的定義不盡相同，後者不要求一定須具備選擇與編排的創作性，所以中譯上使用「彙編」這個譯語，以和我著作權法的「編輯著作」相區別。&lt;/li&gt;
+	&lt;li&gt;擴大對“Original Author”(原始著作人)的定義範圍，除包含文學或藝術創作的創作人外，也將表演人及錄音物的製作人納入；此外，亦擴大對“Work”(本著作)的定義解釋。&lt;/li&gt;
+	&lt;li&gt;新增對“Distribute”(散布)、“Creative Commons Compatible License” (創用CC相容授權條款) &lt;strong&gt;[註6]&lt;/strong&gt;、“Publicly Perform”(公開演播)&lt;strong&gt;[註7]&lt;/strong&gt;及“Reproduce”(重製)的定義&lt;strong&gt;[註8]&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;(二)擴大對第2條“fair dealing rights”(合理使用權)的解釋範圍：不若2.5版列舉地規定，創用CC授權條款「無意減少、限制或約束自合理使用、第一次銷售原則所生之權利或其他對著作權人專屬權利」；3.0版規定，創用CC授權條款「無意減少、限制或約束任何和著作權無關的使用或依據著作權法或其他相關法律，得主張著作權保護限制或例外之權利」。&lt;/p&gt;
+
+&lt;p&gt;(三) 關於「著作人格權」各司法管轄領域規定不盡相同，中譯時不直譯3.0版原文，而是依我國現行著作權規定，採用「『著作人格權』在相關法律認可的範圍內不受影響且係不可拋棄的」用語。3.0版的推出並不必然使得之前的2.5版或2.0版失效，您可依自身需要選擇最適合的授權條款版本及類型。希望本文能幫助您對創用CC授權條款3.0台灣華語版有概括性的認識。若您想了解更多關於創用CC授權條款的相關資訊，請連結至&lt;a href=&quot;http://creativecommons.org.tw&quot;&gt;台灣創用CC計畫網站&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[註1]&lt;/strong&gt;：詳參創用CC授權條款3.0尚未本地化版第3條「授權」第b項。&lt;br /&gt;
+&lt;strong&gt;[註2]&lt;/strong&gt;：關於「反科技保護措施」(anti-technology protection measures)規定，請參3.0「姓名標示-非商業性-相同方式分享」尚未本地化版第4條「限制」第a, b項。&lt;br /&gt;
+&lt;strong&gt;[註3]&lt;/strong&gt;：「創用CC相容授權條款」(Creative Commons Compatible License)定義，請參3.0「姓名標示-相同方式分享」尚未本地化版第1條第c項。&lt;br /&gt;
+&lt;strong&gt;[註4]&lt;/strong&gt;：“Adaptation”(改用作品)的定義，請參創用CC授權條款3.0尚未本地化版第1條「定義」第a項。&lt;br /&gt;
+&lt;strong&gt;[註5]&lt;/strong&gt;：“Collection”(彙編)的定義，請參創用CC授權條款3.0尚未本地化版第1條「定義」第b項。&lt;br /&gt;
+&lt;strong&gt;[註6]&lt;/strong&gt;：在CC六種授權條款中，只有「姓名標示-相同方式分享」此一授權條款特有對「創用CC相容授權條款」下定義，意即CC只允許「姓名標示-相同方式分享」此一授權條款的種類存在相容性的可能。&lt;br /&gt;
+&lt;strong&gt;[註7]&lt;/strong&gt;：因3.0尚未本地化版對“Publicly Perform”的定義和我著作權法第三條用詞定義無法完全對應，所以中譯時另擇「公開演播」這個譯語。&lt;br /&gt;
+&lt;strong&gt;[註8]&lt;/strong&gt;：3.0尚未本地化版對“Reproduce”(重製)的定義和我著作權法對「重製」的定義不盡相同，且又因我著作權法第3條對「重製」有其法律定義，所以條款內容中譯時，捨尚未本地化版的用語，而選擇使用我著作權法對「重製」的定義。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 05 Jun 2009 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">406 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/406#comments</comments>
+</item>
+</channel>
+</rss>

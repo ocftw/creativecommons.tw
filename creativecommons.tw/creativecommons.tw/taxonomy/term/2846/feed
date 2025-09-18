@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 能源</title>
+ <link>https://creativecommons.tw/category/tags/%E8%83%BD%E6%BA%90</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>下一個創業寶藏--政府開放資料</title>
+ <link>https://creativecommons.tw/in-depth/705</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;S.H. Shih /文 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;美國前總統雷根（Ronald Reagan）應該沒想到任期內的一道行政命令，會打開政府公開資料的寶藏。&lt;/p&gt;
+
+&lt;p&gt;1983年，大韓航空民航機誤闖蘇聯領空，遭擊射落海。事件發生後，雷根下令開放美國軍用全球衛星導航系統（GPS）給民間使用，避免同樣的悲劇再次發生。&lt;/p&gt;
+
+&lt;p&gt;一道開放令，在19年後，2011年由民間提供的GPS服務，已為美國帶來9千萬美元的收入，而這樣的經濟效益還在持續擴大中。 等於說，政府先將軟性基礎建設打下基礎，再進一步開放給民眾加值利用，背後帶來的創新及創業機會不容忽視。 這也難怪美國資訊長（Chief Technology Officer）陶德‧帕克（Todd Park）於2012年3月上任後，大力推動政府開放資料只是其一， 在「&lt;a href=&quot;http://www.opendatainitiative.org/&quot; target=&quot;_blank&quot;&gt;開放資料倡議（Open data initiative）&lt;/a&gt;」計畫中，帕克也特別強調，希望藉由政府開放資料、將資料轉換為機器可讀（machine-readable）模式後，能陸續帶動創新應用和創業活動，藉此創造工作機會（create jobs）。&lt;/p&gt;
+
+&lt;p&gt;帕克並不是空談。在他上任後，已大量舉辦橫跨政府部門、創業家、資料科學專家的聚會，希望透過跨界交流，激盪火花，等於是政府帶頭衝開放資料的金礦。 到目前為止，成效最好、並明顯增加就業機會的團隊，就屬下面3組：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.&lt;a href=&quot;https://www.itriagehealth.com/&quot; target=&quot;_blank&quot;&gt;iTriage&lt;/a&gt;&lt;/strong&gt;（採醫療機構公開資料）：&lt;br /&gt;
+&lt;strong&gt;商業模式：&lt;/strong&gt;兩名急診室的醫生，利用美國衛生及公共服務部門（Department of Health and Human Services）開放的醫療機構資料，讓使用者能根據所在位置，透過手機應用程式iTriage，立刻搜尋鄰近的診所及醫院。&lt;br /&gt;
+&lt;strong&gt;效應：&lt;/strong&gt;超過600家醫院與iTriage簽約，全美有800萬人次使用iTriage服務，公司也已聘僱90位人力。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.&lt;a href=&quot;http://opower.com/&quot; target=&quot;_blank&quot;&gt;OPower&lt;/a&gt;&lt;/strong&gt;（採能源和天氣公開資料）：&lt;br /&gt;
+&lt;strong&gt;商業模式：&lt;/strong&gt;透過政府開放的能源和天氣資料，為使用者量身訂做「家庭能源管理方案」，如果使用能源超過客戶預先設定的額度，OPower會發送通知，以協助各個家庭做好節能生活。&lt;br /&gt;
+&lt;strong&gt;效應：&lt;/strong&gt;OPower目前雇用超過200名人力，預估已幫使用者至少省下美金1.65億元的帳單。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3.&lt;a href=&quot;https://www.billguard.com&quot; target=&quot;_blank&quot;&gt;BillGuard&lt;/a&gt;&lt;/strong&gt;（採信用分數公開資料）：&lt;br /&gt;
+&lt;strong&gt;商業模式：&lt;/strong&gt;BillGuard 利用美國消費者金融保護局（Consumer Financial Protection Bureau）的信用卡客訴資料庫，向註冊的使用者每日免費發送信用卡檢測通知，讓使用者清楚知道自己口袋中的信用卡今天有沒有被盜用、被收取額外費用、 或產生錯誤收費。如有可疑的信用卡交易產生，BillGuard也會協助使用者索回金額。&lt;br /&gt;
+&lt;strong&gt;效應：&lt;/strong&gt;BillGuard已雇用21名員工。&lt;/p&gt;
+
+&lt;p&gt;這些團隊到底是如何把政府開放資料，轉化成具有市場性的應用和服務？社交平台LinkedIn前任科學家暨資料產品負責人派提爾（DJ Patil）特別撰寫的專文——「資料柔術（Data Jujitsu）」，或許可以提供一個方向。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;用「資料柔術」找機會&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;所謂「&lt;a href=&quot;https://en.wikipedia.org/wiki/Jujutsu&quot; target=&quot;_blank&quot;&gt;柔術（Jujitsu）&lt;/a&gt;」，就是將對方的攻擊力量，有效轉化為制服對方的技術。面對龐大的資料，也許你想到的是統計學、資料剖析等高深的技術，去攻擊資料的困難點，但派提爾卻建議：「大問題都要從小地方著手，所以首先要問的是：有任何人會需要你的資料產品（data product）嗎？」&lt;/p&gt;
+
+&lt;p&gt;派提爾借用「&lt;a href=&quot;http://theleanstartup.com/principles&quot; target=&quot;_blank&quot;&gt;最精簡可行產品（Minimum Viable Product）&lt;/a&gt;」的開發概念，以自己過去在Linkedin服務時，透過使用者測試，先提供初步適切的服務，再陸續調整資料探勘的流程和目標。&lt;/p&gt;
+
+&lt;p&gt;「把產品放第一，資料放第二，」派提爾強調，就算有超過8成的時間得花在整理、分析資料上，但思考資料產品的創新點子時，不妨先回到下面3個基本問題：&lt;/p&gt;
+
+&lt;p&gt;1. 你希望使用者從產品中得到什麼？&lt;br /&gt;
+2. 你希望使用者因為產品而進行什麼樣的行動？&lt;br /&gt;
+3. 使用者在使用產品時和使用產品後，分別感覺到什麼？&lt;/p&gt;
+
+&lt;p&gt;台灣政府開放資料平台已於日前正式上線，要如何從一筆筆的數字中挖掘創新點子、甚至是創業機會？透過以上美國的例子，希望能帶給你不一樣的刺激。&lt;/p&gt;
+
+&lt;p&gt;---&lt;br /&gt;
+&lt;strong&gt;延伸閱讀：&lt;/strong&gt;&lt;br /&gt;
+1. “&lt;a href=&quot;http://www.scientificamerican.com/article.cfm?id=how-to-kick-start-innovaton&amp;amp;fb_action_ids=10151575754633698&amp;amp;fb_action_types=og.likes&amp;amp;fb_source=timeline_og&amp;amp;action_object_map=%7B%2210151575754633698%22%3A344140802354738%7D&amp;amp;action_type_map=%7B%2210151575754633698%22%3A%22og.likes%22%7D&amp;amp;action_ref_map=&quot; target=&quot;_blank&quot;&gt;How to Kick-Start Innovation with Free Data&lt;/a&gt;”，available at 《Scientific America》,last visited 06/14/2013.&lt;br /&gt;
+2. &lt;a href=&quot;http://radar.oreilly.com/2012/07/data-jujitsu.html&quot; target=&quot;_blank&quot;&gt;資料柔術（Data Jujitsu）&lt;/a&gt;,last visited 06/14/2013.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 05 Jul 2013 01:48:22 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">705 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/705#comments</comments>
+</item>
+</channel>
+</rss>

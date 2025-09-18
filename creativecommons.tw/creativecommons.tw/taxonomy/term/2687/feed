@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 自由文化運動</title>
+ <link>https://creativecommons.tw/category/tags/%E8%87%AA%E7%94%B1%E6%96%87%E5%8C%96%E9%81%8B%E5%8B%95</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>雷席格的CC每週通信（九）：談授權條款相容性</title>
+ <link>https://creativecommons.tw/in-depth/72</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jedi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;勞倫斯．雷席格（Lawrence Lessig）著，2005年11月30日&lt;/p&gt;
+
+&lt;p&gt;前情提要：&lt;/p&gt;
+
+&lt;blockquote&gt;下一次通信裡，我會說明我們於2006年將推出的另一個方案。這個方案不只對CC重要，對於創作環境的生態也將是不可或缺的。請繼續收看！&lt;/blockquote&gt;
+
+&lt;p&gt;在這一週的通信裡：&lt;/p&gt;
+
+&lt;p&gt;自由的公共授權條款，並不是CC發明的。自由的公共授權條款可以說是理查．史托曼（Richard Stallman）發明的，至少他是第一個獲得廣泛成功的條款發明人。頭一個為創作內容（content）所設計的自由公共授權條款，也不是 CC 發明的。在我們開始投入此一領域之前，有很多人承繼了史托曼的路線，推出了適合創作作品的自由授權條款。Art Libre授權條款應當是其中最出名的了。BBC的Creative Archive授權條款則是近來最著名的例子之一，該條款起碼讓英國公民可以自由取得重要的英國文化資源。最後，自由軟體基金會（FSF; Free Software Foundation）的GNU自由文件授權條款（FDL; Free Documentation License）原先是為軟體文件所設計的 copyleft&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-1&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-1&#039;)&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;的授權條款，但最著名的使用者則是維基百科（Wikipedia）。&lt;/p&gt;
+
+&lt;p&gt;這幾種自由授權條款都有著一個共同的目的。每一種授權條款都希望能給創作者機會，以將幾種重要的自由授與他人。至於哪幾種自由，則可能依條款不同而有差別。以Creative Archive條款來說，它並不是copyleft的條款。至於自由文件授權條款（FDL）因為有加諸多種限制，因此使用Art Libre授權的作品便不適宜使用自由文件授權條款。不過這些差異倒是反映了創作社群的多樣性。重點不在於其間的差異，而在於其共通的目標。&lt;/p&gt;
+
+&lt;p&gt;但是所有上述這些自由授權條款，連同CC目前的各種授權條款在內，都有一項共通的缺陷。這些授權條款對待創作作品的方式，反而使得不同的創意間無法共存，這就有如1970年代的電腦界，或者在一個創作內容被數位權利管理（DRM）技術所掌控的世界那般。&lt;/p&gt;
+
+&lt;p&gt;舉例來說，如果你是名高中生，要寫一份關於哲學家維根斯坦（Ludwig Wittgenstein）的報告。既然你是21世紀的高中生，你當然不可能只會寫一份傳統的書面報告。你想用短片的方式來做報告。短片題目是「維根斯坦的世界，當代版」。你要用維基百科上面關於維根斯坦的生平資料來製作你的短片。&lt;/p&gt;
+
+&lt;p&gt;你的構想很簡單：你想將維基百科裡關於維根斯坦的生平描述拍成電影，再加上你在Flickr這種相簿網站裡所找到的照片，並配上你從Opsound音樂網站所下載來的音樂檔。&lt;/p&gt;
+
+&lt;p&gt;如同我先前的通信內容說的，數位內容（digital content）最重要的特點就是，從技術面來看，像這樣的拍片計劃實在只是小事一樁。數位技術讓創作人──只要付出相對來講相當些微的代價──能夠取得我們身旁的各種聲音及影像等文化素材，並將之「重混」（remix）在一起，創造出新的作品。一位利用各種現有數位技術的高中生，可以輕易完成我剛說的混合剪輯創作，而不會碰到任何技術性的門檻。當然啦，你還是要有夠好的創意才行。即使有最好的技術在手上，要拍片還是不容易的事。但是我們可以說，那樣的挑戰，才正是對創作者重要的挑戰。不要讓技術性問題擋在路中間，創作本身才是真正需要努力挑戰的工作。&lt;/p&gt;
+
+&lt;p&gt;但是從事自由文化運動（Free Culture Movement）的人，慢慢開始發覺，上述的情景，開始日益變得困難起來。雖然「技術上」你可以混合剪輯各種創意作品，但是你在「法律上」能這樣做嗎？那些「自由」的創意作品所採用的各種授權條款，能否允許那些自由的作品也被人剪輯混用？&lt;/p&gt;
+
+&lt;p&gt;結果答案是不行，令人驚訝（而對像我們這樣的律師來說，這是個難堪的答案）。即便是你想要混合剪輯的作品，採用了copyleft的授權條款，但因那些copyleft授權條款各自不同，因此你不能說將一種創意作品拿來與另一種創意作品搭在一起。舉例來說吧，維基百科全書採用了自由文件授權條款。該條款要求所有的衍生著作只能使用自由文件授權條款來授權。Opsound上面的音樂內容，以及Flickr相簿網站上的照片，使用的則是CC的「姓名標示─相同方式分享」授權條款（Attribution-ShareAlike），該條款也規定所有的衍生著作只能使用CC的「姓名標示─相同方式分享」授權條款來授權。所有這類的條款，在制定的時候，都沒有考慮到所有數位時代的技術進步所帶有的基本價值──亦即，可互通性（interoperability）。&lt;/p&gt;
+
+&lt;p&gt;我們打算修正此一問題。至少，我們希望嘗試去改變。其中一種方法是叫大家都去用某一種CC的授權條款。但是強迫全世界的人只使用一種條款，既違背我們的價值，對於自由文化的生態也無益處。因此我們不這麼做，我們反而是發起一項計劃，以協助各種具備足夠彼此相容性的授權條款，能夠達到可互通性的目標。我們會努力說服所有在自由授權領域的人一起加入我們這項計劃。&lt;/p&gt;
+
+&lt;p&gt;以下便是我們發起計劃的大要（不過希望你能瞭解，在我們訂下定版的計劃前，一定還會有很多要討論的地方）。我們先前發展出一套策略，用以確保授權條款在不同法律管轄區之間得以相容；你會發現這項計劃也是建立在該策略的基礎之上：&lt;/p&gt;
+
+&lt;p&gt;CC授權條款有三個層次：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;供一般人閱讀的CC授權標章（Commons Deed），其描述了創作內容有哪些自由，使用大家都能瞭解的文字寫成；&lt;/li&gt;
+	&lt;li&gt;供律師閱讀的法律條款（Legal Code）──也就是授權條款（license）──使得創作內容所帶的自由，是可以在法律上成立、被執行的；最後是&lt;/li&gt;
+	&lt;li&gt;可供機器閱讀的後設資料（metadata），使得創作內容所帶的自由，可以被電腦所理解收集使用。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;我們可以將這三個層次變成下圖：.&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;w9-1.png;&quot; class=&quot;image&quot; src=&quot;http://lh5.ggpht.com/_a0muzrcaKwo/S-E3BpYJwqI/AAAAAAAAAWU/l9a1EFRId9A/s800/w9-1.png;&quot; style=&quot;width:650px&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;我們在早先將CC授權條款移植（port）到其他法律管轄區，好讓世界各地的人都能根據當地法律將其創作作品授權出去。我們在這過程中的目標，是要確保在一個國家所授權的創作作品，能夠與在另一個國家所授權的創作能夠相容。因此在架構上，我們增加了在第二層的授權條款，因此整個設計看起來會像是這樣：&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;w9-2.png;&quot; class=&quot;image&quot; src=&quot;http://lh5.ggpht.com/_a0muzrcaKwo/S-E3B-_g7hI/AAAAAAAAAWY/0rnHm_iyqOM/s800/w9-2.png;&quot; style=&quot;width:650px&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;從今天開始，我們將推動一項新計劃，希望將這樣的可互通性推廣出去，不再僅限於CC授權條款之間。我們已經開始著手設立一個顧問團（我們稱之為「CC法律顧問團」〔Creative Commons Legal Advisory Board〕，簡稱ccLab），該顧問團會由世界各地的授權專家組成。顧問團會設計一套程序，用以在授權條款制訂人送交條款後，能夠認定相似的自由授權條款間是否能夠「相容」。如果一種條款被認定是具有相容性的，顧問團便將之加上CC的後設資料，用以表述創作內容所帶有的自由，並連結至授權標章，以解釋創作內容帶有哪些自由，然後我們便會認可這個條款，將之放進我們正在設立的自由授權條款聯合（federation of free licenses）之中。這樣的授權條款世界看起來會像這樣：&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;w9-3.png;&quot; class=&quot;image&quot; src=&quot;http://lh3.ggpht.com/_a0muzrcaKwo/S-E3BymiS2I/AAAAAAAAAWc/FU2viN0kSOo/s800/w9-3.png;&quot; style=&quot;width:650px&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;如果本計劃成功，那麼創作作品便能在混用剪輯時，更容易地從一種條款轉移到另一種。一旦創作作品能轉用彼此間相容的授權條款，自由授權社群就會如同市場般，找出哪些授權是相容性更高、更可靠的。如此一來自由文化就不再會被哪一種特定的自由授權條款所框限住。自由文化將得以在所有相關且相容的條款之間走動。而自由軟體世界裡常見的那種「自閉的自由」（autistic freedom）在自由文化的世界中將得以避免。&lt;/p&gt;
+
+&lt;p&gt;當然啦，這個計劃並不會讓不相容的授權條款因此變成相容。舉例來說，使用了「姓名標示─禁止改作」（Attribution-NoDerivatives）是不能跟使用「姓名標示─相同方式分享」的作者混用在一起的。不過，這種不相容性是創作者自行設定的。雖然很多人認為，我們也應該努力減少這種不相容性，而我也同意這樣的看法，但是我認為，先消除因為不經意而產生的不相容性，會是更重要的。加入了自由文化運動的創作者，之所以願意將其創作作品用自由授權發表公開，是因為認同了這些授權條款所表述的價值。他們可不是因為哪一種自由授權的法條氣燄凌駕了其他授權才這麼做的。我們得想辦法別讓律師們的本位主義霸佔舞台，如此一來創作者所認同的價值才能夠真正被實現。&lt;/p&gt;
+
+&lt;p&gt;這不會是個簡單的計劃。這個計劃需要許多支持協助。更重要的，這計劃需要所有參與自由文化運動的人，放下我們自己圈出的小領地，一起為一種可行的目標合作。理查．史托曼有過下面的名言：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;「如果我們不想活在叢林裡，就得改變態度。我們得傳達一種訊息，亦即所謂的好公民，就是在得宜的情況下，與他人合作的人……」&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;誠哉斯言。選擇了認同自由文化價值的創作者，他們不會樂見這世界讓他們的創意與其價值無法搭配在一起。我們這些為自由文化從事基礎建設的人，必須負起責任尊重創作者所認同的價值才行。&lt;/p&gt;
+
+&lt;p&gt;在下次的通信裡，我會談論到針對CC的各種批評。&lt;/p&gt;
+
+&lt;p&gt;Footnotes&lt;/p&gt;
+
+&lt;div&gt;
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-1&#039;)&quot;&gt;1&lt;/a&gt;. copyleft，字面上有跟 copyright 的「right」（右，權利）相對的意思，有人翻成「版權屬左」（因此帶有左派色彩）、「版權沒有」、「公共版權」（這其實是錯誤的）等詞。廖漢騰譯為「著佐權」。他對此翻譯的說明如下：「目前中文翻譯筆者見過的有反版權、反著作權。筆者認為copyleft仍是在現有著作權體制下以個人權利要求他人回饋社群的方式，雖然與常見的著作權模式不同，但不應該是反對著作權的基本體制。筆者採著佐權一詞取中文『輔佐』之」。&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 23 Feb 2006 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">72 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/72#comments</comments>
+</item>
+</channel>
+</rss>

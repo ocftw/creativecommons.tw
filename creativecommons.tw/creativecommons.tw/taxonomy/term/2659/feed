@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - Lawrence Lessig</title>
+ <link>https://creativecommons.tw/category/tags/lawrence-lessig</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>論公眾授權條款之相容性：以創用CC授權條款及GNU自由文件授權條款為例（下）</title>
+ <link>https://creativecommons.tw/in-depth/446</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;李治安、林懿萱&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Creative Commons（該組織以下簡稱「CC」）之創辦人 Lawrence Lessig 教授曾指出，造成公眾授權條款彼此不相容性之原因有二：其一是來自於不同的著作權人本身對於授權條款的選擇就有不同的偏好，有些人只希望主張姓名表示權，有些人還希望基於其原著作所改作之衍生著作亦能以相同方式授權，有些人則希望限制他人對其作品做商業使用，在不同類型的創用 CC 授權條款之間，所存在的不相容問題，即是屬於因為使用者偏好不同所造成；其二則是因為授權條款本身之設計所造成，有時內容類似或目的相同之授權條款會被設計成彼此不相容，如創用CC「姓名標示-相同方式分享」與 GFDL 之例，若兩種授權條款皆要求改作後之衍生著作須以相同之授權方式釋出，則使用該兩種授權條款所釋出之內容自無交互使用流通之可能。&lt;/p&gt;
+
+&lt;p&gt;Lessig 認為，對於上述第一種原因所導致之授權條款不相容性，或可透過對於授權人之宣導與教育稍微舒緩，但由於每個人的偏好不同，因此難以將個人所選擇授權條款之差異消弭於無形，不過此種不相容至少可反映著作權人對其著作控制偏好及需求之差異。但第二種導致授權條款不相容之原因，則純粹是因為原有授權條款之設計不良，因而導致大眾可利用的資源被不同的授權條款割裂，此種不相容之存在，不但不具任何功能，而且阻礙了自由文化運動之推展及資訊之流通使用&lt;strong&gt;[註一]&lt;/strong&gt;。事實上，前述 GFDL 及創用 CC「姓名標示-相同方式分享」授權條款之精神與其所欲保護的核心自由，其實是一樣的&lt;strong&gt;[註二]&lt;/strong&gt;，如果因為著作權人選擇不同授權條款而阻礙了內容的再利用，實有違該等授權條款之設計目的。再者，對原本選擇該等授權條款之授權人而言，他們很可能並不樂見因為選擇了特定的授權條款，反而削弱了作品被再利用的機會。&lt;/p&gt;
+
+&lt;h3&gt;授權條款不相容的解決之道&lt;/h3&gt;
+
+&lt;p&gt;針對上述因授權條款設計問題導致之不相容問題，Lessig 認為解決之道在於肯定不同授權條款相互差異的同時，應將不同的授權條款標準化(standardization)，在該等授權條款中加入相容性條款(compatibility clause)，允許內容利用者可藉其他類似或相當的授權條款釋出內容&lt;strong&gt;[註三]&lt;/strong&gt;。換言之，解決公眾授權條款不相容性之方法在於促使不同的各授權條款展開對話與連結。&lt;/p&gt;
+
+&lt;p&gt;事實上，CC 已經開始促成不同授權條款間之相容性，創用 CC 授權條款3.0版新增了「Creative Commons 相容授權條款」(Creative Commons Compatible License)&lt;strong&gt;[註四]&lt;/strong&gt;的規範。只要經 CC 認可、實質上與創用 CC 授權條款相當者，則改用作品不受限於僅可適用和原作品相同的授權條款釋出，但至今 CC 尚未認可任何一種授權與創用 CC 授權條款相容&lt;strong&gt;[註五]&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;負責營運維基百科的維基媒體基金會(Wikimedia Foundation)自2007年起也開始處理授權相容性之問題，該基金會之董事會開會時曾討論社群對於（GFDL 和創用 CC「姓名標示-相同方式分享」）兩種授權條款不相容之疑慮，並決議要求 GFDL 修正，以容許如維基百科及其他大型協力發展、開放眾人編輯的 wiki 計畫，能有多一種選擇，使用創用 CC「姓名標示-相同方式分享」授權條款3.0版或後續版本。自由軟體基金會在2008年11月3日推出了微幅修改的1.3版 GFDL &lt;strong&gt;[註六]&lt;/strong&gt;，依據該版本之授權條款，凡是以 GFDL 授權釋出之「大型多作者協力網站」(Massive Multiauthor Collaboration Site)內容，均可以採用創用 CC「姓名標示-相同方式分享」之授權條款再授權釋出，但只能在特定的時間限制下進行（該協力網站上內容首次發佈時需係採 GFDL、且該等內容需是在2008年11月1日之前即被納入(incorporate)該協力網站，此外，再授權的內容只能在2009年8月1日之前於原網站發布）。&lt;/p&gt;
+
+&lt;p&gt;我們認為，在自由文化運動發展的過程中，創用 CC 授權條款及 GFDL 的並存某種程度與資訊產業中的標準競爭(standard competition)頗為類似，雖然在資訊產業中，標準所指涉的是特定的技術，但是對使用者而言，選用特定的授權條款與購買特定的技術產品相同，都必須面臨未來改變心意時所須考量的轉換成本(switching costs)及與其他產品或內容相容性的問題；再者，如果將兩種授權條款當作彼此競爭的標準，則該等競爭將有助於授權條款的改良。&lt;/p&gt;
+
+&lt;p&gt;具體言之，參與自由文化運動的創作者在選擇特定授權條款釋出其作品時，其考量因素亦類似於標準競爭過程中的消費者，消費者通常會選擇購買較多人使用的產品，加入較大規模的網路，以尋求相容於最大的產品市場，此即為使用者越多，市場力量即越強大的網路效應(network effect)或網路外部性(network externality)。如果把創用 CC 及 GFDL 兩種授權條款當作不同的網路，則創作者也會考慮二者中哪一個網路規模較大，因為採用愈多人使用的授權條款，即表示使用者的作品能與愈多的其他作品相容，進而愈有機會成為其他自由文化運動參與者的創作素材。&lt;/p&gt;
+
+&lt;p&gt;回到創用 CC 與 GFDL 的相容性問題，如果兩者的實質差異並不影響創作者關於作品釋出的價值抉擇及個別需求，則無論從自由文化運動集中力量推廣理念的角度而言，抑或是從創作者求取其作品被混用或其他再使用之最大可能性而言，創作者都應選擇一個較多人採用的授權條款。再者，將自由文化社群所採用的授權條款單純化還有一個好處，就是當未來授權條款發生其他問題而須修改時，可由原草擬條款的組織（如 CC 或自由軟體基金會）統籌辦理單一授權條款、凝聚共識，避免不同組織間協商所產生的交易成本。&lt;/p&gt;
+
+&lt;p&gt;維基百科於2009年起已改採創用 CC 與 GFDL 雙重授權方式&lt;strong&gt;[註七]&lt;/strong&gt;，此舉對於參與自由文化運動的創作者而言，實具指標意義，因為這個改變已使維基百科的大量內容轉往 CC 授權，進而提升創作者選用 CC 授權條款的誘因；再者，如前所述，由於 GFDL 與創用 CC 授權條款不同之處，在於前者係針對軟體說明書所設計，而後者則是針對一般創作內容，因此後者恐較符合一般數位創作者之需求。準此，本文以為，就長期觀點而言，創用 CC 授權條款有相當的可能逐漸在自由文化運動中佔有上風，如果採用該授權條款者能在自由文化運動中超過臨界多數(critical mass)，則授權不相容之問題亦將自然解決。&lt;/p&gt;
+
+&lt;h3&gt;結語&lt;/h3&gt;
+
+&lt;p&gt;自由文化運動的目的原本在於匯集擴大可供公眾創作使用的分享資訊，但是彼此不相容的各授權條款卻將該等分享資訊不必要的割裂。GFDL 1.3版和創用 CC 授權條款3.0版雖已分別處理了相容性問題，作為推動彼此相容之起點，但如本文所述，因 GFDL 相容條款設有時間的限制，就達成完全相容之理想而言，上述處理方式仍有其侷限性，未來在發布更新版本之授權條款時，GFDL 與創用CC授權仍有空間往更高程度的相容性理想邁進。就自由文化運動之近來發展及長期觀點而言，本文基於網路外部性、組織間的交易成本及授權條款實用性等理由，認為創用 CC 授權條款有相當程度的可能在未來取得臨界多數，這也是自由文化社群以自發力量解決授權不相容問題的方法之一。&lt;/p&gt;
+
+&lt;p&gt;如果授權相容性之理想可以達成，則自由文化運動的推動可謂向前邁進一大步，授權內容不會因為原授權人對授權條款的選擇而喪失其他被再利用的機會，主要的開放內容計畫之間亦不會互相孤立；此外，開放內容如果可在不同的授權條款間移動，則亦可藉由市場機制呈現出不同授權條款之優缺點，理論上授權內容最終會以最佳的授權條款釋出，如此也可為開放內容的社群提供一個更穩定的授權基礎設施。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[註一]&lt;/strong&gt; Lawrence Lessig, Re-crafting a Public Domain, 18 YALE J.L. &amp;amp; HUMAN. 56, 77-78 (2006)&lt;br /&gt;
+&lt;strong&gt;[註二]&lt;/strong&gt; Lawrence Lessig, Re-crafting a Public Domain, 18 YALE J.L. &amp;amp; HUMAN. 56, 77-78 (2006)&lt;br /&gt;
+&lt;strong&gt;[註三]&lt;/strong&gt; Id. at 77.&lt;br /&gt;
+&lt;strong&gt;[註四]&lt;/strong&gt; 創用 CC 六種核心授權中，僅「姓名標示-相同方式分享」此一授權條款開放與其他非創用 CC 授權條款體系相容。依據該授權條款第 1 條第 c 項規定，「Creative Commons相容授權條款」指， &lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/compatiblelicenses&quot;&gt;http://creativecommons.org/compatiblelicenses&lt;/a&gt;所列經 Creative Commons 認可、實質上與本授權條款相當的授權條款，此乃因為該授權條款至少： (i) 包含和本授權條款之授權要素具有相同之目的、意義及效力之條款；及(ii)明示其所提供之衍生著作，依據本授權條款或與本授權條款具有相同授權要素的尚未本地化(unported)或其他司法管轄領域之創用CC授權條款，可再為授權。&lt;br /&gt;
+&lt;strong&gt;[註五]&lt;/strong&gt;請見&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/compatiblelicenses%EF%BC%88%E6%9C%80%E5%BE%8C%E7%80%8F%E8%A6%BD%E6%97%A5%E6%9C%9F%E8%A5%BF%E5%85%832010%E5%B9%B412%E6%9C%8828&quot;&gt;http://creativecommons.org/compatiblelicenses&lt;/a&gt;（最後瀏覽日期西元2010年12月28日）。&lt;br /&gt;
+&lt;strong&gt;[註六]&lt;/strong&gt;請見&lt;a class=&quot;newpage&quot; href=&quot;http://www.fsf.org/licensing/licenses/fdl-1.3-faq.html%EF%BC%88%E6%9C%80%E5%BE%8C%E7%80%8F%E8%A6%BD%E6%97%A5%E6%9C%9F%E8%A5%BF%E5%85%832010%E5%B9%B412%E6%9C%8828&quot;&gt;http://www.fsf.org/licensing/licenses/fdl-1.3-faq.html&lt;/a&gt;（最後瀏覽日期西元2010年12月28日）(連結失效)。&lt;br /&gt;
+&lt;strong&gt;[註七]&lt;/strong&gt;請參見林懿萱，&lt;a class=&quot;newpage&quot; href=&quot;http://www.openfoundry.org/index.php?option=com_content&amp;amp;Itemid=252&amp;amp;id=2162〈=en&amp;amp;task=view&quot;&gt;FDL 與創用 CC 授權條款相容性問題初探：從維基百科談起&lt;/a&gt;，2009年9月25日。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 28 Jan 2011 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">446 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/446#comments</comments>
+</item>
+<item>
+ <title>簡介《誰綁架了文化創意？：如何找回我們的自由文化》一書</title>
+ <link>https://creativecommons.tw/in-depth/380</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;文：莊庭瑞 摘錄：辜雅蕾&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;《誰綁架了文化創意？：如何找回我們的自由文化》（註1）是勞倫斯・雷席格 (Lawrence Lessig) 的第三本書。前兩本著作（註2）中，他的論述範圍較廣，分別涵蓋網際網路的法律與技術制約，以及資訊時代的創新與資源共創架構。這本書則專注於網路時代的自由文化議題，明指現今著作權體制以及媒體集中化的不當，以及兩者相互加持所帶來的負面循環發展。&lt;/p&gt;
+
+&lt;p&gt;在本書中，勞倫斯・雷席格以美國為場域，運用許多鮮明的例證，明述網際網路所帶來的衝擊，以及現今著作權體制的諸多不合時宜。雷席格指出：美國國會為了因應資訊技術的進展，在修法或立法上單方面加強對著作權擁所有者的保護，因此同時限縮使用者權利的作法，不僅扼殺了技術與商業創新的諸多可能，也是對自由文化的傷害。&lt;/p&gt;
+
+&lt;p&gt;整本書的前半部份，主要分別呈現文化與知識「盜用行為」的現狀以及諸多前例；說明「創意財產」 (Creative Property) 的特質，以及著作權體制在英美兩國的發展；並用法律、常規、市場、架構四方制約的角度來分析創意財產以及其變革；闡述為何著作財產在法律上的過份保護，以及媒體集團依此所提出的嚴厲法律訴訟，對於著作的使用者與創作者、文化與科技的眾多創新者、以及民主政體都是傷害。&lt;/p&gt;
+
+&lt;p&gt;後半部份則是關於雷席格擔任 Eldred v. Ashcroft （艾爾綴德提告美國司法部長）一案的律師，一路訴訟到美國聯邦最高法院的緣由和經過，以及雷席格自認後來之所以敗訴的原因。書的最後有「結語」與「後記」兩部份：結語以HIV治療藥品的專利權未能充分利用於救助非洲國家的患者為例，說明現今的文化與知識財產體制的道德困境，以及來自民間與國際的不平聲浪；作者並於「後記」提出一些應對的方案，包括「保留部份權利」的著作公眾授權方式，以及美國著作權法該有的修法方向。&lt;/p&gt;
+
+&lt;p&gt;對筆者來說，書中最吸引人的是作者不僅以學者的角度分析議題，更是以當事人的角色參與論戰，多處表露出他腦子冷心腸熱、思慮緊密奮力一擊的作為。例如艾力克‧艾爾綴德 (Eric Eldred) 是位志將已歸入公共領域的作品數位化，以網路方式散佈給眾人的志願工作者。受到 1998 年美國國會通過 The Sonny Bono Copyright Term Extension Act ，將著作的專屬財產權利的年限，從現有的作者身亡後五十年延至身亡後七十年的影響，書中的後半部詳述了自1999年1月起，雷席格與其他律師代表艾力克‧艾爾綴德，在美國首府華盛頓特區聯邦地方法院提起訴訟，一路上訴直到2003年1月美國聯邦最高法院宣告原判有效，艾爾綴德敗訴為止的歷程。其中作者細數雙方攻防要點、衡估法官的見解傾向、嚴密的準備工作、以及敗訴後自責的心境，充分揭露其行動者的個性與作為。&lt;/p&gt;
+
+&lt;p&gt;書中另一項為筆者所激賞的，是作者描述了許多與眾人經驗貼近的現狀和往例。例如土地財產的天空界線，如何因為航空業的發展而受到限制；舊媒體事業如電影、錄製音樂、無線廣播、有線電視等，如何於初興起之時，盜用他人的文化與知識財產等不堪往事。書中提到一些現狀，更是只能用「慘烈」一詞來形容，如大學生傑西‧喬登 (Jesse Jordan) 如何因為製作使用學校網路的通用檢索系統，而有侵犯著作權之嫌，被大唱片公司告到一毛不剩；紀錄片導演瓊‧艾爾斯 (Jon Else) 如何盡力守法，想取得辛普森電視卡通的片段作背景使用，而被福斯公司獅子大開口索價一萬美元的前前後後。對於資訊技術受限於不良的法律與商業環境，而不能充分發揮的情形，雷席格也舉出 my.mp3.com 等讓我這個資訊人感同身受的諸多例證。&lt;/p&gt;
+
+&lt;p&gt;關於「創意財產」的戰役與戰場，當然也發生在台灣。2008年1月1日，台灣各大報都報導了以下的事件：台北縣長周錫瑋提告「瑋哥部落格」網站主人一名大學生，不當改作其“WEIGO”競選圖像，用於「你今天永洲了嗎」影片之中。周錫瑋並控訴該大學生毀損名譽、意圖使人不當選，並對該大學生提出新台幣五千萬元的附帶民事賠償條件。這件訴訟案件經板橋地方法院一審宣判，「瑋哥部落格」網站主人在毀損名譽、意圖使人不當選部份無罪，但是在違反著作權部份，被判處有期徒刑六月、減刑為三個月，可易科罰金。&lt;/p&gt;
+
+&lt;p&gt;過當的著作權法可成為箝制言論自由的利器，作者於書中已多處闡述，寒蟬效應之下人人自危的情形，顯然已是美國、台灣皆有。以上「瑋哥部落格」一案，新聞報導中還揭露：「檢方起訴時，偵查得知當時上傳相關圖像的位址、以及向中華電信申請的有線寬頻位址是在板橋市」（註3）。本書第十二章所論及，在偵辦著作權的侵害案件時，所涉及的自由民權議題，以及相關的隱私保護問題，看來在台灣已有一個最慘烈的例證。&lt;/p&gt;
+
+&lt;p&gt;因此，勞倫斯・雷席格的 “Free Culture” 一書，以全面的視野、貼近的角度、緊密的分析，呈現「自由文化」所面臨的嚴峻處境，並提出以「平衡考量」為基礎的化解路徑，值得讓我們閱讀，相信也將帶給我們許多的思考。&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;註1：原書名為：“Free Culture: How Big Media Uses Technology and The Law to Lock Down Culture and Control Creativity”。台灣譯文版於2008年3月由早安財經文化有限公司出版；譯者：劉靜怡。本文摘錄自台灣譯文版內所收錄之三篇導讀之一。&lt;/li&gt;
+	&lt;li&gt;註2：此兩本著作分別為：《網路自由與法律》（“Code: And Other Laws of Cyberspace” ）(1999; 2007) 以及 “The Future of Ideas: The Fate of The Commons in A Connected World” (2001)。&lt;/li&gt;
+	&lt;li&gt;註3：中央社報導（2007.12.31）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 03 Apr 2008 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">380 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/380#comments</comments>
+</item>
+<item>
+ <title>《 當創用CC遇到Social Web 》</title>
+ <link>https://creativecommons.tw/in-depth/357</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;李取中、宋昆銘&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;全球資訊網拜新的觀念與技術之賜，在這幾年快速的發展，不僅成就了諸多平台，也藉由人與人之間的互動，繼而產生了大量的數位內容。Blog、Wiki以及Social Network Service等，都是在這波Social Web潮流中嶄露頭角，且最為人知的服務。&lt;/p&gt;
+
+&lt;p&gt;樂多身為一個部落格服務提供者，主要目的在於提供所有部落客們一個優質的個人出版平台，但論及內容的豐富性、深廣度以及多元化，則其功勞與榮耀大部分都應歸功於部落客們的苦心經營與樂於分享。釋放部份權利來達到資訊的充分傳播與知識分享的目的，不僅立意良好，同時保障了使用者自己選擇保留的權利。&lt;/p&gt;
+
+&lt;p&gt;創用CC授權可說在Social Web中扮演著關鍵性的角色之一。所以照例，我們不厭其煩地向Larwence Lessig與其著作《Free Culture》致敬。&lt;/p&gt;
+
+&lt;p&gt;數位內容平台在蒐集、彙整以及公佈資訊的方面有別於舊有的出版文化，再加上網際網路大幅縮短了互動的成本，數位內容平台媒體化的發展正值高峰。由少數壟斷與不對稱的資訊環境，轉變為由多數人互相分享、引用、評論、評鑑的資訊環境，這是我們所樂見的。在這演變當中，創用CC授權自然也是重要的碁石，因為它不僅保障使用者，也提供使用者分享創作的動機。樂多部落格平台在數年前便導入了創用CC授權，至今已經累積超過百萬件具有創用CC授權標章的部落格文章。而透過站內這些已經釋放了部分權利的文章，對站內資訊的創新、擴散、交流與再利用的影響，雖然未做過詳細的統計與評估，其成果仍是相當值得期待。&lt;/p&gt;
+
+&lt;p&gt;創用CC授權秉持著自由開放的精神，直接或間接地幫助了數位內容平台業者。商業的力量並不與開放精神牴觸，有時對商業運作更有推波助瀾的效果。那麼業者在受惠之餘，是否能有所回饋呢？業者除了推廣創用CC授權、提供使用者透明化的使用方式、資源顆粒更為細緻的設定外，並非毫無著墨之處。&lt;/p&gt;
+
+&lt;p&gt;舉例來說，網站經營者可以彙集具有創用CC授權標章的資源的後設資料(含公共領域的資源的後設資料更佳)，提供一個如 RSS feed中立介面，來達成資源的 mash up。甚至提供 Ping Service來與集中式彙整具有創用CC授權標章的資源入口平台溝通，當然前提是該入口平台也有制定相關的規範以及介面。有趣的是，台灣「創用CC」計畫並不對作品進行追蹤或登錄，那麼單純仰賴搜尋引擎來蒐集全世界全球資訊網上頭具有創用CC授權標章的資源的後設資料，似乎成效不彰。尤其是，有太多資訊是搜尋引擎無法深入，而 Social Web 時代的資訊成長速度比以前更具爆炸性，這樣的入口平台的能力與成本實在令人擔憂。即便完成了該入口平台，對於閱聽大眾或創作者來說，搜尋功能也只是資源存取的開始而已。&lt;/p&gt;
+
+&lt;p&gt;既然談到資訊彙整，也不能不談近年來風行的Folksonomy的觀念。網站經營者也許可以透過標籤系統來對於這些具有創用 CC 授權標章的資源提供路標。實際上，創用 CC 授權條款也是透過不同四種授權要素的排列組合形成六種的授權方式，這些授權要素的組合分式，也許可以利用既定的標籤加以標示。有了這些標籤所形成的路標，不僅提供閱聽大眾或創作者一個獲得欲尋找的資源管道，也提供了創用CC工具開發者與檢驗者一個可供追溯的途徑，甚至繪出作品間的取樣、重製以至於相互影響等作品的網路拓蹼也非難事。&lt;/p&gt;
+
+&lt;p&gt;最後，身為網站經營者，一方面要顧及使用者的便利性，一方面又要引導使用者選擇自己想保留或釋放的權利，往往是我們在規劃與開發時主要的拉鋸。除此之外，牽涉到營運考量的元素都會在使用者同意條款中註明，而使用者註冊使用平台前就必須同意這份條款。有趣的是，使用者同意條款與創用 CC 的權利釋放時常起衝突。那麼孰輕孰重呢？顯然會因人、事、時、地、物等不同的情境有不同的判決。只是目前並沒有看到相關議題的討論，在台灣也沒有類似的判例。我們期待有巨量的使用網路人口的台灣能夠在相關的領域訂出規範。&lt;/p&gt;
+
+&lt;p&gt;Social Web提供給人們多樣化的交流平台，創用 CC 提供給人們兼具法律效力的保障與釋放權利的彈性，兩者相遇後激盪出的火花與效應，我們都可以深刻地感受到。我們期待創用 CC 協助Social Web走向更完整的知識利用、更充分的資訊傳播、更優異的資源再造。&lt;/p&gt;
+
+&lt;p&gt;（筆者目前任職樂多網站的執行長，與政大 ENT Lab 研究生）&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 06 Apr 2007 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">357 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/357#comments</comments>
+</item>
+<item>
+ <title>《Creative Commons：社會學的當代挑戰》</title>
+ <link>https://creativecommons.tw/in-depth/348</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;鄭陸霖&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;每個人，當然也包括每一個學者，認識這個世界的方式各有不同，吸引他們目光的經驗現象也往往南轅北轍。我是在三年前左右第一次聽說這世界上有「Creative Commons」(底下簡稱CC）這個東西，稍稍理解它後就對CC「一見鍾情」，到現在還常在玩味它對我的社會學意義。雖然只在六年前短暫做過一個跟CC扯不上一點關係的網際網路研究，然而這不表示 CC 只是我的「業餘」興趣；事實剛好相反，CC持續吸引我的是初次邂逅時「絕對錯不了」的直覺—CC緊密關聯到社會學的當代知識挑戰。我想就借電子報一角來試著弄清楚些我那模糊的直覺。&lt;/p&gt;
+
+&lt;p&gt;先談點「社會學」，從百年前草創時期開始延綿至今，社會學者就一直遺傳一個學問的特色，那就是對於如何回應「當代」的思考焦慮。簡單講，就是想要去看清楚正在我們身上作用、在我們四周發生的時代變動與社會脈動。社會學者在思考「現在正發生什麼？」的問題時，環繞著「工業社會」、「資訊社會」、「現代性」、「後現代」、「全球化」等概念生產過許多相互呼應或者彼此攻訐的論述，從而也發揮了許多關於「社會」的想像。&lt;/p&gt;
+
+&lt;p&gt;為什麼說「關於社會的想像」？這就關連到社會學的第二個特色。政治學者研究政治、經濟學者研究經濟、法律學者研究法律，許多人一聽就懂。但社會學者「研究社會」的回答，卻注定只能引來一臉茫然。「社會」，確實需要一些想像才能夠掌握，尤其是，在個體快速從各種集體脫落的時代。不過，喜好思辨的讀者可能已嗅到詭辯的味道，因為「必須想像社會」有點像是「你無法認識神，是因為你心中並沒有感受神的存在」的說法，不是嗎？當然，社會學分析無關信仰，優秀社會學家透過分析「現在正發生什麼？」可以很具體地展示這種「社會感知」對理解與回應當代現實的重要性。&lt;/p&gt;
+
+&lt;p&gt;就「回應當代」與「社會感知」的這兩層意義而言，我一直認為，Lawrence Lessig 可以說是這個時代最重要的社會學家，而CC則是最能夠與我們這個時代社會脈動共振的觀念、制度與運動。我的直覺是，CC 的諸多思想/運動的發展，可以說是當代社會學者回應「現在正發生什麼？」的學問挑戰時準確而豐富的沃土。可惜的是，即便在基進的知識圈也極少注意到CC的發展，更不用提到進行思考與對話。&lt;/p&gt;
+
+&lt;p&gt;從許多角度來看，由Lessig帶頭的CC運動都是在進行一種突破舊框架（盡管被流行地誤認為新）、打開新格局（盡管直覺上好像陳舊）的微妙平衡。 首先是Creative與Commons這兩個字眼，在直覺把「自由」與「集體」對立起來看待的時代錯覺裡便充滿著矛盾。「保留部份權利」（some rights reserved）則在「保留全部權利」 （all rights reserved）與產權無政府主義之間尋求合理的平衡。透過開放部份權利與相同方式分享的善意連鎖來打開公共領域（public domain ），藉此積蓄屬於人類全體的智慧，並使得 Remix的創意可以自由發揮。此外，CC運動三個相關授權層次並進，使得法律（法律條文與架構）、工程（軟體程式碼）與使用者（授權的簡易組合）在各自獨立的領域內扎根，同時又發揮整合互補的綜效，同樣可以看到CC運動的平衡思慮。&lt;/p&gt;
+
+&lt;p&gt;那麼，從社會學所關切的「回應當代」與「社會感知」來看，試圖在數位時代裡回復個體與集體 、 自由與傳統、專業與素人、管制與非管制之間「平衡」的CC運動，具有怎樣被誤看、漏看了的當代意義？我想借用一下Hirschman在《Shifting Involvement 》中提出的觀察架構，或許可以使我們更敏感於時代變動中舊架構與新格局間的微妙轉換，也有助於我們定位CC的位置。&lt;/p&gt;
+
+&lt;p&gt;Hirschman觀察到，人們 involve 在社會中的姿態一直擺盪於「集體」與「個體」座標間。30、40年代之後人們生活的重心逐漸從大戰的集體狂熱脫出 ， 轉往個人與家庭的生活滿足移動；這趨勢一直到了60、70年代再次反轉，人們走出私人空間開始關心集體生活與社會環境，於是爆發各種形式的集體運動。如果我們向前延伸Hirschman的鐘擺波動，那麼整個 90年代以降的社會思潮，以柴契爾的市場主義為表徵，可說再度往個體主義的方向回擺。&lt;/p&gt;
+
+&lt;p&gt;人們從這種極端個體主義的方式來看待世界並非憑空想像，也不只是受到意識形態的洗腦。全球範圍的市場自由化、各國政府的管制放鬆、減稅競爭與公共投資銳減、網際網路爆炸與匿名性擴散、社會主義政權垮台或走資、體驗經濟的消費風行、手機與無線通信的普及，還有各社會階層上跨越國境的人口流動，總之各種現實形勢的匯集，使得個體似乎可以實感到從各種「社會」與「共同體」中脫離的經驗。&lt;/p&gt;
+
+&lt;p&gt;個體狂飆的年代所醞釀的是個體之間無法共量、拒絕整合、不可溝通的「解放」氛圍。作為一個時代的基本文法，並非只是柴契爾主義的專屬，世紀末的反抗思潮同樣（或者更頑固地）堅持「共同體」對多樣性與差異的排除效果，而反抗的「原點」（那個拒絕被壓迫的主體或空間）自然更不可能設定在任何共同體的想像。一旦「他者的視線」變成一種威脅，結果只能是不斷自我分裂、不停流竄、越界的無政府主義。這種負面的「社會感知」已經成為一種「反抗的建制」，一種因過度使用而失去意義的陳腔濫調。&lt;/p&gt;
+
+&lt;p&gt;於是，人們越來越難去思考要在怎樣的制度架構中被整合，心態上排斥去擁抱與經營共同體，難以從他者的眼光與回應中累積善意。良善的溝通需要預設「共善」（common good ）變成一種隱藏排除的過時頑固，最後連專業者也開始從社會責任上退卻，甚至可以振振有詞以詆毀專業而自豪。從這樣的意義來看，絕對財產權背後支撐的右翼市場秩序，以及「反對一切權力」的左翼後現代反抗，分享的是從上個世紀80年代延續至世紀末的舊思維邏輯。&lt;/p&gt;
+
+&lt;p&gt;在這個藍綠、統獨、左右、前現代與後現代，一方面爭鬥不休、另一方面水乳交融的混亂時代中，繼續20多年來持續加溫加速的「市場想像」或「解構想像」來組織我們的環境、我們的生活、我們的未來，「總越來越覺得不對勁」、「一直這樣下去大概不行」，有這樣直覺的人越來越多&lt;s&gt;-&lt;/s&gt;Hirschman的鐘擺已經開始回轉！&lt;/p&gt;
+
+&lt;p&gt;作為一位社會學者的觀察與直覺，我相信 Creative Commons 在 21 世紀冒頭之際登上數位時代思想/運動的國際舞台， 而且迅速匯聚了全球各地、各領域的關心與支持，乃是一種新時代浮動的徵兆，它其實只是21 世紀更大社會思想/體制變遷在科技先端的範圍內浮出的一部份而已。對認真思考當代社會變遷困境與出路的社會學者，CC 思想/運動應該是一個難得的機會與挑戰。&lt;/p&gt;
+
+&lt;p&gt;不能再繼續忽視輕估CC下去，我的直覺這樣告訴我。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 03 Nov 2006 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">348 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/348#comments</comments>
+</item>
+<item>
+ <title>《淺談創用CC授權條款 — 一種現行著作權體制下的彈性授權模式 》</title>
+ <link>https://creativecommons.tw/in-depth/336</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林懿萱、莊庭瑞&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;為什麼需要創用CC授權條款？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;一件作品在歸入「公共領域」（public domain）與宣告「保留所有權利 」(all rights reserved) 之間，作者是否有其他行使權利的方式，不需透過律師、亦不會耗費過多的溝通成本，讓作品的創作者及利用者雙方都覺得便利且無損權益？創用CC（註1）為此提供了一種富彈性的授權模式。&lt;/p&gt;
+
+&lt;p&gt;一群來自網路法律、智慧財產權及資訊科技等不同領域的菁英，包括 James Boyle、Michael Carroll、和 Lawrence Lessig，MIT資訊科學教授 Hal Abelson，律師轉任紀錄片製作再轉而成為網路法律專家的 Eric Saltzman，及公共領域網路出版者 Eric Eldred 等皆肯定這種可能性，並熱情、積極的投入 Creative Commons（以下簡稱CC）催生過程。CC此一非營利組織因此得以在2001年創立。&lt;/p&gt;
+
+&lt;p&gt;美國著作權法規定，創作一旦「固著於有形物體之表達媒介」時，即自動受到著作權保護；台灣著作權法則規定，著作於「完成時」，便受到著作權保護。包括美國與台灣在內的許多國家，著作權的主張皆不需要著作權聲明。然而，許多人並不想完整地行使著作權法所賦予他們的權利，特別是那些在網路上從事創作的人，因為全面性的著作權法保護反而無助讓他們的創作獲得較高的曝光度，同時亦阻礙創作被廣泛地散布。為解決這個困境，CC在2002年發展出一套公眾授權條款，免費提供予全球著作人（或稱創作人）使用，協助他們向世人宣告，他們只要「保留部分權利」（Some rights reserved）。&lt;/p&gt;
+
+&lt;p&gt;創用CC授權條款（Creative Commons licenses）的設計靈感某種程度上來自於自由軟體基金會（Free Software Foundation）的GNU通用公共授權條款（GNU General Public License，簡稱GNU GPL）（註2），都是在現行著作權法的架構下，建立一套授權模式，使創作人得以就著作權法所賦予他的權利，讓他人在某些特定條件下，能夠自由利用其作品。然而，創用CC授權條款與GNU GPL最大的不同在於，GNU GPL適用於程式碼，而創用CC授權條款則是適用於程式碼之外其他形式的創作，如網站、學術、音樂、影片、攝影、文學、教材等。&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;何謂創用CC授權條款？&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;CC核心在於創用CC授權條款，透過這套授權條款的運作，創作人得以運用其私權利，讓創作更加便利流通。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;（一） 運作模式&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;為協助創作人方便擇定特定條件，並在此條件下授權全世界的使用者利用其作品，CC在2002年12月發佈其第一項計畫：一套著作權授權條款，讓創作人得依其作品屬性，在由「姓名標示」（Attribution）、「禁止改作」（No Derivative Works）、「非商業性」（Non-Commercial）與「相同方式分享」（Share Alike）這四個授權要素所搭配出的六種授權條款（註3）中，選擇最合其所用的一種授權模式，為其作品授權。&lt;br /&gt;
+&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.tw/betacc/license&quot;&gt;四種授權要素&lt;/a&gt;所分別代表的意義及說明如下：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;姓名標示：您允許他人對您受著作權保護的著作及衍生著作進行重製、散布、展出及演出等利用行為，但前提是對方必須保留您的姓名標示。&lt;/li&gt;
+	&lt;li&gt;非商業性：您允許他人對您的著作及衍生著作進行重製、散布、展出及演出等利用行為，但僅限於非商業性的目的。&lt;/li&gt;
+	&lt;li&gt;禁止改作：您允許他人對您的著作原封不動地進行重製、散布、 展出及演出等利用行為，但不得產出衍生著作。&lt;/li&gt;
+	&lt;li&gt;相同方式分享： 只有當他人將衍生著作採用與您的原著作相同之授權條款時，您方允許他人散布衍生著作。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;創用CC授權條款共有三種呈現的形式：「授權標章」（Commons Deed）、「法律條款」（Legal Code）與「數位標籤」（Digital Code）。&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;「授權標章」是為一般人所設計，對授權條款所做的簡易、白話摘要，並搭配相關授權要素的圖示。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;#「法律條款」是為法律人所設計的正式授權契約，是每一個授權標章實際代表的法律意涵，及確保授權條款在法庭上具有效力的完整版本。&lt;br /&gt;
+#「數位標籤」將授權條款轉譯為機器可辨讀的形式，協助搜尋引擎及其他應用程式，從著作中辨認出創作人所使用的授權條款。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;（二）創用CC授權條款的特色&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;每種創用CC授權條款皆能協助創作人：
+	&lt;ol&gt;
+		&lt;li&gt;保留其著作權；&lt;/li&gt;
+		&lt;li&gt;宣告他人的合理使用、第一次銷售及自由表達的權利，皆不受授權條款影響。&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;/li&gt;
+	&lt;li&gt;每種創用CC授權條款皆要求被授權人（或稱使用人、利用人）：
+	&lt;ol&gt;
+		&lt;li&gt;需取得創作人的許可後，才能進行創作人原本禁止的利用行為。例如，對創作人的著作進行商業利用，創作衍生著作；&lt;/li&gt;
+		&lt;li&gt;在創作人原著作所有的重製物中，完整地保留任何著作權聲明；&lt;/li&gt;
+		&lt;li&gt;使創作人著作的重製物，皆能連結到原著作的授權條款；&lt;/li&gt;
+		&lt;li&gt;不得改變授權條款；&lt;/li&gt;
+		&lt;li&gt;不得使用科技措施來限制其他被授權人對原著作的合法使用。&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;/li&gt;
+	&lt;li&gt;只要被授權人遵守創作人選擇的授權條款的條件，則每種創用CC授權條款皆允許被授權人：
+	&lt;ol&gt;
+		&lt;li&gt;重製原著作；&lt;/li&gt;
+		&lt;li&gt;散布原著作；&lt;/li&gt;
+		&lt;li&gt;公開口述及公開展示原著作；&lt;/li&gt;
+		&lt;li&gt;公開演出、公開上映、公開播送及公開傳輸原著作；&lt;/li&gt;
+		&lt;li&gt;將原著作原封不動地轉換成另一種格式之重製物。&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;/li&gt;
+	&lt;li&gt;每種創用CC授權條款：
+	&lt;ol&gt;
+		&lt;li&gt;皆適用於全世界；&lt;/li&gt;
+		&lt;li&gt;其有效期間持續至著作的著作權保護期間屆滿為止；&lt;/li&gt;
+		&lt;li&gt;皆不得撤銷。&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3&gt;&lt;strong&gt;結語&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;自2004年9月CC正式導入台灣以來，獲得各界許多先進與朋友（特別是藝術及音樂創作者）的支持與回響，可見在現行著作權法的規範之下，國內創作人與使用者對於具彈性的公眾授權模式的強烈需求。在不違背現行著作權法規範之下，CC提倡的簡便、免費且易懂的授權模式的適時出現，讓在逐漸僵化的著作權體制下的創作人與使用者，同時開啟了另一扇窗戶，透進一絲新鮮自由的空氣。著作採用創用CC授權，除可具體呈現對開放內容（open content）的支持，豐富台灣本地甚至全球的創作素材外，更可為全球文化的累積演進盡一份力。我們樂見創用CC的發展，能如同自由軟體一般，在全球掀起自由自助的協力合作風潮，益發成長茁壯。&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;註1：&quot;Creative Commons&quot;該怎麼翻譯？自Creative Commons Taiwan計畫成立以來，這問題一直困擾著我們。在2005年底，Creative Commons Taiwan邀請多個領域的專家，經歷審慎討論後，終於確定「創用CC」為&quot;Creative Commons&quot;的中譯名稱。&quot;Create&quot; 是創造、也可以是創作； &quot;Commons&quot; 是眾，強調的是透過眾人的使用及參與，才能讓創作的分享與使用成為可能。「創用CC」同時採用了 &quot;Creative Commons&quot; 的縮寫 &quot;CC&quot;，一定程度的保留英文原意，讓不懂英文的人看到「創用CC」能立即聯想到這和CC相關。&lt;/li&gt;
+	&lt;li&gt;註2：自由軟體基金會（簡稱FSF）創立於1985年；FSF致力於提升電腦使用者使用、研究、修改、以及複製修改後電腦程式的權利，及促進自由軟體（特別是GNU作業系統）的使用與發展；FSF創始人Richard Stallman因其遠見與執著，於1990年獲美國麥克阿瑟基金會獎項殊榮。&lt;/li&gt;
+	&lt;li&gt;註3：授權條款不能同時包含「禁止改作」與「相同方式分享」此二個授權要素，因為「禁止改作」是要求利用人不得產生衍生著作；而「相同方式分享」是針對衍生著作所做的規範。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 05 May 2006 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">336 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/336#comments</comments>
+</item>
+<item>
+ <title>雷席格的CC每週通信（十三）：結語</title>
+ <link>https://creativecommons.tw/in-depth/76</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jedi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;勞倫斯．雷席格（Lawrence Lessig）著，2005年12月28日&lt;/p&gt;
+
+&lt;p&gt;這是一系列介紹CC緣起和目標的最後一篇文章了。我在三個月前開始撰寫這系列文章的時候，我還不那麼確定，認為我到2005年年底前能每週寫一篇。但是2005年快結束時，我才發現我到2006年一整年都還可以繼續寫下去，即使這樣話還是說不完。&lt;/p&gt;
+
+&lt;p&gt;這一系列的通信，原先是為了要為CC募款，好為CC提供廣泛的經濟基礎而寫的。CC在柏林、倫敦、波士頓及舊金山的職員加起來剛好不超過20位。其中有四分之一的人在作技術性基礎架構建設。另外四分之一的人則負責為計劃進行國際性的協調工作。其中一位（很快就會變兩位了）則駐波士頓為Science Commons努力。至於舊金山對應的人員，則負責跟緊進度、散播消息，將這些基礎建設盡我們最大能力推廣到各地。&lt;/p&gt;
+
+&lt;p&gt;如果讀者在四年前問我，要我帶領一個二十人團隊的機率有多高，我那時會說完全等於零。我父親是企業家。而我立志從事學術工作。雖然這幾年很辛苦，但最大的收獲，莫過於建立一個眾人努力工作且完全投入的機構。我為這些薪水不高、工作過量的伙伴們感到無比驕傲。他們在最近這幾年所完成的，比任何人──包括我在內──所能想像的都來得多。&lt;/p&gt;
+
+&lt;p&gt;但即使我們對CC這個組織做了全面性的介紹，我們還是缺了一樣東西，而那樣東西，在我看來，才是最終而言最重要的。那就是，世界上有越來越多分支機構，這些機構一開始先將CC授權條款移植到各自的法律管轄區裡，然後現在都在開始將運動推向不僅僅只是授權條款的程度。&lt;/p&gt;
+
+&lt;p&gt;我在第七份通信中提過，我們原先以為，只要將授權條款移植到不同的法律管轄區，就可以達到CC的國際化。結果這樣的過程，帶起了各種創作者、學者、圖書館界以及運動人士的網絡，這些人發現，他們都分享一組共同的關注議題，而這是CC可以幫忙組織帶動的。iCommons便是做為這樣的基礎架構而推出的。2005年6月的iCommons高峰會代表著這個架構的誕生。而往後幾年我們所要做的工作裡，最重要的，就是要支持這個國際性的網絡。iCommons裡的人並不必然都來自CC。但我希望CC能協助建立一個更廣泛、由個人及各組織所組成的聯合（federation），這些包括了世界上各大學裡所發起的自由文化運動（Free Culture Movement）、「維基百科人」（WikiPedians），以及所有希望讓那個叫「著作權」的法律保護架構能夠在數位時代有合理意義的人們。&lt;/p&gt;
+
+&lt;p&gt;如果我們真能讓這些運作起來，這最終就會是CC的真正貢獻了。我旅行世界各地，參與CC各計劃的推出，我真的和幾千人見過面，而大家都為著一組共通的理念而努力著。大家都看到了網際網路所能帶出的創作潛能。每個人都看出何以必須投入以讓此潛能成真的緣由。很多人真的花了數百個小時在CC的工作上，他們不是CC職員，而是志工。其他人也陸續投入，有的在CC架構內，有的在CC之外。&lt;/p&gt;
+
+&lt;p&gt;我說得再多，都無法真正表達我對志工的感謝。我們所最能做的，就是讓志工的計劃能夠運轉下去。我們離這次募款活動的目標已經很接近了。如果我們要持續運作下去，就必須達成募款的目標。謝謝各位讀者讓我每週都寫信到你們信箱裡。請在募款活動的最後幾天裡繼續支持我們，好讓我們達成目標，讓CC的理念得以廣為散佈。&lt;/p&gt;
+
+&lt;p&gt;最後一句感謝的話：我要謝謝瑪麗亞．亞爾維特（Maria Cristinia Alvite）以及iRight.info，他們幫忙翻譯了這系列通信的西班牙文與德文版。總有一天，我們會為這個運動找到一位可以說所有上述語言的主持人的。我承諾大家，我會去找的。&lt;/p&gt;
+
+&lt;p&gt;再次感謝各位讀者花時間閱讀，感謝各位讀者的協助，感謝大家的啟發與回饋。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 24 Feb 2006 07:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">76 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/76#comments</comments>
+</item>
+<item>
+ <title>雷席格的CC每週通信（十二）：介紹幾個新計劃</title>
+ <link>https://creativecommons.tw/in-depth/75</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jedi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;勞倫斯．雷席格（Lawrence Lessig）著，2005年12月21日&lt;/p&gt;
+
+&lt;p&gt;所以，CC有什麼新計劃呢？我們接下來要做什麼？有哪些是CC希望藉由募款活動來支持的計劃？&lt;/p&gt;
+
+&lt;p&gt;這是本系列倒數第二篇文章了，我將介紹兩個即將推出的計劃。本次介紹不是正式的計劃發表。如果你在本次通信的範圍外向我詢問呢，我會拒絕承認有這些計劃的存在。這兩個計劃距離實際獲得支持推出還太遙遠，但是距離宣佈要做卻不遠。至於能否真的推得成，就端賴各位讀者（以及讀者的朋友們）在閱畢本次通信後的熱烈反應了。我們此時需要您的行動支持。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;一座公共領域（public domain）的wiki站台&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;在距離我們宣佈推出不遠的新計劃中，其中一個將維基百科（Wikipedia）的智慧與專業知識，以及一家積極幫助釐清公共領域界線之主流權利機構的洞見，兩者結合起來。這個計劃的運作方式會像是這樣：這個釐清權利的組織（此時我們還不能說到底是哪一家）會將他們所擁有的某個特定國家的作者資料庫之原始內容交給我們。資料庫的原始內容（data dump）包括了這些作者出版的書、作者的出生日期，以及作者的死亡日期（如果有此資料或該資料重要的話）。人們利用這份資訊，就可以知道哪一部著作已經屬於公共領域了。問題在於，關於作者是否已經死亡的資料，經常是不完整、不準確的。所以挑戰在於，我們如何透過社群的方式，補足這份資料，為這個資料庫增添許多價值。&lt;/p&gt;
+
+&lt;p&gt;於是wiki的概念就派上用場了。我們在某個國家的CC分支機構協助下，目前正在成立一個「在X國重新找到公共領域」的社群。該社群將建立各種程序，來更新著作的公共領域資訊──例如，可以找出這筆資料在加進wiki前到底有多少可信度的程序。該社群同時也鼓勵人們把其他資料加入資料庫中，包括了對著作書籍的評論、可能販售這些書籍的場所連結，以及作者的生平傳記等等。我們希望這個站台能成為X國作者資訊的寶山，喚起人們對老作家已絕版或難找到的作品的注意，並且讓大家對他們的作品重燃興趣。&lt;/p&gt;
+
+&lt;p&gt;我們之後則將設計一套API──主要是資料庫的程式存取介面──好讓任何人都能存取資料庫，取得某一作品的資訊。例如說，任何人都可以自由地向資料庫查詢某個作者寫的某本書是否已屬於公共領域，資料庫則會回覆一個可信度資料（例如，「我們有95%的信心認為該書已經屬於公共領域」）。該資料就能讓人們使用，來判斷是否該書可以在網路上公開流通，或是判斷要在大學課堂上使用該書有哪些許可必須取得。&lt;/p&gt;
+
+&lt;p&gt;該計劃稱為WikiPD，目前已經獲得了最初的資金。CC要持續進行此計劃，必須有大筆的公眾資助。所以給讀者的問題是：願不願意幫助我們從事此計劃？&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;將作者的權利還給作者&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;第二個我們低調進行的計劃，是讓創作者有機會，在法律給予的可能性下，將他們多年前簽約讓渡的權利給拿回來。根據美國的著作權法，創作人可以在讓渡權利後35年「終止」該項讓渡。但是要這麼做，必須經過各種瘋狂又複雜的程序，大多數創作者根本沒有時間或心力去跑這些程序。因此，雖然美國著作權法給了作者這項權利，但法律太複雜，讓創作者想要施行該權利時碰釘子。&lt;/p&gt;
+
+&lt;p&gt;我們可以幫上忙。我們在2005年這段時間裡設計了一個電腦程式──有點像是終止權利讓渡的精靈（wizard）軟體──讓創作人可以用來知道他們是否有一些權利是可以索回的，並且幫助他們索回這些權利。精靈軟體接著會告訴創作人有哪些可能性。如果創作人希望的話，該系統會將案子轉介給一家法律事務所或是藝文律師志工團（Volunteer Lawyers for the Arts），如此一來在受過訓練的法律顧問協助下，創作人可以索回他們的權利。我們免費提供這個工具。我們同時也讓創作人可以自由地將他們索回的權利，再以CC授權條款發佈，不過我們沒有要求一定要這麼做就是了。事實上，我們唯一的目的，是要讓法律變簡單些，好讓法律更能幫助本來法律希望幫助的人：創作者。&lt;/p&gt;
+
+&lt;p&gt;這個計劃會讓一些人驚訝──那些（錯誤地）認為我們反對作者的權利的人。事實上，在我看來，這個計劃恰恰好是CC理念的最佳表現：找一個方法讓法律能更容易被運用，並且找一個方法讓創作者更容易得到他們想要的事物。&lt;/p&gt;
+
+&lt;p&gt;該計劃同樣需要大量的資助。我們應該會在2006年二月初有該服務的beta版。但是要測試、實作該服務，卻需要大量的基礎建設。這是另一個讀者應該點選CC贊助網頁的理由。或者更好的說法是，這是為什麼讀者應該把CC贊助的消息寄給你的一萬個好朋友知道。要讓這兩個計劃成立，就必須為計劃建立所需的基礎架構。雖然有些人能靠著像我在CC所賺的薪水一樣來工作（也就是說，一毛不取！），我們的工作人員並不是每一個人都能這樣付出的。所以請 支持我們，並邀請其他人一起來支持。&lt;/p&gt;
+
+&lt;p&gt;下一次的通信會是這一系列的最末一篇文章。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 24 Feb 2006 06:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">75 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/75#comments</comments>
+</item>
+<item>
+ <title>雷席格的CC每週通信（十一）：介紹各種CC工具</title>
+ <link>https://creativecommons.tw/in-depth/74</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jedi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;勞倫斯．雷席格（Lawrence Lessig）著，2005年12月14日&lt;/p&gt;
+
+&lt;p&gt;CC提供各種「code」，以給予創作者一項能力──亦即能在創作內容上標註他們希望作品能帶有哪些自由。這裡英文的「code」有兩種意思──一種是法律性的條款（legal code，亦即授權條款，也就是license），以及技術性的程式碼（software）。我在前幾次通信中花了很多時間介紹法律性的條款。不過大多數人都不知道我們也寫程式，雖然呢，在我看來，那些程式其實是我們做得最棒的事情之一。&lt;/p&gt;
+
+&lt;p&gt;不過首先，我們得先弄清楚寫程式的目的。我們只是個規模不大的非營利組織（nonprofit）。我們不可能進入軟體業來建立並維護程式碼。所以我們的程式計劃乃是採取在此情況下最有可能的方式來進行──亦即我們將程式計劃用自由軟體授權方式散播（我們採用的是GPL），努力支持程式計劃，然後希望最終這些程式都能擁有自己的生命。至於要推動哪些程式計劃，則是看我們希望能公開提供哪些功能。如果我們播的種，能在別人那邊變成百萬美金的大事業，那我們可是再高興不過了。&lt;/p&gt;
+
+&lt;p&gt;我們寫的程式──都是一些工具，這些工具有的，舉例來說，讓&lt;a class=&quot;newpage&quot; href=&quot;http://www.flickr.com/&quot;&gt;flickr&lt;/a&gt; 這樣的相簿共享網站，可以把我們的授權條款引擎，整合進他們自家的平台上；&lt;a class=&quot;newpage&quot; href=&quot;http://yergler.net/projects/mozcc/&quot;&gt;有的則是像這個很厲害的Mozilla系列瀏覽器（包括FireFox）的外掛（plug-in）&lt;/a&gt;，讓你可以輕易瀏覽網頁的授權資訊，還會在瀏覽器視窗底下顯示一個小圖示。&lt;/p&gt;
+
+&lt;p&gt;另外呢，我們還寫了一些較不為人知的程式，這些是為了讓網路上的內容重混（remix）變得更容易而做的。&lt;/p&gt;
+
+&lt;p&gt;最簡單而且最容易明瞭的例子，當然要屬&lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/CcPublisher&quot;&gt;ccPublisher&lt;/a&gt; 了。ccPublisher是一個桌面應用程式，讓人們可以很容易地將他們的創作──在標上了CC授權條款之後──放到網路上。一旦你安裝好這個程式，你就可以輕鬆地把檔案拖到ccPublisher裡面。這個程式會帶出一道程序，首先會要你指定一個用在著作上的CC授權條款，然後程式便將檔案上傳到伺服器上。&lt;/p&gt;
+
+&lt;p&gt;目前程式所設定的伺服器是Internet Archive。網路英雄布魯斯特．卡利（Brewster Kahle）承諾為任何將著作內容以CC授權條款公開的人，永遠提供免費的儲存空間及頻寬。所以透過Internet Archive，你可以為你的著作找到一塊永遠的家，同時還有一個URL連結，可以告訴別人去哪下載你的作品。只要三個步驟，你的作品──不管多大、不管多難遞送──就可以讓所有人取用了，而且是永遠可以的。&lt;/p&gt;
+
+&lt;p&gt;我們還寫了一個&lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/CcLookup&quot;&gt;簡單的檢查程式&lt;/a&gt;（validator），讓大家可用來檢查標有CC授權的MP3檔案。一個MP3檔案裡所嵌入的授權，只有在檔案同時提供一個正確連回網站的連結時，才能被檢查程式認定是正確的。這個工具讓你可以驗證這個連回去的連結，好讓你真的可以相信說這個MP3檔案確實是照檔案上所說的方式授權的。&lt;/p&gt;
+
+&lt;p&gt;不過呢，到目前為止，我們寫過最酷的作品，是受到一群MIT大學部學生的啟發，並且是在傑出的音樂人兼程式設計者維克多．史東（Victor Stone）的協助下完成的。這程式叫作 ccMixter。&lt;/p&gt;
+
+&lt;p&gt;ccMixter 是某種類似「Friendster」那樣的交友網站，只是是以音樂作為交流的基礎（而且沒有像「Friendster」那樣是商業公司的服務）。你將你的音軌放上來，其他人重混（remix）你的音軌，而系統則記錄有哪些重混。所以你找ccMixter上的任何一首歌，都可以看到這首歌是由哪些其他曲子重混而成的（如果有使用重混的話），以及哪一首歌重混的那一首歌（如果有被重混的話）。使用者可以為歌曲評分、下載歌曲、使用串流播放（streaming），或是將作品用音樂訂閱播出（podcast）的方式散播。&lt;/p&gt;
+
+&lt;p&gt;這個服務的概念，是建立一個協同創作的技術平台，技術平台建立在協同合作的法律平台上（亦即CC的各種授權條款）。 ccMixter 最初放的是 Wired CD 的16首歌，包括了吉爾貝托．吉爾（Gilberto Gil）、野獸男孩（Beastie Boys）、大衛布爾恩（David Bryne）、Chukd D等人的創作。現在該網站上已經有超過1,600首曲子了。&lt;/p&gt;
+
+&lt;p&gt;我最喜歡的 ccMixter 故事，是一個代名「Minus Kelvin」的歌手。「Minus Kelvin」是一位高中物理老師。他於2005年二月加入了 ccMixter 。他在他的個人資料上寫說他想要找「一家唱片公司」。六月的時候，「Minus Kelvin」跟一家唱片公司簽了約，這家公司是透過 ccMixter 發現了他。雖然世界上只有一位「Minus Kelvin」，但是 ccMixter 上有越來越多像他這樣的經歷。&lt;/p&gt;
+
+&lt;p&gt;我們預期為 ccMixter 提供主機一陣子。我們未來會將該網站移植變為國際性的網站，以支持iCommons計劃，同時讓該服務能在教育領域起作用。不過我們的夢想呢，就是希望有人能將程式拿去，將之拿來營運一個有上萬創作者使用、彼此使用對方作品創作新東西的網站。在此同時，請參觀&lt;a class=&quot;newpage&quot; href=&quot;http://ccMixter.org&quot;&gt;http://ccMixter.org&lt;/a&gt;。並請&lt;a class=&quot;newpage&quot; href=&quot;https://support.creativecommons.org/&quot;&gt;支持我們的工作&lt;/a&gt;，好讓該網站能更加廣為流傳。&lt;/p&gt;
+
+&lt;p&gt;在下一次的通信裡，我將說明我們其他的新計劃。再下一次，就是這一系列的最後一篇了。&lt;/p&gt;
+
+&lt;p&gt;在本次通信結束前，我想要為前兩次通信的內容做個更正。從我收到的迴響看來，我想表達的意思並不是很清楚。&lt;/p&gt;
+
+&lt;p&gt;首先，在&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.tw/betacc/in-depth/73&quot;&gt;上一次通信&lt;/a&gt;裡，我提到了在「自由」軟體運動與「開放原始碼」軟體運動之間的爭鬥，我說，「對一些人來說，這是一場相信理念價值的陣營與相信現實原則（pragmatism）陣營的爭鬥」。至於到底誰是那「一些人」，則不是很清楚。就我的經驗，推動開放原始碼運動的人，是我所認識最有理念與原則的一群人。但是「有些人」認為那是一場爭鬥，而就我看來，真正爭的是兩種價值願景。&lt;/p&gt;
+
+&lt;p&gt;另外，在&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.tw/betacc/in-depth/65&quot;&gt;第二次通信&lt;/a&gt;裡，我提到了「我們認為，這樣的設計，會和自由軟體運動相似，讓創造力能有一塊空間，不致受到著作權的太多束縛。但我們和自由軟體運動不同的是，我們的目標並不在去除『私有財產的文化』，而在自由軟體運動裡，起碼有一部份的人是希望除去私有軟體的」。有些人將這段話解讀為，我認為自由軟體運動想要鏟除「私有財產的文化」。我的意思不是這樣。我單純只是想說，雖然自由軟體運動有很多推動人士，都希望能有一個沒有私有軟體的世界，自由文化運動的推動者們並不企求一個沒有私有財產文化的世界。&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+http://ccMixter.org連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 24 Feb 2006 05:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">74 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/74#comments</comments>
+</item>
+<item>
+ <title>雷席格的CC每週通信（十）：論重要的自由</title>
+ <link>https://creativecommons.tw/in-depth/73</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jedi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;勞倫斯．雷席格（Lawrence Lessig）著，2005年12月7日&lt;/p&gt;
+
+&lt;p&gt;前情提要：&lt;/p&gt;
+
+&lt;blockquote&gt;在下次的通信裡，我會談論到針對CC的各種批評。&lt;/blockquote&gt;
+
+&lt;p&gt;在本週的通信裡……&lt;/p&gt;
+
+&lt;p&gt;CC是個相當新的組織。我們獲得的成功，比我先前預期得高，在此同時，我們卻也犯了一些錯。其中一些錯誤，我們已經改正過來。另外一些，我則希望能說服大家來改正。不過，在CC計劃推出的這三年來，我們一直努力要為創作者建立一個穩固而可以持續發展的基礎架構。&lt;/p&gt;
+
+&lt;p&gt;一路走來，我們也受到一些批評。限於文章長度，我不可能將之一一列舉。在本週的通信裡，我將只談論兩種批評──一種是針對我們的「非商業性」授權條款（NonCommercial）而來，另外一種批評則是針對CC的兩個非核心的授權條款（non-core licenses）而來的。不過，2006年開始，我們會開設一個專門用以討論此項議題的論壇，而我會在這論壇中持續進行討論。Ubuntu Linux的創辦人馬克．沙特沃斯（Mark Shuttleworth）在這點上是我的模範，我也會儘量抽時間來參與討論。&lt;/p&gt;
+
+&lt;p&gt;以下，便是我們曾經收到的一些批評。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;（一）針對「非商業」授權條款的批評。&lt;/strong&gt;&lt;br /&gt;
+莫勒（Erik Möller）&lt;a class=&quot;newpage&quot; href=&quot;http://intelligentdesigns.net/Building_the_future&quot;&gt;提到&lt;/a&gt;，他反對使用CC的「非商業」（NC; NonCommercial）授權條款。他的論點分成五個部份，但是其核心論述在於針對非相容性的關注。根據他的說法，「自由內容（free content）早已不是什麼邊陲的運動了」。他舉維基百科（Wikipedia）作為例子，並且正確地指出，使用「非商業性」授權的作品，是無法放進維基百科裡的。他認為，這造成了問題，尤其是對於「合作性計劃」（collaobrative projects）來說更是如此。他又說，「在合作性的環境裡，將某幾塊內容劃定為非商業使用，還要貫徹這樣的區分，簡直就是不可能的事」。&lt;/p&gt;
+
+&lt;p&gt;莫勒說得沒錯。「非商業性」授權條款的確干預了這類型的合作。這個條款的確帶來了潛在的不相容問題。當然啦，莫勒也知道，就算沒有「非商業性」的限制，仍然會有不相容的問題：我在&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.tw/betacc/in-depth/72&quot;&gt;上一次的通信&lt;/a&gt;中提到，要將使用自由文件授權條款（FDL; Free Documentation License）授權的內容，與使用對等CC授權的內容重混在一起（一起使用），是不可能的。那是因為這兩種授權，就目前各自的設計，都把可互通性給阻擋住了。這對於自由文化的生態來說的確是個問題。而我在上一次的通信中也提到，CC希望藉由發起自由授權條款的聯合、鼓勵同類授權間的互通性，來修正這個問題。&lt;/p&gt;
+
+&lt;p&gt;不過，即便是這個聯合（federation）成功了，莫勒所描述的問題仍在。有一些類型的授權條款無法與其他類型的條款相容。至於最可能造成問題的不相容情況，就正好是莫勒所指出的那一種：使用「非商業性」條款的內容，無法放進像維基百科這種以「相同方式分享」（ShareAlike）性質授權的計劃裡。&lt;/p&gt;
+
+&lt;p&gt;怎麼解決這問題？我的建議和莫勒的相似──請你儘可能使用限制最少的授權條款。但我說「和莫勒的建議相似」是因為，我的感覺是，莫勒其實希望大家根本不要使用「非商業性」授權條款，而我的想法是，因為使用CC授權條款的創作人如此多樣，「非商業性」授權條款總會有需要派上用場的時候。&lt;/p&gt;
+
+&lt;p&gt;好比說吧，你是某個樂團的團員，你錄了首新歌。你很樂見新歌在網路上廣為流傳。但是呢，你可不想見到Sony把你的新歌放進CD裡──好歹他們得先問過你同意才行。如果你只是將新歌用簡單的姓名標示（Attribution）授權條款發表，那Sony（或任何人）都沒有不能把你的歌拿來轉賣的道理。而我個人覺得，你想保留商業授權，好讓Sony在利用你的音樂獲利之前，要先向你請求授權（並且付錢給你），這本身並沒有什麼不對的。&lt;/p&gt;
+
+&lt;p&gt;莫勒的建議是，要避免這個問題，你可以採用類似向「相同方式分享」的CC授權條款，將你的歌變成「有著佐權」（copyleft）的作品。他的論點是，「任何希望從你的作品中獲益的公司，也因此必須將他們商品的『附加價值』（added value）公開給所有人自由取用。如此一來，被人從中獲益的『風險』反而變成是一種極有潛力而有益處的事」。&lt;/p&gt;
+
+&lt;p&gt;但是這個論點並不怎麼正確。「相同方式分享」（ShareAlike）的前提，只有在使用作品的一方從歌曲中改作出「衍生著作」（derivative work）時才成立。只是將歌曲放進CD裡，這並不構成衍生著作。因此單單針對這一種的從中獲益行為，「相同方式分享」並無法給予足夠的保護。而「非商業性」授權條款，就是為了這種情況而設計的。&lt;/p&gt;
+
+&lt;p&gt;不過，確實，對於網路上許多的創作來說──特別是在共同創作的脈絡裡──保障商業授權權利並不是那麼有需要的事。就拿我自己的blog來說吧，那個網站只是用了個簡單的「姓名標示」授權條款而已。CNET Japan將之翻譯成日文，並且在譯文旁邊加上該公司所販售的廣告資訊。以我寫作的目的來說，那是可以接受的。我是為了傳播理念而寫作；因此只要情況合宜，我就不跟人收取費用。就我的觀點來說，莫勒當然是正確的：限制最少的授權條款，對我就足夠了。因此我會把這論點這樣子歸納起來：我們大家都應該使用一個和我們理念一致、限制又最少的授權條款。&lt;/p&gt;
+
+&lt;p&gt;我們在協助使用者瞭解這一點上面，做得不夠好。莫勒呼籲CC多努力些，這是對的。我們會這麼做。倒是，莫勒為我們上了極為正確的一課，那就是，我們都應該思考我們所做每一個選擇的後續結果是什麼。有些人就只是希望他們的創作內容能以非商業方式公開流通。對他們來說，「非商業性」授權條款是很實用的選擇。但其他人真的希望他們的作品能在網路上被使用、被重混（remix）。對後者來說，「非商業性」這個選項，所帶來的困擾，就比帶來的益處要多了。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;（二）針對取樣授權條款（Sampling License）與發展中國家授權條款的批評（Developing Nations License）。&lt;/strong&gt;&lt;br /&gt;
+CC提供了六種核心的授權條款。每一種都提供大家針對作品從事「重製、散布、展示、演出」的自由。除了這六種核心授權條款外，CC也提供了兩種不給予上述自由的條款。其中一種稱「取樣」（Sampling）授權條款，另一種則是「發展中國家」（Developing Nations）授權條款。&lt;/p&gt;
+
+&lt;p&gt;取樣授權條款的設計靈感，是得自Negativland這個樂團，以及著名音樂家、同時也是巴西現任文化部長的吉爾（Gilberto Gil）。基本概念是這樣的：你可以將著作內容重混（remix），或是加以「取樣」（sample）。取樣授權條款的預設設定，甚至讓你可以為商業目的而重混。但是取樣授權條款的預設設定裡，也提到你沒有重製、散布、展示或演出授權標的物的權利。上述的權利都由著作人所有。唯一授予的權利，本質上就是創作衍生作品的權利。&lt;/p&gt;
+
+&lt;p&gt;發展中國家授權條款則不一樣。該授權條款的設計靈感，來自從事Access2Knowledge運動的人士──尤其是受到洛夫（James Love）的啟發。他們希望有一套授權，可以讓著作內容在發展中國家裡面給予（完全）自由使用的權利，即使這種授權並不改變著作物在發展中國家以外地方的規範亦然。所以基本上，發展中國家授權條款的內容就是說，著作物在發展中國家內可以被自由使用，甚至商業性使用也可以。但是在發展中國家以外的地方，就受到一般著作權的約束。這也就是說，使用發展中國家授權條款授權的作品，在發展中國家以外的地方，沒有給予使用者重製、散布、展示或演出的權利。&lt;/p&gt;
+
+&lt;p&gt;理查．史托曼批評說，這兩種授權條款都有個共同的地方──那就是，雖然這兩種授權條款都保障了重要的自由，卻也同時都限制了「重製」著作物的權利。對他來說，重製是根本的權利。也因此對他來說，任何不給予這種基本自由的授權條款，便不配得到CC的支持。他因此要求我們，要不就是丟掉這兩種授權條款，否則就是要和這兩種條款撇清關係。&lt;/p&gt;
+
+&lt;p&gt;在此，首先必須要澄清的，就是我們跟史托曼之間有意見不合，但這意見不合「不是」什麼。有些讀者可能還記得「自由軟體」（free software）以及「開放原始碼軟體」（open source software，又譯作「開放源碼軟體」）之間的爭鬥。對一些人來說，這是一場相信理念價值的陣營與相信現實原則（pragmatism）陣營的爭鬥。CC與史托曼之間的意見不合不是那一種爭鬥。我們之所以去支持取樣及發展中國家授權條款，並不是因為出自現實原則。這只是我們對於價值的觀念不同。CC絕不會提供能保障任何自由的授權條款；我們認為，CC的授權條款只應該保障重要的自由。這也正是我們認為這兩種授權條款能做的──這兩者都保障了重要的自由，即便它們不涵括重製的自由。這並不是因為說，在某些情境脈絡下，或是對某些創作者來說，重製的自由不是一樣重要的自由。問題在於，重製的自由並非在所有情境脈絡下都是重要的自由──至少如果在重製的自由干預了其他重要的價值時，就並不是了。&lt;/p&gt;
+
+&lt;p&gt;舉例來說，好比你是一為在奈及利亞（Nigeria）教書的老師。你需要數學課本，來教你的學生，而他們都說福拉尼語（Fulani）。這時候就算你有重製某本英文寫成的數學課本的權利，意義也並不大。你需要的是能夠翻譯這本書的權利。在這樣的情境下，改作產生衍生著作的權利才是最關鍵的；重製的權利無關宏旨。&lt;/p&gt;
+
+&lt;p&gt;同樣的論點，可以應用在更廣泛的層面上。我們的看法是，在不同的創作領域裡，關鍵的自由不會都一樣。音樂所需的自由和軟體不同，軟體又和影片不同。我們在CC計劃中一直在做的，就是向來自不同領域、又都認同自由的價值的帶頭人物詢問，好幫助我們瞭解，哪些價值在哪個特定領域裡是重要的。吉爾與Negativland對音樂領域很瞭解。因此當他們說，重混的自由很關鍵而重製的自由不見得的時候，要說服我們說他們不對，可不是那麼容易的事。&lt;/p&gt;
+
+&lt;p&gt;同樣的話也可以用在發展中國家授權條款上。此處針對的，是一種需要應用在本地市場的創作，但這種創作並不預期能在發展中國家裡面得到利益。因此，舉例來說，發展中國家授權條款最酷的應用者，是那些設計平價住宅的建築師們。他們將他們的設計稿以發展中國家授權條款來授權，這代表說，住在發展中國家的人，可以自由拿此作品從事任何使用。但是，至少從建築師的觀點來看，他們也不能就這樣直接把設計圖送到他們競爭者手裡。&lt;/p&gt;
+
+&lt;p&gt;這些創作者可能會錯。吉爾、Negativland以及洛夫或許會弄錯到底創作者確實需要哪些權利。但是我們需要的，是一場在創作者之間進行、針對他們到底需要哪些自由，所舉行的公開辯論。我們希望能促成這樣的辯論。在此同時，我們仍會根基於相關社群所指出的價值，來為我們指出方向。&lt;/p&gt;
+
+&lt;p&gt;我先前說過，針對其他有意義的批評，還有更多話該說的。但是這次的通信已經太長了。我們會在2006年年初公開這個討論空間。請繼續收看，下一次通信裡，我會說明我們正在進行的幾項計劃。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 24 Feb 2006 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">73 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/73#comments</comments>
+</item>
+<item>
+ <title>雷席格的CC每週通信（九）：談授權條款相容性</title>
+ <link>https://creativecommons.tw/in-depth/72</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jedi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;勞倫斯．雷席格（Lawrence Lessig）著，2005年11月30日&lt;/p&gt;
+
+&lt;p&gt;前情提要：&lt;/p&gt;
+
+&lt;blockquote&gt;下一次通信裡，我會說明我們於2006年將推出的另一個方案。這個方案不只對CC重要，對於創作環境的生態也將是不可或缺的。請繼續收看！&lt;/blockquote&gt;
+
+&lt;p&gt;在這一週的通信裡：&lt;/p&gt;
+
+&lt;p&gt;自由的公共授權條款，並不是CC發明的。自由的公共授權條款可以說是理查．史托曼（Richard Stallman）發明的，至少他是第一個獲得廣泛成功的條款發明人。頭一個為創作內容（content）所設計的自由公共授權條款，也不是 CC 發明的。在我們開始投入此一領域之前，有很多人承繼了史托曼的路線，推出了適合創作作品的自由授權條款。Art Libre授權條款應當是其中最出名的了。BBC的Creative Archive授權條款則是近來最著名的例子之一，該條款起碼讓英國公民可以自由取得重要的英國文化資源。最後，自由軟體基金會（FSF; Free Software Foundation）的GNU自由文件授權條款（FDL; Free Documentation License）原先是為軟體文件所設計的 copyleft&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-1&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-1&#039;)&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;的授權條款，但最著名的使用者則是維基百科（Wikipedia）。&lt;/p&gt;
+
+&lt;p&gt;這幾種自由授權條款都有著一個共同的目的。每一種授權條款都希望能給創作者機會，以將幾種重要的自由授與他人。至於哪幾種自由，則可能依條款不同而有差別。以Creative Archive條款來說，它並不是copyleft的條款。至於自由文件授權條款（FDL）因為有加諸多種限制，因此使用Art Libre授權的作品便不適宜使用自由文件授權條款。不過這些差異倒是反映了創作社群的多樣性。重點不在於其間的差異，而在於其共通的目標。&lt;/p&gt;
+
+&lt;p&gt;但是所有上述這些自由授權條款，連同CC目前的各種授權條款在內，都有一項共通的缺陷。這些授權條款對待創作作品的方式，反而使得不同的創意間無法共存，這就有如1970年代的電腦界，或者在一個創作內容被數位權利管理（DRM）技術所掌控的世界那般。&lt;/p&gt;
+
+&lt;p&gt;舉例來說，如果你是名高中生，要寫一份關於哲學家維根斯坦（Ludwig Wittgenstein）的報告。既然你是21世紀的高中生，你當然不可能只會寫一份傳統的書面報告。你想用短片的方式來做報告。短片題目是「維根斯坦的世界，當代版」。你要用維基百科上面關於維根斯坦的生平資料來製作你的短片。&lt;/p&gt;
+
+&lt;p&gt;你的構想很簡單：你想將維基百科裡關於維根斯坦的生平描述拍成電影，再加上你在Flickr這種相簿網站裡所找到的照片，並配上你從Opsound音樂網站所下載來的音樂檔。&lt;/p&gt;
+
+&lt;p&gt;如同我先前的通信內容說的，數位內容（digital content）最重要的特點就是，從技術面來看，像這樣的拍片計劃實在只是小事一樁。數位技術讓創作人──只要付出相對來講相當些微的代價──能夠取得我們身旁的各種聲音及影像等文化素材，並將之「重混」（remix）在一起，創造出新的作品。一位利用各種現有數位技術的高中生，可以輕易完成我剛說的混合剪輯創作，而不會碰到任何技術性的門檻。當然啦，你還是要有夠好的創意才行。即使有最好的技術在手上，要拍片還是不容易的事。但是我們可以說，那樣的挑戰，才正是對創作者重要的挑戰。不要讓技術性問題擋在路中間，創作本身才是真正需要努力挑戰的工作。&lt;/p&gt;
+
+&lt;p&gt;但是從事自由文化運動（Free Culture Movement）的人，慢慢開始發覺，上述的情景，開始日益變得困難起來。雖然「技術上」你可以混合剪輯各種創意作品，但是你在「法律上」能這樣做嗎？那些「自由」的創意作品所採用的各種授權條款，能否允許那些自由的作品也被人剪輯混用？&lt;/p&gt;
+
+&lt;p&gt;結果答案是不行，令人驚訝（而對像我們這樣的律師來說，這是個難堪的答案）。即便是你想要混合剪輯的作品，採用了copyleft的授權條款，但因那些copyleft授權條款各自不同，因此你不能說將一種創意作品拿來與另一種創意作品搭在一起。舉例來說吧，維基百科全書採用了自由文件授權條款。該條款要求所有的衍生著作只能使用自由文件授權條款來授權。Opsound上面的音樂內容，以及Flickr相簿網站上的照片，使用的則是CC的「姓名標示─相同方式分享」授權條款（Attribution-ShareAlike），該條款也規定所有的衍生著作只能使用CC的「姓名標示─相同方式分享」授權條款來授權。所有這類的條款，在制定的時候，都沒有考慮到所有數位時代的技術進步所帶有的基本價值──亦即，可互通性（interoperability）。&lt;/p&gt;
+
+&lt;p&gt;我們打算修正此一問題。至少，我們希望嘗試去改變。其中一種方法是叫大家都去用某一種CC的授權條款。但是強迫全世界的人只使用一種條款，既違背我們的價值，對於自由文化的生態也無益處。因此我們不這麼做，我們反而是發起一項計劃，以協助各種具備足夠彼此相容性的授權條款，能夠達到可互通性的目標。我們會努力說服所有在自由授權領域的人一起加入我們這項計劃。&lt;/p&gt;
+
+&lt;p&gt;以下便是我們發起計劃的大要（不過希望你能瞭解，在我們訂下定版的計劃前，一定還會有很多要討論的地方）。我們先前發展出一套策略，用以確保授權條款在不同法律管轄區之間得以相容；你會發現這項計劃也是建立在該策略的基礎之上：&lt;/p&gt;
+
+&lt;p&gt;CC授權條款有三個層次：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;供一般人閱讀的CC授權標章（Commons Deed），其描述了創作內容有哪些自由，使用大家都能瞭解的文字寫成；&lt;/li&gt;
+	&lt;li&gt;供律師閱讀的法律條款（Legal Code）──也就是授權條款（license）──使得創作內容所帶的自由，是可以在法律上成立、被執行的；最後是&lt;/li&gt;
+	&lt;li&gt;可供機器閱讀的後設資料（metadata），使得創作內容所帶的自由，可以被電腦所理解收集使用。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;我們可以將這三個層次變成下圖：.&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;w9-1.png;&quot; class=&quot;image&quot; src=&quot;http://lh5.ggpht.com/_a0muzrcaKwo/S-E3BpYJwqI/AAAAAAAAAWU/l9a1EFRId9A/s800/w9-1.png;&quot; style=&quot;width:650px&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;我們在早先將CC授權條款移植（port）到其他法律管轄區，好讓世界各地的人都能根據當地法律將其創作作品授權出去。我們在這過程中的目標，是要確保在一個國家所授權的創作作品，能夠與在另一個國家所授權的創作能夠相容。因此在架構上，我們增加了在第二層的授權條款，因此整個設計看起來會像是這樣：&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;w9-2.png;&quot; class=&quot;image&quot; src=&quot;http://lh5.ggpht.com/_a0muzrcaKwo/S-E3B-_g7hI/AAAAAAAAAWY/0rnHm_iyqOM/s800/w9-2.png;&quot; style=&quot;width:650px&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;從今天開始，我們將推動一項新計劃，希望將這樣的可互通性推廣出去，不再僅限於CC授權條款之間。我們已經開始著手設立一個顧問團（我們稱之為「CC法律顧問團」〔Creative Commons Legal Advisory Board〕，簡稱ccLab），該顧問團會由世界各地的授權專家組成。顧問團會設計一套程序，用以在授權條款制訂人送交條款後，能夠認定相似的自由授權條款間是否能夠「相容」。如果一種條款被認定是具有相容性的，顧問團便將之加上CC的後設資料，用以表述創作內容所帶有的自由，並連結至授權標章，以解釋創作內容帶有哪些自由，然後我們便會認可這個條款，將之放進我們正在設立的自由授權條款聯合（federation of free licenses）之中。這樣的授權條款世界看起來會像這樣：&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;w9-3.png;&quot; class=&quot;image&quot; src=&quot;http://lh3.ggpht.com/_a0muzrcaKwo/S-E3BymiS2I/AAAAAAAAAWc/FU2viN0kSOo/s800/w9-3.png;&quot; style=&quot;width:650px&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;如果本計劃成功，那麼創作作品便能在混用剪輯時，更容易地從一種條款轉移到另一種。一旦創作作品能轉用彼此間相容的授權條款，自由授權社群就會如同市場般，找出哪些授權是相容性更高、更可靠的。如此一來自由文化就不再會被哪一種特定的自由授權條款所框限住。自由文化將得以在所有相關且相容的條款之間走動。而自由軟體世界裡常見的那種「自閉的自由」（autistic freedom）在自由文化的世界中將得以避免。&lt;/p&gt;
+
+&lt;p&gt;當然啦，這個計劃並不會讓不相容的授權條款因此變成相容。舉例來說，使用了「姓名標示─禁止改作」（Attribution-NoDerivatives）是不能跟使用「姓名標示─相同方式分享」的作者混用在一起的。不過，這種不相容性是創作者自行設定的。雖然很多人認為，我們也應該努力減少這種不相容性，而我也同意這樣的看法，但是我認為，先消除因為不經意而產生的不相容性，會是更重要的。加入了自由文化運動的創作者，之所以願意將其創作作品用自由授權發表公開，是因為認同了這些授權條款所表述的價值。他們可不是因為哪一種自由授權的法條氣燄凌駕了其他授權才這麼做的。我們得想辦法別讓律師們的本位主義霸佔舞台，如此一來創作者所認同的價值才能夠真正被實現。&lt;/p&gt;
+
+&lt;p&gt;這不會是個簡單的計劃。這個計劃需要許多支持協助。更重要的，這計劃需要所有參與自由文化運動的人，放下我們自己圈出的小領地，一起為一種可行的目標合作。理查．史托曼有過下面的名言：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;「如果我們不想活在叢林裡，就得改變態度。我們得傳達一種訊息，亦即所謂的好公民，就是在得宜的情況下，與他人合作的人……」&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;誠哉斯言。選擇了認同自由文化價值的創作者，他們不會樂見這世界讓他們的創意與其價值無法搭配在一起。我們這些為自由文化從事基礎建設的人，必須負起責任尊重創作者所認同的價值才行。&lt;/p&gt;
+
+&lt;p&gt;在下次的通信裡，我會談論到針對CC的各種批評。&lt;/p&gt;
+
+&lt;p&gt;Footnotes&lt;/p&gt;
+
+&lt;div&gt;
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-1&#039;)&quot;&gt;1&lt;/a&gt;. copyleft，字面上有跟 copyright 的「right」（右，權利）相對的意思，有人翻成「版權屬左」（因此帶有左派色彩）、「版權沒有」、「公共版權」（這其實是錯誤的）等詞。廖漢騰譯為「著佐權」。他對此翻譯的說明如下：「目前中文翻譯筆者見過的有反版權、反著作權。筆者認為copyleft仍是在現有著作權體制下以個人權利要求他人回饋社群的方式，雖然與常見的著作權模式不同，但不應該是反對著作權的基本體制。筆者採著佐權一詞取中文『輔佐』之」。&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 23 Feb 2006 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">72 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/72#comments</comments>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 自由軟體</title>
+ <link>https://creativecommons.tw/category/tags/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>SketchChair—讓每個人設計自己的椅子</title>
+ <link>https://creativecommons.tw/blog/20130714-1</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;隨著3D列印技術等各種數位製造(digital fabrication)工具的蓬勃發展，意味著使用者自行製作獨特個人化產品世界的機會大幅提升，然而現有的電腦輔助設計(CAD)系統過於專業和複雜，常讓沒經驗的使用者不知如何操作，導致數位製造過程仍無法普及。&lt;/p&gt;
+
+&lt;p&gt;Greg Saul是對於挑戰消費者和設計師界線感興趣的設計師、工程師，他相信個人生產是改變設計面貌的基礎。出生於紐西蘭威靈頓，他在維多利亞大學念工業設計時遇到現在的合作對象Tiago Rorke，由於都對「互動、數位製造、電腦運算設計」三者的可能性感到好奇，便一起組成了&lt;a class=&quot;newpage&quot; href=&quot;http://diatom.cc/&quot;&gt;Diatom設計工作室&lt;/a&gt;，希望能研發開放資源設計軟體讓所有人都能參與設計。&lt;/p&gt;
+
+&lt;p&gt;於2009年起，他們和東京的&lt;a class=&quot;newpage&quot; href=&quot;http://www.designinterface.jp/en/&quot;&gt;JST ERATO Igarashi Design UI Project&lt;/a&gt;合作，研發出讓所有人都能輕鬆操作的設計軟體&lt;a class=&quot;newpage&quot; href=&quot;http://www.sketchchair.cc/&quot;&gt;SketchChair&lt;/a&gt;，希望任何人都能因此善用數位製造工具，設計出自己獨特功能性、個人化的椅子。&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/2-1_0.jpg&quot; style=&quot;display:block; height:400px; vertical-align:baseline; width:700px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;這個軟體使用開放資源processing.org和&lt;a class=&quot;newpage&quot; href=&quot;http://www.cc.ntu.edu.tw/chinese/epaper/0020/20120320_2003.html&quot;&gt;Eclipse IDE&lt;/a&gt;的 java寫成，使用者以簡單的2D繪圖介面畫出想要的椅子，軟體會自動產生椅子結構，並以一個物理引擎(physics engine)測試椅子的堅固穩定度，確保椅子可以站著，也能舒適的支撐人。另外，使用者也能讓模擬自己的虛擬人物坐在椅子上，配合自己的狀況來調整椅子，做出一個客製化的椅子。&lt;/p&gt;
+
+&lt;p&gt;接著，軟體會自動產生切割的檔案，使用cnc router、雷射切割機或裁紙機，就能以適合的材質切割出組裝的原件。使用者可以把自己的設計寄給線上數位製造服務像&lt;a class=&quot;newpage&quot; href=&quot;https://www.ponoko.com/&quot;&gt;ponoko.com&lt;/a&gt;切割，或是寄給在地的一些工作室，由於這些椅子的原件包裝輕便，也就容易運送，收到時只要簡單的用手拼裝組合即可。&lt;/p&gt;
+
+&lt;p&gt;網站上除了軟體的下載，也有維基說明如何使用這個軟體，還有一個開放設計圖書館，讓所有人可以上載、下載、編輯不同的椅子設計圖，使這些設技能持續修正和演化。這些設計圖採取創用CC「&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;姓名標示─非商業性─相同方式分享&lt;/a&gt;」授權，歡迎分享和修正，但是不能用於營利，且要尊重使用來源、以相同授權方式持續散佈。&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/2-2_0.jpg&quot; style=&quot;display:block; height:400px; vertical-align:baseline; width:700px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;利用這個軟體，除了椅子，其實也可以做成搖椅、桌子、搖搖馬，而且成品的大小可以自訂，不僅能根據年齡、身型調整大小，也能做成娃娃屋裡的裝飾或是設計學系的作業樣品，讓產品做為生活必需品，或是用在娛樂、教育方面。&lt;/p&gt;
+
+&lt;p&gt;如此一來，獲得一張客製化椅子的成本僅有裁切和運送費，整個設計的過程則是免費且友善的，鼓勵更多人一起反思、參與、分享日常生活產品的設計。&lt;/p&gt;
+
+&lt;p&gt;註 對於合作的東京研究室有興趣的話，可以看看「Mr./Ms. Days (MMDays) – 網路, 資訊, 觀察, 生活」部落格上的&lt;a class=&quot;newpage&quot; href=&quot;http://mmdays.com/2011/07/24/takeo-igarashi-research-parade/&quot;&gt;日本 UI之神 – Takeo Igarashi – 研究的進行曲&lt;/a&gt;一文。&lt;/p&gt;
+
+&lt;p&gt;參考資料&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://www.livinginashoebox.com/the-free-sketchchair-software-allows/&quot;&gt;http://www.livinginashoebox.com/the-free-sketchchair-software-allows/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://www.treehugger.com/eco-friendly-furniture/sketchchair-open-source-project-lets-you-design-your-own-furniture.html&quot;&gt;http://www.treehugger.com/eco-friendly-furniture/sketchchair-open-source-project-lets-you-design-your-own-furniture.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://www.gregsaul.co.uk/words/SketchChair_TEI2011_Paper.pdf&quot;&gt;http://www.gregsaul.co.uk/words/SketchChair_TEI2011_Paper.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;https://vimeo.com/21250072&quot;&gt;https://vimeo.com/21250072&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 12 Jul 2013 04:08:05 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">713 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20130714-1#comments</comments>
+</item>
+<item>
+ <title>開放研討系列，免費報名中！</title>
+ <link>https://creativecommons.tw/blog/20130705</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;周文茵&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;「開放」的思維可以在各領域促成很多不同以往的經驗，舉凡內容產出、軟體開發、巨量資料處理、社群分析、組織經營等。由中央研究院資訊科學研究所，與資訊科技創新研究中心發起的開放研討系列，期待帶領大家看到不一樣的開放力量。&lt;br /&gt;
+&lt;br /&gt;
+開放研討系列從 07.01 開始，已安排六個場次。目前進行到&lt;a class=&quot;newpage&quot; href=&quot;http://registrano.com/events/3ac818&quot;&gt;第二場次&lt;/a&gt;：CKAN, Drupal, CiviCRM 以及運用自由軟體協助非營利組織。本場次與青平台協辦，除了請Keith Yang介紹分享CKAN的架構，安裝與中文化的經驗外，也邀請Charles Chuang以 Drupal/CiviCRM 為工具，協助非營利組織善用網路資訊科技，分享他四年多來的初衷、歷程與經驗。&lt;br /&gt;
+&lt;br /&gt;
+本開放研討系列講座，完全免費。因場地關係（中央研究院資訊科學研究所 106 會議室），僅對外提供30個名額。名額有限，報名請早！&lt;br /&gt;
+&lt;br /&gt;
+活動資訊：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;2013.07.01 – 開放研討系列之一：&lt;a href=&quot;http://registrano.com/events/e7ddc8&quot; target=&quot;_blank&quot;&gt;大眾協作與公眾授權、自由軟體與授權條款簡介&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;2013.07.08 -&amp;nbsp;開放研討系列之二：&lt;a href=&quot;http://registrano.com/events/3ac818&quot; target=&quot;_blank&quot;&gt;CKAN, Drupal, CiviCRM 以及運用自由軟體協助非營利組織&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;2013.07.15 -&amp;nbsp;開放研討系列之三：&lt;a href=&quot;http://registrano.com/events/b05266&quot; target=&quot;_blank&quot;&gt;Mapping, Geovisualization and OpenStreetMap&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;2013.07.22 -&amp;nbsp;開放研討系列之四：&lt;a href=&quot;http://registrano.com/events/e45667&quot; target=&quot;_blank&quot;&gt;Git &amp;amp; Github&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;2013.07.29 - 開放研討系列之五：&lt;a class=&quot;newpage&quot; href=&quot;http://registrano.com/events/823dca&quot;&gt;Drupal架站，還是個好選擇嗎?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;2013.08.05 -&amp;nbsp;開放研討系列之六：&lt;a href=&quot;http://registrano.com/events/648417&quot; target=&quot;_blank&quot;&gt;BIG Data : Crawling Real-Time Tweets From Twitter Server&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 05 Jul 2013 01:00:32 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">704 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20130705#comments</comments>
+</item>
+<item>
+ <title>台灣創用CC計畫拜訪知識共享中國大陸項目</title>
+ <link>https://creativecommons.tw/blog/20111103</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;莊庭瑞(trc)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;就在10月31日週一，趁著到北京出席國際會議的機會，台灣創用CC計畫（CC Taiwan）主持人莊庭瑞拜訪了知識共享中國大陸項目（CC China Mainland）負責人、中國人民大學法學院王春燕教授，並參與了由王春燕教授主持的&lt;a href=&quot;http://cn.creativecommons.org/2011/10/26/a-12/&quot; target=&quot;_blank&quot;&gt;「CC沙龍之網絡資訊與共享文化」&lt;/a&gt;活動。這項活動安排在週一下午3:30到5:30於北京謀智網絡技術有限公司（Mozilla Online）附設的謀智空間舉行。&lt;/p&gt;
+
+&lt;p&gt;於這項活動中，清華大學工業工程系教授顧學雍教授介紹了&lt;a href=&quot;http://toyhouse.cc/about&quot; target=&quot;_blank&quot;&gt;創客聯盟（toyhouse.cc）&lt;/a&gt;，王盛林與肖文鵬兩位先生介紹了&lt;a href=&quot;http://www.bjmakerspace.com/AboutUs.html&quot; target=&quot;_blank&quot;&gt;創客空間（BEIJING MAXPACE）&lt;/a&gt;。兩者都推展講究動手作、協力開發的實體與網絡空間（hacker/maker space）。劉丹先生以「開放與童稚」為題，講述 &lt;a href=&quot;http://www.beijing-open-party.org/about/&quot; target=&quot;_blank&quot;&gt;Open Party&lt;/a&gt; 這項由北京多個技術社群共同舉辦的 Unconference 型態的社交活動。中文維基百科活躍使用者鄒磊先生，以及&lt;a href=&quot;http://songshuhui.net/about&quot; target=&quot;_blank&quot;&gt;科學松鼠會&lt;/a&gt;的鄭然先生，都以文稿編寫協作平台為例，說明創用CC授權這類公眾授權條款的必要性。莊庭瑞提出關於網絡資源（web resources）流通一些觀察，尤其在內容與社會網絡服務商集中化、整合化之後，對於公眾授權條款採用上的可能影響。莊庭瑞也介紹幾項個人喜好的台灣計畫：&lt;a href=&quot;http://www.openfoundry.org/tw/about&quot; target=&quot;_blank&quot;&gt;自由軟體鑄造場（openfoundry.org）&lt;/a&gt;，&lt;a href=&quot;http://ezgo.westart.tw/about.php&quot; target=&quot;_blank&quot;&gt;EzGo9 自由軟體應用推廣光碟&lt;/a&gt;，以及 &lt;a href=&quot;http://www.peopo.org/&quot;&gt;PeoPo 公民新聞平台（peopo.org）&lt;/a&gt;。這三項計畫都採用創用CC授權條款散布部份內容。&lt;/p&gt;
+
+&lt;p&gt;這項活動雖然預計到5:30結束，但是因為互動熱烈，進行到晚上7:00才結束。於活動開始之前，參與者也與北京謀智網絡的董事長暨執行長宮力博士交換意見；活動結束之前，謀智網絡的社區推廣經理張羽女士，也跟與會者分享了 Mozilla 基金會的 &lt;a href=&quot;https://www.drumbeat.org/en-US/about/&quot; target=&quot;_blank&quot;&gt;Drumbeat&lt;/a&gt; 和 &lt;a href=&quot;http://hackasaurus.org/about/&quot; target=&quot;_blank&quot;&gt;Hackasaurus&lt;/a&gt; 等推廣專案。&lt;/p&gt;
+
+&lt;p&gt;這次能夠參與這項CC沙龍交流活動，我們特別感謝知識共享中國大陸項目負責人王春燕教授的邀請、以及項目經理朱捍東先生的安排（&lt;a href=&quot;http://www.flickr.com/photos/41288223@N02/sets/72157628028617562/detail/&quot; target=&quot;_blank&quot;&gt;朱捍東先生所攝活動照片&lt;/a&gt;）。&lt;br /&gt;
+&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/p1030658.jpg&quot; style=&quot;height:720px; width:405px&quot; /&gt;&lt;br /&gt;
+&amp;nbsp; CC Salon @ Mozilla Online (Beijing).&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+自由軟體鑄造場（openfoundry.org）、Drumbeat和Hackasaurus連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 03 Nov 2011 08:29:11 +0000</pubDate>
+ <dc:creator>trc</dc:creator>
+ <guid isPermaLink="false">559 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20111103#comments</comments>
+</item>
+<item>
+ <title>簡介創用 CC 授權之物理數位教材與淺談其元件釋出方式</title>
+ <link>https://creativecommons.tw/blog/20100725</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;江易原 I-Yuan Chiang&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;本文置於 public domain&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;A. 緣起&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;近年來網路上出現越來越多的物理數位教材，其版權聲明主要有三種：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;All Rights Reserved&lt;/li&gt;
+	&lt;li&gt;沒有聲明版權 (亦是有版權保護)&lt;/li&gt;
+	&lt;li&gt;創用 CC 授權&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;多數的物理自由軟體採 GPL 授權，不過本文暫不討論物理軟體。就內容來看，採創用 CC 授權的物理教材，可以是直接播放，但是不易變更內容的影片，或是帶有程式內容的互動式模擬 (如 Flash 或是 Java)。台師大物理系黃福坤教授將內容已經確定，劇本已經寫好的稱作 animation (動畫)，而與使用者有互動的叫做simulation (模擬)。他認為動畫與模擬都是教材，但是隨著教學目的不同，兩者可以搭配使用。&lt;/p&gt;
+
+&lt;p&gt;創用 CC 運動受到自由軟體及開放原始碼運動的影響，其自由與開放的精神相同，但是作法略有不同，而且普遍認為創用 CC 授權比較適合用在非電腦程式之創作。自由軟體或開原碼軟體必須公開原始碼，而部份公眾授權 (如 GPL) 要求使用者將修改後的程式碼公開，但是部份的授權 (如 BSD) 卻沒有要求使用者修改程式後必須公開原始碼。這兩種方式各有其優缺點，使用者可以挑選對自己有利的授權的軟體來使用，而當使用者不需要修改程式碼時，這兩種授權對使用者的並無差異。&lt;/p&gt;
+
+&lt;p&gt;相對的，創用 CC 授權條款並沒有要求創作人將其創作元件公開，就藝術創作來說，是不必要，因為作曲家、畫家或是攝影師無法將這些創作的「元件」如公開原始碼般的方式公開出來，因為這是藝術作品，不是電腦程式，他們的元件可能是靈感、天份。&lt;/p&gt;
+
+&lt;p&gt;從另一個角度來看，很多物理數位教材的製作過程中，除了靈感與創意，還用到很多看得見、摸得著的「元件」，例如介紹運動學的教材中常用的彈簧、汽車、大砲、炸彈等的圖形，這些元件是可以開放，讓使用者可以自行修改。而且在互動式模擬中，使用者可以設定不同條件 (如速度、加速度、角度等)，然後教材自動計算這樣條件下所造成的結果，透過輸入不同條件，數位教材會顯示不同結果，可以讓學生可以歸納、學習。這樣的題材卻是不折不扣的電腦程式。就內容來看，這樣帶有程式內容的物理教材，採 GPL 授權會比使用創用 CC 授權來的適當。但是事實上，無論創用 CC 授權是否適用這樣的教材，越來越多的物理數位教材採用創用 CC 授權，這是明顯的趨勢。本文將簡介國內外數個採創用 CC 授權的物理數位教材，同時探討他們是否公開製作教材的元件，與開原碼作個簡單的比較與探討。&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;B. 有關物理教材的例子&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://faraday.physics.utoronto.ca/GeneralInterest/Harrison/Flash/&quot;&gt;Flash Animations for Physics&lt;/a&gt; (Flash 物理動畫)&lt;br /&gt;
+	加拿大多倫多大學物理系的 Dr. David M. Harrison 所製作的 Flash 物理動畫，內容適合中學與大學的物理課程。2006 年，知名的 Science 的期刊上，在 NetWatch 單元曾有短文介紹 Dr. Harrison 的物理動畫，其授權方式為創用 CC 2.5-BY-NC-SA。若需要於原始檔，只要將每個動畫網址的最後一段去掉到最近的斜線，就可以到該主題之子目錄下載原始檔。&lt;br /&gt;
+	例如有關&lt;a class=&quot;newpage&quot; href=&quot;http://faraday.physics.utoronto.ca/PVB/Harrison/Flash/Reflection/Reflection.html&quot;&gt;光遇到的鏡子的反射的&lt;/a&gt;主題，其&lt;a class=&quot;newpage&quot; href=&quot;http://faraday.physics.utoronto.ca/PVB/Harrison/Flash/Reflection/&quot;&gt;原始檔的位置在此&lt;/a&gt;。&lt;/li&gt;
+	&lt;li&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://workbench.concord.org/&quot;&gt;PhET&lt;/a&gt;&lt;br /&gt;
+	由美國科羅拉多大學物理系所製作的互動式模擬，適合小學到大學的課程。其內容多數為 Java 執行，部份為 Flash。 其教材採用創用 CC 3.0-BY 與 GPL兩種授權，使用者可以兩種授權之中挑一個。而官網也提到，若牽涉到修改原始碼時，則只適用 GPL 授權。&lt;br /&gt;
+	原始碼下載&lt;a class=&quot;newpage&quot; href=&quot;http://phet.colorado.edu/about/source-code.php&quot;&gt;點這裡&lt;/a&gt;。按照網頁的說明，就可以下載個別主題或是所有主題的原始碼。&lt;/li&gt;
+	&lt;li&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://phys23p.sl.psu.edu/phys_anim/Phys_anim.htm&quot;&gt;Animations for Physics and Astronomy&lt;/a&gt; (物理與天文動畫)&lt;br /&gt;
+	美國賓州州立大學 Schuylkill 校區物理系 Dr. Michael R. Gallis 製作一系列物理與天文動畫，適合中小學及大學的物理與天文課程，動畫是 avi 影片格式，採用創用 CC 3.0-BY-NC 授權。&lt;/li&gt;
+	&lt;li&gt;以國內的例子來看，台北縣教育局製作了一系列的錄影課程，採 CC-BY-NC-SA 授權，而陳國全老師錄製了其中操作 PhET 輔助講解課程內容，&lt;a class=&quot;newpage&quot; href=&quot;http://163.20.82.155/tpc-icare2/phet/index.htm&quot;&gt;教材格式是 flash 影片檔&lt;/a&gt;。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3&gt;&lt;strong&gt;C. 分析&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;Dr. Harrison 的動畫有公開原始檔案，其授權中並未限制改作，因此使用者不但可以下載原始檔，也可以修改或是翻譯內容以符合自己的需要。&lt;/li&gt;
+	&lt;li&gt;PhET 的教學主題不但是採創用 CC 授權中限制較少的 CC-BY，官網也提供原始碼下載，相對來說很接近開放原始碼的風格，也因此適合使用者進行客製化。&lt;/li&gt;
+	&lt;li&gt;Dr. Gallis 的動畫是 avi 影音格式，雖然作者沒有限制改作，但是使用者無法取得原始製作題材的情況下，只能作配音、加字幕、剪接等修改，無法對內容進行變更。動畫可以線上播放，但是作者並沒有提供直接下載方式，使用者雖然可以在瀏覽器播放動畫時另存新檔，或是使用其他輔助小程式取得該動畫，卻可能讓不熟悉電腦操作的人不知道如何下載該影片。&lt;br /&gt;
+	相對於前方兩個例子有提供原始檔案的例子，Dr. Gallis 顯得不同，雖然他沒有主動提供下載方式或是檔案原始檔，但是並沒有違反 CC 條款。&lt;/li&gt;
+	&lt;li&gt;若以台北縣教育局製作的自由軟體的教學影片來說，是使用錄影軟體將操作錄製成 Flash 格式，因此沒有適合開放的元件。就授權來說，雖然該教材沒有限制改作，但是要修改內容的使用者可能會直接使用 PhET 自行操作與重新錄影，會比修改顯成影片來的方便。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3&gt;&lt;strong&gt;D. 討論&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;與其他的開放運動比較，在 2001 年，Open Access 運動的發起，是因為研究人員對出版社以版權方式控制期刊文章的散布，卻造成使用者取得成本升高，科學成果流動性低而不滿。而 Open Access 運動的訴求之一是確保使用者可以免費取得資料，可以修改、散布資料，特別是書籍與期刊文章，而多數 Open Access 的期刊採用 CC-BY 的授權。從這角度來看，Open Access 期刊的主張與創用 CC 運動略有不同，這些期刊採用創用 CC 授權是為了解決著作權方面的問題，以達到 Open Access 之理想。而 GPL 等開原碼授權，其條文中要求程式創作者及修改者必須公佈原始碼，以確保使用者的自由。相對的，其條款雖有高度理想性，卻也讓不少程式設計者卻步。&lt;/p&gt;
+
+&lt;p&gt;從採用自由授權必須開放原始碼的的角度來看創用 CC 授權，難免對採用創用 CC 授權中可以開放元件的物理教材卻沒有開放時不免有疑惑。雖然創用 CC 運動部份受到自由軟體運動的啟發，但是面對的「人」與「問題」不同，因此條款內容的細節也不同。自由軟體運動強調使用者的自由，而使用 GPL 等條款是為規範程式創作者與使用者能按要一定的作法以確保所主張的自由；Open Access 運動注重使用者可以取得期刊文章等學術研究成果，而多數 Open Access 期刊使用創用 CC 授權是為了解決學術文章在著作權方面的問題。而創用 CC 授權面對的可能不是程式設計師，可能不是科學研究人員，而是一般大眾。&lt;/p&gt;
+
+&lt;p&gt;就上述物理數位教材的例子來說，開放製作教材的元件與否，可以分為兩種情況來討論，教材來自使用者自願的創作與開放，或是經費贊助者的製作人之間的合約與規定。若創作者自願採用創用 CC 授權，對於是否開放製作元件時，會有幾個考量，包括創作人可能認為程式內容品質欠佳，不想開放；或是作者認為沒有必要，例如提供一段物力現象的影片即可傳達這樣的物理概念，至於是否開放影片的製作元件則與學習物理概念無關。另一方面，教材是否採公眾授權，元件是否也釋出，則以出資者與執行者之合約為準，例如近來國家典藏計畫的子計畫中，有一項是製作高中職的數位教材，其授權規定是：&lt;/p&gt;
+
+&lt;blockquote&gt;「本計畫所開發的數位教材，主要提供高中學科教師應用於課堂輔助教學。每一個教材單元均由教學元件組成，形式包含文字檔、投影片及動畫等，教師可引用完整單元或重點概念；所有元件同時符合創用 CC（Creative Commons）授權條款（姓名標示-非商業性-相同方式分享2.5台灣）對外分享」&lt;/blockquote&gt;
+
+&lt;p&gt;說明地很清楚，要把元件採相同的授權公開，因此廠商需要依據這樣的規定釋出數位教材的元件。例如已經完成的&lt;a class=&quot;newpage&quot; href=&quot;http://hsmaterial.moe.edu.tw/schema/bi/list.html&quot;&gt;生物教材有釋出元件&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;因此，若合約沒有提到要開放元件，那執行者沒有必要釋出元件。上述的國家典藏計畫的合約是很好的範例，若我國其他公家出資單位如國科會、中研院、教育部、國立大學、國立研究機構等，有這樣的規定，則不但讓使用者有教材可以使用，連製作教材的元件也哪也能方便取得。&lt;/p&gt;
+
+&lt;p&gt;雖然幾個開放運動對元件釋出的主張不同，作法也不同，適用的對象可能不同。在創用 CC 授權中雖沒有要求創作者公開元件，但是使用者也可以直接向作者聯繫，因為公眾授權雖省去創作者與使用者之間部份的聯繫，但是更多細節如取得元件，使用者是可以直接聯繫創作者。&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+Flash影片檔教材連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 25 Jul 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">216 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20100725#comments</comments>
+</item>
+<item>
+ <title>PhET 所帶來的教學創新與啟發</title>
+ <link>https://creativecommons.tw/blog/20100430</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;江易原 I-Yuan Chiang&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;本文置於 public domain (CC0)&lt;/p&gt;
+
+&lt;p&gt;國外已經有針對公眾授權 (public licenses) 的教材與軟體對教學與學生學習成效的研究，其研究的方向有教學效果、軟體購買預算問題、可客製化的特性對使用者及教育者的影響、降低盜版率等主題。筆者觀察台灣的環境，發現研究教育社群及推動自由軟體社群的交集不大，查詢全國博碩士論文，以自由軟體或是公眾授權教材應用於教育的論文不多，查詢國內的教育資料庫，相關的研究也不多。因此筆者希望藉由這樣的介紹可以影響一些人，投入相關的研究。&lt;/p&gt;
+
+&lt;p&gt;本文以 PhET 例子，列出 PhET 團隊以教學模擬於物理教學等研究報告，其研究內容非常值國內的教育及研究單位參考。&lt;/p&gt;
+
+&lt;p&gt;下方的參考資料選自 &lt;a class=&quot;newpage&quot; href=&quot;http://phet.colorado.edu/research/index.php&quot;&gt;PhET 網站&lt;/a&gt;。目前共有四大主題，共有 30 多篇文章或報告，原網頁有提供文章，有興趣的可以前往下載。在此筆者僅選出部份文獻及加上標題翻譯或是個人的看法。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;1. 有關 PhET 的個別教學主題之應用研究&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Laptops and Diesel Generators: Introducing PhET Simulations to Teachers in Uganda, Sam McKagan, The Physics Teacher, 48, 63-66 , January 2010. (PhET 團隊的成員向烏干達的高中物理老師推廣 PhET)&lt;/li&gt;
+	&lt;li&gt;Making On-Line Science Course Materials Easily Translatable and Accessible Worldwide: Technical Concerns, C. V. Malley, J. O. Olson, Multimedia in Physics Teaching and Learning Proceedings, 2009. (這文章說明 PhET 團隊努力讓 PhET 的翻譯簡單化。的確技術難度不高，台灣的翻譯者才能短時間內完成所有的翻譯)&lt;/li&gt;
+	&lt;li&gt;PhET: Simulations That Enhance Learning, C.E. Wieman, W.K. Adams, K.K. Perkins, Science, 322/682-683 , October 2008. (這是在知名的期刊 Science 的教育論壇介紹 PhET 的文章)&lt;/li&gt;
+	&lt;li&gt;A Powerful Tool For Teaching Science, C. E. Wieman and K. K. Perkins, Nature Physics, p. 290-292 , May 2006. (在知名期刊 Nature Physics 介紹 PhET 的評論文章，)&lt;/li&gt;
+	&lt;li&gt;Transforming Physics Education, C. E. Wieman and K. K. Perkins, Physics Today, November 2005. (說明了物理教育面臨挑戰，需要導入新的教學方式)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;&lt;strong&gt;2. 對於高效性模擬設計的重要特色 (卓越的訪談資料)&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;What Levels of Guidance Promote Engaged Exploration with Interactive Simulations?, W. K. Adams, A. Paulson and C. E. Wieman, PERC Proceedings, 2009. (四種導引方式，從完全沒有說明、導引問題、輕度指導及重度指導等，研究對學生從 PhET 學習科學觀念之成效)&lt;/li&gt;
+	&lt;li&gt;A Study of Educational Simulations Part I - Engagement and Learning, W. K. Adams, S. Reid, R. LeMaster, S. B. McKagan, K. K. Perkins, M. Dubson and C. E. Wieman, Journal of Interactive Learning Research, 19(3), 397-419 , July 2008. (這文章說明了 PhET 團隊在設計教學模擬主題時，先針對 200 位學生進行訪談，針對程式的介面外觀、使用直覺性與傳達科學概念等方向，作為改進之建議。本文非常適合國內推廣教育自由軟體研究者參考)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;&lt;strong&gt;3. PhET 在課程應用研究&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;A Research-Based Curriculum for Teaching the Photoelectric Effect, S. B. McKagan, W. Handley, K. K. Perkins, and C. E. Wieman, American Journal of Physics, 77, 87 , January 2009. (光電效應教學學習單)&lt;/li&gt;
+	&lt;li&gt;Can Computer Simulations Replace Real Equipment in Undergraduate Laboratories?, N. D. Finkelstein, K. K. Perkins, W. Adams, P. Kohl, and N. Podolefsky, PERC Proceedings, 2004. (電腦模擬可否取代大學部的實驗課程的實驗器材？該研究發現使用 PhET 學習的學生在概念學習及實際電路組裝測驗兩方便的表現，都勝過使用實驗器材學習的學生)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;&lt;strong&gt;4. 學生對學習的感受&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;A deeper look at student learning of quantum mechanics: the case of tunneling, S. B. McKagan, K. K. Perkins, and C. E. Wieman, Physical Review Special Topics: PER, 4, 020103 , October 2008. (深入探討學生學習量子力學：以穿隧效應為例)&lt;/li&gt;
+	&lt;li&gt;Why we should teach the Bohr model and how to teach it effectively, S. B. McKagan, K. K. Perkins, and C. E. Wieman, Physical Review Special Topics: PER, 4, 010103 , March 2008. (為什麼我們要教，該如何有效的教波耳的原子模型)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;在教育部自由軟體應用諮詢中心及各地縣市網路教育中心的推廣下，越來越多的中小學老師在課程中使用 PhET 及自由軟體，這些都是很好的合作夥伴，當然其他的自由軟體也是很棒的研究題材。筆者在此提出幾項建議：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;就教育的角度來看，可以研究的題材相當多，就大方向來說，包括多媒體教材與學生學習成效、教師與學生使用盜版與正版之概況、數位教材之取得與教師導入多媒體教學之意願、自由素材與教材可客製化之特性對教師自行編輯教材之影響等主題。&lt;/li&gt;
+	&lt;li&gt;PhET 有 80 多個主題，而且逐漸增加中。如化學可逆反應、碰撞反應等主題適合在高中化學抽象觀念的教學，能否有效促進學生的學習是非常值得研究。PhET 網頁所列出的文獻中可以看到有針對波耳原子模型及量子力學。建議可以針對個別主題進行在地的研究，例如各家理論所闡釋的原子模型原本是艱深難懂的原理，也是台灣學生在化學課程不易理解的部份，現在透過 PhET 的視覺化教學，讓概念變得容易許多，因此這方面增進學習成果的量化數據很值得研究。又例如台北市南門國中的鄭老師曾作過這樣的教學，他將學生分為兩組，一組先講解電路元件後實際操作，之後使用 PhET 的電路單元講解原理；另一組學生先使用 PhET 的電路單元講解原理，之後進行電子元件操作。鄭老師表示，先使用 PhET 講解原理後，學生對整體的觀念比較好，對實際組裝電子元件的摸索時間也會減少，這結果與 PhET 團隊於 2004 發表的研究結果相同。&lt;/li&gt;
+	&lt;li&gt;就公眾授權來說，可以研究的主題包括教師對著作權與公眾授權之認識、公眾授權素材是否能增進教師在數位題料上的使用、教師使用公眾授權釋出所創作教材之意願等研究。&lt;/li&gt;
+	&lt;li&gt;此外，筆者也建議對於研究成果的報告可以採公眾授權釋出，例如研究生的學位論文可以使用 CC 授權，研究成果可以投到 Open Access 期刊，投稿到國內期刊雜誌時可以聲明採公眾授權，這樣可以讓研究成果讓更多人享受研究成果，研究者的名聲也更能散布。以筆者為例，根據康乃爾大學的規定，學生學位論文之著作權屬於學生所有，因此每個畢業生的可以在論文前放置版權宣告頁，若沒有，則算是 public domain。筆者當時與學校的相關單位討論之後，校方同意筆者使用 GNU Free Document License 作為論文的授權。然而國內對於學位論文的採公眾授權的情況仍有改進空間，因此筆者建議在進行自由教材融入教育的研究之後，也能把研究成果釋放出來。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 30 Apr 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">201 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20100430#comments</comments>
+</item>
+<item>
+ <title>科學教學的開放源碼模擬軟體：PhET</title>
+ <link>https://creativecommons.tw/blog/20100329</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;江易原 I-Yuan Chiang&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;（本文以 CC0 釋出）&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://phet.colorado.edu/index.php&quot;&gt;PhET&lt;/a&gt; 是一項由諾貝爾獎得主 Carl Wieman 於 &lt;a class=&quot;newpage&quot; href=&quot;http://www.colorado.edu/news/releases/2006/194.html&quot;&gt;2002 年在美國科羅拉多大學 (Boulder) 物理系所發起的計畫&lt;/a&gt; 。&lt;/p&gt;
+
+&lt;p&gt;到今日，PhET 已經有&lt;a class=&quot;newpage&quot; href=&quot;http://phet.colorado.edu/simulations/translations.php&quot;&gt;多種語言版本&lt;/a&gt;可以使用。這些互動式的模擬教學軟體對老師講解科學概念很有幫助。老師們可以藉由 PhET ，講解如化學反應平衡或是量子力學等艱深的觀念，亦可以當作虛擬實驗，以取代危險或是昂貴的實驗器材 (如雷射或核分裂的裝置)。不但如此，PhET 最棒的特色之一是採用公眾授權方式釋出。可以直接執行的模擬程式（執行檔）採 CC BY 或是 GNU GPL 授權，而其&lt;a class=&quot;newpage&quot; href=&quot;http://phet.colorado.edu/about/source-code.php&quot;&gt;原始碼&lt;/a&gt;採 GNU GPL 授權 (更多授權細節請參考 PhET &lt;a class=&quot;newpage&quot; href=&quot;http://phet.colorado.edu/about/licensing.php&quot;&gt;授權方式&lt;/a&gt;)。PhET 不限制商業用途，所以更有廣泛的應用可能。&lt;/p&gt;
+
+&lt;p&gt;2008 年時我與一些同好跟 PhET 團隊聯繫，開始進行翻譯的工作。在 2009 年 8 月完成了翻譯，並開始嘗試導入到中小學的課程。除了可以到到 PhET 官方網頁下載在地化的 PhET 程式之外，&lt;a class=&quot;newpage&quot; href=&quot;http://ossacc.moe.edu.tw/uploads/datafile/ezgo7_win/ezgo_win/_phet.html&quot;&gt;中文化的 PhET 網頁&lt;/a&gt;及相關套件已經整合到 &lt;a class=&quot;newpage&quot; href=&quot;http://news.ossacc.org/EzGo7/ezgo7_linux/index.html&quot;&gt;Ezgo7 光碟&lt;/a&gt; (Ezgo7 是以 Linux 系統為基礎、可直接開機使用的教育軟體光碟，其中包含許多教學使用的素材和軟體)。Ezgo7 由台灣教育部補助、中華民國軟體自由協會所製作，可能是眾多 Linux 套件中，第一個把教材整合到光碟的。這樣的好處是可以提供一個完整功能的教育光碟，而且不用擔心違反著作權法，因為其中收錄的套件及教材都是公眾授權的自由軟體和內容。&lt;/p&gt;
+
+&lt;p&gt;我們收到很多使用 PhET 的正面反應與建議，很多老師肯定很 PhET，特別是 PhET 可以免費取得，又不用擔心智慧財產權問題。但是有些小學老師認為 PhET 比較適合中學及大學的課程，只有部份主題才能用在小學的課程。的確，在完成軟體介面的翻譯後，我們該想想如何進行客製化的工作。許多人目前對這個課題都感到興趣，討論尋求各種合作的方式，來製作適合小學的教學主題軟體。&lt;a class=&quot;newpage&quot; href=&quot;http://ossacc.moe.edu.tw/&quot;&gt;請加入我們！&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;(This text is released under CC0.)&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://phet.colorado.edu/index.php&quot;&gt;PhET&lt;/a&gt; was launched by &lt;a class=&quot;newpage&quot; href=&quot;http://www.colorado.edu/news/releases/2006/194.html&quot;&gt;Nobel laureate Carl Wieman in the Department of Physics, University of Colorado at Boulder, 2002&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To this date, PhET are available in &lt;a class=&quot;newpage&quot; href=&quot;http://phet.colorado.edu/simulations/translations.php&quot;&gt;many languages&lt;/a&gt;. The interactive simulations are quite useful for learning science. Teachers can use PhET to demonstrate difficult concepts (like chemical reactions or quantum mechanics), or to run virtual experiments instead of relying on dangerous or expensive equipments (like lasers or devices for nuclear fission). In addition, the best part about PhET is that it is open source. The executable is released under either CC BY or GNU GPL, and the &lt;a class=&quot;newpage&quot; href=&quot;http://phet.colorado.edu/about/source-code.php&quot;&gt;source code&lt;/a&gt; is licensed under GNU GPL (please check the PhET &lt;a class=&quot;newpage&quot; href=&quot;http://phet.colorado.edu/about/licensing.php&quot;&gt;licensing options&lt;/a&gt; for details). PhET does not have restriction on commercial use, thus it can be used widely.&lt;/p&gt;
+
+&lt;p&gt;In 2008, several colleagues and I contacted the PhET team, and started to translate about 80 simulations into the &lt;a class=&quot;newpage&quot; href=&quot;http://ossacc.moe.edu.tw/uploads/datafile/ezgo7_win/ezgo_win/_phet.html&quot;&gt;traditional Chinese language&lt;/a&gt;. In August 2009, the translations were mostly done and we tried to introduce localized versions of PhET to K-12 education in Taiwan. Besides downloading directly from the PhET sites, the simulation packages are also integrated into &lt;a class=&quot;newpage&quot; href=&quot;http://news.ossacc.org/EzGo7/ezgo7_linux/index.html&quot;&gt;Ezgo7&lt;/a&gt;, a Linux-based Live CD enhanced with educational materials and applications. Ezgo7, which is supported by the Ministry of Education in Taiwan and produced by the Software Liberty Association of Taiwan, could be the first Linux distro that incorporates publicly licensed educational materials (e.g. PhET) into the operating system. The advantage of such Live CD is its all-in-one nature, which can be easily used in education. As all in the CD are free software packages and contents, surely there is no risk for any possible copyright infringement. They are all released under free licenses.&lt;/p&gt;
+
+&lt;p&gt;Many positive feedbacks and suggestions about using PhET are received. Many teachers really appreciate the great work, especially the CD with educational contents is free of charge and can be freely copied and used. However, some teachers of elementary schools feel that PhET is more suitable to high school and college courses; only some simulations can be employed at their classes. In deed, besides localization, one need also to consider &quot;customization&quot; for individual courses and classes. Many more people are now involved, and are in discussion on how to cooperate to customize packages for elementary schools. &lt;a class=&quot;newpage&quot; href=&quot;http://ossacc.moe.edu.tw/&quot;&gt;Join us!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+Ezgo7光碟連結失效&lt;br /&gt;
+link of Ezgo7 is not found.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 29 Mar 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">198 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20100329#comments</comments>
+</item>
+<item>
+ <title>從美國 Jacobsen v. Katzer 一案看CC授權的顯名保障</title>
+ <link>https://creativecommons.tw/in-depth/396</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h3&gt;&lt;strong&gt;◎公眾授權條款對於著作權利人的顯名保障&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;自由軟體及創用CC授權條款都是一種公眾授權條款。原來的權利人把著作權利透過公告週知的方式讓大家知道，想要使用作品的人可以拿去進行利用，但是同時也要遵守原作者預先設立的遊戲規則，所以只要使用者不要誤解原作者的授權方式，不要逾越原作者的授權範圍，那在預設幅度裡的運用，便皆是合法合份的。透過這種預先聲明的方式，原作者的著作名聲可以更快的傳散出去，著作權利也可以更有效率的方式進行分享，但是以自由軟體及創用CC授權條款授權作品的權利人，往往也有這樣的疑問：「若是使用作品的被授權人不遵守我預先規劃的遊戲規則，甚至將我的著作姓名、別號、暱稱等身份識別資訊直接刪掉，我能夠如何主張自己的顯名權利呢?」特別是創用CC授權條款，四種授權標章中以「姓名標示(Attribution)」為當然預設，那麼這類顯名主張的捍衛，對於CC授權的權利人影響可說非常之大。其實上述的疑問，06年間至08年美國發生的Jacobsen v. Katzer訴訟案，已提供了非常明確的答案。&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;◎Jacobsen v. Katzer案件引發相關討論&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Jacobsen v. Katzer的源頭是JMRI計畫，這是一套控制模型火車運作模式的自由／開放源碼軟體，JMRI計畫的核心開發者Bob Jacobsen(Jacobsen)收到Matt Katzer(Katzer)關於專利侵權的警告，為此Jacobsen先發制人，控訴Katzer及其所屬公司KAMIND宣稱之專利無效，在訴訟過程中，Jacobsen發現KAMIND販賣的產品其實利用了JMRI計畫的程式碼，卻未依照該計畫授權的Artistic License 1.0的規定，表彰原作者的姓名資訊，因此Jacobsen修改訴之聲明，加入侵害著作權利的控訴，並據此向承審法院申請禁制令，要求法院禁止KAMIND繼續散布、販售該侵權產品(註一)。&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;◎一審美國加州地方法院北區分院的見解&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;此案一審的美國加州地方法院北區分院駁回了Jacobsen的禁制令申請，因為美國的著作權法裡並沒有明文保障「著作顯名保護權利」。美國著作權法偏重於著作財產權方面的保護，其雖非完全缺乏著作人格權保護的概念，但規範範疇較為侷限(註二)。故此案一審法院的見解認為，雖然Katzer及KAMIND公司刪除Jacobsen顯名標示一事有違Artistic License 1.0裡的義務性規定，但此事應屬「契約義務實踐不足」的問題，並不必然會發生著作法定權利之侵害，所以也就不核可該禁制令的申請(註三)；而後Jacobsen對此見解表示不服後上訴至美國聯邦巡迴上訴法院(CAFC)。此時本案已引起全美各自由軟體推行團體及Creative Commons組織的高度重視，因為許多著作權利人之所以願意透過公眾授權模，將作品釋出予公眾利用，其實背後潛藏著很深的「名譽顯揚動機」。若是美國法院對授權人此一理念認識不清，而僅予以低度的契約義務保護，必然會斫害推行已久的公眾授權模式，讓自由軟體推行運動及創用CC推廣活動大為受挫。為此相關的自由軟體推行團體及Creative Commons組織合力提出一份訴訟建議書(Amici Curiae)予上訴法院(註四)，此份建議書裡嚴正的聲明公眾授權條款所重者，非僅侷限於金錢或實質商業利益的計價，有時顯名尊榮的堅持才是授權者所認定，讓授權關係得以存續的「重要條件(Condition)」。&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;◎二審聯邦巡迴上訴法院的修正見解&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;上述見解被Jacobsen v. Katzer一案的聯邦巡迴上訴法院認可，二審法院轉而認為原加州地方法院見解有所錯誤，本案中的「顯名標示」應為契約成立的要件，而非僅為契約成立後要被實踐的「義務性規定」。上訴法院指出，若然此案中Jacobsen無法取得禁制令，其將沒有任何方法可以保障自己的著作權利，所以上訴法院最後決定將案件發回地方法院，諭令地方法院以此新見解重新審核，該案原告Jacobsen的聲請，是否符合禁制令的核發條件。至此，美國的自由軟體推行團體及Creative Commons組織認為此為公眾授權模式在司法訴訟上的一大勝利(註五)，美國的聯邦巡迴上訴法院正式表態，公眾授權條款裡原著作權利人的姓名標示顯名要求，是可以被視為契約成立的重要前提條件而被予以高度尊重的。&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;◎「義務性規定」與「契約成立條件」的法律評價不同&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;將這類的顯名要求視為單純的「義務性規定」與「契約成立前提要件」究竟有何不同?其實最大的不同在於法律的救濟途涉及保護密度有高低之別。訴訟標的若涉及法定權利的侵害，其救濟途徑較為直接而快捷，起訴者得以向法院提出確保權利保障無虞的保全程序，而若是訴訟標的被視為單純的違約，則就只能等待整個審判結果確定後方可請求損害賠償。舉簡單的例子來說明，所謂的條件/要件(Condition)指的是一種狀態的滿足，而這種狀態的滿足是整份契約賴以成立生效的前提要件。有如參加考試時學生簽到是得到分數的前提要件，若然整份考題都答完但卻沒有完成簽名的動作，那試卷仍然無主可以歸屬，最後漏忘簽名的學生還是可能會被計以零分，這正是二審法院對於Jacobsen一案顯名聲明要被尊重、保留的見解。反之，「義務性規定(Obligation)」指的是按照授權條款，被授權人必須去完成的義務，倘若實踐程度不足會被原授權人責以重新修補，就像清潔公司承包廁所的清潔卻掃不乾淨，這時發包的業主可以要求其重新打掃一次，卻不大可能直接解除契約，這是一審法院對於Jacobsen一案顯名義務的見解，而這樣的見解已被美國聯邦巡迴上訴法院所修正。&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;◎公眾授權模式尊崇權利人的顯名聲明&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;從Jacobsen v. Katzer這個案子的發展與遞嬗過程，可以發現公眾授權條款裡的顯名要求，雖然從法律文字上不特別為美國著作權法所保護，但司法訴訟上仍然將其視為重要的契約成立前提條件。這代表使用他人以創用CC授權的作品時，若惡意刪除原授權人的姓名標示，那麼使用者便沒有辦法依創用CC授權條款得到原著作權利人的合法授權，此種不標示姓名的恣意取用，等同於自始惡意侵權。而承前述、海洋法系國家的著作權法偏重的是著作財產權方面的保護，其著作人格權方面的保護概念，侷限於處罰著作名譽被扭曲、竄改或是惡意誤導的範疇；我國的法體系繼受於歐陸法系，對於此類著作顯名的要求向來重於海洋法系國家的解釋態度，若同樣的訴訟案件發生，極可能被承審法院直接認定為涉及著作人格權利的侵害，法院的保護態度應不會亞於美國Jacobsen v. Katzer的聯邦巡迴上訴法院。由此可知，使用者依任一公眾授權條款使用他人著作物時，應該用更審慎尊重的態度表彰原著作權人要求的「姓名標示」顯名要求。如果您是創作人，利用創用CC及其他自由軟體授權條款釋出您的作品，在顯名標示方面，是能夠享有法律體系高度尊重及保障機制的，這一點是已經過美國法院判決確立的重要原則。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;註一：&lt;/strong&gt;有關Jacobsen v. Katzer一審的訴訟過程，可參照葛冬梅，&lt;a class=&quot;newpage&quot; href=&quot;http://www.openfoundry.org/component/option,com_content/Itemid,144/id,1258/task,view/&quot;&gt;美國法院否認Artistic是授權條款，自由軟體鑄造場電子報，第91期&lt;/a&gt;，參訪日期：2008年12月19日；二審的訴訟過程，可參照黃雪雁，&lt;a class=&quot;newpage&quot; href=&quot;http://www.openfoundry.org/component/option,com_content/Itemid,144/id,1836/task,view/&quot;&gt;美國上訴法院肯定自由／開放源碼的授權模式，自由軟體鑄造場電子報，第116期&lt;/a&gt;，參訪日期：2008年12月19日。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;註二：&lt;/strong&gt;規範範疇限於防止原作者著作名譽被扭曲、竄改或是惡意誤導(美國著作權法106A(a)(3)(B))，故此案中Jacobsen依Artistic License要求後手須添註原作者顯名聲明的義務性要求，便被一審法官認為並非嚴格的著作權授權內容，而不核可其禁制令聲請。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;註三：&lt;/strong&gt;訴訟標的若涉及法定權利侵害的案件，其救濟途徑較為直接而快捷，起訴者得以向法院提出確保權利保障無虞的保全程序，例如假扣押、假處分，及禁制令等快捷程序，因為若是不透過這些保全程序，則相關的法定權利可能有事後無法回復的危險。關於法定權利侵害及單純違約補償的救濟差異，可參照拙撰，&lt;a class=&quot;newpage&quot; href=&quot;http://www.openfoundry.org/component/option,com_content/Itemid,353/id,1628/task,view/&quot;&gt;保護密度的高與低：侵權與違約差異之我見，自由軟體鑄造場電子報，第106期&lt;/a&gt;，參訪日期：2008年12月19日。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;註四：&lt;/strong&gt;Amicus curiae制度源自於羅馬法時期，意指非訴訟當事人所提出，而是由熱心人士呈予法院參考的訴訟諮詢文件，其陳述的可能是法學論理的內容，或是科技方法的驗證，這些參考資料法院並沒有義務一定要參照，但卻往往能夠提供承審法官多方思考的面相。此一建議機制多被採納於英美法系國家的司法制度，或是涉及公眾利益的人權法院。&lt;/p&gt;
+
+&lt;p&gt;Jacobsen v. Katzer一案的訴訟建議書由Creative Commons組織、Linux基金會、開放源碼促進會、軟體自由法律中心、Perl基金會，維基媒體基金會所共同提出，此份訴訟建議書的下載網址可參照：&lt;a class=&quot;newpage&quot; href=&quot;http://jmri.sourceforge.net/k/docket/cafc-pi-1/ccc_brf.pdf&quot;&gt;訴訟建議書PDF&lt;/a&gt;，參訪日期：2008年12月19日。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;註五：&lt;/strong&gt;此間評論可參照Creative Commons組織發起者Lawrence Lessig的評議文章，&lt;a class=&quot;newpage&quot; href=&quot;http://lessig.org/blog/2008/08/huge_and_important_news_free_l.html&quot;&gt;huge and important news: free licenses upheld&lt;/a&gt;，參訪日期：2008年12月19日。(連結失效)&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 26 Dec 2008 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">396 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/396#comments</comments>
+</item>
+<item>
+ <title>讓我們用「自由啤酒」為「自由」乾杯吧</title>
+ <link>https://creativecommons.tw/blog/20081219</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;王珮儀 Pei-yi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;「自由」，是大家可以不受任何限制、盡情地做自己想做的事情。因此，衍發出來很多與自由相關的複合詞，例如：「自由言論」、「自由廣場」、「自由軟體」、「自由選擇」、「自由空間」、「自由貿易」等等，但是大家聽過「自由啤酒」這個新名詞嗎？&lt;/p&gt;
+
+&lt;p&gt;在丹麥，哥本哈根藝術團體（Superflex）與哥本哈根IT大學（Copenhagen IT University）的學生合作，將自由軟體的概念推廣到製造啤酒上，也就是把製造啤酒的配方以Creative Commons license 「Attribution-Share Alike 2.5」與大家分享自由啤酒配方。因此，大家可以按照這個配方來製造啤酒，也可以用這個配方再衍生出新口味的配方，只要在Creative Commons license 「Attribution-Share Alike 2.5」的條件下,再行釋出就可以了！並且傳達了一個與自由軟體相同的概念「Free Beer，是指『自由』的啤酒，而非『免費』的啤酒（FREE BEER is a beer which is free in the sense of freedom, not in the sense of free beer.）」，因此大家想痛快地喝一瓶自由啤酒，還是要付費的喔!&lt;/p&gt;
+
+&lt;p&gt;大家可以利用這份配方來開發新產品、做各種商業使用。目前也已經有許多國家的製造廠商利用這份配方，製造出「自由啤酒」，包括德國、英國、巴西等等，目前「台灣自由啤酒」也上市了，或許你也可以依照這份配方，創造出屬於你自己喜愛的啤酒喔！讓我們用「自由啤酒」為「自由」乾杯吧！&lt;/p&gt;
+
+&lt;p&gt;詳情，請參考&lt;a class=&quot;newpage&quot; href=&quot;http://www.freebeer.org/blog/&quot;&gt;自由啤酒（free beer）&lt;/a&gt;的網站&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 19 Dec 2008 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">123 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20081219#comments</comments>
+</item>
+<item>
+ <title>開放內容 — 一場數位資訊的草根運動 （上）</title>
+ <link>https://creativecommons.tw/in-depth/344</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;李治安&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;長久以來，出版社、製片商、唱片公司、電視台及其他大型的媒體公司為社會提供了大部分的資訊內容，當然也掌控了其中大部分的智慧財產權；然而，傳統集中化的資訊生產模式在數位時代中已經無法唯我獨尊，在網路世界許多分散式的資訊產出平台中，一場資訊媒體的草根運動正逐漸萌芽、茁壯。&lt;/p&gt;
+
+&lt;p&gt;開放原始碼暨自由軟體運動為這場草根運動帶來了重要的啟發，從資訊生產的角度而言，過去資訊的生產大部份是發生在少數創作者及媒體集團間的封閉過程，但是由於數位科技降低了資訊生產及傳遞的成本，現在一般人也可透過網路，在不同階段參與資訊的產出過程；從資訊使用的角度而言，過去由於受限於著作權法、科技保護措施及「版權所有、翻印必究」的制式著作權宣示方式，使用者得以自由重製、改作及從事其他衍生使用的內容其實相當有限，但是在現今的資訊社會中，有愈來愈多的內容以公眾授權的方式，開放給一般大眾無償使用。本文以下即以資訊生產及資訊使用這兩個構面為基礎，探討新興的開放內容(open content)生產方式。&lt;/p&gt;
+
+&lt;h4&gt;壹、 資訊生產過程的開放&lt;/h4&gt;
+
+&lt;p&gt;首先，就創作過程而言，過去知識創作是一個封閉的過程 ，在創作完成並發表以前，所有的思辨及心智活動都只發生在特定作者之間，但是一些新興的社會軟體（註一）結合網際網路以後，知識創作不再是絕對封閉的過程，散佈在世界各地的網路公民可以跨越時間與空間，共同協力撰寫一篇文章或一起發現並更正文章裡的錯誤，維基百科的成功證明了開放創作過程所帶來的集思廣益力量，經由志願者不斷的協力撰寫及修改，這部大型的線上百科全書至今已經有超過四百三十萬篇以不同語言撰寫的文章，其中包括了超過一百一十八萬篇英文文章。&lt;/p&gt;
+
+&lt;p&gt;其次，就資訊的生產而言，過去社會大眾所能接觸到的資訊大部分是出自於媒體工作者之手 ， 但是隨著資訊生產成本的降低，個人也可以將自行生產的資訊作品藉由網際網路與社會大眾分享，媒體公司的定位不再絕對是資訊的生產者，也有可能扮演資訊聚集者(aggregator)的角色。舉例而言，南韓新聞網站「我的新聞」 (&lt;a class=&quot;newpage&quot; href=&quot;http://www.ohmynews.com/&quot;&gt;OhmyNews&lt;/a&gt;) 強調「每個人都可以成為記者」，該網站上除了少部份的報導是由全職的專業新聞人員撰寫以外，其他大部分的報導是由讀者所撰寫， OhmyNews 近年來不僅獲利漸增，而且逐漸開始在韓國的新聞界扮演舉足輕重的角色；又例如知名的科技新知網站&lt;a class=&quot;newpage&quot; href=&quot;http://slashdot.org&quot;&gt;Slashdot&lt;/a&gt;及文摘網站 &lt;a class=&quot;newpage&quot; href=&quot;http://www.everything2.com&quot;&gt;Everything2 (E2)&lt;/a&gt;上所有的短文評論也都是由讀者而非專業記者所撰寫。&lt;/p&gt;
+
+&lt;p&gt;再者，就資訊分類而言，在網路世界中，如果沒有良好的資訊分類及搜尋方式，使用者很可能被淹沒在龐大的資訊洪流中，所幸現今一般的網路公民也可以自發性的將網路上的資訊訂定標籤分類(tagging)，以便其他使用者搜尋，這種分類方式稱為群眾分類(folksonomy)或社會分類(social classification)。舉例而言，書籤網站del.icio.us提供免費空間，供使用者儲存其設為書籤的網址，使用者還可以尋找和自己有相同網頁瀏覽偏好的人還設定了哪些書籤網址，經由使用者的共同協力，del.icio.us上所包含的所有網址都含有關鍵字標籤命名，del.icio.us以其作為分類依據，協助使用者輕易的搜尋到想找的網址；而知名的照片分享網站&lt;a class=&quot;newpage&quot; href=&quot;http://www.flickr.com&quot;&gt;Flickr&lt;/a&gt;就從del.icio.us獲得靈感，開放使用者參與所有照片的標籤關鍵字命名，經由這些關鍵字，使用者也更容易搜尋到他們想找的照片。&lt;/p&gt;
+
+&lt;p&gt;最後，就資訊的選取而言，過去哪些作品可以公開發表，多由專業的編輯或媒體人決定，但是在開放內容的時代，任何人都可以參與資訊選取與發表的決策過程。舉例而言，知名的科技文化網站&lt;a class=&quot;newpage&quot; href=&quot;http://www.kuro5hin.org/&quot;&gt;Kuro5hin (K5)&lt;/a&gt;為了與前述Slashdot網站區隔，除了由社群成員撰寫網站文章以外，K5並將文章刊登的決定權開放給所有的社群成員，社群成員可以投票決定文章是否刊登在網站上。&lt;/p&gt;
+
+&lt;h4&gt;貳、資訊使用方式的開放&lt;/h4&gt;
+
+&lt;p&gt;資訊使用方式的開放，是指創作者不再堅持全面保有著作權所賦予的權利，而以公眾授權的方式，將創作內容開放給社會大眾無償重製、修改、編輯或做其他衍生使用。資訊使用方式的開放與上述資訊生產過程的開放具有密切關係，例如，創作者須先將自己的作品內容開放給大眾修改、參與，才有可能促成廣泛參與的協力創作過程。&lt;/p&gt;
+
+&lt;p&gt;資訊使用方式的開放對於資訊社會中知識的擴散與傳遞有重要的影響，舉例而言， 麻省理工學院自2003年9月開始，逐步將研究所及大學部的課程內容及教材&lt;a class=&quot;newpage&quot; href=&quot;http://ocw.mit.edu/&quot;&gt;在網路上公開&lt;/a&gt;，以創用CC 2.5授權條款，授權社會大眾基於非商業目的，無償的使用或改作，但前提是改作後的作品也必須以相同的授權條款與他人分享；又例如頗受歡迎的科技文化網誌&lt;a class=&quot;newpage&quot; href=&quot;http://boingboing.net/&quot;&gt;BoingBoing&lt;/a&gt;，雖然沒有開放讀者參與撰寫或討論，但網站上的文章均以創用CC 1.0授權條款授權大眾使用；此外，前述維基百科採用了 GNU自由文件授權(GNU Free Documentation License, GFDL)，授權使用者重製、散布或改作，該授權對於改作後的作品也要求以相同的GFDL做公眾授權。&lt;/p&gt;
+
+&lt;p&gt;註一：社會軟體 (social software)是指協助使用者利用網際網路或其他通訊科技建立通訊社群或協力合作的軟體，社會軟體所強調的是一種由下而上 (bottom-up)的通訊方式，狹義的社會軟體通常指多對多(many-to-many)的協力軟體，如維基百科(&lt;a class=&quot;newpage&quot; href=&quot;http://www.wikipedia.org/&quot;&gt;Wikipedia&lt;/a&gt;)所使用的wiki軟體，廣義的社會軟體則還包括一對多 (one-to-many)的公告軟體如部落格(blog)軟體，及一對一(one-to-one)的聯繫軟體如電子郵件和及時傳訊(instant message)軟體。&lt;/p&gt;
+
+&lt;p&gt;（本期先就開放內容概念作一簡單介紹，下期將繼續探討有關開放內容的社會、經濟及法律意涵。）&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 01 Sep 2006 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">344 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/344#comments</comments>
+</item>
+<item>
+ <title>雷席格的CC每週通信（十）：論重要的自由</title>
+ <link>https://creativecommons.tw/in-depth/73</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jedi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;勞倫斯．雷席格（Lawrence Lessig）著，2005年12月7日&lt;/p&gt;
+
+&lt;p&gt;前情提要：&lt;/p&gt;
+
+&lt;blockquote&gt;在下次的通信裡，我會談論到針對CC的各種批評。&lt;/blockquote&gt;
+
+&lt;p&gt;在本週的通信裡……&lt;/p&gt;
+
+&lt;p&gt;CC是個相當新的組織。我們獲得的成功，比我先前預期得高，在此同時，我們卻也犯了一些錯。其中一些錯誤，我們已經改正過來。另外一些，我則希望能說服大家來改正。不過，在CC計劃推出的這三年來，我們一直努力要為創作者建立一個穩固而可以持續發展的基礎架構。&lt;/p&gt;
+
+&lt;p&gt;一路走來，我們也受到一些批評。限於文章長度，我不可能將之一一列舉。在本週的通信裡，我將只談論兩種批評──一種是針對我們的「非商業性」授權條款（NonCommercial）而來，另外一種批評則是針對CC的兩個非核心的授權條款（non-core licenses）而來的。不過，2006年開始，我們會開設一個專門用以討論此項議題的論壇，而我會在這論壇中持續進行討論。Ubuntu Linux的創辦人馬克．沙特沃斯（Mark Shuttleworth）在這點上是我的模範，我也會儘量抽時間來參與討論。&lt;/p&gt;
+
+&lt;p&gt;以下，便是我們曾經收到的一些批評。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;（一）針對「非商業」授權條款的批評。&lt;/strong&gt;&lt;br /&gt;
+莫勒（Erik Möller）&lt;a class=&quot;newpage&quot; href=&quot;http://intelligentdesigns.net/Building_the_future&quot;&gt;提到&lt;/a&gt;，他反對使用CC的「非商業」（NC; NonCommercial）授權條款。他的論點分成五個部份，但是其核心論述在於針對非相容性的關注。根據他的說法，「自由內容（free content）早已不是什麼邊陲的運動了」。他舉維基百科（Wikipedia）作為例子，並且正確地指出，使用「非商業性」授權的作品，是無法放進維基百科裡的。他認為，這造成了問題，尤其是對於「合作性計劃」（collaobrative projects）來說更是如此。他又說，「在合作性的環境裡，將某幾塊內容劃定為非商業使用，還要貫徹這樣的區分，簡直就是不可能的事」。&lt;/p&gt;
+
+&lt;p&gt;莫勒說得沒錯。「非商業性」授權條款的確干預了這類型的合作。這個條款的確帶來了潛在的不相容問題。當然啦，莫勒也知道，就算沒有「非商業性」的限制，仍然會有不相容的問題：我在&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.tw/betacc/in-depth/72&quot;&gt;上一次的通信&lt;/a&gt;中提到，要將使用自由文件授權條款（FDL; Free Documentation License）授權的內容，與使用對等CC授權的內容重混在一起（一起使用），是不可能的。那是因為這兩種授權，就目前各自的設計，都把可互通性給阻擋住了。這對於自由文化的生態來說的確是個問題。而我在上一次的通信中也提到，CC希望藉由發起自由授權條款的聯合、鼓勵同類授權間的互通性，來修正這個問題。&lt;/p&gt;
+
+&lt;p&gt;不過，即便是這個聯合（federation）成功了，莫勒所描述的問題仍在。有一些類型的授權條款無法與其他類型的條款相容。至於最可能造成問題的不相容情況，就正好是莫勒所指出的那一種：使用「非商業性」條款的內容，無法放進像維基百科這種以「相同方式分享」（ShareAlike）性質授權的計劃裡。&lt;/p&gt;
+
+&lt;p&gt;怎麼解決這問題？我的建議和莫勒的相似──請你儘可能使用限制最少的授權條款。但我說「和莫勒的建議相似」是因為，我的感覺是，莫勒其實希望大家根本不要使用「非商業性」授權條款，而我的想法是，因為使用CC授權條款的創作人如此多樣，「非商業性」授權條款總會有需要派上用場的時候。&lt;/p&gt;
+
+&lt;p&gt;好比說吧，你是某個樂團的團員，你錄了首新歌。你很樂見新歌在網路上廣為流傳。但是呢，你可不想見到Sony把你的新歌放進CD裡──好歹他們得先問過你同意才行。如果你只是將新歌用簡單的姓名標示（Attribution）授權條款發表，那Sony（或任何人）都沒有不能把你的歌拿來轉賣的道理。而我個人覺得，你想保留商業授權，好讓Sony在利用你的音樂獲利之前，要先向你請求授權（並且付錢給你），這本身並沒有什麼不對的。&lt;/p&gt;
+
+&lt;p&gt;莫勒的建議是，要避免這個問題，你可以採用類似向「相同方式分享」的CC授權條款，將你的歌變成「有著佐權」（copyleft）的作品。他的論點是，「任何希望從你的作品中獲益的公司，也因此必須將他們商品的『附加價值』（added value）公開給所有人自由取用。如此一來，被人從中獲益的『風險』反而變成是一種極有潛力而有益處的事」。&lt;/p&gt;
+
+&lt;p&gt;但是這個論點並不怎麼正確。「相同方式分享」（ShareAlike）的前提，只有在使用作品的一方從歌曲中改作出「衍生著作」（derivative work）時才成立。只是將歌曲放進CD裡，這並不構成衍生著作。因此單單針對這一種的從中獲益行為，「相同方式分享」並無法給予足夠的保護。而「非商業性」授權條款，就是為了這種情況而設計的。&lt;/p&gt;
+
+&lt;p&gt;不過，確實，對於網路上許多的創作來說──特別是在共同創作的脈絡裡──保障商業授權權利並不是那麼有需要的事。就拿我自己的blog來說吧，那個網站只是用了個簡單的「姓名標示」授權條款而已。CNET Japan將之翻譯成日文，並且在譯文旁邊加上該公司所販售的廣告資訊。以我寫作的目的來說，那是可以接受的。我是為了傳播理念而寫作；因此只要情況合宜，我就不跟人收取費用。就我的觀點來說，莫勒當然是正確的：限制最少的授權條款，對我就足夠了。因此我會把這論點這樣子歸納起來：我們大家都應該使用一個和我們理念一致、限制又最少的授權條款。&lt;/p&gt;
+
+&lt;p&gt;我們在協助使用者瞭解這一點上面，做得不夠好。莫勒呼籲CC多努力些，這是對的。我們會這麼做。倒是，莫勒為我們上了極為正確的一課，那就是，我們都應該思考我們所做每一個選擇的後續結果是什麼。有些人就只是希望他們的創作內容能以非商業方式公開流通。對他們來說，「非商業性」授權條款是很實用的選擇。但其他人真的希望他們的作品能在網路上被使用、被重混（remix）。對後者來說，「非商業性」這個選項，所帶來的困擾，就比帶來的益處要多了。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;（二）針對取樣授權條款（Sampling License）與發展中國家授權條款的批評（Developing Nations License）。&lt;/strong&gt;&lt;br /&gt;
+CC提供了六種核心的授權條款。每一種都提供大家針對作品從事「重製、散布、展示、演出」的自由。除了這六種核心授權條款外，CC也提供了兩種不給予上述自由的條款。其中一種稱「取樣」（Sampling）授權條款，另一種則是「發展中國家」（Developing Nations）授權條款。&lt;/p&gt;
+
+&lt;p&gt;取樣授權條款的設計靈感，是得自Negativland這個樂團，以及著名音樂家、同時也是巴西現任文化部長的吉爾（Gilberto Gil）。基本概念是這樣的：你可以將著作內容重混（remix），或是加以「取樣」（sample）。取樣授權條款的預設設定，甚至讓你可以為商業目的而重混。但是取樣授權條款的預設設定裡，也提到你沒有重製、散布、展示或演出授權標的物的權利。上述的權利都由著作人所有。唯一授予的權利，本質上就是創作衍生作品的權利。&lt;/p&gt;
+
+&lt;p&gt;發展中國家授權條款則不一樣。該授權條款的設計靈感，來自從事Access2Knowledge運動的人士──尤其是受到洛夫（James Love）的啟發。他們希望有一套授權，可以讓著作內容在發展中國家裡面給予（完全）自由使用的權利，即使這種授權並不改變著作物在發展中國家以外地方的規範亦然。所以基本上，發展中國家授權條款的內容就是說，著作物在發展中國家內可以被自由使用，甚至商業性使用也可以。但是在發展中國家以外的地方，就受到一般著作權的約束。這也就是說，使用發展中國家授權條款授權的作品，在發展中國家以外的地方，沒有給予使用者重製、散布、展示或演出的權利。&lt;/p&gt;
+
+&lt;p&gt;理查．史托曼批評說，這兩種授權條款都有個共同的地方──那就是，雖然這兩種授權條款都保障了重要的自由，卻也同時都限制了「重製」著作物的權利。對他來說，重製是根本的權利。也因此對他來說，任何不給予這種基本自由的授權條款，便不配得到CC的支持。他因此要求我們，要不就是丟掉這兩種授權條款，否則就是要和這兩種條款撇清關係。&lt;/p&gt;
+
+&lt;p&gt;在此，首先必須要澄清的，就是我們跟史托曼之間有意見不合，但這意見不合「不是」什麼。有些讀者可能還記得「自由軟體」（free software）以及「開放原始碼軟體」（open source software，又譯作「開放源碼軟體」）之間的爭鬥。對一些人來說，這是一場相信理念價值的陣營與相信現實原則（pragmatism）陣營的爭鬥。CC與史托曼之間的意見不合不是那一種爭鬥。我們之所以去支持取樣及發展中國家授權條款，並不是因為出自現實原則。這只是我們對於價值的觀念不同。CC絕不會提供能保障任何自由的授權條款；我們認為，CC的授權條款只應該保障重要的自由。這也正是我們認為這兩種授權條款能做的──這兩者都保障了重要的自由，即便它們不涵括重製的自由。這並不是因為說，在某些情境脈絡下，或是對某些創作者來說，重製的自由不是一樣重要的自由。問題在於，重製的自由並非在所有情境脈絡下都是重要的自由──至少如果在重製的自由干預了其他重要的價值時，就並不是了。&lt;/p&gt;
+
+&lt;p&gt;舉例來說，好比你是一為在奈及利亞（Nigeria）教書的老師。你需要數學課本，來教你的學生，而他們都說福拉尼語（Fulani）。這時候就算你有重製某本英文寫成的數學課本的權利，意義也並不大。你需要的是能夠翻譯這本書的權利。在這樣的情境下，改作產生衍生著作的權利才是最關鍵的；重製的權利無關宏旨。&lt;/p&gt;
+
+&lt;p&gt;同樣的論點，可以應用在更廣泛的層面上。我們的看法是，在不同的創作領域裡，關鍵的自由不會都一樣。音樂所需的自由和軟體不同，軟體又和影片不同。我們在CC計劃中一直在做的，就是向來自不同領域、又都認同自由的價值的帶頭人物詢問，好幫助我們瞭解，哪些價值在哪個特定領域裡是重要的。吉爾與Negativland對音樂領域很瞭解。因此當他們說，重混的自由很關鍵而重製的自由不見得的時候，要說服我們說他們不對，可不是那麼容易的事。&lt;/p&gt;
+
+&lt;p&gt;同樣的話也可以用在發展中國家授權條款上。此處針對的，是一種需要應用在本地市場的創作，但這種創作並不預期能在發展中國家裡面得到利益。因此，舉例來說，發展中國家授權條款最酷的應用者，是那些設計平價住宅的建築師們。他們將他們的設計稿以發展中國家授權條款來授權，這代表說，住在發展中國家的人，可以自由拿此作品從事任何使用。但是，至少從建築師的觀點來看，他們也不能就這樣直接把設計圖送到他們競爭者手裡。&lt;/p&gt;
+
+&lt;p&gt;這些創作者可能會錯。吉爾、Negativland以及洛夫或許會弄錯到底創作者確實需要哪些權利。但是我們需要的，是一場在創作者之間進行、針對他們到底需要哪些自由，所舉行的公開辯論。我們希望能促成這樣的辯論。在此同時，我們仍會根基於相關社群所指出的價值，來為我們指出方向。&lt;/p&gt;
+
+&lt;p&gt;我先前說過，針對其他有意義的批評，還有更多話該說的。但是這次的通信已經太長了。我們會在2006年年初公開這個討論空間。請繼續收看，下一次通信裡，我會說明我們正在進行的幾項計劃。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 24 Feb 2006 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">73 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/73#comments</comments>
+</item>
+</channel>
+</rss>

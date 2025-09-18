@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - ndc</title>
+ <link>https://creativecommons.tw/taxonomy/term/3195</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>何種權利吸納能轉以政府資料開放進行應用？ - 公眾授權討論系列（二）</title>
+ <link>https://creativecommons.tw/blog/20161127</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/Taiwan%20Open%20Government%20Data%20License-1.0.png?itok=uXpVpsE5&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;政府資料開放授權條款－第 1 版: &lt;a href=&quot;http://data.gov.tw/license&quot; target=&quot;_blank&quot;&gt;http://data.gov.tw/license&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;「&lt;a href=&quot;http://data.gov.tw/license&quot; target=&quot;_blank&quot;&gt;政府資料開放授權條款－第 1 版&lt;/a&gt;&amp;nbsp;(Open Government Data License version 1.0, OGDL-1.0)」，已於 2015 年 7 月 27 日訂定並公告生效，此一版本為行政院國家發展委員會邀集中央各部會集思廣益，並廣納民間建議進行討論後，取得共識的革新版本。OGDL-1.0 與過往「使用規範」在授權處理上，亦具有極大的差異，並提供使用者極高的應用空間與自由。整體而言，OGDL-1.0 的革新性有三大要點：1、明訂所提供之資料，在著作權領域的授權不會被撤回，且不限制使用時間、地域，與目的，讓使用者都能夠安心使用這些資料；2、使用者得以自己名義，對這些資料以再轉授權之模式進行利用，有助於開放資料被用於任何情境，包括商業目的之脈絡；3、於第 4 條第 2 項新增「創用CC 授權轉換條款」，讓原以 OGDL-1.0 提供的資料，必要時得轉以「創用CC 姓名標示 4.0 國際版本授權條款 (Creative Commons Attribution License 4.0 International, CC BY 4.0)」的方式進行利用。綜合上述三點，OGDL-1.0 是一個對使用者非常親善，且鼓勵再行衍生利用的授權模式。只不過，對於公務單位來說，要提供如此大範圍的授權利用，依傳統模式原則上僅有公務人員自行產製的編輯著作，或是採購契約上明定機關取得所有權利的素材，才適合採用 OGDL-1.0 進行公眾授權。&lt;/p&gt;
+
+&lt;p&gt;然而，若是在採購、補助之初，即可透過契約附款的方式，明確表示公務機關構，得採非專屬 (non-exclusive)、不可撤回 (irrevocable)、得再轉授權 (sublicensable) 之模式，取得專案相關著作財產權利之授權，且嗣後亦得進行任何目的之利用(for any purpose)，則即使在非專屬授權之基礎，亦不妨礙取得素材之機關構，嗣後將其轉以 OGDL-1.0 授權，並置於 data.gov.tw 平台上進行不限制對象之流通！在必要時，亦得以選擇任一組合的創用CC 授權條款，進行後續的公眾釋出。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【非專屬授權吸納卻不限制使用目的、期間之國際先例】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;從商用領域與社群發展的著例來看，Google Android 與全球擴散的「開放街圖專案 (OpenStreetMap)」，其用於著作權利吸納的貢獻條款，皆是以非專屬、不可撤回、不限制使用目的、時間、地域，得再轉授權方式取得貢獻後，再由被授權之統轄法人，以接續得允許再轉授權方式將這些成果以集合方式釋出予公眾使用。前者依此條件取得貢獻者授權後，是 Google 採自身名義，以 Apache-2.0 開源授權釋出軟體專案的集合成果，而後者則採「開放資料庫授權條款 1.0 (Open Database License, ODbL-1.0)」，由開放街圖基金會 (OpenStreetMap Foundation，OSMF) 為授權人，釋出所編撰的地圖資料庫。&lt;/p&gt;
+
+&lt;p&gt;此外，國外政府就公部門這端，亦開始靈活運用授權吸納與再轉授權機制，以較低廉的價金取得著作權利授權，嗣後亦得在必要時指定改採公眾授權模式來釋出相關素材。例如美國聯邦政府勞動部，透過補助契約要求 1 億 5000 萬美元的失業人口再就職輔導計畫成果，明示保留其「已償付、非專屬、不可撤回」的被授權地位；而美國國家地理資訊局 (National Geospatial-Intelligence Agency, NGA) 與民間廠商，透過圖資授權契約取得之被授權地位，原本僅得用於公務目的之使用，然註記一旦發生重大災難，其可援引附約規定，將國家地理資訊局本來取得的授權，轉予其他協助災難救助的州政府、地方政府、國際協助組織，或其他協力救災的相關機構進行使用。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【改採政府資料開放授權條款提供素材之吸納要點】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;可知國際上政府機構或大型機構，透過著作權指定或讓予取得權利，並非唯一方式，而以非專屬、不可撤回、得再轉授權、不限制目的；或在特殊狀況如急難救助的名義下，開啟得再轉授權與不限制目的之特殊地位，是一個更靈活與便利被授權者未來舉措的模式與趨勢。一般來說，要達到這樣的授權吸納，於最初的著作權及相關權利授權同意書，應具體述明下列的權利吸納要點：&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;茲將本人／公司提交之_XXXXX專案_之著作財產權，採非專屬 (non-exclusive)、不可撤回 (irrevocable)、得再轉授權 (sublicensable) 之模式，授權予「機關構名稱」嗣後進行任何目的之利用 (for any purpose)，包括但不限於以本人／公司名義、被授權人名義，或其他合法經被授權人依本同意書再授權者，採「政府資料開放授權條款-第 1 版 (http://data.gov.tw/license)」或其他開放授權條款向外釋出。&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;如未涉及著作人格之污衊，本人／公司同意不向被授權人及其後續授權對象，行使著作人格權。&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;設此，則被授權之公務機關構，即取得一個雖基於非專屬的基礎，但無礙將相關素材未來改以開放授權提供予公眾使用之地位，並且必要時，得逕以提交者本身名義，或公務機關構名義進行授權散布。從實而言，過去我國多數的公務機關，並未知曉是類契約的訂立方式，然隨著開放資料、開源軟體的逐年推廣與加深應用，未來勢必將有部份重要的資料、素材，應透此種吸納模式取得，一方面能夠讓原權利人繼續深度活化應用其創作或編輯成果，另一方面則亦可在必要時，將最符合公眾需求的素材，酌採開放授權的模式進行散布，以收權利保障與推展應用相合益彰之效果。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;政府資料開放授權條款－第1版：&lt;a href=&quot;http://data.gov.tw/license&quot; target=&quot;_blank&quot;&gt;http://data.gov.tw/license&lt;/a&gt;，2015 行政院國家發展委員會。&lt;/li&gt;
+	&lt;li&gt;Google Individual Contributor License Agreement: &lt;a href=&quot;https://cla.developers.google.com/clas/new?domain=DOMAIN_GOOGLE&amp;amp;kind=KIND_INDIVIDUAL&quot; target=&quot;_blank&quot;&gt;https://cla.developers.google.com/clas/new?domain=DOMAIN_GOOGLE&amp;amp;kind=KIND_INDIVIDUAL&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;OpenStreetMap Contributor Terms 1.2.4: &lt;a href=&quot;https://wiki.osmfoundation.org/w/index.php?title=Licence/Contributor_Terms&amp;amp;redirect=no&quot; target=&quot;_blank&quot;&gt;https://wiki.osmfoundation.org/w/index.php?title=Licence/Contributor_Terms&amp;amp;redirect=no&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;Notice of Availability of Funds and Solicitation for Grant Applications for H-1B Ready to Work Partnership Grants: &lt;a href=&quot;https://www.doleta.gov/grants/pdf/SGA_DFA_PY_13_07.pdf, 2014 U.S. DEPARTMENT OF LABOR&quot; target=&quot;_blank&quot;&gt;https://www.doleta.gov/grants/pdf/SGA_DFA_PY_13_07.pdf, 2014 U.S. DEPARTMENT OF LABOR&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;NextView Imagery End User License Agreement: &lt;a href=&quot;http://geocenterusaid.org/rswebpage/NextView.html&quot; target=&quot;_blank&quot;&gt;http://geocenterusaid.org/rswebpage/NextView.html&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Nov 2016 17:39:47 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1236 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20161127#comments</comments>
+</item>
+</channel>
+</rss>

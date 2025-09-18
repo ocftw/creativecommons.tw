@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - FOSS</title>
+ <link>https://creativecommons.tw/taxonomy/term/3213</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>為什麼美國政府要用 CC0 來拋棄其資料集與軟體專案的著作權利？ - 公眾授權討論系列（三）</title>
+ <link>https://creativecommons.tw/blog/2016112802</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/20161115.png?itok=HovCs6CK&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;New Trademark App Open Source Code on Github: &lt;a href=&quot;https://content.govdelivery.com/accounts/USPTO/bulletins/172b0eb&quot; target=&quot;_blank&quot;&gt;https://content.govdelivery.com/accounts/USPTO/bulletins/172b0eb&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;因應美國聯邦資訊長 Tony Scott 在 2016 年 8 月公布的「聯邦程式開源政策 (Federal Source Code Policy)」，及配合白宮開放政府促進專案 (Open Government Initiative) 的施政舉措，美國專利及商標局 (United States Patent and Trademark Office, USPTO)，近期將其提供民眾查詢商標及追蹤商標狀態的應用程式 APP 給開放源碼，並置於 GitHub 託管平台上供人下載，所使用的授權條款，嚴格來說並不是授權條款，因為已無任何授權行為產生，究其要理，是在法律容許最大限度內將著作財產權利拋棄的「CC0 公眾領域貢獻宣告 (CC0 Public Domain Dedication)」；其實，這並不是美國聯邦機關構首次採用 CC0 來拋棄素材的著作權利，早在 2014 年美國聯邦政府即公開表態，支持適用 CC0 於一些聯邦政府著作，例如美國開放資料行動計畫 (U.S. Open Data Action Plan) 的相關文件，皆以 CC0 的方式發布。&lt;/p&gt;
+
+&lt;p&gt;所謂 CC0，是讓科學家、教育工作者、藝術家、其他創作者及著作權人，或內容受資料庫特別權保護的權利人等，拋棄他們對各自著作的財產權利，並盡可能將這些著作釋出到公眾領域 (Public Domain)，讓其他人可以任何目的自由地以該著作為基礎，從事創作、提升或再使用等行為，而不再受到著作權或是資料庫相關法律的限制。故美國聯邦政府下個別機關構的這些舉措，也引發了相當的討論和疑惑，而究竟為什麼美國聯邦政府，要用 CC0 來拋棄其資料集與軟體專案的相關著作權利？&lt;/p&gt;
+
+&lt;p&gt;其實，美國聯邦政府的作品，依其著作權法第 105 條，必須適用一個獨特設計，該條規定美國聯邦政府產出之作品，並不能受到著作權利的保護，故能夠在最大容許範圍內，供不特定多數人皆可自由利用，包括重製、散布、改作、公開演播等面向。然而，同法亦規定，若該作品是透過委任或其他法律關係，之後再轉讓、贈予，而讓美國聯邦政府成為著作權利特有者，則已非此條規定的涵攝範圍。再者，基於智慧財產權領域的國際互惠原則，美國聯邦政府的作品對其國民不得主張著作權利的保護，不代表對其他國家的國民，也直接作一樣狀況的解讀，因其他國家的政府作品，並沒有拋棄其對自國國民著作權利的主張，也就是說，互惠原則沒辦法保障美國國民，亦可不受限制近用他國政府的作品，故基於互惠衡平的立場，美國聯邦政府的作品，並不直接能為他國國民自由使用。&lt;/p&gt;
+
+&lt;p&gt;Tony Scott 於 2016 年 8 月 8 日發布的「聯邦程式開源政策」時，便是採取上述觀點，認為聯邦政府產出的程式源碼，雖在國內已近於公眾領域，但此除外規定並不能直接全球適用，故個別專案的執事者，便依其偏好，主動選擇適合的自由開放源碼授權 (Free and Open Source Software Licenses)，將相關程式源碼釋出，以利這些程式源碼可以在不產生疑慮的狀況下全球流通。但這樣的處理方式，也就代表個別美國聯邦政府持有的開源專案，是以政府本身擁有著作權利的角度來自我看待，從而才有地位擇用自由開放源碼授權來散布軟體，這般的解讀方式，也引發部份論者的批評，因若程式專案本身確實是由美國聯邦政府直接聘僱人員所撰寫，則回到其著作權法第 105 條的原始規定，美國聯邦政府不得主張任何著作權利，從而亦無立場，將其添加使用限制之後，採自由開放源碼授權提供予自己國人。&lt;/p&gt;
+
+&lt;p&gt;故而部份專案的處理方式，就是類同 USPTO，將所釋出的程式源碼或其他素材，標示以 CC0 進行公眾領域貢獻的宣告，以消弭所有可能產生的爭議。雖然從嚴格法律分析來看，要將自身持有的素材以 CC0 貢獻，前提是宣告者必須先擁有著作財產權利，然而 CC0 已經是法律上最接近跨國跨界公眾領域狀態的宣告，故在許多的狀況下，其便成為多方意見爭議者，所能共同接受的權衡方案。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;「公眾領域貢獻宣告」（CC0）: &lt;a href=&quot;http://creativecommons.tw/cc0&quot; target=&quot;_blank&quot;&gt;http://creativecommons.tw/cc0&lt;/a&gt;。&lt;/li&gt;
+	&lt;li&gt;白宮支持運用CC0於聯邦政府資料集: &lt;a href=&quot;http://creativecommons.tw/blog/20141001&quot; target=&quot;_blank&quot;&gt;http://creativecommons.tw/blog/20141001&lt;/a&gt;，2014 劉芊影/編譯，CC BY-SA 3.0 TW。&lt;/li&gt;
+	&lt;li&gt;White House supports CC0 for federal government datasets: &lt;a href=&quot;https://creativecommons.org/2014/05/09/white-house-supports-cc0-for-federal-government-datasets/&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/2014/05/09/white-house-supports-cc0-for-federal-government-datasets/&lt;/a&gt;, 2014 Timothy Vollmer, CC BY 4.0.&lt;/li&gt;
+	&lt;li&gt;New Trademark App Open Source Code on Github: &lt;a href=&quot;https://content.govdelivery.com/accounts/USPTO/bulletins/172b0eb&quot; target=&quot;_blank&quot;&gt;https://content.govdelivery.com/accounts/USPTO/bulletins/172b0eb&lt;/a&gt;, 2016 United States Patent and Trademark Office.&lt;/li&gt;
+	&lt;li&gt;Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software: &lt;a href=&quot;https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf&quot; target=&quot;_blank&quot;&gt;https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf&lt;/a&gt;, 2016 United States Chief Information Officer.&lt;/li&gt;
+	&lt;li&gt;USPTO/TrademarkStatusApp: &lt;a href=&quot;https://github.com/USPTO/TrademarkStatusApp&quot; target=&quot;_blank&quot;&gt;https://github.com/USPTO/TrademarkStatusApp&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Open Government Initiative: &lt;a href=&quot;https://www.whitehouse.gov/open&quot; target=&quot;_blank&quot;&gt;https://www.whitehouse.gov/open&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Copyright Law of the United States of America, § 105. Subject matter of copyright: United States Government works: &lt;a href=&quot;http://www.copyright.gov/title17/92chap1.html#105&quot; target=&quot;_blank&quot;&gt;http://www.copyright.gov/title17/92chap1.html#105&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 27 Nov 2016 17:09:13 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1238 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/2016112802#comments</comments>
+</item>
+</channel>
+</rss>

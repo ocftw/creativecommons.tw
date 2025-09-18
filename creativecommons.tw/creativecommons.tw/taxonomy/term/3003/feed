@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - OpenOffice</title>
+ <link>https://creativecommons.tw/taxonomy/term/3003</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Creative Commons 的 OpenOffice 附加元件！</title>
+ <link>https://creativecommons.tw/blog/20071115</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;趙柏強 Po-chiang Chao&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;OOo 終於也有方便的方式可以添加 CC 授權聲明了 (見&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/7819&quot;&gt;總部的新聞&lt;/a&gt;)，安裝步驟很簡單：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;下載&lt;a class=&quot;newpage&quot; href=&quot;http://mirrors.creativecommons.org/software/ccooo/ccooo.oxt&quot;&gt;附加元件檔&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;啟動 OO.o (或其他相容軟體)，以「工具&amp;gt;擴充軟體管理程式」裡的「增加」來安裝剛才的元件檔。&lt;/li&gt;
+	&lt;li&gt;接著就可以在「工具&amp;gt;附加元件」裡看到 Creative Commons 選項與功能了&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;來看看長什麼樣子：&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;Screenshot1.png;&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/screenshot1.png&quot; style=&quot;width:400px&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;在第一次啟動時，會花上一點時間到網路上擷取授權方式的清單，而後就跳出授權選取精靈了：&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;screenshot2.png;&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/screenshot2.png&quot; style=&quot;width:400px&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;插入授權聲明：&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;Screenshot3.png;&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/screenshot3.png&quot; style=&quot;width:400px&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;OO.o 還不支援 OpenDocument Format 裡的 metadata 格式，而且存檔時會把既有的 metadata 覆蓋掉 (!)，所以目前是用自訂摘要的方式來設定文件授權條款的：&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;screenshot4.png;&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/screenshot4.png&quot; style=&quot;width:400px&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 15 Nov 2007 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">102 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20071115#comments</comments>
+</item>
+</channel>
+</rss>

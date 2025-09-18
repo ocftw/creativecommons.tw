@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 公共財</title>
+ <link>https://creativecommons.tw/category/tags/%E5%85%AC%E5%85%B1%E8%B2%A1</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>雷席格的CC每週通信（一）：CC，誕生的故事</title>
+ <link>https://creativecommons.tw/in-depth/64</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jedi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;勞倫斯‧雷席格（Lawrence Lessig）作， 2005-10-06&lt;/p&gt;
+
+&lt;p&gt;CC是我和艾瑞克．伊爾德瑞德（Eric Eldred）有一次談話時誕生的想法。我那時受艾瑞克委託，處理他對於美國國會的〈著作權年限延長法案〉（Copyright Term Extension Act）的訴頌案件。艾瑞克。艾瑞克對這個案子相當關心，但是對最終的判決結果不是那麼樂觀。再早之前，他曾經問我，有沒有可能把我們投注他這個案子的精力，轉換到另一個方向上。不再是攻擊著作權，反而是找一種利用著作權的方式，來支持公共財（public domain）。&lt;/p&gt;
+
+&lt;p&gt;我沒想什麼就表示了贊同，這倒不是因為我心中有什麼計劃，而是因為，像我這樣天真的律師，我總認為我們會打贏這場官司，然後艾瑞克就會忘了有這回事了。結果倒是，早在最高法院還沒決定要審理艾瑞克的訴訟案時，我們幾個人就已經開始著手籌劃CC了。&lt;/p&gt;
+
+&lt;p&gt;我們挪用了自由軟體基金會（FSF; Free Software Foundation）的基本概念──散播自由的著作權授權規範。因為著作權是一種財產權，因此法律上要求人在「使用」一項有著作權的物件時，要先行得到允許，除非是「合理使用」（fair use）。所謂需要允許才能為之的「使用」，是指任一落在著作權所授予的特許權（exclusive rights）範圍中的使用。在實體的世界裡，這些「特許權利」留下了許多未受規範的著作權。舉例來說吧，在實體世界裡，你讀一本書，讀書本身並不是對書本的「合理使用」。讀書是一種未受著作權規範的使用，因為讀書本身並不會產製出任何複本（在腦海裡留下的東西除外，但是可千萬別跟律師們講啊）。&lt;/p&gt;
+
+&lt;p&gt;但是在數位的世界裡，「使用」一個作品的同時就會製造出一份「複本」，要不這樣是不可能的。因此，在原理上，除非是合理使用，否則在數位世界裡使用任何一個作品，都得得到事先授權。這個特性（或者這個臭蟲，端看你看事情的角度）成為了我們後來促成CC運作的動力。&lt;/p&gt;
+
+&lt;p&gt;我們的想法（又一次借鏡了FSF的理念）是建立幾種著作權授權，好讓藝人、作者、教師、研究人員能夠拿來使用，並跟世人告知，他們希望他們的作品能夠有哪幾種自由。如果著作權預設的規範是「著作權所有」（all rights reserved），則創用CC授權的最主要意義就是「只有部份的著作權」（some rights reserved）。好比說，著作權法將複製作品的獨佔權利授予給著作權人。而創用CC的授權則說，這項獨佔權利是給了公眾的。&lt;/p&gt;
+
+&lt;p&gt;至於這幾種授權，提供了哪些自由，則同時是由我們（我們決定了創用CC授權所要保障的自由有哪些）以及創作者所決定的，創作者從我們在網站上提供的幾種選項中挑選。一直以來，這些自由的基本成份有四種：&lt;/p&gt;
+
+&lt;p&gt;一、姓名標示（Attribution，意即創作人要求，使用其作品的條件，是要標示其姓名）；&lt;br /&gt;
+二、非商業性（NonCommercial，意即創作人僅允許對其作品進行非商業性質的使用）；&lt;br /&gt;
+三、禁止改作（No Derivatives，意即創作人要求作品必須原封不動地使用，而不是作為任何衍生著作的基礎）；&lt;br /&gt;
+四、相同方式分享（Share Alike，意即任何你使用授權作品所產出的衍生著作，也都必須使用「相同方式分享」的授權釋出）。&lt;/p&gt;
+
+&lt;p&gt;這四種選項──如果每一種都是選項的話──一共能產生十一種可能的授權。不過我們發現，使用我們授權的人中，有98%都要求要有「姓名標示」，因此我們決定把姓名標示的選項拿掉。也就是說，我們現在一共有六種核心授權：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;姓名標示（你可以用任何方式使用我的作品，但請標示我的姓名）&lt;/li&gt;
+	&lt;li&gt;姓名標示─相同方式分享（你可以用任何方式使用我的作品，但請標示我的姓名，同時任何衍生著作也要採用相同方式分享的授權）&lt;/li&gt;
+	&lt;li&gt;姓名標示─禁止改作（原封不動使用作者，標示我的姓名）&lt;/li&gt;
+	&lt;li&gt;姓名標示─非商業性（在非商業性前提下使用我的作品，並標示我的姓名）&lt;/li&gt;
+	&lt;li&gt;姓名標示─非商業性─禁止改作（在非商業性前提下使用我的作品、原封不動使用、並標示姓名）&lt;/li&gt;
+	&lt;li&gt;姓名標示─非商業性─相同方式分享（在非商業性前提下使用我的作品，標示姓名，同時任何衍生著作也要採用相同方式分享的授權）&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;（我們同時也提供幾種其他特殊的授權，我會在之後的文章中敘述）&lt;/p&gt;
+
+&lt;p&gt;然後這幾種選項便進到一份基本的授權範本裡。範本可以確保讓創作人：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;保有其著作權；&lt;/li&gt;
+	&lt;li&gt;確保創用CC授權不影響任何合理使用、首次販售、或任何言論自由的權利；&lt;/li&gt;
+	&lt;li&gt;只要採用授權的人尊重創作人所設定的條件，則授權本文讓世上任何人都擁有以下這四種自由：&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;(a) 覆製作品、&lt;/li&gt;
+	&lt;li&gt;(b) 散播作品、&lt;/li&gt;
+	&lt;li&gt;(c) 公開展示或播放作品、&lt;/li&gt;
+	&lt;li&gt;(d) 對作品進行數位播放（亦即 webcasting）。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;最後，授權本文要求採用授權的人&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;對任何不在授權範圍內的使用，都要獲得准許；&lt;/li&gt;
+	&lt;li&gt;保有所有著作權聲明的完整性；&lt;/li&gt;
+	&lt;li&gt;提供連結以連至授權本文；&lt;/li&gt;
+	&lt;li&gt;不修改授權內容；&lt;/li&gt;
+	&lt;li&gt;不使用任何技術（例如數位權利管理 DRM）來限制授權給予被授權人的權利。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;這幾種授權，提供了創作人一種簡單的方法，讓他們可以為他們創造力的成果，標上他們想給予的自由。這樣的授權，也敬請他人在需要規範內定以外的權利時，能來詢問取得准許。一道標示有「非商業使用」的授權，並不意味著創作人不會想因其創作物而收取金錢。這只是簡單地在說，「如果你想進行商業利用，請來找我。如果你做的只是非商業使用，就不必詢問。」&lt;/p&gt;
+
+&lt;p&gt;我們在2002年十二月時發表了CC。在一年之內，我們便有超過一百萬個回連至我們授權網站的連結。一年半的時間裡，數字已經超過了一百八十萬個連結。第二年時，連結大約是五百萬。兩年半的時間裡（也就是2004年六月），連結恰好超越一千兩百萬。而今天──三個月後──美國雅虎的報告是連至我們授權的連結有超過五千萬個。這些「回連的連結」（link-backs）倒不真的代表使用CC授權的作品數量──好比說，一份單一的授權也許可以涵括音樂資料庫裡的十萬首歌，也或者一個部落格網站（blog）裡可能使用了好幾種授權。但是這樣的成長的確意味了：CC授權的普及度快速成長，而且比我想像快得許多、許多。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://creativecommons.tw/betacc/in-depth/65&quot;&gt;下一週&lt;/a&gt;：我要談談我們確實想解決的問題，以及我們從過去的例子中學到了什麼。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 23 Nov 2005 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">64 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/64#comments</comments>
+</item>
+</channel>
+</rss>

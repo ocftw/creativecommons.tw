@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 程式設計</title>
+ <link>https://creativecommons.tw/category/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>繪圖技法大公開</title>
+ <link>https://creativecommons.tw/blog/20141201</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;程式語言往往被看成冷冰冰、沒有生命力的，但是透過&lt;a href=&quot;http://blog.lyhdev.com/2012/04/processing.html&quot;&gt;Processing&lt;/a&gt;，就可以將程式語言轉化為藝術品，工程師也能身兼藝術家；透過&lt;a href=&quot;http://www.openprocessing.org/&quot;&gt;OpenProcessing&lt;/a&gt;，則可以讓這些「程式語言藝術家」在分享與互動的過程中，更能善用 processing 創造出多元、突破自我的作品。&lt;br /&gt;
+&lt;br /&gt;
+Processing是奠基於JAVA的開放源碼程式語言，由麻省理工學院媒體實驗室的Casey Reas和Ben Fry所開發。它以視覺化的方式呈現學習者撰寫的電腦程式，在影音、動畫、互動領域裡都算是容易上手的介面，透過剪貼和複製就能完成有趣的程式、畫出具創 造力的圖像。&lt;a href=&quot;http://www.openprocessing.org/&quot;&gt;OpenProcessing.org&lt;/a&gt;則是一個協力合作的社群平台，讓Processing的開發者和藝術家能上傳、分享、瀏覽、評論與研究彼此的互動繪圖和程式原始碼。&lt;br /&gt;
+&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/hui_tu_ji_fa_1_0.jpg&quot; /&gt;&lt;br /&gt;
+OpenProcessing的前身是OpenVisuals，是開發者&lt;a href=&quot;http://www.wiredpieces.com/&quot;&gt;Sinan Ascioglu&lt;/a&gt;在 紐約大學互動通訊學程(Interactive Telecommunications)的碩士論文成品。當時他十分著迷於網路上的社會互動演進，也對將程式語言視覺化的Processing社群感興 趣，因此他設計了OpenVisuals平台讓Processing使用者社群能簡單上傳和分享繪圖，並將這些記錄視覺化呈現，以了解使用者彼此的互動關 係。&lt;br /&gt;
+&lt;br /&gt;
+在這個過程中，Sinan Ascioglu發現Processing使用者社群很需要一個類似flickr的平台設計協助他們的創作；同時，他的指導教授Daniel Shiffman鼓勵他能設計出一個能讓使用者上傳Processing繪圖成品的平台，不只是蒐集和分析使用者的記錄而已。於是，他就改版設計了 OpenProcessing平台。&lt;br /&gt;
+這個平台與其他具有社會互動性、使用者參與的平台不同之處在於，人們不只是想要被娛樂或是有個整理編排資料的工具，而是真的很想在此貢獻自己的知識。使用者將自己的創作公開到平台上，以便共享和對話，並由自己定標籤(tag)來決定作品的分類和與他人作品的關聯性。&lt;br /&gt;
+&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/hui_tu_ji_fa_2_0.jpg&quot; /&gt;&lt;br /&gt;
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(&lt;a href=&quot;http://www.openprocessing.org/sketch/100835&quot;&gt;http://www.openprocessing.org/sketch/100835&lt;/a&gt;)&lt;br /&gt;
+許多老師會在此平台上開課，將課程示範的原始碼和成品圖由淺入深、循序漸進的提供給學生參考。在教學過程中，學生可以同時看到原始碼和成品圖的對應關係、可以快速複製一段寫得很好的程式碼，也能互相評論和學習同儕的編碼或構圖方式。&lt;br /&gt;
+&lt;br /&gt;
+Sinan Ascioglu曾做過一個比喻，將程式原始碼比喻為藝術家的畫筆，一般人不會用畫筆來定義藝術家作品的好壞，也不會因此影響藝術作品的價值；開放程式原 始碼相當於分享藝術家操作畫筆的方式，透過方法的效仿和改造，或是讓這些方法有機會與不同藝術美感經驗的結合，將會帶來更多創新的機會。&lt;br /&gt;
+為了能讓讓這個社群能真正的分享，這個平台採取創用CC「&lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/us/&quot;&gt;姓名標示─相同方式分享&lt;/a&gt;」授權，著明創作者的姓名後就可以利用此平台上的程式語言和繪圖成品，但是利用後產生的作品也必須利用此授權方式分享，確保創新的過程不會中斷。&lt;br /&gt;
+&lt;br /&gt;
+現在，OpenProcessing的流量僅次&lt;a href=&quot;http://processing.org/&quot;&gt;processing.org&lt;/a&gt;， 已成為繪圖、原始碼和社群溝通的大型圖書館，網站也持續根據使用者的資料分析加以修正。最大的問題是Processing社群是現在少數的java使用者 之一，而Java和許多瀏覽器的相容性不高，對於創作者和使用者而言都不甚方便，不過，此平台目前還沒有朝其他方向發展的打算。&lt;br /&gt;
+&lt;br /&gt;
+註 : 可以參考成功大學建築系簡聖芬教授的課程利用方式&lt;a href=&quot;http://www.openprocessing.org/user/4674&quot;&gt;http://www.openprocessing.org/user/4674&lt;/a&gt; - See more at: http://creativecommons.tw/blog/20141201#sthash.OWk3Tvnq.dpuf&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 03 Dec 2014 02:52:36 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">690 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20141201#comments</comments>
+</item>
+<item>
+ <title>我做了個網站，並且想讓網站使用者上傳作品時能選擇「創用CC」授權方式，該怎麼做？</title>
+ <link>https://creativecommons.tw/faq/15</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;創用CC已經提供一些方式，方便您直接將授權條款選擇機制整合至您的網站。這部份的最新說明與討論，都可以在 &lt;a href=&quot;http://wiki.creativecommons.org/Web_Integration&quot;&gt;Creative Commons 的開發圍紀&lt;/a&gt;上找到。&lt;/p&gt;&lt;p&gt;台灣創用CC計畫也提供網站整合的&lt;a href=&quot;http://creativecommons.org.tw/static/technology/webintegration&quot;&gt;技術指南&lt;/a&gt;，資料雖不見得都能追上最新的討論，但亦可參考。&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 07 Mar 2011 07:36:33 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">292 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/faq/15#comments</comments>
+</item>
+<item>
+ <title>如何將自己的作品採創用 CC 授權條款釋出？</title>
+ <link>https://creativecommons.tw/faq/49</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;建議您先確定您所要授權的作品範圍（一張照片或是整本相簿？），以及所要採用的授權條款（六種條款中的哪一種？），然後於作品明顯處標示所採用的創用 CC 條款，就可以了。例如：&lt;/p&gt;&lt;ol&gt;&lt;li&gt;若要 CC 授權您的簡報投影片，可以在整份投影片的第一頁或是最後一頁，明顯標示以下文字：&lt;br /&gt;&lt;strong&gt;本投影片採用創用 CC「姓名標示—相同方式分享 3.0 台灣」授權條款&lt;/strong&gt;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;您也可以同時列出&lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/tw/&quot;&gt;這個授權條款的網址&lt;/a&gt;，或是對應的授權標章圖示&lt;img src=&quot;/sites/creativecommons.tw/files/cc-by-88x31.png&quot; style=&quot;width:50px&quot; alt=&quot;BY.png;&quot; class=&quot;image&quot; /&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;這些標示文字（授權條款網址、授權標章圖示），可以到&lt;a href=&quot;http://creativecommons.org/choose/?lang=zh_TW&quot;&gt;創用 CC 的網站&lt;/a&gt;在上面點選您要採用的授權條款，由系統幫您自動產生，您再剪貼到您要授權的作品。&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 07 Mar 2011 07:36:32 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">278 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/faq/49#comments</comments>
+</item>
+<item>
+ <title>我可以變更創用 CC 的圖示，讓它在我的網站或作品上看來更好看嗎？</title>
+ <link>https://creativecommons.tw/faq/68</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;請不要為了讓創用 CC 的標誌在您的網站或作品上看來更好看而變更它。創用 CC 的「保留部分權利」圖示的使用需有一致性，因為這是美國 Creative Commons 組織註冊的商標。這些在美國 Creative Commons 組織的&lt;a href=&quot;http://creativecommons.org/policies&quot;&gt;政策網頁&lt;/a&gt;上也有說明。&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 07 Mar 2011 07:36:29 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">250 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/faq/68#comments</comments>
+</item>
+<item>
+ <title>我可以變更創用 CC 的圖示，讓它在我的網站或作品上看來更好看嗎？</title>
+ <link>https://creativecommons.tw/faq/55</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;請不要為了讓創用 CC 的標誌在您的網站或作品上看來更好看而變更它。創用 CC 的「保留部分權利」圖示的使用需有一致性，因為這是美國 Creative Commons 組織註冊的商標。這些在美國 Creative Commons 組織的&lt;a href=&quot;http://creativecommons.org/policies&quot;&gt;政策網頁&lt;/a&gt;上也有說明。&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 07 Mar 2011 07:36:29 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">251 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/faq/55#comments</comments>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - ccMixter</title>
+ <link>https://creativecommons.tw/category/tags/ccmixter</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>影片製作人如何運用創用CC授權？</title>
+ <link>https://creativecommons.tw/blog/20130602</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;影片製作人是如何運用各種不同的創用 CC 授權，&lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/Filmmaker&quot;&gt;Creative Commons&lt;/a&gt; 有以下的整理：&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by/3.0/tw/&quot;&gt;姓名標示&lt;/a&gt; (CC BY)：&lt;/strong&gt;隨時可供出版的素材&lt;/p&gt;
+
+&lt;p&gt;姓名標示授權是限制最少的創用 CC 授權，因此最鼓勵對內容再次利用。&lt;br /&gt;
+適用於短片、電影劇照、複印資料、簡歷，因為這些內容可以很輕易地加入各種報導中。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by-sa/3.0/tw/&quot;&gt;姓名標示─相同方式分享&lt;/a&gt; (CC BY-SA)：&lt;/strong&gt;作品散佈與非電影素材&lt;/p&gt;
+
+&lt;p&gt;藉由刪除非商業性條款，此授權鼓勵商業組織推廣並使用電影。對獨立影片製作人來說，如此可全面降低交易成本，並且增加他們影片在傳統散佈管道的能見度。同樣的，非電影素材也可以輕易地傳播且分享，有助於宣傳電影本身。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by-nc-sa/3.0/tw/&quot;&gt;姓名標示─非商業性─相同方式分享&lt;/a&gt; (CC BY-NC-SA)：&lt;/strong&gt;混搭競賽、社群編輯、原始素材&lt;/p&gt;
+
+&lt;p&gt;此授權允許以非商業方式使用作品，適用於原始素材 (混搭競賽與社群編輯) 或是擴大散佈策略之用。此外，這個授權明定所有混搭或衍生作品都必須用同樣的授權來分享，能維持混搭作品的非商業性。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by-nc-nd/3.0/tw/&quot;&gt;姓名標示─非商業性─禁止改作&lt;/a&gt; (CC BY-NC-ND)：&lt;/strong&gt;重製宣傳、預告片、數位分享&lt;/p&gt;
+
+&lt;p&gt;此授權允許個人複製與分享作品，但禁止衍生著作與商業使用。適用於預告片、免費下載，以及要求原始素材原封不動的重製宣傳。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;以下這些電影案例研究，可以幫助大家更瞭解影片製作人如何在其作品中使用創用 CC 授權。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/Case_Studies/Sita_Sings_The_Blues&quot;&gt;西塔唱布魯斯 (Sita Sings The Blues)&lt;/a&gt; &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;天才動畫師、作家與製片人 Nina Paley 於 2009 年 3 月，用創用 CC BY-SA 授權發行了她的電影「西塔唱布魯斯」。光是在 Archive.org 上，「西塔唱布魯斯」的下載次數就超過 15 萬。由於允許商業重用，Paley 給了其他人推廣並散佈該片的經濟誘因。2009 年一篇華爾街日報文章估計該片營收為 5 萬 5 千美元。對於一部在宣傳與廣告上分文未花的電影來說，這個數字相當可觀。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/Case_Studies/RIP:_A_Remix_Manifesto&quot;&gt;混製宣言 (RiP: A Remix Manifesto)&lt;/a&gt; &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;「混製宣言」使用創用 CC BY-NC 授權來發行，不但在網路上廣為流傳，更激盪出有趣的衍生作品。其社群剪輯是由紀錄片導演 Brett Gaylor 構思，透過開放源碼影片平台 Kaltura 所完成，採同樣授權的配樂來自於音樂社群 ccMixter。該片於 2010 年，獲選為相當於加拿大電影界奧斯卡的吉尼獎的最佳紀錄片候選影片。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/21398&quot;&gt;Vincent Moon&lt;/a&gt; &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;製片人兼藝術家 Vincent Moon 的名氣始於他為法國音樂部落格 La Blogotheque 拍攝的紀實 (verité style) 風格小品。過去 7 年他的創作豐富，製作出許多音樂紀錄片作品，如即興表演「Take Away Shows」等。最近他成立了新的音樂廠牌 petites planétes，旗下的音樂紀錄片，同樣具有他獨特且富影響力的美學風格。他所有的作品都以創用 CC BY-NC 或 BY-NC-SA 授權釋出。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/Case_Studies/Nasty_Old_People&quot;&gt;Nasty Old People&lt;/a&gt; &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;出自瑞典導演 Hanna Sköld 的劇情長片「Nasty Old People」，透過創用 CC BY-NC-SA 授權，發佈在 The Pirate Bay (與其他 bittorrent 網站) 上。這部電影免費的線上散佈模式提高了該專案的能見度，從而帶來的社群捐款，幫助 Sköld 回收了她大部份的初期投資 (1 萬歐元銀行貸款)。由於可合法地創作衍生作品，其社群為這部以瑞典語拍攝的影片，製作出多達 16 種不同語言的字幕。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/7775&quot;&gt;迷走青春 (Tracey Fragments)&lt;/a&gt; &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;為了宣傳「迷走青春」這部由 Ellen Page 主演的加拿大電影，導演 Bruce McDonald 尋求創用 CC 授權的協助。這部電影所有的電影鏡頭，全都以創用 CC BY-NC-SA 授權，公開在網路上讓影迷下載並運用在音樂錄影帶、新預告片，甚至是剪輯並混搭整部電影。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/13498&quot;&gt;用心出拳 (Two Fists, One Heart)&lt;/a&gt; &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;在澳洲當地廣泛發行的家庭劇「用心出拳」，有一個獨立網站 Cut Your Own Scene，上面供粉絲免費下載的電影毛片，採用創用 CC BY 授權。這些電影鏡頭的用途不限，只要使用時連接到「用心出拳」官方電影網頁以表彰出處。其中有大部份鏡頭沒有出現在電影中，如此一來也大大地利用了通常會被浪費掉的資源。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/Case_Studies/Blender_Foundation&quot;&gt;Blender 基金會&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;「 Elephants Dream」和「 Big Buck Bunny」是為了推廣開放源碼 3D 內容創作套件 Blender，而以創用 CC BY 授權在線上發行的兩部短片。這樣做的好處是，首先，這些影片可以當成教學工具，那些想要更加了解這套程式的人，可以藉此觀摩不同的創作技巧。其次，這些容易分享的短片獲得了正面的宣傳效果，不僅是影片在線上被討論與推薦，麻州伍斯特一家當地電視台甚至不請自來地播放了「 Big Buck Bunny」。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;參考來源：&lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/Filmmaker&quot;&gt;http://wiki.creativecommons.org/Filmmaker&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/wei_ming_ming_2.jpg&quot; style=&quot;display:block; height:500px; margin-left:NaNpx; margin-right:NaNpx; vertical-align:middle; width:700px&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 02 Jun 2013 02:55:54 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">685 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20130602#comments</comments>
+</item>
+<item>
+ <title>OPEN的力量：混搭風席捲全球</title>
+ <link>https://creativecommons.tw/blog/20120719-1</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;DJ VADIM / 柏林和倫敦 （更多資訊：&lt;a class=&quot;newpage&quot; href=&quot;http://www.djvadim.com&quot;&gt;http://www.djvadim.com&lt;/a&gt;）&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/dj_vadim__home.jpg&quot; style=&quot;display:block; height:300px; width:750px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;出生於俄國列寧格勒，在倫敦長大的 DJ Vadim 成為了全球嘻哈與電子音樂界的一份子。他作為一名製作人，與史提夫汪達、 The Roots、Prince and Public Enemy 等傳奇藝人共同演出。他也以不同的藝名發行過許多自己的專輯。&lt;/p&gt;
+
+&lt;p&gt;當他尋找靈感與新的人才時，Vadim 使用社群混搭網站 ccMixter 讓其他製作人下載他用創用 CC 授權的曲目，並以他們的喜好加以重製。&lt;/p&gt;
+
+&lt;p&gt;有多達 3000 人曾下載 Vadim 的 ccMixter 曲目，並創作出超過 500 首混搭音樂。根據為 DJ Vadim 的唱片公司 Organically Grown Sounds 工作的 Ben Dawson 表示，&quot;人們上傳自己的混搭音樂，然後與朋友分享，為音樂帶來了許多的關注。這是讓人們置身於音樂，投注情感、心情、靈魂的絕佳方式，而非僅是聆聽音樂。&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Vadim 經常環遊世界各地，與歌唱家、音樂家和其他 DJ 一起合作和對話。&quot;如今網路替我們提供了更多的對話方式，像是 ccMixter 與其他很棒的音樂平台。&quot;&lt;/p&gt;
+
+&lt;p&gt;Vadim 認為，這樣的合作相當重要。&quot;在環遊世界的旅途上，與相遇的人撰寫歌曲，這樣的協同合作是 OGS 的全部。音樂是創作者與聆聽者之間的交談，會為音樂這個熔爐帶來各自的體驗。&quot;&lt;/p&gt;
+
+&lt;p&gt;本文出自 &lt;a class=&quot;external&quot; href=&quot;http://thepowerofopen.org/&quot;&gt;The Power of Open&lt;/a&gt; P15&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 25 Oct 2012 00:56:37 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">622 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120719-1#comments</comments>
+</item>
+<item>
+ <title>創用 CC 網頁多媒體編撰套件（下）</title>
+ <link>https://creativecommons.tw/in-depth/394</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林克寰&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;前面這些都是運用素材時要注意的事項，那麼流程中最後一個階段 ── 實際編輯網頁時呢？&lt;/p&gt;
+
+&lt;p&gt;其實現在有很多的套件，能夠輕易製作出內容採創用 CC 授權的網頁，在網頁上加入超鏈結及標示，並且嵌入授權相關的詮釋資料──他們是各種部落格系統與圍紀系統，例如 Movable Type（*22）、MediaWiki（*23），以及各種部落格服務、圍紀服務、線上藝廊服務，像是 TypePad（*24）、Wikia（*25）、Flickr。有一些用來把整個圖檔資料夾做成相簿網頁的程式，例如 snapGallery（*26），也可以在操作流程當中，讓你選擇創用 CC 授權，並根據這項設定來調整製作出來的網頁。&lt;/p&gt;
+
+&lt;p&gt;不過對於真正要設計網頁的人來說，大概會嫌上述這些辦法都太過僵硬，做不出想要的東西來。如果你也是想要自己親手做網頁的人，那麼目前你祇能一切自己來 ── 各種 WYSIWYG 網頁設計套件如Dreamweaver、GoLive!、Expression Web 等，都還沒有內建跟創用 CC 授權有關的功能，所以你得徒手拿文字編輯軟體（或文字型網頁設計套件）來把有關的原始碼加進去。除了由創用 CC 所提供的 RDF 格式數位標籤外，你還可以用微格當中的 rel-license（*27）來標記授權文字、圖片說明，讓網頁更具語意。&lt;/p&gt;
+
+&lt;p&gt;當你做了這些事後，可以用創用 CC 提供的 MozCC 擴充套件（*28）來確認是否標記正確，也可以用 BlueOrganiser（*29）、Operator（*30）、Tails Export（*31）等擴充套件，來確認用微格標記的授權資訊是否能被加以利用。這些擴充套件通通都是用於 Firefox（*32）的 ── Firefox 仍舊是網頁設計的首選，有各種領先潮流的擴充套件，能夠彌補Firefox 的不足之處，讓 Firefox 有機會跟其他瀏覽器一較上下。（MozCC 也可以用於 Songbird（*33））&lt;/p&gt;
+
+&lt;p&gt;要讓網頁邁入 Web 2.0，上述這種 RDF 格式授權數位標籤以及微格都是少不了的，另外網站還得提供 RSS 或 Atom 源料，以便跟其他網站或服務交流內容。因為源料的目的使然，在源料上標記授權資訊又更為重要。處理源料最簡單的方法之一，就是交給 FeedBurner 來做，這個網頁服務有著諸多功能，包括統計訂閱數、修正源料瑕疵等，同時也能夠加入創用 CC 授權資訊，讓你的源料更能充分表達網頁內容，也讓網頁設計師可以把心力集中在實際的網頁上。&lt;/p&gt;
+
+&lt;p&gt;設計網頁時，有些設計師會採用以創用 CC 授權釋出的框架，例如Mollio（*35），這種時候要如何標示作者及授權資訊呢？使用網頁設計框架時，標記這些資訊也有兩種辦法：第一是跟圖片一樣，在「版權宣告」之類的網頁中，說明你所使用的框架資訊；第二則是把相關的資訊保留在網頁原始碼內──有些網站開發套件會在最後的最佳化程序中，刪除所有的原始碼註解、空格、換列，這時請務必確認這些授權資訊有保留下來。這兩種辦法並不互斥，如果能都做到，更是理想。&lt;/p&gt;
+
+&lt;p&gt;除了 Mollio 外，近年來越來越多人用的 YUI（*36）也是採取開放的授權方式；雖然 YUI 並不是用創用 CC 授權，而是 BSD 授權條款，但是創用 CC 計畫也有試著納入 BSD 授權（*37），並也致力於未來要與BSD 授權有更好的可互通性，因此使用 YUI 或其他框架時，要注意的地方、標示的方式，其實也是跟 Mollio 一樣：附在網頁上，並在原始碼中保留相關資訊。&lt;/p&gt;
+
+&lt;p&gt;歸納一下，我們在本文當中學到了：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;用 flickrCC、Behold、Flickr Color Selectr、Compfight 來搜尋 Flickr 上採創用 CC 授權的圖片&lt;/li&gt;
+	&lt;li&gt;用 ImageStamper 來存證圖片授權資訊&lt;/li&gt;
+	&lt;li&gt;用 Inkscape 將圖片包裝成 SVG，並嵌入創用 CC 授權數位標籤&lt;/li&gt;
+	&lt;li&gt;到 ccMixter、Revver、StreetVoice、Internet Archive 尋找採創用 CC 授權的其他影音素材&lt;/li&gt;
+	&lt;li&gt;用 SMIL 來整合多媒體素材並標記授權資訊&lt;/li&gt;
+	&lt;li&gt;用 OOXML 或 XMP 來幫文件檔案標記授權資訊&lt;/li&gt;
+	&lt;li&gt;使用採創用 CC 授權的素材來設計原型及最終的網頁&lt;/li&gt;
+	&lt;li&gt;善用現成的網頁服務來製作使用創用 CC 素材的網站&lt;/li&gt;
+	&lt;li&gt;使用微格與 RDF 格式來標記網頁上的創用 CC 資訊&lt;/li&gt;
+	&lt;li&gt;使用專門的頁面來說明各素材的授權資訊&lt;/li&gt;
+	&lt;li&gt;利用 FeedBurner 在網頁源料中加入創用 CC 授權資訊&lt;/li&gt;
+	&lt;li&gt;使用採創用 CC 授權的網頁設計框架來製作網頁&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;由此我們可以看出，創用 CC 已經悄悄地進入網頁設計的各個環節，從素材、框架到內容交換格式，處處都有創用 CC；但是目前對媒體素材的利用上，祇有圖片的部分較為成熟，其他媒體素材則不論是要搜尋還是要存證授權資訊，能利用的資源都較少，文件檔案格式所採用的 OOXML 或 XMP 等則更是少為普羅民眾所知。更重要的是，我們目前仍然缺少便於蒐集、整理各種素材的工具。&lt;/p&gt;
+
+&lt;p&gt;至於要在網頁上標示內容或素材的授權資訊，則有多種方法：在原始碼中標示、使用 RDF 格式數位標籤、運用微格、另做專用網頁等，這些方法並不互斥，甚至適於搭配混用；但另一方面也顯示了網頁編輯工具對此還沒有足夠的重視，這也是未來軟體開發者所應該使力的地方。&lt;/p&gt;
+
+&lt;p&gt;拉拉雜雜地講了一大堆東西，希望對於終日與網頁設計奮鬥的朋友們有所幫助，也更希望未來能有更強大好用的套件來處理這些細節，讓人們不用再辛苦地東拼西湊。&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;/p&gt;
+
+&lt;p&gt;*22 Movable Type: &lt;a class=&quot;newpage&quot; href=&quot;http://movabletype.org/&quot;&gt;http://movabletype.org/&lt;/a&gt;&lt;br /&gt;
+*23 MediaWiki: &lt;a class=&quot;newpage&quot; href=&quot;http://www.mediawiki.org/&quot;&gt;http://www.mediawiki.org&lt;/a&gt;&lt;br /&gt;
+*24 TypePad: &lt;a class=&quot;newpage&quot; href=&quot;http://typepad.com/&quot;&gt;http://typepad.com/&lt;/a&gt;&lt;br /&gt;
+*25 Wikia: &lt;a class=&quot;newpage&quot; href=&quot;http://wikia.com/&quot;&gt;http://wikia.com/&lt;/a&gt;&lt;br /&gt;
+*26 snapGallery: &lt;a class=&quot;newpage&quot; href=&quot;http://www.onfocus.com/snap/&quot;&gt;http://www.onfocus.com/snap/&lt;/a&gt;&lt;br /&gt;
+*27 Microformats rel-license: &lt;a class=&quot;newpage&quot; href=&quot;http://microformats.org/wiki/rel-license&quot;&gt;http://microformats.org/wiki/rel-license&lt;/a&gt;&lt;br /&gt;
+*28 MozCC: &lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/MozCC&quot;&gt;http://wiki.creativecommons.org/MozCC&lt;/a&gt;&lt;br /&gt;
+*29 BlueOrganiser: &lt;a class=&quot;newpage&quot; href=&quot;http://www.adaptiveblue.com/&quot;&gt;http://www.adaptiveblue.com/&lt;/a&gt;&lt;br /&gt;
+*30 Operator: &lt;a class=&quot;newpage&quot; href=&quot;https://addons.mozilla.org/firefox/4106/&quot;&gt;https://addons.mozilla.org/firefox/4106/&lt;/a&gt;(連結失效)&lt;br /&gt;
+*31 Tails Export: &lt;a class=&quot;newpage&quot; href=&quot;https://addons.mozilla.org/firefox/2240/&quot;&gt;https://addons.mozilla.org/firefox/2240/&lt;/a&gt;(連結失效)&lt;br /&gt;
+*32 Firefox: &lt;a class=&quot;newpage&quot; href=&quot;http://moztw.org/firefox/&quot;&gt;http://moztw.org/firefox/&lt;/a&gt;&lt;br /&gt;
+*33 Songbird: &lt;a class=&quot;newpage&quot; href=&quot;http://songbird.com/&quot;&gt;http://songbird.com/&lt;/a&gt;&lt;br /&gt;
+*34 FeedBurner: &lt;a class=&quot;newpage&quot; href=&quot;http://www.feedburner.com/&quot;&gt;http://www.feedburner.com/&lt;/a&gt;&lt;br /&gt;
+*35 Mollio: &lt;a class=&quot;newpage&quot; href=&quot;http://www.mollio.org/&quot;&gt;http://www.mollio.org/&lt;/a&gt;&lt;br /&gt;
+*36 YUI: &lt;a class=&quot;newpage&quot; href=&quot;http://developer.yahoo.com/yui/&quot;&gt;http://developer.yahoo.com/yui/&lt;/a&gt;&lt;br /&gt;
+*37 創用 CC BSD 授權: &lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/BSD/deed.zh_TW&quot;&gt;http://creativecommons.org/licenses/BSD/deed.zh_TW&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 05 Dec 2008 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">394 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/394#comments</comments>
+</item>
+<item>
+ <title>創用 CC 網頁多媒體編撰套件（中）</title>
+ <link>https://creativecommons.tw/in-depth/392</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林克寰&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;許多人在網頁上要使用採 CC 授權的圖片時，會因為不知道如何標示姓名而感到困惑──這裡說的不是「按作者指定的方式來標示姓名」的那個問題，而是用了一堆圖片時，這些標示要放在哪裡的問題。如果執著於一定要標示在圖片旁邊，很容易會破壞畫面美觀，讓許多設計師卻步；事實上可以比照一般編排書籍的辦法，另外做一個網頁（或併入「版權宣告」之類的網頁中），詳載網站內各網頁所有使用過的圖片縮圖、作者、原始出處網址、授權方式等資訊，然後祇要確保每一個網頁都能清楚容易地連到這個清單網頁即可。&lt;/p&gt;
+
+&lt;p&gt;除了這種方式之外，另外還有一種進階的標記方式：把點陣圖檔包進 SVG（*9）格式的圖檔中再使用。因為 SVG 是一種運用 XML 的圖形格式，而且可以在詮釋資料中嵌入創用 CC 授權的數位標籤，所以這麼一來就能夠在不動到原始檔案、不需要另外在網頁上標記的前提下，表達圖片的授權資訊、作者資訊等。如果你打算這麼做，那麼務必要試試看 Inkscape（*10）這套 SVG 編輯工具，它內建了創用 CC 授權的詮釋資料選項，而且還是一套在各平台、各語系都有得用的自由軟體。&lt;/p&gt;
+
+&lt;p&gt;網頁上往往不會祇有圖片，還會有其他的多媒體內容，例如聲音、音樂、動畫、影像等，這些媒體也會有其匯聚之處，像是 Revver（*11）上所有的影片，都是採用創用 CC 姓名標示─非商業性─禁止改作 2.5 版授權條款釋出，ccMixter（*12）上有大量採創用 CC 授權釋出的音樂、樂段、取樣，StreetVoice（*13）也有許多華文的影音串流採創用 CC 授權釋出，Internet Archive（*14）更是匯集了許多採公眾授權（也包括了創用 CC 授權）釋出的多媒體素材。&lt;/p&gt;
+
+&lt;p&gt;這些媒體內容都比圖片來得複雜，包括牽涉到的技術、使用方式、作者姓名與授權方式的標示等皆然。要在網頁上使用這些採創用 CC 授權的內容時，可以如圖片般另外表列這些素材的作者及授權資訊，也可以在編輯這些素材時加入聲音或畫面來說明（如果原本的作者並未加上這些標記，或者僅取用部分內容），另外也可以用 SMIL（*15）來標記 ── SMIL 也是一種 XML 檔案，也一樣可以嵌入創用 CC 的數位標籤。用 SVG 或 SMIL 的手法，好處是不會動到原始的數位檔案，保留日後再行邊修的彈性；但是缺點則是並非所有的瀏覽器都能 100％支援所有的功能，所以採用這個解決方案前，得要先評估考量一番。&lt;/p&gt;
+
+&lt;p&gt;這些多媒體素材併用時，還要考慮不同授權方式之間是否相容。授權條款之間的相容性及可互通性，一直都是創用 CC 努力的方向之一；除了創用 CC 本身提供的授權條款皆具有可互通性外，創用 CC 也致力於跟其他常見的授權方式如 GPL、GFDL、BSD 等的可互通性。使用創用 CC 授權條款的好處之一，即是未來將可望與更多採不同授權方式的內容互通（雖然此刻還沒有實現這個夢想）。&lt;/p&gt;
+
+&lt;p&gt;台灣創用 CC 計畫提供了一個授權相容性精靈（*16），能夠幫你檢查各種授權之間是否相容，以及用這些素材製做出來的網頁還可以採用哪些授權方式釋出。創用 CC 把「授權」這件事與一般人拉近了，因此我們更應該要正視「授權」這件事；也許未來哪一天，編輯網頁的開發環境，可以把搜尋、管理多媒體素材的功能也納入其中，而且還能依據預期的授權方式，來篩選可用的素材。&lt;/p&gt;
+
+&lt;p&gt;近來有些網頁還有一種做法，就是直接提供文件檔案（例如微軟 Word 的 .doc 格式、Adobe 的 PDF 格式等）讓使用者下載，這些檔案因此成了網頁的延伸。網頁本身可以嵌入創用 CC 授權的數位標籤，那麼這些檔案可以嗎？&lt;/p&gt;
+
+&lt;p&gt;微軟自己替 Office 2003 及 Office 2007 分別提供了一個叫「Creative Commons Add-in for Microsoft Office（*17）」的外掛模組，標示授權資訊時，同時也會用 OOXML（*18）嵌入相對應的數位標籤。Adobe 則是採用 XMP（*19）來處理這些詮釋資料，也可以用創用 CC 網站上提供的 XMP 模版，加入相對應的創用 CC 授權數位標籤。&lt;/p&gt;
+
+&lt;p&gt;與 XMP 的處理工具都還不多，不過還是有像 Proud Hill MetaGrove（*20）這種商業的 XMP 輔佐編撰管理工具；另外 Adobe 自己也釋出了 XMP 開發套件（*21），所以未來也應該會出現更多 XMP 處理工具。&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;/p&gt;
+
+&lt;p&gt;*8 ccMixter &lt;a class=&quot;newpage&quot; href=&quot;http://ccmixter.org/&quot;&gt;http://ccmixter.org/&lt;/a&gt;&lt;br /&gt;
+*9 SVG: &lt;a class=&quot;newpage&quot; href=&quot;http://www.w3.org/Graphics/SVG/&quot;&gt;http://www.w3.org/Graphics/SVG/&lt;/a&gt;&lt;br /&gt;
+*10 Inkscape: &lt;a class=&quot;newpage&quot; href=&quot;http://inkscape.org/&quot;&gt;http://inkscape.org/&lt;/a&gt;&lt;br /&gt;
+*11 Revver: &lt;a class=&quot;newpage&quot; href=&quot;http://revver.com/&quot;&gt;http://revver.com/&lt;/a&gt;&lt;br /&gt;
+*12 ccMixter: &lt;a class=&quot;newpage&quot; href=&quot;http://ccmixter.org/&quot;&gt;http://ccmixter.org/&lt;/a&gt;&lt;br /&gt;
+*13 StreetVoice: &lt;a class=&quot;newpage&quot; href=&quot;http;//streetvoice.com/&quot;&gt;http;//streetvoice.com/&lt;/a&gt;&lt;br /&gt;
+*14 Internet Archive: &lt;a class=&quot;newpage&quot; href=&quot;http://archive.org/&quot;&gt;http://archive.org/&lt;/a&gt;&lt;br /&gt;
+*15 SMIL: &lt;a class=&quot;newpage&quot; href=&quot;http://www.w3.org/AudioVideo/&quot;&gt;http://www.w3.org/AudioVideo/&lt;/a&gt;&lt;br /&gt;
+*16 創用 CC 授權相容精靈: &lt;a href=&quot;http://creativecommons.org.tw/licwiz/&quot;&gt;http://creativecommons.org.tw/licwiz/&lt;/a&gt;(連結失效)&lt;br /&gt;
+*17 Creative Commons Add-in for Microsoft Office 2007:&lt;br /&gt;
+&lt;a class=&quot;newpage&quot; href=&quot;http://www.microsoft.com/downloads/details.aspx?FamilyId=D1DDBDC8-627F&quot;&gt;http://www.microsoft.com/downloads/details.aspx?FamilyId=D1DDBDC8-627F&lt;/a&gt;&lt;br /&gt;
+*18 Office Open XML: &lt;a class=&quot;newpage&quot; href=&quot;http://msdn.microsoft.com/en-us/library/aa338205.aspx&quot;&gt;http://msdn.microsoft.com/en-us/library/aa338205.aspx&lt;/a&gt;&lt;br /&gt;
+*19 XMP: &lt;a class=&quot;newpage&quot; href=&quot;http://www.adobe.com/products/xmp/&quot;&gt;http://www.adobe.com/products/xmp/&lt;/a&gt;&lt;br /&gt;
+*20 Proud Hill MetaGrove: &lt;a class=&quot;newpage&quot; href=&quot;http://www.poundhillsoftware.net/&quot;&gt;http://www.poundhillsoftware.net/&lt;/a&gt;&lt;br /&gt;
+*21 Adobe XMP Toolkit: &lt;a class=&quot;newpage&quot; href=&quot;http://www.adobe.com/devnet/xmp/&quot;&gt;http://www.adobe.com/devnet/xmp/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 07 Nov 2008 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">392 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/392#comments</comments>
+</item>
+<item>
+ <title>創用 CC 網頁多媒體編撰套件（上）</title>
+ <link>https://creativecommons.tw/in-depth/390</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林克寰&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;相信本報的讀者，對於創用 CC 的特性已經有了基本的了解，知道創用 CC 要在僵化的智慧財產權市場上添加彈性，給予創作者更多的選擇，同時要讓各種複雜的授權方式變得簡單易懂、可彼此搭配混用，因此以現行的著作權法為基礎，規劃了一系列的授權方式，每一種授權方式同時提供法律條款、授權標章、數位標籤，讓任何法院、任何人、各種應用程式都能輕易明白數位內容所採用的授權方式。&lt;/p&gt;
+
+&lt;p&gt;上面這段文字，背後的理念與細節絕非三言兩語可以講完；台灣創用 CC 計畫多年推動下來，累積了不少文件教學，想更深入了解這些理論背景，可以多加利用。然而，對於實務工作的朋友們來說，或許更關心的是要如何把「創用 CC」放進自己的設計流程或工作流程當中 ── 確實創用 CC 的網站上提供了許多的工具與資源，但是這些東西零零散散的，要怎麼整合在一起呢？&lt;/p&gt;
+
+&lt;p&gt;許多設計領域當中，都有不少開發套件或整合開發環境，協助開發者或設計者在同一個環境中，完成所有（或主要）的工作；創用 CC 在這個領域當中還相當年輕，並沒有任何一個完整的開發套件，能夠兼顧設計流程與創用 CC 的需求。但是把創用 CC 帶進設計流程確實可行，本文即要以「網頁設計」為例，試圖拼湊各種既有的資源，讓從事網頁設計的讀者們看看這件事可以怎麼來達成，也提供有志之士未來開發工具軟體的參考。&lt;/p&gt;
+
+&lt;p&gt;做一個網頁，尤其是做一個多媒體網頁，通常會有幾個階段：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;設計原型：設計整個網頁的原型（Prototype）與框架，包括了概念、質感、整體風格等。&lt;/li&gt;
+	&lt;li&gt;取用素材：挑選可能適用的現成多媒體素材，這部份還包括了素材的管理。&lt;/li&gt;
+	&lt;li&gt;創作內容：製作原創的多媒體內容，以及修改、混搭適用的現成多媒體素材。&lt;/li&gt;
+	&lt;li&gt;製作成品：利用素材（不論是現成的或是自創的），按照原型的發展，製作出最後的網頁。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;這四個階段並不是切得一乾二淨，而是彼此間會有重疊、往返，不過大致上還是可以這樣來區分。在設計原型的階段當中，主要產出的都會是內部文件，不會公開出來，照理說幾乎可以不用考慮智慧財產權的問題；不過在這個階段中，你很有可能會用氛圍板（Mood Board）來說明網站的預期質感與風格，而氛圍板上的素材，也有可能沿用到後期的設計流程當中，或者是你的案主／關係人會很在意網站原型上的各種視覺元素，認為這些視覺元素會出現在最終的網站成品上……在這些情況下，一開始就處理好素材的智慧財產權，會比事後再來釐清要更事半功倍。&lt;/p&gt;
+
+&lt;p&gt;取用素材則是設計師的必修課了。每個設計師手上都一定有個網站清單，這些網站會提供預先經過授權的各種圖片，讓設計師可以拿去用於商業用途，例如做網頁。有些圖庫網站要繳費纔能使用（月費或以圖片張數計算），好處是圖片素質跟風格會比較一致，另外有些免費的圖庫網站，良莠則不大一定。&lt;/p&gt;
+
+&lt;p&gt;近年來隨著 Flickr等相簿網站的興起，也有很多商業圖形應用，會從這些相簿網站尋找；不論是做書、做廣告宣傳文案、做網頁，都已經有不少使用 Flickr 的實例。你可能已經知道 Flickr 內建了創用 CC 授權機制，讓圖片作者能夠選擇圖片的授權方式，也讓你能夠從進階搜尋指定某些創用 CC 授權方式，篩選出更能自由運用的圖片；但是你可能不知道，除了 Flickr 本身以外，還有許多網站，能夠幫助你尋覓 Flickr 上的圖片。&lt;/p&gt;
+
+&lt;p&gt;flickrCC是個專門搜尋採創用 CC 授權的 Flickr 圖片的網站，省下了每次要按「進階搜尋」的麻煩，另外還直接內建簡單的圖片編輯工具，讓你可以線上處理圖片，單鍵加入姓名標示，或把圖片傳進 Picnik這個線上圖片編修服務。&lt;/p&gt;
+
+&lt;p&gt;由於多數採創用 CC 授權的圖片都要求姓名標示，意味著你得記得每一張圖片的出處網址、作者姓名字號、授權方式等資訊。想像一下你有一個資料夾，裝著幾百張 Flickr 抓下來的圖檔，你要怎麼知道某一張圖片的作者、出處、授權方式？以前你可能得要另外弄個資料庫、試算表或文字檔，來紀錄每一個圖檔（檔名）跟他的對應資訊；現在 flickrCC 讓你可以單鍵把這些資訊放進圖檔，做成圖片的一部分（附加在原本的圖片外圍，所以不會有字蓋到圖），從此再也不會有這種煩惱了。&lt;/p&gt;
+
+&lt;p&gt;有個叫 Behold的網站，也能搜尋採創用 CC 授權的 Flickr 圖片。但是這個搜尋網站跟其他 Flickr 圖片搜尋方式最大的不同之處，在於它實做了 Alexei Yavlinsky 博士論文中的「自動圖片註記」技術，亦即 Behold 能夠辨識出圖片的內容，而不用仰賴 Flickr 的標籤（tag）系統。藉由這樣的技術，Behold 可以更精確地找出你所需要的圖片。&lt;/p&gt;
+
+&lt;p&gt;Behold 也搭配了 ImageStamper，來增強創用 CC 的使用。ImageStamper 是一個「公正第三方」的網頁服務，當有人貼上一個 Flickr （或其他線上藝廊的）網址時，它就會紀錄那張圖片的縮圖、作者、原始網址、（創用 CC）授權方式，並加上這筆紀錄的時間戳印，如此一來就可證明你使用這張圖片的時候，確實是採用何種授權方式；這個網站還可以用來讓圖片作者證明，自己是最早把圖片發表到網路上的人，以證實自己是原始作者，並且可以紀錄每次的授權方式變更。&lt;/p&gt;
+
+&lt;p&gt;除了用圖片實際內容來搜尋外，Flickr Color Selectr還提供了一種很不一樣的搜尋方式：用色彩。這個搜尋引擎一樣是鎖定 Flickr 上面採創用 CC 授權的圖片，但是搜尋圖片時並不輸入任何關鍵字、詞，而是從色盤當中挑選一個色彩，接著 Flickr Color Selectr 就會找出色調與指定色彩相符的圖片。色調往往左右著氛圍，因此這種搜尋方式，對於網頁的視覺設計來說，著實好用。&lt;/p&gt;
+
+&lt;p&gt;還有一個叫 Compfight的搜尋網站，也是用來搜尋 Flickr 圖片的。這個網站當中，除了一樣可以搜尋採創用 CC 授權的圖片外，也可以標示出有提供「原始尺寸」的圖片；如果你需要高解析度的圖片，這項功能將會非常有用。&lt;/p&gt;
+
+&lt;p&gt;這些 Flickr 搜尋引擎各有特色，Behold 與 Flickr Color Selectr 的獨特搜尋方式、Compfight 標示出提供「原始尺寸」的圖片、flickrCC 的線上編輯圖片功能、ImageStamper 的授權紀錄公正第三方服務，如果能夠整合在一起，然後搭配本機檔案管理，通通做進網頁編輯套件當中，那就太好了；目前這個夢想還沒有實現，技術上卻是可能的。（待續）&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 03 Oct 2008 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">390 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/390#comments</comments>
+</item>
+<item>
+ <title>雷席格的CC每週通信（十一）：介紹各種CC工具</title>
+ <link>https://creativecommons.tw/in-depth/74</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jedi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;勞倫斯．雷席格（Lawrence Lessig）著，2005年12月14日&lt;/p&gt;
+
+&lt;p&gt;CC提供各種「code」，以給予創作者一項能力──亦即能在創作內容上標註他們希望作品能帶有哪些自由。這裡英文的「code」有兩種意思──一種是法律性的條款（legal code，亦即授權條款，也就是license），以及技術性的程式碼（software）。我在前幾次通信中花了很多時間介紹法律性的條款。不過大多數人都不知道我們也寫程式，雖然呢，在我看來，那些程式其實是我們做得最棒的事情之一。&lt;/p&gt;
+
+&lt;p&gt;不過首先，我們得先弄清楚寫程式的目的。我們只是個規模不大的非營利組織（nonprofit）。我們不可能進入軟體業來建立並維護程式碼。所以我們的程式計劃乃是採取在此情況下最有可能的方式來進行──亦即我們將程式計劃用自由軟體授權方式散播（我們採用的是GPL），努力支持程式計劃，然後希望最終這些程式都能擁有自己的生命。至於要推動哪些程式計劃，則是看我們希望能公開提供哪些功能。如果我們播的種，能在別人那邊變成百萬美金的大事業，那我們可是再高興不過了。&lt;/p&gt;
+
+&lt;p&gt;我們寫的程式──都是一些工具，這些工具有的，舉例來說，讓&lt;a class=&quot;newpage&quot; href=&quot;http://www.flickr.com/&quot;&gt;flickr&lt;/a&gt; 這樣的相簿共享網站，可以把我們的授權條款引擎，整合進他們自家的平台上；&lt;a class=&quot;newpage&quot; href=&quot;http://yergler.net/projects/mozcc/&quot;&gt;有的則是像這個很厲害的Mozilla系列瀏覽器（包括FireFox）的外掛（plug-in）&lt;/a&gt;，讓你可以輕易瀏覽網頁的授權資訊，還會在瀏覽器視窗底下顯示一個小圖示。&lt;/p&gt;
+
+&lt;p&gt;另外呢，我們還寫了一些較不為人知的程式，這些是為了讓網路上的內容重混（remix）變得更容易而做的。&lt;/p&gt;
+
+&lt;p&gt;最簡單而且最容易明瞭的例子，當然要屬&lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/CcPublisher&quot;&gt;ccPublisher&lt;/a&gt; 了。ccPublisher是一個桌面應用程式，讓人們可以很容易地將他們的創作──在標上了CC授權條款之後──放到網路上。一旦你安裝好這個程式，你就可以輕鬆地把檔案拖到ccPublisher裡面。這個程式會帶出一道程序，首先會要你指定一個用在著作上的CC授權條款，然後程式便將檔案上傳到伺服器上。&lt;/p&gt;
+
+&lt;p&gt;目前程式所設定的伺服器是Internet Archive。網路英雄布魯斯特．卡利（Brewster Kahle）承諾為任何將著作內容以CC授權條款公開的人，永遠提供免費的儲存空間及頻寬。所以透過Internet Archive，你可以為你的著作找到一塊永遠的家，同時還有一個URL連結，可以告訴別人去哪下載你的作品。只要三個步驟，你的作品──不管多大、不管多難遞送──就可以讓所有人取用了，而且是永遠可以的。&lt;/p&gt;
+
+&lt;p&gt;我們還寫了一個&lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/CcLookup&quot;&gt;簡單的檢查程式&lt;/a&gt;（validator），讓大家可用來檢查標有CC授權的MP3檔案。一個MP3檔案裡所嵌入的授權，只有在檔案同時提供一個正確連回網站的連結時，才能被檢查程式認定是正確的。這個工具讓你可以驗證這個連回去的連結，好讓你真的可以相信說這個MP3檔案確實是照檔案上所說的方式授權的。&lt;/p&gt;
+
+&lt;p&gt;不過呢，到目前為止，我們寫過最酷的作品，是受到一群MIT大學部學生的啟發，並且是在傑出的音樂人兼程式設計者維克多．史東（Victor Stone）的協助下完成的。這程式叫作 ccMixter。&lt;/p&gt;
+
+&lt;p&gt;ccMixter 是某種類似「Friendster」那樣的交友網站，只是是以音樂作為交流的基礎（而且沒有像「Friendster」那樣是商業公司的服務）。你將你的音軌放上來，其他人重混（remix）你的音軌，而系統則記錄有哪些重混。所以你找ccMixter上的任何一首歌，都可以看到這首歌是由哪些其他曲子重混而成的（如果有使用重混的話），以及哪一首歌重混的那一首歌（如果有被重混的話）。使用者可以為歌曲評分、下載歌曲、使用串流播放（streaming），或是將作品用音樂訂閱播出（podcast）的方式散播。&lt;/p&gt;
+
+&lt;p&gt;這個服務的概念，是建立一個協同創作的技術平台，技術平台建立在協同合作的法律平台上（亦即CC的各種授權條款）。 ccMixter 最初放的是 Wired CD 的16首歌，包括了吉爾貝托．吉爾（Gilberto Gil）、野獸男孩（Beastie Boys）、大衛布爾恩（David Bryne）、Chukd D等人的創作。現在該網站上已經有超過1,600首曲子了。&lt;/p&gt;
+
+&lt;p&gt;我最喜歡的 ccMixter 故事，是一個代名「Minus Kelvin」的歌手。「Minus Kelvin」是一位高中物理老師。他於2005年二月加入了 ccMixter 。他在他的個人資料上寫說他想要找「一家唱片公司」。六月的時候，「Minus Kelvin」跟一家唱片公司簽了約，這家公司是透過 ccMixter 發現了他。雖然世界上只有一位「Minus Kelvin」，但是 ccMixter 上有越來越多像他這樣的經歷。&lt;/p&gt;
+
+&lt;p&gt;我們預期為 ccMixter 提供主機一陣子。我們未來會將該網站移植變為國際性的網站，以支持iCommons計劃，同時讓該服務能在教育領域起作用。不過我們的夢想呢，就是希望有人能將程式拿去，將之拿來營運一個有上萬創作者使用、彼此使用對方作品創作新東西的網站。在此同時，請參觀&lt;a class=&quot;newpage&quot; href=&quot;http://ccMixter.org&quot;&gt;http://ccMixter.org&lt;/a&gt;。並請&lt;a class=&quot;newpage&quot; href=&quot;https://support.creativecommons.org/&quot;&gt;支持我們的工作&lt;/a&gt;，好讓該網站能更加廣為流傳。&lt;/p&gt;
+
+&lt;p&gt;在下一次的通信裡，我將說明我們其他的新計劃。再下一次，就是這一系列的最後一篇了。&lt;/p&gt;
+
+&lt;p&gt;在本次通信結束前，我想要為前兩次通信的內容做個更正。從我收到的迴響看來，我想表達的意思並不是很清楚。&lt;/p&gt;
+
+&lt;p&gt;首先，在&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.tw/betacc/in-depth/73&quot;&gt;上一次通信&lt;/a&gt;裡，我提到了在「自由」軟體運動與「開放原始碼」軟體運動之間的爭鬥，我說，「對一些人來說，這是一場相信理念價值的陣營與相信現實原則（pragmatism）陣營的爭鬥」。至於到底誰是那「一些人」，則不是很清楚。就我的經驗，推動開放原始碼運動的人，是我所認識最有理念與原則的一群人。但是「有些人」認為那是一場爭鬥，而就我看來，真正爭的是兩種價值願景。&lt;/p&gt;
+
+&lt;p&gt;另外，在&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.tw/betacc/in-depth/65&quot;&gt;第二次通信&lt;/a&gt;裡，我提到了「我們認為，這樣的設計，會和自由軟體運動相似，讓創造力能有一塊空間，不致受到著作權的太多束縛。但我們和自由軟體運動不同的是，我們的目標並不在去除『私有財產的文化』，而在自由軟體運動裡，起碼有一部份的人是希望除去私有軟體的」。有些人將這段話解讀為，我認為自由軟體運動想要鏟除「私有財產的文化」。我的意思不是這樣。我單純只是想說，雖然自由軟體運動有很多推動人士，都希望能有一個沒有私有軟體的世界，自由文化運動的推動者們並不企求一個沒有私有財產文化的世界。&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+http://ccMixter.org連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 24 Feb 2006 05:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">74 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/74#comments</comments>
+</item>
+<item>
+ <title>ccHost 與新的 CC 網站服務</title>
+ <link>https://creativecommons.tw/blog/20050902</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jedi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;就在不久前，有一套叫&lt;a href=&quot;http://wiki.creativecommons.org/Wiki/CcHost&quot;&gt;ccHost&lt;/a&gt;的程式採 GPL 釋出了第一個&lt;a href=&quot;http://sourceforge.net/projects/cctools/files/ccHost/&quot;&gt;穩定版本&lt;/a&gt;。這套系統相當有意思，他其實是一個架站的套件，可以讓你在自己的伺服器上架設一個「音樂藝廊」（就跟相簿很像，只不過陳列的是音樂而不是圖片），而這個音樂藝廊不僅支援 Creative Commons 授權機制，更棒的是，他還可以追蹤重混作品 (Remix) 所採用的原始著作。這部份的機制大致上是這樣運作的：&lt;/p&gt;
+
+&lt;p&gt;假設在音樂藝廊上有一首採用取樣授權條款的音樂叫 Music A ，有人將這首音樂下載並重新取樣混出另一首音樂 Music B ，並且把 Music B 上傳回音樂藝廊，那麼經過妥善的標示後，其他人在音樂藝廊中，就可以看到 Music B 乃是由 Music A 改作而來的。&lt;/p&gt;
+
+&lt;p&gt;CC Taiwan 的技術組同仁正在檢視這套系統，評估看看我們需不需要或能不能對他做點甚麼，不過有興趣的人現在就可以先下載回去玩玩看了。&lt;/p&gt;
+
+&lt;p&gt;目前已經採用這套 ccHost 架設的站台有：&lt;a href=&quot;http://ccmixter.org/&quot;&gt;ccMixter&lt;/a&gt;和&lt;a href=&quot;http://www.opensourcecinema.com/cchost&quot;&gt;Open Source Cinema&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;另外，也是蠻新的消息，就是&lt;a href=&quot;http://api.creativecommons.org/docs/&quot;&gt;CC 網站服務&lt;/a&gt;最近&lt;a href=&quot;http://api.creativecommons.org/docs/readme_15.html&quot;&gt;推出了 1.5 版&lt;/a&gt;，這一版主要的差異是加強了各種語言的在地化能力。&lt;/p&gt;
+
+&lt;p&gt;同樣地， CC Taiwan 的技術組同仁也已經在審視這項新釋出的服務了，我們應該在近期內就會釋出新版的&lt;a href=&quot;http://wiki.creativecommons.org/Wiki/Developer/AjaxChooser&quot;&gt;AjaxChooser&lt;/a&gt;(連結失效)，讓它能正確處理 CC 網站服務所傳回的中文字串。&lt;/p&gt;
+
+&lt;p&gt;當然，如果您已經摸過上述這些系統，而有了一些心得的話，也很歡迎來跟我們討論。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 02 Sep 2005 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">60 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20050902#comments</comments>
+</item>
+</channel>
+</rss>

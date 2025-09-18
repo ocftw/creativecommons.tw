@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - legal</title>
+ <link>https://creativecommons.tw/taxonomy/term/3214</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Great Minds v. Fedex Office and Print Services, INC. - CC授權司法爭議系列（二）</title>
+ <link>https://creativecommons.tw/blog/20161020</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/20161020.png?itok=S3tG13K1&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://creativecommons.org/wp-content/uploads/2016/08/CC-EDNY-Letter.pdf&quot; target=&quot;_blank&quot;&gt;CC EDNY Letter&lt;/a&gt; for Great Minds v. Fedex Office and Print Services, INC.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Creative Commons 四大元素裡的「非商業性 (NonCommercial)」，指的基本原則是，使用該 CC授權作品的利用目的，不能直接涉及商業牟利。進一步引用創用CC 姓名標示─非商業性 3.0 台灣授權條款裡的法律文字是：「您不得以主要為獲取商業利益或私人金錢報酬的方式，行使依本授權條款第 3 條所授與之權利。(You may not exercise any of the rights granted to You in Section 3 above in any manner that is primarily intended for or directed toward commercial advantage or private monetary compensation.)」所以最淺顯直白的判準，就是「行為互動之間有金錢對價關係者，會被定義為商業行為，反之、若是行為互動之間未必有金錢對價關係者，則有可能逸脫商業行為的範圍。」也就是說，金錢利益的交換與 CC素材的提供之間，若有嚴格的互易性，則該互易關係便為商業行為，反之，則留有相當的解釋空間。然而，所謂「獲取商業利益或私人報酬的方式」，實在日新月異，目前許多網路服務已經逸脫直接對價收費的模式，取而代之是廣告費的收益、點擊率分紅式的收益，故前列條款在極端狀況下，仍然無法清楚定義所有商業行為的份際與範圍。&lt;/p&gt;
+
+&lt;p&gt;因應於此，CC總部於 2009 年間，針對 CC授權條款的使用者對於非商業性的認知做了問卷調查，並依調查結果，完成了 Defining “Noncommercial”: A Study of How the Online Population Understands “Noncommercial Use”（定義非商業性 - 對線上群眾非商業性認知之研究）這份統計報告，透過這份報告的閱覽，將可以了解在不同的使用情境下，有多少比例的 CC授權條款使用者，會偏向認定該情境是商業使用，又多少比例使用者不認為該情境是商業使用，例如使用 CC授權素材建置網站並透過該網站收取廣告利益，綜合約 89％ 的受試者認為這是商業性使用 CC素材，而若該廣告收益僅是為了支應該網站網域和託管空間的租用費用，86％ 的受試者仍然認為這是商業性使用。而 CC總部之所以費時去籌劃這份問卷及其分析，主要是著眼於 CC授權模式是為眾人所利用，其商業性、非商業性的界限，相當程度也必須尊重使用的群眾，所以實作這份問卷來「探求多數使用者真意之表示」。故理論上來說，依照該份報告的分析，就多數使用者皆認為屬於商業行為的情境下，避免使用具非商業性元素的 CC素材，當可以大幅度降低未來產生法律爭議的風險。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【Great Minds v. Fedex Office and Print Services, INC. 的爭議要點】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;然而，就像多數使用者並不會考究 CC授權法律條款的細項一般，即使有了這份研究報告，也不代表所有 CC授權素材的提供者，也都會全然揚棄自己主觀的解讀和見解。在 2016 年 3 月份，Great Minds 這家營運於美國的中小學教科書 (K-12 curriculum) 編撰公司，在美國紐約東區聯邦地區法院 (United States District Court for the Eastern District of New York) 狀告 Fedex 公司及其印刷部門，因為據 Great Minds 進行的調查，Fedex Office 的印刷部門長期大量協助美國境內的中小學進行 Great Minds 公開釋出教材的複印，而這些教材都是 Great Minds 採用「創用CC 姓名標示-非商業性-相同方式分享 4.0 (CC BY-NC-SA 4.0)」的模式，自主提供給公眾使用的。然而，依照 Great Minds 對非商業性元素的解讀，其認為採非商業性元素提供的素材，無論在任何一個流通環結，都不能有使用者因此獲得商業利益，故若這些採 CC BY-NC-SA 4.0 散布的教科書，完全是由學童、家長，或教師自行下載、自行複印，而後用在義務教育的課堂學程裡，Great Minds 認為這是屬於非商業性的利用；但若商業印刷及郵遞公司，大量複印、寄送這些教科書的重製品給非營利教育機構而收取費用時，Great Minds 認為這已經不屬於非商業性的利用，即使 Fedex Office 相關的複印、寄送行為，完全是依照各中小學區學校教職人員的指示或要求。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【CC總部與 CC US 積極關切本案並聲請提交法庭之友意見書】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;一般來說，CC 總部與全球合作網絡個別設立的推動組織，對於授權爭議與相關的司法訴訟，多數是採自我謙抑的角度，不會主動批判，除非是社會各界就研究或客觀數據的提供方面有所需求，才會在現狀的基礎上提供這些資訊。然而，Great Minds v. Fedex Office 一案展開後，CC 總部意識到此案發展若被誤導，後續對非商業性元素帶來的將會是嚴重的負面影響，故其已提出正式聲明，將利用美國司法法庭之友的程序，針對法院可能不能理解或疏為審視的重要爭點提出意見書 (amicus brief)。CC總部總顧問 Diane Peters 及 CC US 公眾項目主持人 Michael Carroll 亦為文指出，Great Minds 對於非商業性元素的解讀態度並不正確，依創用CC 授權條款的解釋，原權利人授權被授權人得就非商業性目的使用素材，自然包括透過僱員或與第三方締約的方式來協助利用，如禁止被授權人經由第三方的協助來進行利用，這不但於法無據，也完全沒有被記載於CC 授權條款的法律文字裡。&lt;/p&gt;
+
+&lt;p&gt;並且，如果嚴格依照 Great Minds 的狹義見解來解讀非商業性元素，那麼目前全球推行的開放教育資源生態系 (OER ecosystem) 將面臨嚴峻的挑戰，故 CC總部公開表示將嚴肅看待此案，務求在後續的司法審判程序裡，提交補充資訊與相關範例予法院評判，以讓非商業性元素的詮釋，能回到授權條款原撰的體系和脈絡來進行討論。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Defending Noncommercial Uses: Great Minds v Fedex Office: &lt;a href=&quot;https://creativecommons.org/2016/08/30/defending-noncommercial-uses-great-minds-v-fedex-office/&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/2016/08/30/defending-noncommercial-uses-great-minds-v-fedex-office/&lt;/a&gt;, 2016 Diane Peters and Michael Carroll, CC BY 4.0.&lt;/li&gt;
+	&lt;li&gt;Documents in the Great Minds v Fedex Office and Print Services Case: &lt;a href=&quot;https://creativecommons.org/documents-great-minds-v-fedex-office-and-print-services-case/&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/documents-great-minds-v-fedex-office-and-print-services-case/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Creative Commons licenses under scrutiny—what does “noncommercial” mean?: &lt;a href=&quot;http://arstechnica.com/tech-policy/2016/09/creative-commons-licenses-under-scrutiny-what-does-noncommercial-mean/&quot; target=&quot;_blank&quot;&gt;http://arstechnica.com/tech-policy/2016/09/creative-commons-licenses-under-scrutiny-what-does-noncommercial-mean/&lt;/a&gt;, 2016 DAVID KRAVETS.&lt;/li&gt;
+	&lt;li&gt;什麼叫商業性？什麼叫非商業性？：&lt;a href=&quot;http://creativecommons.tw/node/317&quot; target=&quot;_blank&quot;&gt;http://creativecommons.tw/node/317&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Defining “Noncommercial”: A Study of How the Online Population Understands “Noncommercial Use”: &lt;a href=&quot;http://mirrors.creativecommons.org/defining-noncommercial/Defining_Noncommercial_fullreport.pdf&quot; target=&quot;_blank&quot;&gt;http://mirrors.creativecommons.org/defining-noncommercial/Defining_Noncommercial_fullreport.pdf&lt;/a&gt;, 2009 Creative Commons Corporation, CC BY 3.0.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 19 Oct 2016 16:27:39 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1240 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20161020#comments</comments>
+</item>
+<item>
+ <title>Drauglis v. Kappa Map Group, LLC - CC授權司法爭議系列（一）</title>
+ <link>https://creativecommons.tw/blog/20161015</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/20161015.jpg?itok=sgbHpcrq&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The front cover and back cover of road atlases published by Kappa Map Group included the “&lt;a href=&quot;https://www.flickr.com/photos/wiredwitch/2455026301&quot; target=&quot;_blank&quot;&gt;Swain’s Lock, Montgomery Co., MD.&lt;/a&gt;” Photograph by &lt;a href=&quot;https://www.flickr.com/photos/wiredwitch/&quot; target=&quot;_blank&quot;&gt;Art Drauglis&lt;/a&gt;. Licensed under the &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/2.0/legalcode&quot; target=&quot;_blank&quot;&gt;Creative Commons Attribution-ShareAlike 2.0 Generic License&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;創用CC 授權條款在數位時代的強項，在於透過基礎幾個簡要的授權要素 (License Element)，組合成標準化的授權標章 (Common Deed)，透過這些授權標章，便能夠簡單的讓人了解，該作品是以何種模式授權利用，而雖然每一個個別的授權標章，都可以被連結到充份定義的法律條款 (Legal Code)，然不可諱言的，多數的使用者並不會時時注意、刻刻翻閱法律條款的細項，故而部份授權人或被授權人，不免憑著自己較主觀的了解來提供 CC 作品的利用，或以自己較主觀的見解來利用別人以 CC 提供的作品。故在個案上若是授權人與被授權人彼此對 CC 授權規則的認識落差太大，極端狀況下不可避免的，還是會有少數的司法爭議產生。美國哥倫比亞特區聯邦地區法院 (United States District Court for the District of Columbia) 在 2015 年承審的 Drauglis v. Kappa Map Group, LLC，證實了創用CC 授權條款在司法實務上是可被法院認可且執行的，亦是一個就姓名標示 (attribution) 與相同方式分享 (share-alike) 兩個重要元素，皆進行了司法解讀的重要判決，對未來相類狀況的判斷上，具有相當的影響力。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【Drauglis v. Kappa Map Group, LLC 的判決要點】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;承審此案的法官 Amy Berman Jackson，透過本案判決書裡做了幾項重要的裁示：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;確認創用CC 授權條款依美國法律具有可執行性；&lt;/li&gt;
+	&lt;li&gt;說明創用CC 授權裡「姓名標示」這個重要元素，依授權條款的解讀具有個案註解上的彈性；&lt;/li&gt;
+	&lt;li&gt;評判將個別照片置入道路圖集的封面，依美國著作權法應是形為一個編輯著作 (collective work)，而非衍生著作 (derivative work)；&lt;/li&gt;
+	&lt;li&gt;評判創用CC 授權裡「相同方式分享」這個元素，只有在利用人就原作產生衍生著作並進行散布時，才會發揮它的法律效果。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;【原告的訴求】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;在 2008 年 4 月份，原告 Art Drauglis 拍攝了一張 Montgomery 郡的路景照片，並採 CC BY-SA 2.0 授權將其發布於 Flickr 網路相片分享平台上，其後於 2012 年，被告 Kappa Map Group 取用了這張照片在其販售的地景圖集裡，並將該照片作為該刊圖集的封面使用。於是原告 Art Drauglis 在 2014 年將這張照片作了著作權登記，因為這是在美國進行著作權司法訴訟的前階程序，並於美國哥倫比亞特區聯邦地區法院提起訴訟，其訴求為：1、雖然 CC BY-SA 2.0 允許使用者將素材進行商業使用，但被告並沒有善盡姓名標示的義務；2、被告僅提示該照片以 CC BY-SA 2.0 提供但並未提供授權條款的連結；3、被告取用了具相同方式分享的照片，應讓整本地景圖集變成該照片的衍生著作，從而散布時全體必須採 CC BY-SA 2.0 進行提供。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【法院的評判】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;針對原告 Art Drauglis 提出的訴求，本案承審的 Amy Berman Jackson 對創用CC 授權條款逐條逐句進行了研讀和分析，並就個別訴求作出了下列裁示。&lt;/p&gt;
+
+&lt;p&gt;就原告第一個訴求，Drauglis 認為該地景圖集應該要在全書的著作權聲明頁，亦即俗稱之版權頁彰明其拍攝照片的姓名標示，但法官認為該地景圖集的作法，是就每一張獨立的照片下緣直接註稱個別的姓名標示，以該出版公司自己拍攝的照片為例，一樣是在每張照片下個別嵌入 “© Kappa Map Group, LLC” 這個標示資訊，所以這樣的作法符合 CC BY-SA 2.0 4(C) 約款對姓名標示的要求，因該約款明確表示：「對於原始著作人的表彰，可以透過任何合理的方式為之；此種對於原始著作人的表彰，至少必須出現在其他相當之作者表彰之處，並且至少以同等明顯的方式為之。」所以說，在地景圖集此種編輯性著作上，若單張照片下緣已個別註稱其姓名標示，則雖全書著作權聲明頁沒有再行標述，亦不能就認為這不是「同等明顯」之方式，畢竟，Kappa Map Group 對其自行拍攝的照片，亦是作一樣平等的處理。&lt;/p&gt;
+
+&lt;p&gt;而就原告第二個訴求，控訴被告並未做到 CC BY-SA 2.0 4(a) 約款，要求使用 CC素材必須提供該 CC授權條影本文或該授權條款的 URL 連結 (Uniform Resource Locator)。就此訴求法官指出，4(a) 約款確實要求 CC素材的使用人，應提供此類資訊，然其精確的用語是為 URI (Uniform Resource Identifier，統一資源識別元)，此一 Identifier 並沒有被限定為必須透過 URL 模式提供連結 (link)，論其要理，提供相當的統一資源名稱 (Uniform Resource Name, URN) 亦是符合授權條款的要求，所以認為 Kappa Map Group 已明確為該照片標示授權方式為 CC BY-SA 2.0，依照該版本號即可在網路上查找到精確的條款全文，故認為被告的作為已經符合 CC BY-SA 2.0 4(a) 約款的要求。&lt;/p&gt;
+
+&lt;p&gt;而就原告最後第三個訴求，認為該地景圖集在部份內容取用了 CC BY-SA 2.0 授權的照片，就應該讓整個出版品轉以 CC BY-SA 2.0 授權來進行散布。這個訴求在法律論理上最需要釐清的爭議點在於，創用CC 授權條款就衍生著作、改用著作方面的定義，基本上是與著作權法相近或相容的，而衍生與編輯關係，在創用CC 授權條款與美國著作權法的闡釋裡，都關乎原作是否在之後的呈現，創作內涵被「改作、轉換，或改用 (recast, transformed, or adapted)」，而在本案裡，承審法官認為完整的引用一張相片，讓其列入地景圖集裡成為眾多照片中的一幅，雖然被置為封面，但究其要理，原照的創作內涵並不能說已被「改作、轉換，或改用」，從而最後的成本整體並非該照片的衍生著作，而是個別單篇照片具獨立創作表現性的編輯著作。故而原告此一訴求亦缺乏法律與授權上的基礎。&lt;/p&gt;
+
+&lt;p&gt;基本上過往 CC總部的法律見解，與此案承審法官亦並無太大的衝突與差異，CC US的公眾項目主持人，美國華盛頓大學法學教授 Michael Carroll 亦為文，認同此案審理法官對前列三訴求的見解與分析。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Court Correctly Interprets Creative Commons Licenses: &lt;a href=&quot;http://us.creativecommons.org/archives/1152, 2015 Michael Carroll&quot; target=&quot;_blank&quot;&gt;http://us.creativecommons.org/archives/1152, 2015 Michael Carroll&lt;/a&gt;, CC BY 4.0.&lt;/li&gt;
+	&lt;li&gt;Drauglis v. Kappa Map Group, LLC, 128 F. Supp.3d 46 (D.D.C. 2015): &lt;a href=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/275902433-Photo-Copyright-Kappa-Decision.pdf&quot; target=&quot;_blank&quot;&gt;http://creativecommons.tw/sites/creativecommons.tw/files/275902433-Photo-Copyright-Kappa-Decision.pdf&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;創用CC 相同「授權」方式分享的擴散效力 - 兼論開源領域 Copyleft 的最新發展：&lt;a href=&quot;http://creativecommons.tw/blog/20160303&quot; target=&quot;_blank&quot;&gt;http://creativecommons.tw/blog/20160303&lt;/a&gt;，2016 林誠夏／文，CC BY-SA 3.0 TW。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 15 Oct 2016 03:05:22 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1239 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20161015#comments</comments>
+</item>
+</channel>
+</rss>

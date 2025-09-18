@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 違反創用CC</title>
+ <link>https://creativecommons.tw/category/tags/%E9%81%95%E5%8F%8D%E5%89%B5%E7%94%A8cc</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>CC&#039;s Role in the Global Commons Movement — Some Thoughts</title>
+ <link>https://creativecommons.tw/blog/20111005</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;莊庭瑞(trc)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;I had the pleasure of being on a panel with &lt;a href=&quot;http://www.dobusch.net/&quot; target=&quot;_blank&quot;&gt;Leonhard Dobusch&lt;/a&gt;, &lt;a href=&quot;http://commonsblog.de/&quot; target=&quot;_blank&quot;&gt;Silke Helfrich&lt;/a&gt;, and &lt;a href=&quot;http://www.mindspillage.org/wiki/Wikimedia_from_a_project_to_a_movement&quot; target=&quot;_blank&quot;&gt;Kat Walsh&lt;/a&gt; on &quot;CC&#039;s Role in the Global Commons Movement&quot;, moderated by &lt;a href=&quot;http://gondwanaland.com/mlog/&quot; target=&quot;_blank&quot;&gt;Mike Linksvayer&lt;/a&gt;, at the &lt;a href=&quot;http://wiki.creativecommons.org/Global_Summit_2011&quot; target=&quot;_blank&quot;&gt;CC Global Summit 2011&lt;/a&gt;. I did something I had not done before: I prepared a script to read. Here it is.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;I shall start by making a distinction between CC the organization and CC the licenses. I think this session is more about the role of Creative Commons the organization in the global commons movement. Of course, one cannot talk about CC the organization but not talking about the CC licenses. But I think it will be a useful exercise to discuss what CC the organization can still do, and shall do, when not talking about the CC licenses.&lt;/p&gt;
+
+&lt;p&gt;CC the organization has its vision in &quot;realizing the full potential of the Internet — universal access to research and education, full participation in culture&quot;. But CC the licenses are just for copyrightable works, so I think there is a gap between what CC-licensed contents can enable people to do and what people can really do when there is universal access to knowledge and culture. I think CC shall move forward to providing universal access to knowledge and culture, and I think this is what the global commons movement is about. My point is that there are tasks CC the organization can do and shall do for this &quot;universal access&quot; vision in addition to the maintenance and promotion of the CC licenses.&lt;/p&gt;
+
+&lt;p&gt;There are three areas I would like to see CC the organization to work on. The first is about clear advocacy. The second is about content trusts. The third is about live data. Let me explain.&lt;/p&gt;
+
+&lt;p&gt;Clear advocacy&lt;/p&gt;
+
+&lt;p&gt;CC the organization shall make it clear that it opposes to actions that obstruct the universal access to knowledge and culture. In particular, when people abuse the CC licenses, CC shall make it clear that it does not approve of such abuse. For example, a big company is making deals with national libraries digitizing public domain books. And these libraries agree with that big company in imposing certain restrictions to access to the digitized books. Is such a trend aligned with CC&#039;s &quot;universal access&quot; vision or not? Another example, a company running a photo hosting site has offered to mark a person&#039;s uploaded photos as CC-licensed, but the site also offers to remove CC license information when the person wants to switch to an exclusive licensing deal arranged by the company with a third-party about his/her photos. Isn&#039;t this an abuse of the CC licenses?&lt;/p&gt;
+
+&lt;p&gt;As a comparison, one can look to the Free Software Foundation which not only provides the GNU General Public Licenses, but also makes timely commentaries about software freedom. They criticizes people and companies when they do things the wrong ways. They are not afraid of making enemies. (While Creative Commons seems to have many friends.) Shall CC the organization see itself as the equivalence of the Free Software Foundation in promoting the universal access to knowledge and culture, or not?&lt;/p&gt;
+
+&lt;p&gt;Content trusts&lt;/p&gt;
+
+&lt;p&gt;We like Wikipedia and the Internet Archive. Not only their contents and services are free, we can depend on the two non-profits to always provide them for free. These are &quot;content trusts&quot;. They are managed content collections entrusted by the contributors and users so that contents in the collections will always be free. A CC-licensed work is a single object, made free by an action from an individual. A content trust, on the other hand, is maintained by a community of people with practices of sharing. CC shall work closer with existing content trusts to further advance these practices, which certainly go behind public licensing.&lt;/p&gt;
+
+&lt;p&gt;Here is just a thought. How about CC collaborating with &quot;free photo&quot; (as in &quot;free software&quot;) community in forming a photo trust? This will help reduce the risk of CC license abuse I just mentioned which is occurring now. Further, if people establish this photo trust using CC-licensed photos from existing websites, the community also gets a very good exercise in forking (and freeing) content collections.&lt;/p&gt;
+
+&lt;p&gt;Live data&lt;/p&gt;
+
+&lt;p&gt;We all know data is big today. Big data drives big business, and access to data is essential for our understanding of the world and where we are now. Some of the most interesting data is continuously produced by we the people. But we do not get to use them. Social interaction data is being collected big time and in real time. This &quot;collective social data&quot;, in my view, is a commons. But even CC0 or the Public Domain Mark do not adequately address issues relating to access to live data. Currently most usage of live data is dictated unilaterally by terms of service (ToS), and often there is not much of quality of service (QoS) to speak of.&lt;/p&gt;
+
+&lt;p&gt;So I think it is very important for CC to work with live or quasi-live data communities like the Open Street Map project to have a role in this new arena. Free access to and re-use of public sector information (PSI) is a similar area to look into, but I feel it is more urgent to learn from grassroots data communities about existing practices and emerging issues.&lt;/p&gt;
+
+&lt;p&gt;Let me conclude. I think CC the organization need to play a more active role. Make timely and clear position statements, help build content trusts, and keep up with live data issues, in my view, are three areas CC shall work on in order to have an important role in the global common movement.&lt;/p&gt;
+
+&lt;p&gt;If CC the organization only acts on maintaining and promoting the CC licenses but no much more, then one need to worry about people leaving the CC family as the organization may be seen as not working on important and emerging issues for its self-proclaimed vision. On the other hand, CC the organization has its great strength in its international network of jurisdiction project teams. These teams have been centering on the CC licenses. If CC the organization plays a more aggressive role in the commons movement, then one need to worry about what are the objectives and tasks to further align the actions of its global and diverse jurisdiction teams. These are difficult questions to ask oneself, nevertheless these questions shall now be asked.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Note (2011-10-03): The session has been captured in &lt;a href=&quot;https://blip.tv/ccpolska/cc-s-role-in-globla-commons-movement-5594412&quot; target=&quot;_blank&quot;&gt;video&lt;/a&gt; by the fabulous CC Poland team. This &lt;a href=&quot;http://www.flickr.com/photos/mlinksva/6161506293/&quot; target=&quot;_blank&quot;&gt;picture&lt;/a&gt; may not have a thousand words, but in it surely I was giving a better speech (hint: you don&#039;t want to listen to my part in the video). Thanks, Mike!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 05 Oct 2011 02:58:43 +0000</pubDate>
+ <dc:creator>trc</dc:creator>
+ <guid isPermaLink="false">554 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20111005#comments</comments>
+</item>
+<item>
+ <title>德國首次出現法院以假處分執行創用CC授權條款</title>
+ <link>https://creativecommons.tw/blog/20111003</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;盧美慈 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;德國出現首次法院以&lt;strong&gt;定暫時狀態假處分&lt;/strong&gt;&lt;a href=&quot;#_ftn1&quot;&gt;&lt;strong&gt;&lt;strong&gt;[註]&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;要求當事人實行創用CC授權條款之案件，該案件所執行者為創用CC3.0「姓名標示—相同方式分享」條款。以下將簡介本案件事實以及翻譯德國法院系爭假處分之內容，供讀者參考。&lt;/p&gt;
+
+&lt;p&gt;下圖為本案主要爭訟之授權圖片，之所以爭訟，是因為圖片使用者並未依循圖片授權者所要求之創用CC授權條款：使用者未標示圖片授權來源，亦未使用相同方式分享該圖片，更未標示創用CC授權條款。故德國法院以定暫時狀態假處分，強制圖片使用者依循該圖片之創用CC條款，本處分反映出德國司法實務對創用CC授權條款之肯定。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/300px-thilo_sarrazin030709.jpg&quot; style=&quot;display:block; height:200px; margin-left:auto; margin-right:auto; width:300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thilo Sarrazin am 3. Juli 2009 by Nina Gerlach / CC BY-SA&lt;/p&gt;
+
+&lt;p&gt;極為諷刺地，本案件之被告為德國極右派團體，拒絕對納粹主義（或其他反對黨團體）採用創用CC授權圖片之再創作，再以創用CC授權分享給他人，換言之，本案之使用者出於政治或其他考量，拒絕將再創作之作品以相同方式分享該二次創作品。雖然被告得以遵循創用CC條款進行分享，但被告並未遵循，且違反了創用CC對原作者之聲譽、原作品之完整性保障。&lt;/p&gt;
+
+&lt;p&gt;原告為本照片之作者Nina Gerlach，為德國維基百科之成員，並擔任德國維基之編輯者（德國維基百科均使用創用CC3.0姓名標示—相同方式分享條款），並參與許多德國當地維基相關推廣計劃。而處理本案之律師Till Jaeger為德國之名律師事務所JBB之合夥人，同時也為開放資源分享、公眾授權的知名研究者。&lt;/p&gt;
+
+&lt;p&gt;原告在訴訟中表示：「我十分支持並讚同將作品公開授權給大眾，以鼓勵社會創作利益，但需要搭配合理的條件，例如要求作品使用者標示檔案來源。」本案尚未確定，一旦原告在本案中獲得任何損害賠償，原告將全數捐出。&lt;/p&gt;
+
+&lt;p&gt;本次案件對創用CC有其重大意義，在創用CC推廣如此多年，卻少有法院參與創用CC授權之情況。同時，本次案件也顯示了德國法院肯認了創用CC授權條款之效力，並得以民事程序要求當事人實行條款內容，未來若有類似爭訟，訴訟中亦得以之主張創用CC條款之執行力。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&amp;nbsp;--定暫時狀態假處分 譯本--- &lt;/strong&gt;&lt;br /&gt;
+一、為下列事項定暫時狀態假處分。&lt;br /&gt;
+二、本假處分為本案辯論審理前所為之定暫時狀態假處分：&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. 被告為免因為未遵循法院命令而被罰款250.000,00歐元，或因為未遵循命令而遭逮捕、拘役6個月等效果，於此假處分後，在係爭圖片網址未依照原作者採用創用CC3.0授權條款之「姓名標示—相同方式分享」前，不得使他人複製、或公開提供系爭圖片。&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. 被告需要自行負擔因實行授權條款之成本。&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3. 本案訴訟費用為歐元4.000,00。&lt;br /&gt;
+三、理由：&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. 聲請人主張事證如下：&lt;br /&gt;
+&amp;nbsp;&amp;nbsp; 　聲請人(原告)為系爭圖片之作者，圖片係以創用CC3.0「姓名標示—相同方式分享」條款分享，依照此條款，使用者在使用圖片後所為之新著作，需要提供系爭圖片來源、依循該條款之方式標示原告姓名，並以相同方式分享新著作。但被告將該圖片刊載於自己的網站，卻未依循創用CC授權方式標示原告姓名、圖片來源。原告於2010年9月9日發現被告之刊載行為。&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. 聲請人主張構成德國著作權法第s. 97 ss. 1以及 s. 19a 條之假處分原因：&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 本圖依照德國著作權法，性質屬於攝影著作，當被告將圖片公開刊載於自己網站時，卻未遵守創用CC授權條款所定方式分享，而違反德國著作權法第s. 97 ss. 1規定。被告所為者為一種「持續性的侵權行為」，對於此種侵害行為，僅能透過法律程序給予懲罰或停止侵害。本案同時符合德國民事訴訟法關於定暫時狀態假處分之「必要」要件，因法律無法期待聲請人在判決確定前容忍被告持續性的侵害，故有以假處分救濟聲請人之必要。本案訴訟費用係以訴訟標的價值三分之二為計算標準。&lt;/p&gt;
+
+&lt;p&gt;法官：Dr. Scholz Klinger von Bresinsky&lt;/p&gt;
+
+&lt;div&gt;
+&lt;hr /&gt;
+&lt;div&gt;
+&lt;p&gt;本文編譯自Mike Linksvayer，Creative Commons Attribution-ShareAlike license enforced in Germany，&lt;a href=&quot;http://creativecommons.org/weblog/entry/28644&quot;&gt;http://creativecommons.org/weblog/entry/28644&lt;/a&gt;。（最後造訪日:2011/09/21）&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#_ftnref1&quot;&gt;[註]&lt;/a&gt; 定暫時狀態假處分：為訴訟程序進行中，考量社會公益、事件急迫性、原告請求勝訴機率，而在案件持續進行中，法院以假處分之方式，提前執行原告勝訴之主張。若以本案為例，原告起訴主張為要求被告依循圖片授權之創用CC條款(姓名標示—相同方式分享)以及給予原告損害賠償，法院則就實行創用CC條款的部分，提前要求被告實行。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 03 Oct 2011 02:34:07 +0000</pubDate>
+ <dc:creator>bonjovilll</dc:creator>
+ <guid isPermaLink="false">552 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20111003#comments</comments>
+</item>
+<item>
+ <title>比利時與以色列法院均出現首次創用CC授權相關之法院判決</title>
+ <link>https://creativecommons.tw/blog/20110614</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;盧美慈&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;創用CC授權至今推行逾十年，在此十年間已有超過數百萬計之創用CC作品問世。然而，在此十年間，很少聽聞因為創用CC授權作品而涉訟之消息。本文中所引之判決：Lichôdmapwa v. L’asbl Festival de Theatre de Spa以及Avi Re’uveni v. Mapa inc&lt;a href=&quot;#_ftn1&quot;&gt;[&lt;/a&gt;&lt;a href=&quot;#_ftn1&quot;&gt;1]&lt;/a&gt;，可見各國實務肯定創用CC授權之法律效力，同時本文所指案件也可說明實務對於創用CC和著作權法之間是並存且不互斥的。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;一、 Lichôdmapwa v. L’asbl Festival de Theatre de Spa&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;本案件發生地為比利時。原告Lichôdmapwa為比利時樂團，樂團將其音樂作品「Abatchouk」採用創用CC授權，選擇之授權條款為「姓名標示--非商業性--禁止改作&lt;a href=&quot;#_ftn3&quot;&gt;[2]&lt;/a&gt;」（CC BY-NC-ND license）。而被告L’asbl Festival de Theatre de Spa為一劇團公司，被告在其劇團商業廣告裡，採用了「Abatchouk」中約20秒之音樂。因為被告並未標明該音樂段落之作者、僅採用該作品之片段而與其他音樂影片結合，且被告使用之廣告為商用廣告，而被原告以違背三條創用CC授權條款為由，提起著作權侵害之訴，並請求損害賠償。&lt;/p&gt;
+
+&lt;p&gt;比利時法院法官在徵詢荷蘭、西班牙以及美國法院對於創用CC授權條款之意見後，遂認為被告劇團確實違反原告所採創用CC授權條款，而創用CC授權條款乃架構於著作權法上，當被告違反創用CC授權條款之時，依其行為乃是未經著作權利人許可而將作品使用於商業用途上，也難以成立合理使用，故認為被告已侵害該著作之著作權。同時，比利時法院針對被告「下載音樂當時並未注意授權條款之細目，非故意侵權」之主張，亦表示否定。蓋被告經營劇團業務，該業務每日涉及藝術作品眾多，豈有不詳加確定授權而擅自使用之道理？另外，被告也抗辯，原告作品採用創用CC授權，未加入比利時藝術著作權管理團體(SABAM, Société d’Auteurs Belge – Belgische Auteurs Maatschappij)，即代表原告放棄其自行收取著作授權金之權利，而不應向被告主張著作權侵害之損害賠償&lt;a href=&quot;#_ftn4&quot;&gt;[3]&lt;/a&gt;。法院則否定此意見，並判給原告4500歐元之損害賠償。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;二、 Avi Re’uveni v. Mapa inc&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;2011年1月，以色列法院也出現第一個給與創用CC授權人著作權損害賠償之判決。本案中，原告把圖片上傳至Flicker網站，並選擇創用CC「姓名標示--非商業性--禁止改作&lt;a href=&quot;#_ftn5&quot;&gt;[4]&lt;/a&gt;」（CC BY-NC-ND license）。當被告取用其照片，成為其拼貼作品、進行販售且未標示圖片授權者姓名時，已可能違反原告所採用的三種創用CC授權條款。被告主張其並非故意侵權，下載圖片之網站並無著作權或創用CC授權標示，所以被告並不知道該圖片受到著作權或創用CC條款保障。&lt;/p&gt;
+
+&lt;p&gt;法院則認為，被告並無權利擅自拼貼系爭受著作權法保障之圖片，一旦被告使用系爭圖片，即應為此負責。該案法官也在提出判決中指出，創用CC條款是授權人得自行選擇是否採用以及採用何種條款，在採取創用CC授權後，一旦授權條款被違反，創用CC和授權人本身並無直接強制實施條款之權力(例如違反姓名標示，卻無法強制要求對方標示姓名)。法官在判決中也提出自己對於創用CC條款效力的修改建議，他認為不應持續目前創用CC授權不具強制力之情形。而此建議也成為以色列當地創用CC人員討論議題之一。&lt;/p&gt;
+
+&lt;p&gt;此兩個判決均凸顯創用CC授權條款之實務操作。首先，創用CC並非企圖排除或取代著作權，而是將著作權結合於創用CC授權中。故一旦有人違背作品之創用CC授權條款，則使用該作品之行為是否侵害作品著作權，即回歸著作權法之規定。然而，創用CC授權之設計目的在於預設「作品終端使用者將遵守創用CC授權條件，故不生違反CC授權條款之問題」。在前述兩個案件中，法院也強調了創用CC另一個授權重點，即「選擇創用CC並不妨礙授權人行使作品之著作權」（即使採用創用CC時，授權者並不清楚自己採取何種創用ＣＣ條款，仍不妨礙授權人日後行使其作品著作權）。也就是說，當授權者選擇創用CC此種較具彈性之授權方法，不因此喪失自己主張作品著作權之權利。&lt;/p&gt;
+
+&lt;div&gt;&amp;nbsp;
+&lt;hr /&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;a href=&quot;#_ftnref1&quot;&gt;[1]&lt;/a&gt; 改寫自Belgian and Israeli Courts Grant Remedies to CC Licensors Matt Liebenson, January 21st, 2011，&lt;a href=&quot;https://creativecommons.org/weblog/entry/26115&quot;&gt;https://creativecommons.org/weblog/entry/26115&lt;/a&gt;，最後瀏覽日：2011/0613。&lt;br /&gt;
+&lt;a href=&quot;#_ftnref3&quot;&gt;[2]&lt;/a&gt; &lt;em&gt;09-1684-A (Lichôdmapwa v. L&#039;asbl Festival de Theatre de Spa)&lt;/em&gt;, &lt;a href=&quot;http://wiki.creativecommons.org/09-1684-A_%28Lich%C3%B4dmapwa_v._L%27asbl_Festival_de_Theatre_de_Spa%29&quot;&gt;http://wiki.creativecommons.org/09-1684-A_%28Lich%C3%B4dmapwa_v._L%27asbl_Festival_de_Theatre_de_Spa%29&lt;/a&gt;, last visited 2011/06/13.&lt;br /&gt;
+&lt;a href=&quot;#_ftnref4&quot;&gt;[3]&lt;/a&gt; 同註2。&lt;br /&gt;
+&lt;a href=&quot;#_ftnref5&quot;&gt;[4]&lt;/a&gt; 同註1。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 14 Jun 2011 06:33:15 +0000</pubDate>
+ <dc:creator>bonjovilll</dc:creator>
+ <guid isPermaLink="false">526 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20110614#comments</comments>
+</item>
+</channel>
+</rss>

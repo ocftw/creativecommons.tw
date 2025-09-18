@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 開放原始碼</title>
+ <link>https://creativecommons.tw/category/tags/%E9%96%8B%E6%94%BE%E5%8E%9F%E5%A7%8B%E7%A2%BC</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>[轉載] 取之於公眾、回歸於公眾ー公部門出資成果轉以創用CC 及自由開源軟體授權條款回歸公眾利用的實務範例！</title>
+ <link>https://creativecommons.tw/blog/20140517</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;台灣創用CC計畫&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;編按：這是來自&lt;a class=&quot;newpage&quot; href=&quot;http://lucien.cc/?p=5959&quot;&gt;http://lucien.cc/?p=5959&lt;/a&gt; 轉載過來，跟大家分享。&lt;br /&gt;
+本文之姓名標示：2014&amp;nbsp; 林誠夏、黃郁文，採&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;創用CC 姓名標示-4.0-國際版條款授權&lt;/a&gt;釋出。&lt;/p&gt;
+
+&lt;p&gt;---&lt;/p&gt;
+
+&lt;p&gt;林誠夏、黃郁文／編譯&lt;/p&gt;
+
+&lt;p&gt;政府運用人民稅金所進行的資料蒐集與公務舉措所附帶產生的素材與資料 (materials and data)，是否就只能直接收歸國有進行封存、之後再也無人聞問？或是另有一套機制可以讓民眾更彈性、豐富地利用它們！這是近年來許多開放源碼 (Open Source)、開放教育 (Open Education)、開放文化 (Open Culture)，以及開放資料 (Open Data) 領域都切切討論與鼓吹的改革議題。其實，經過這幾年的倡議與推動，國際上不乏正向導引的範例，例如：&lt;br /&gt;
+&lt;a href=&quot;http://lucien.cc/wp-content/uploads/2014/05/an_open_door_to_unescos_knowledge.png&quot;&gt;&lt;img alt=&quot;an_open_door_to_unescos_knowledge&quot; class=&quot;alignnone wp-image-5960&quot; src=&quot;/sites/creativecommons.tw/files/imagecache/blog-img/an_open_door_to_unescos_knowledge-300x181.png&quot; style=&quot;height:302px; width:500px&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+▲ 圖1：聯合國教科文組織ー&lt;a href=&quot;http://en.unesco.org/open-access/&quot;&gt;開放近用資源倉儲&lt;/a&gt;網站截圖 (Slogan – An Open Door to UNESCO Knowledge)&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;UNESCO 採用「創用CC IGO 授權條款」來建置「開放近用資源倉儲」
+	&lt;ul&gt;
+		&lt;li&gt;「開放近用資源倉儲 (&lt;a href=&quot;http://en.unesco.org/open-access/&quot;&gt;Open Access Repository&lt;/a&gt;)」 是聯合國教科文組織 (United Nations Educational, Scientific and Cultural Organization, UNESCO) 轄下的一個專題計畫，其於 UNESCO 的資金浥注下，依循 2013 年 4 月律定「開放近用策略書 (&lt;a href=&quot;http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/ERI/pdf/oa_policy_rev2.pdf&quot;&gt;Open Access Policy concerning UNESCO publications&lt;/a&gt;)」的規定，全面將 UNESCO 在 2013 年 7 月 31 日之後的出版品與相關資源，悉以開放公眾近用的授權方式釋出。在幾經考量之後，UNESCO 選用了「創用CC 姓名標示-相同方式分享 3.0 IGO (&lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/igo/&quot;&gt;CC BY-SA 3.0 IGO&lt;/a&gt;)」 版本，為其預設的授權條款。一般讀者對於「創用CC 跨政府組織交流授權條款（Creative Commons Intergovernmental organization License，創用CC IGO 授權條款）」，應該沒有太深入的認識，這是因為 IGO 條款，為 Creative Commons 組織，方於 2013 年末，針對政府組織進行跨機構、跨國資源交流所新撰的創用CC 變形條款。此一變形條款的著眼點，在於跨政府組織 (intergovernmental organization) 彼此間的資源交流與共享，多不會以司法訴訟手段來進行權利的聲張與制裁，故在權利維護方面，新增了協調與仲裁機制 (mediation and arbitration) 先行的配置，也因為這樣的特殊配置，而受到了 UNESCO 授權決策單位的青睞。&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;美國 TAACCCT 專案 4 年內提撥 20 億美元的補助金來協助全國各地社區大學編撰創用CC 授權的職業進修課程
+	&lt;ul&gt;
+		&lt;li&gt;美國聯邦教育基金從 2011-2015 年間，規劃撥款 20 億美元來浥注各社區大學編撰與推廣職業進修課程，此一補助專案全稱為「職業調整協助ー社區大學與職訓課程提供計畫 (Trade Adjustment Assistance Community College and Career Training Grant Program, &lt;a href=&quot;http://creativecommons.org/weblog/entry/26100&quot;&gt;TAACCCT&lt;/a&gt;)。 TAACCCT 的大要是，從聯邦教育基金中提撥款項，補助各地社區大學因應人民職業轉換或第二專長學習的需求，來編撰適合的職訓與教學課程，並鼓勵社區大學在此基礎下能 開班授課，引導需要的美國民眾依其志向就近學習這些課程，以提高人民的就業率。然而，社區大學職訓課程申請此一補助金的前提是，其後產出的教材與相關資 源，必須皆以創用CC 姓名標示 3.0 條款的方式向外釋出，以能夠提供予公眾再行利用。&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;美國勞動部要求 1 億 5000 萬美元失業人口再就職輔導計畫成果皆須以「創用CC 姓名標示 4.0 授權條款」回歸予公眾
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href=&quot;http://www.doleta.gov/grants/pdf/SGA_DFA_PY_13_07.pdf&quot;&gt;此 1 億 5000 萬美元的補助計畫&lt;/a&gt;， 是針對美國長期失業人口居高不下的問題，所進行的方案補助。預計是將總金額拆解為 20 到 30 的補助個案，受補助專案的服務內容，必須就個人諮詢、轉職訓練等支持性與專業性的職涯輔導工作著力，進一步要協助美國的長期失業人口，能經專案輔導之後結 束其待業狀態，並能進一步安插職位到原以 H-1B 專門人員簽證 (H-1B visa) 聘用外籍人士的美國企業裡，以達成美國人皆有機會於本國就業的目標。美國勞動部此一巨型的補助計畫，亦要求計畫執行過程中產生的各項教案與素材，皆須以 「創用CC 姓名標示 4.0 授權條款 (CC BY 4.0)」進行釋出，以能夠為公眾再行利用。&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;由於美國勞動部的補助計畫是在今年 (2014) 春季開始執行，時序上最新，故以下即重要節錄該&lt;a href=&quot;http://www.doleta.gov/grants/pdf/SGA_DFA_PY_13_07.pdf&quot;&gt;補助計畫專案文件&lt;/a&gt;裡，關於「開放政策 (Open Policy)」所描述到的相關事項，以供讀者作為最新時勢的參考：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;為了確保由聯邦政府撥補的這些資金，能在職訓教育素材發展的創新性上得到最大效益的應用，接受補助的單位，後續必須要將依靠補助金所產出的作品，除程式源碼 (Source Code) 是採自由軟體基金會 (Free Software Foundation, &lt;a href=&quot;http://www.fsf.org/&quot;&gt;FSF&lt;/a&gt;) 或開放源碼促進會 (Open Source Initiative, &lt;a href=&quot;http://opensource.org/&quot;&gt;OSI&lt;/a&gt;) 認可的開放式授權條款來向外釋出外，其他悉以「&lt;a href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;創用CC 姓名標示 4.0 國際版授權條款&lt;/a&gt;」提供予公眾來進行後續使用。所謂相關作品的範圍，包括接受補助資金之後編撰的新內容，或被補助單位接受補助資金之後，就其既有作品進行的修改或調整版本。&lt;/li&gt;
+	&lt;li&gt;受補助單位以 CC BY 4.0 授權釋出的作品，後手使用者將得依其意進行重製、散布、公開傳送、以及改作等行為，然而使用者亦必須依受補助單位律定的方式，來善加表彰其顯名資訊 (attribution)。這些作品在被使用與散布時，必須夾附一份 CC BY 4.0 的授權聲明，來讓使用者得以知悉這個授權狀態。對於 CC BY 4.0 的基本資訊，可至 &lt;a href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;Creative Commons 的說明網頁&lt;/a&gt;進行閱讀，關於如何將受補助單位的作品以 CC BY 4.0 標示與散布的指示，亦可參照 &lt;a href=&quot;http://wiki.creativecommons.org/Marking_your_work_with_a_CC_license&quot;&gt;Creative Commons 的共筆頁面&lt;/a&gt;。&lt;/li&gt;
+	&lt;li&gt;對於 CC BY 4.0 授權模式的相關疑問，請參照補助計畫專案文件第 VII 章的說明，提報到美國勞動部業管此專案的聯繫窗口。&lt;/li&gt;
+	&lt;li&gt;被要求須以 CC BY 4.0 授權釋出的作品，僅是受補助單位運用補助金來編撰與發展的作品。如個別作品是之前既已存在，或是受補助單位由第三方處購得，這些既定素材本身與其後續修 改，仍依其本來的智慧財產權運用模式即可。也就是說，非受補助單位支用本專案補助金來創作的相關作品，則並不會被要求須以 CC BY 4.0 的授權方式來進行提供。&lt;/li&gt;
+	&lt;li&gt;之所以要求受補助單位採用 CC BY 4.0 來提供補助金產出的相關作品與素材，是希望這些透過公資金浥注的產出成果，都可以後續自由地被他人再利用與再改良。除此之外，美國勞動部也呼籲受補助單位 在可利用素材的購置與授權上，亦要遵守相關聯邦法令與規章，包括著作權法與其施行規則，以及聯邦職業復置法 (Federal Rehabilitation Act) 與其附屬條款的要求。&lt;/li&gt;
+	&lt;li&gt;此外，透過補助金所發展或創作的電腦軟體程式，也必須採用在智慧財產權配置上，能容許他人使用並據以產生衍生程式的授權模式來散布。精確一點來說，本專案的受補助單位，須將受補助金浥注而產生的軟體程式源碼，以 &lt;a href=&quot;http://www.fsf.org/&quot;&gt;FSF&lt;/a&gt; 或 &lt;a href=&quot;http://opensource.org/&quot;&gt;OSI&lt;/a&gt; 認可的開放式授權條款來向外釋出。&lt;/li&gt;
+	&lt;li&gt;除補助金相關作品須以 CC BY 4.0 授權模式提供予公眾的要求之外，美國聯邦政府並明示保留其「已償付、非專屬 (nonexclusive)、不可撤回 (irrevocable)」的被授權地位，其後因應聯邦政府的需求，將可對補助金浥注而產生的相關作品，進行重製、發行，以及其他目的之使用，必要時美 國聯邦政府亦得授權他人進行是類使用行為。這些作品的範圍包括補助金所及的各項產出，無論是受補助單位自行編撰或付費取得，包括但不限於：教育課程、職訓 範本、技術支援產品，以及其他相關的素材。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;而其實，我國科技部 (Ministry of Science and Technology) 的前身國家科學委員會，也有類同 UNESCO 與美國教育部、勞動部等「取之於公眾、回歸於公眾」的「&lt;a href=&quot;http://opensource.csie.ncku.edu.tw/opensource/report.html&quot;&gt;自由軟體暨雲端計算與資訊安全技術研發補助專案&lt;/a&gt;」，該補助專案由 2004 年開始執行並延續至今，提供國內研究機構，得以自由開源軟體研發主題申請研究補助資金之機會，而申請的前提要件，便是在日後於結案之時，所有研發成果與程式源碼，須以&lt;a href=&quot;http://creativecommons.tw/license&quot;&gt;創用CC 授權條款&lt;/a&gt;及 &lt;a href=&quot;http://opensource.org/&quot;&gt;OSI&lt;/a&gt; 認可之開放性授權條款來向公眾提供。此一舉措可說德不孤、必有鄰，然而對照國際上的發展趨勢，此種開放授權的補助政策，其實亦可以經研議影響層面之後，進一步擴散到各個以公資金浥注的政府施政裡！&lt;/p&gt;
+
+&lt;p&gt;畢竟，「取之於公眾、用之於公眾」，本就是政府施政的核心標桿，而當前民智已開，尤其是在資訊服務與文化創意領域裡，民間團體具有很高的動能與效 率，若能將政府公資金投注補助的相關專案成果，改採「取之於公眾、回歸於公眾」的模式進行開放釋出，無疑地能夠激發民間更多的創新能量，並進一步拓深這些 專案成果被善加利用的範圍與幅度。而為了提倡與推廣政府部門以公資金撥補的專案，皆能轉以更為開放的授權方式釋出，讓公眾能夠就這些作品與素材進行更緊密 程度的分享與交流，Creative Commons 亦於本年初 (2014)，成立了二個新進的推動專案ー「開放政策合作網絡 (Open Policy Network, OPN)」以及「開放領袖育成學院 (Institute for Open Leadership, IOL)」。依據 &lt;a href=&quot;https://creativecommons.org/weblog/entry/41633&quot;&gt;Timothy Vollmer 所撰寫的介紹文摘&lt;/a&gt;表 示，OPN 的設立目標，是要召集全球各地對於 Open Policy 推動有興趣的實踐者與倡議者，透過跨國合作、經驗分享的方式，彙整相關的資料與可行的作法，以進一步提供給認同 Open Policy 的機構與決策者，能據以參酌和落實相關舉措。而 IOL，則是要從種子推動員培育的立場來支持 Open Policy 的深根運作，Creative Commons 將透過 IOL 來訓練與培植此一領域的新興領袖，以確保 Open Policy 相關政策的推動，在範圍上能持續擴大，在參與上亦可世代接軌。看來，這股「取之於公眾、回歸於公眾」的 Open Policy 推動風氣，國際上才正是方興未艾，未來能夠解鎖多少政府資源，以更為激勵公眾創意與民間動能，非常值得觀察者進行後續的調查與研究。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2&gt;參考資訊：&lt;/h2&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;美國勞動部要求 1 億 5000 萬美金補助計畫的產出素材皆須以「創用CC-4.0-姓名標示 (CC-BY-4.0)」授權條款進行釋出
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href=&quot;http://creativecommons.org/weblog/entry/42446&quot;&gt;http://creativecommons.org/weblog/entry/42446&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;聯合國教科文組織採用創用CC 授權條款來設立「開放近用資源倉儲 (Open Access Repository)」
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href=&quot;https://creativecommons.org/weblog/entry/41265&quot;&gt;https://creativecommons.org/weblog/entry/41265&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;UNESCO 2013 年 4 月所律定之「開放近用策略書 (Open Access Policy concerning UNESCO publication)
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href=&quot;http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/ERI/pdf/oa_policy_rev2.pdf&quot;&gt;http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/ERI/pdf/oa_policy_rev2.pdf&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;「創用CC 跨政府組織交流條款」共筆解說頁面 (Creative Commons IGO license Wiki)
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href=&quot;http://wiki.creativecommons.org/Intergovernmental_Organizations&quot;&gt;http://wiki.creativecommons.org/Intergovernmental_Organizations&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;美國聯邦教育基金從 2011-2015 年撥款 20 億美元來浥注各社區大學編撰與推廣職業進修課程ー申請補助金的前提是相關教材與產出資源必須以創用CC 姓名標示-3.0 條款來提供予公眾再利用
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href=&quot;http://www.doleta.gov/grants/pdf/SGA-DFA-PY-10-03.pdf&quot;&gt;http://www.doleta.gov/grants/pdf/SGA-DFA-PY-10-03.pdf&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;「&lt;a href=&quot;http://opensource.csie.ncku.edu.tw/opensource/report.html&quot;&gt;自由軟體暨雲端計算與資訊安全技術研發補助專案&lt;/a&gt;」成果託管於 中央研究院 資訊科技創新研究中心 自由軟體鑄造場 OpenFoundry 平台上之搜尋結果列表
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href=&quot;http://www.openfoundry.org/of/openfoundry/search?utf8=%E2%9C%93&amp;amp;adv_cat=&amp;amp;project%5Bcategory%5D=&amp;amp;is_nsc=1&amp;amp;project%5Bmaturity%5D=&amp;amp;project%5Blicense%5D=&amp;amp;project%5Bplatform%5D=&amp;amp;project%5Bprogramminglanguage%5D=&amp;amp;query_adv=-&amp;amp;commit=%E6%90%9C%E5%B0%8B&quot;&gt;http://www.openfoundry.org/of/category/list&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;創用CC 新進推動專案介紹ー「開放政策合作網絡 (Open Policy Network)」以及「開放領袖育成學院 (Institute for Open Leadership)」
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href=&quot;https://creativecommons.org/weblog/entry/41633&quot;&gt;https://creativecommons.org/weblog/entry/41633&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+&lt;h4&gt;本文參照 &lt;a href=&quot;http://www.linkedin.com/in/cablegreen&quot;&gt;Cable Green&lt;/a&gt; 2014 年 3 月 28 日 “&lt;a href=&quot;http://creativecommons.org/weblog/entry/42446&quot;&gt;U.S. Department of Labor applies Creative Commons license to all work created with $150M grant&lt;/a&gt;” 專文編撰而成，若蒙轉載或引用，煩請標註：2014 &lt;strong&gt;ⓒ &lt;/strong&gt;林誠夏、黃郁文，採&lt;a href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;創用CC 姓名標示-4.0-國際版條款&lt;/a&gt;授權釋出。&lt;/h4&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 17 May 2014 06:21:31 +0000</pubDate>
+ <dc:creator>ccworker</dc:creator>
+ <guid isPermaLink="false">985 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20140517#comments</comments>
+</item>
+<item>
+ <title>Arduino ─ 開放式的科技藝術製作平台</title>
+ <link>https://creativecommons.tw/blog/20131227-7</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;羅凱勻 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;想應用手機等科技產品創作出你生活中的創意嗎？現在有&lt;a href=&quot;http://arduino.cc/&quot; rel=&quot;http://arduino.cc/&quot;&gt;Arduino&lt;/a&gt;這個開放源碼軟硬體平台來幫你實現夢想！&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://arduino.cc/&quot; rel=&quot;http://arduino.cc/&quot;&gt;Arduino&lt;/a&gt;是個開放源碼的電子原型平台(open-source electronics prototyping platform)，它的硬體電路設計圖和軟體的原始碼都是開放的，使得它的軟體、硬體具有容易使用、擴充性強的特性，提供藝術家、設計師、業餘愛好者、任何有興趣的人，能快速又輕鬆地建立產品原型、打造出專屬的互動式科技藝術裝置作品。&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/arduino.jpg&quot; style=&quot;border:0px; line-height:inherit; margin:0px; padding:10px; vertical-align:baseline&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;http://arduino.cc/&lt;/p&gt;
+
+&lt;p&gt;只要發揮出你的想像力，任何人在Arduino的幫助之下都可以成為生活科技品的設計師。譬如將Arduino結合Android裝置，可以做成有趣的「人貓互動」產品：當貓咪跳上專用的座椅上啟動了裝置，就會自動在Twitter上發訊息、或者拍照上傳到Facebook。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/ren_mao_hu_dong_.jpg&quot; style=&quot;border:0px; line-height:inherit; margin:0px; padding:10px; vertical-align:baseline&quot; /&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/shou_ji_yao_kong_che_.jpg&quot; style=&quot;border:0px; line-height:inherit; margin:0px; padding:10px; vertical-align:baseline&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;http://yehnan.blogspot.tw/2012/02/arduino.html&lt;/p&gt;
+
+&lt;p&gt;或者Arduino也可結合製作出手機遙控車、機器人和電子寵物等新奇又可愛的生活創意。&lt;/p&gt;
+
+&lt;p&gt;Arduino官方網站上的文章等內容，採用 創用CC的&lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/legalcode&quot;&gt;「姓名標示─相同方式分享」(BY-SA)&lt;/a&gt;條款，使用者只要標上原作姓名和來源、並同樣選用創用CC這個授權方法，就能自由轉載、散佈、甚至改編本站上的資訊。&lt;/p&gt;
+
+&lt;p&gt;官網上除了提供Arduino平台等開放軟體下載，也有線上教學手冊、範例、部落格等各種資源，方便上手、也透過世界各地使用者分享採用Arduino製作出的科技產品故事，激發出更多科技藝術設計品的創新點子。現在就進入Arduino的開放平台，讓科技的巧思妙用豐富你的生活吧！&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;參考資料&lt;/p&gt;
+
+&lt;p&gt;1. &lt;a href=&quot;http://www.android-apk.com/2011/09/%E4%BA%BA%E8%B2%93%E4%BA%92%E5%8B%95%E7%9A%84-arduino-android-%E8%A3%9D%E7%BD%AE&quot;&gt;〈人貓互動的Arduino Android裝置〉&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2. 葉難，&lt;a href=&quot;http://yehnan.blogspot.tw/2012/02/arduino.html&quot;&gt;〈Arduino簡介〉&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 27 Apr 2014 16:00:00 +0000</pubDate>
+ <dc:creator>kathy4106</dc:creator>
+ <guid isPermaLink="false">934 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20131227-7#comments</comments>
+</item>
+<item>
+ <title>C,mm,n - The Open Source Car 開放協力創作車</title>
+ <link>https://creativecommons.tw/blog/20100318</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Polley W.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://www.cmmn.org/nc/en/home.html&quot;&gt;C,mm,n&lt;/a&gt; (pronounced &#039;common&#039;) is an open source community for sustainable personal mobility. You might think c,mm,n is about a new type of vehicle, and it&#039;s true that we are developing a new type of electric car. But c,mm,n is more than that: it is a total mobility concept for the future. Our c,mm,nity is open to anyone with a creative, intelligent and enterprising perspective on mobility issues, and who wants to help create a better world. C,mm,n follows the open source model: as with open source software, we focus our services around the product. Anyone can use it to offer mobility services, just as long as any derived work produced is released back to the community under an open source licence.&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;中文翻譯 (Polley Wong)&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://www.cmmn.org/nc/en/home.html&quot;&gt;C,mm,n&lt;/a&gt; (讀音 &#039;common&#039;) 是個可持續發展的個人交通工具開放原始碼社群。你大概會想 c,mm,n 是種新車，的確我們在開發一種新型電力車，但 c,mm,n 不僅僅是這樣，它是一個機動性的概念。我們的 C,mm,n 社群 (C,mm,nity)開放給任何有創意、有才能，或對機動性議題有商業觀點，且想讓世界更美好的人。C,mm,n 遵循了開放原始碼的模式：就像自由軟體一樣，我們的服務集中在產品本身上面。只要人們將變更或修改原著作後所產生的新著作會依開放原始碼授權再釋出回至社會中，任何人都可以使用它提供機動性服務。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;觀後雜感 (Polley Wong)&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Couple of years ago, a blogger named &lt;a class=&quot;newpage&quot; href=&quot;http://blog.roodo.com/droger&quot;&gt;droger&lt;/a&gt; wrote an &lt;a class=&quot;newpage&quot; href=&quot;http://blog.roodo.com/droger/archives/4389813.html&quot;&gt;article&lt;/a&gt; (in Traditional Chinese) about how the open source concept is emerging from the software world to the hardware (physical) world. It also mentioned a project held by the Germans called &lt;a class=&quot;newpage&quot; href=&quot;http://www.theoscarproject.org/&quot;&gt;OScar&lt;/a&gt;. &lt;a class=&quot;newpage&quot; href=&quot;http://www.theoscarproject.org/&quot;&gt;OScar&lt;/a&gt;&#039;s concept and the way it&#039;s implementing it&#039;s philosophy is almost the same as &lt;a class=&quot;newpage&quot; href=&quot;http://www.cmmn.org/nc/en/home.html&quot;&gt;C,mm,n&lt;/a&gt;. However, one idea was brought into &lt;a class=&quot;newpage&quot; href=&quot;http://www.cmmn.org/nc/en/home.html&quot;&gt;C,mm,n&lt;/a&gt; early in the planning stage, probably early than in &lt;a class=&quot;newpage&quot; href=&quot;http://www.theoscarproject.org/&quot;&gt;OScar&lt;/a&gt;, was the enterprise model of the outcome, a car in this case. There are various partners/supporters in various fields for the &lt;a class=&quot;newpage&quot; href=&quot;http://www.cmmn.org/nc/en/home.html&quot;&gt;C,mm,n&lt;/a&gt; project, including Netherlands national environment organizations, education institutions, and car leasing companies. That&#039;s right, car leasing companies.&lt;/p&gt;
+
+&lt;p&gt;The car leasing indistry is finding marketing value on the de-carbon movement happening throughout the world. Car leasing companies working with &lt;a class=&quot;newpage&quot; href=&quot;http://www.cmmn.org/nc/en/home.html&quot;&gt;C,mm,n&lt;/a&gt; thinks that, almost every household has one or more vehicles nowadays, wasted resources is parked in garages, too much CO2 and carbon distributed in the air, will push public transportation main stream. And the lease car model will transfer from a day-to-day rent count model, to a one-stop-shop mobility providing model. It&#039;s just like the &lt;a class=&quot;newpage&quot; href=&quot;http://www.c-bike.com.tw/eng/map.html&quot;&gt;renting bike project&lt;/a&gt; in Kaohsiung, Taiwan.&lt;/p&gt;
+
+&lt;p&gt;I&#039;m not an expert in this field, but I am interested in human action and ecology. I&#039;ve also studied history, and know that aggregation and discretization come in turns. Maybe that theory can be used in this case too, private cars publicizing, and public transportation privatizing. I find this similar to what&#039;s happening in the internet world: hardware machines and internet services is aggregating, such as the rise of &lt;a class=&quot;newpage&quot; href=&quot;http://en.wikipedia.org/wiki/Cloud_computing&quot;&gt;Cloud Computing&lt;/a&gt;, and end users, on the other hand, is holding more and more power(fans) to establish it&#039;s own kingdom (&lt;a class=&quot;newpage&quot; href=&quot;http://en.wikipedia.org/wiki/Web2.0&quot;&gt;Web2.0&lt;/a&gt;). I&#039;m absolutely excited, and utterly honored to see, and be part of, how mankind is going to evolve and grow on information sharing in the next decade or two. I can&#039;t wait to see it!&lt;/p&gt;
+
+&lt;p&gt;多年前droger在其blog (&lt;a class=&quot;newpage&quot; href=&quot;http://blog.roodo.com/droger&quot;&gt;droger的mac心得整理&lt;/a&gt;)中有提到&lt;a class=&quot;newpage&quot; href=&quot;http://blog.roodo.com/droger/archives/4389813.html&quot;&gt;開放原始碼的概念逐漸由軟體擴展至硬體設計&lt;/a&gt;當中，當時介紹了一叫 &lt;a class=&quot;newpage&quot; href=&quot;http://www.theoscarproject.org/&quot;&gt;OScar&lt;/a&gt; 的德國計畫，其所提倡的觀念與發展方式與 &lt;a class=&quot;newpage&quot; href=&quot;http://www.cmmn.org/nc/en/home.html&quot;&gt;C,mm,n&lt;/a&gt; 幾乎如出一轍，但 &lt;a class=&quot;newpage&quot; href=&quot;http://www.cmmn.org/nc/en/home.html&quot;&gt;C,mm,n&lt;/a&gt; 構思上把商業模式也一併思考進去。這個專案目前由多個荷蘭環境保護機構、教育機構，和汽車租賃公司合作主導並維護。租車公司？沒錯，租車公司。&lt;/p&gt;
+
+&lt;p&gt;汽車租賃業在降低碳量的全球趨勢中找到商機。與 &lt;a class=&quot;newpage&quot; href=&quot;http://www.cmmn.org/nc/en/home.html&quot;&gt;C,mm,n&lt;/a&gt; 合作的數家租車公司認為：現在幾乎人人有車，甚至在歐美國家一戶人家有兩三輛車，這顯示汽車輛過甚，多餘的資源被停放在各家車庫中，過量的二氧化碳和廢碳被排放到空氣中，公共交通工具未來將是主流。而租車的模式會由以天數為單位，轉型為以出發地至目的地為單位的計價方式。簡單來說就像&lt;a class=&quot;newpage&quot; href=&quot;http://www.c-bike.com.tw/&quot;&gt;高雄租腳踏車&lt;/a&gt;一樣，租車業未來會以這樣的型式發展。&lt;/p&gt;
+
+&lt;p&gt;我不是這個產業的專家，但我對人類活動生態及趨勢有興趣，且讀過歷史。分久必合，合久必分的現象在這些租車業者對未來的推論上似乎也合宜：私有汽車公共化，公有交通工具私人化。我發現網路生態亦有此現象：硬體機器及網路服務有集中的趨勢，&lt;a class=&quot;newpage&quot; href=&quot;http://zh.wikipedia.org/zh/%E9%9B%B2%E7%AB%AF%E9%81%8B%E7%AE%97&quot;&gt;雲端科技&lt;/a&gt;興起。反觀使用者擁有越來越多網路工具以產生越來越多可充分表達自己的多媒體，&lt;a class=&quot;newpage&quot; href=&quot;http://zh.wikipedia.org/zh/Web_2.0&quot;&gt;Web2.0&lt;/a&gt;趨勢讓各地耀眼的素人得以擁兵(粉絲)自重。看著人類共享資源的方式演變及生態發展令人振奮，想到我有幸身在其中更是倍感光榮。雖然未來10年20年人類運用資訊共享的發展沒人說得準，我已經等不及參與其中了！&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;3.JPG&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/3.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;img alt=&quot;2.JPG&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/2.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;img alt=&quot;1.JPG&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/1.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;img alt=&quot;4.JPG&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/4.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;img alt=&quot;5.JPG&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/5.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+C,mm,n及renting bike project in Kaohsiung, Taiwan.連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 18 Mar 2010 04:00:00 +0000</pubDate>
+ <dc:creator>polley</dc:creator>
+ <guid isPermaLink="false">195 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20100318#comments</comments>
+</item>
+<item>
+ <title>清華大學宣佈將與Openmoko合作規劃教學研究平台OpenLab</title>
+ <link>https://creativecommons.tw/blog/20081003-1</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;辜雅蕾&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;清華大學於九月中旬宣佈，將與行動電話領導商Openmoko合作，結合教學系統作為研究平台OpenLab。其所規劃的教材會由裝置啟動開始，進而延伸至行動通訊應用程式的撰寫，而整個教學課程的教材與延伸出來的內容，都將以創用CC「相同方式分享」授權釋出。&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;external&quot; href=&quot;http://www.Openmoko.com&quot;&gt;Openmoko&lt;/a&gt;是一個開放源碼的行動通訊平台，透過這個平台，使用者可以像使用個人電腦一樣進行客製化作業並修改自己的手機軟體。該公司長期致力於將自由與彈性帶入電子通 訊產品，如今與清華大學的合作期望透過教育將開放的精神真正落實，另一方面，將所有教材以創用CC授權釋出，也可實現開放學習的理念和共享的精神。&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;external&quot; href=&quot;http://www.digitalwall.com/scripts/displaypr.asp?UID=11444&quot;&gt;新聞來源&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 02 Oct 2008 16:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">811 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20081003-1#comments</comments>
+</item>
+</channel>
+</rss>

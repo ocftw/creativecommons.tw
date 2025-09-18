@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 連結</title>
+ <link>https://creativecommons.tw/category/tags/%E9%80%A3%E7%B5%90</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>許多國家的圖書館與博物館採用CC0</title>
+ <link>https://creativecommons.tw/blog/20120315</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;吳佩凌 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.tw/blog/20090611&quot;&gt;CC0（公眾領域貢獻宣告）&lt;/a&gt;在過去幾個月已深獲數據資料界的喜愛，尤其是GLAM方面的資料(GLAM即Galleries, Libraries, Archives, Museums)。西班牙以及德國的國家圖書館已經以CC0釋出了他們的書目資料。這代表這些圖書館在其司法管轄範圍下，已經盡可能地完全放棄他們的著作權，使這些數據能進入公眾領域做更有效率的使用。更重要的是，這些資料就像&lt;a href=&quot;http://en.wikipedia.org/wiki/Linked_data#Linking_open-data_community_project&quot;&gt;linked open data&lt;/a&gt;一樣，意味這些資料群組如同&lt;a href=&quot;http://www.w3.org/RDF/&quot;&gt;RDF&lt;/a&gt;(Resource Description Framework)一樣在網路上可自由利用，這使得這些資料可與其他不同來源的資料相互連結。&lt;/p&gt;
+
+&lt;p&gt;西班牙圖書館與Ontology Engineering Group (OEG)合作創建了資料門戶: &lt;a href=&quot;http://www.bne.es/es/Catalogos/DatosEnlazados/index.html&quot;&gt;datos.bne.es&lt;/a&gt;。此資料庫可直接在&lt;a href=&quot;http://www.bne.es/es/Catalogos/DatosEnlazados/DescargaFicheros&quot;&gt;http://www.bne.es/es/Catalogos/DatosEnlazados/DescargaFicheros&lt;/a&gt; 上找到。此外還有德國國家圖書館aka Deutsche Nationalbibliothek (DNB)，在&lt;a href=&quot;https://wiki.dnb.de/display/LDS/Dokumentation+des+Linked+Data+Services+der+DNB&quot;&gt;這裡&lt;/a&gt;有他使用CC0連結開放資料的相關說明。德國CC亦曾針對此舉加以報導，英語版本可在&lt;a href=&quot;http://openglam.org/2012/02/09/191/&quot;&gt;Open GLAM&lt;/a&gt;找到。&lt;/p&gt;
+
+&lt;p&gt;與此相關的，尚有Smithsonian Cooper-Hewitt博物館，其為紐約重要的設計博物館，已經釋出60%其所收集的資料至公眾領域，同樣也是以CC0的方式。這些資料可在&lt;a href=&quot;https://github.com/cooperhewitt/collection&quot;&gt;Github&lt;/a&gt;網站上取得。如果要了解更多詳情，也可至&lt;a href=&quot;http://www.cooperhewitt.org/collections/data&quot;&gt;http://www.cooperhewitt.org/collections/data&lt;/a&gt; 。若想知道更多有關CC以及資料庫的資訊，包括最近更新的常見問題FAQ，可瀏覽&lt;a href=&quot;http://wiki.creativecommons.org/Data&quot;&gt;http://wiki.creativecommons.org/Data&lt;/a&gt; 。&lt;/p&gt;
+
+&lt;p&gt;消息來源：&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/31853&quot;&gt;http://creativecommons.org/weblog/entry/31853&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 15 Mar 2012 07:21:15 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">588 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120315#comments</comments>
+</item>
+</channel>
+</rss>

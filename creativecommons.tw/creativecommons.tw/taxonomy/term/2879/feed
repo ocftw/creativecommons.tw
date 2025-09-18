@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - slideshare</title>
+ <link>https://creativecommons.tw/category/tags/slideshare</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>網站服務條款應該蓋過公眾授權條款嗎？</title>
+ <link>https://creativecommons.tw/blog/20100515</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;莊庭瑞(trc)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;以下只是我個人的經驗與想法。&lt;/p&gt;
+
+&lt;p&gt;最近有件趣事發生在我身上：我在 Flickr 的帳號裡，拿不到我自己的照片。先前我上傳的高解析度照片檔案，任何人（包括我）都看不到了；只能看到較小尺寸的縮圖影像檔。不過 Flickr 要我不要擔心，&lt;a class=&quot;newpage&quot; href=&quot;http://www.flickr.com/help/limits/#28&quot;&gt;「照片的原件還留著，就等您升級」&lt;/a&gt;。故事是這樣的。一年多以前我付費升級成為「專業帳號」的用戶，一年後服務到期但我沒有繼續繳費。現在的我又回復到「免費帳號」，本來就沒有取得高解析度照片原件的權利。所以 Flickr 把我的原件藏起來，不給我用了。&lt;/p&gt;
+
+&lt;p&gt;我有需要這樣大驚小怪嗎？難道 Flickr 沒講清楚「專業帳號」和「免費帳號」的區別嗎？在我升級的時候，我想它應該有說吧。不過顯然我沒注意這些細節。我以為「免費」和「專業」的差別只在於網站上我可以使用的空間大小；哪知道 Flickr 會拿我自己的檔案跟我捉迷藏。&lt;/p&gt;
+
+&lt;p&gt;我在 Flickr 的照片都使用創用CC授權條款，也就是說任何人只要遵守授權條款的約定，都可以複製和散布我放在 Flickr 的照片。當然我希望大家用的是高解析度的照片原件。不過現在 Flickr 把這些原件藏起來了；如果我不付費，就不給任何人用（包括我在內）。當然，較小尺寸的縮圖影像還在 Flickr 網站上，也還是以創用CC方式授權給所有人使用（不管您是「專業」、「免費」還是根本不是 Flickr 帳號的用戶）。不過，我使用創用CC授權條款來幫助我散布（高解析度）照片的用意，卻受到 Flickr 的干擾，我還是很在意。&lt;/p&gt;
+
+&lt;p&gt;Flickr 是雅虎提供的服務。&lt;a class=&quot;newpage&quot; href=&quot;http://info.yahoo.com/legal/us/yahoo/utos/utos-173.html&quot;&gt;雅虎的「網站服務條款」&lt;/a&gt; &lt;a class=&quot;newpage&quot; href=&quot;http://en.wikipedia.org/wiki/Terms_of_Service&quot;&gt;(Terms of Service; ToS)&lt;/a&gt; 要我授權給雅虎，讓它可以使用我上傳到 Flickr 的照片&lt;a class=&quot;newpage&quot; href=&quot;http://info.yahoo.com/legal/us/yahoo/utos/utos-173.html&quot;&gt;（9.b）&lt;/a&gt;。我想就是這一條讓它可以把我的照片藏起來吧。而且，根據這份網站服務條款，Flickr 的服務是以「現狀」為前提，沒有任何服務上的保證&lt;a class=&quot;newpage&quot; href=&quot;http://info.yahoo.com/legal/us/yahoo/utos/utos-173.html&quot;&gt;（19.a）&lt;/a&gt;。雅虎也可以隨時修改它的網站服務條款&lt;a class=&quot;newpage&quot; href=&quot;http://info.yahoo.com/legal/us/yahoo/utos/utos-173.html&quot;&gt;（24）&lt;/a&gt;。也就是說，如果我使用雅虎的服務，Flickr 是可以對我的照片玩把戲，對我也沒太大責任。&lt;/p&gt;
+
+&lt;p&gt;其他網站也好不到哪邊去。現在許多內容網站都可以將您所上傳的內容標示為創用CC授權，不過它們的服務卻不盡令人滿意。舉例來說，Google 的 Picasaweb 照片分享服務，會把創用CC的授權要素圖象和 &quot;All rights reserved&quot; （「所有權利保留」）這句話很不搭嘎的放在一起&lt;s&gt;（看一下這張&lt;a class=&quot;newpage&quot; href=&quot;http://picasaweb.google.com/sumadas76/PhotoWalkApril10?feat=featured#5463671976137846690&quot;&gt;特選照片&lt;/a&gt;的授權資訊吧&lt;/s&gt; 註：Google 已更正此種錯誤）。在 &lt;a class=&quot;newpage&quot; href=&quot;http://www.freesound.org/&quot;&gt;freesound.org&lt;/a&gt; 和 &lt;a class=&quot;newpage&quot; href=&quot;http://www.slideshare.net/&quot;&gt;slideshare.net&lt;/a&gt; 網站，您要先註冊才能下載它們網站上CC授權的作品。我的同事易原對此很不以為然，但就如&lt;a class=&quot;newpage&quot; href=&quot;http://blog.bobchao.net/2010/04/freesound-cc.html&quot;&gt;柏強&lt;/a&gt;所講的，不能說這些內容服務網站就違反了創用CC授權條款。在上傳檔案到這些網站之前，我們可同意了它們的服務條款啊！&lt;/p&gt;
+
+&lt;p&gt;創用CC授權條款是工具，協助眾人散布、分享彼此的作品。我以創用CC授權的照片，您不用問我就可以直接拷貝、轉手。您不一定要直接從我這裡取得照片，也不需要到特定的網站去下載。拿到照片後，只要同時保留授權資訊，您可以自由地再散布給任何人，不用再問我或是其他任何人的意見。這種同儕傳播、自由散布與再散布的方式，是創用CC授權條款和「GNU 一般公眾授權條款」(GNU General Public License)這類公眾授權條款的核心。公眾授權條款促成並鼓勵大規模、眾人對眾人方式的作品分享。&lt;/p&gt;
+
+&lt;p&gt;當我使用某網站所提供的服務來儲存和散布內容，該網站的服務條款就可以設一些條件，限制我可以上傳的內容、以及這些內容在該網站被取用的方式。這些條件未必和公眾授權條款的自由流通理念一致。再舉一個例子。以創用CC方式授權的著作，都可以被自由地複製與散布，但不能被「再授權」(sublicense)給別人&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by-sa/3.0/tw/legalcode&quot;&gt;(4.a)&lt;/a&gt;。再授權會讓事情變得複雜；使用了公眾授權，就不需要再授權了。但是雅虎的網站服務條款要求我授權它使用我上傳的所有照片。這意味著，我不能把柏強以&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by-sa/3.0/tw/&quot;&gt;創用CC「姓名標示-相同方式分享」授權&lt;/a&gt;的照片，以及我改自他原作的照片，一起上傳到 Flickr 網站上，方便大家比較兩張照片不一樣的地方。當然，除非我又找到柏強請他同意我可以把他的照片再授權給雅虎。這不是很麻煩嗎？柏強使用創用CC「姓名標示-相同方式分享」授權條款的用意，就是要大家自由地重製、散布、修改、再散布他的照片以及改自他原作的作品（只要姓名有標示好，作品也同樣使用創用CC「姓名標示-相同方式分享」授權），不用再去找他啊！&lt;/p&gt;
+
+&lt;p&gt;Flickr, Freesound, Picasaweb, Slideshare 這些內容存放服務很早就採用了創用CC授權條款。這些服務大都免費，網站上也匯集了大量的創用CC授權的作品。這些服務能支持創用CC授權，我不能不為它們鼓掌。不過我們也要瞭解，使用這些免費的服務並不是就不必付出代價；這些網站的服務條款，對於我們存放在它們那裡的作品及其流通方式，設下了條件。這些服務已日漸成為我們時代的內容流通中樞，也形塑我們對於分享的概念與作法，而這需要我們的關注。使用創用CC授權條款時，不要有外加條件，我們也不應該讓網站服務條款蓋過公眾授權條。&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;Shall Terms of Service Trump Public Licenses?&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;The following is just my own experience and opinion.&lt;/p&gt;
+
+&lt;p&gt;A funny thing recently happened to me: I cannot get my own photos from my Flickr account. The high-resolution files I uploaded are no longer available to me or anyone; only the smaller (resized) images are accessible. Flickr assures me, however, that &lt;a class=&quot;newpage&quot; href=&quot;http://www.flickr.com/help/limits/#28&quot;&gt;&quot;the originals are saved in case you upgrade later&quot;&lt;/a&gt;. Here is the story. I paid a fee to upgrade to a &quot;Pro account&quot; more than one year ago, but didn&#039;t renew it when my subscription expired one year later. Now Flickr keeps the originals away from me, again a &quot;Free account&quot; user who is not supposed to have access to the originals at the first place.&lt;/p&gt;
+
+&lt;p&gt;Why am I surprised? Didn&#039;t Flickr spell out the difference between &quot;Pro&quot; and &quot;Free&quot; to me? I guessed they did when I upgraded, but obviously I was not paying attention to the details. I thought the difference between &quot;Free&quot; and &quot;Pro&quot; is about the amount of storage I can use, not about whether Flickr can hide my own files from me at its site.&lt;/p&gt;
+
+&lt;p&gt;My photos at Flickr are released under the Creative Commons (CC) Licenses, which means anyone can copy and distribute them as long as the licenses are respected. Of course I hope that people use the high-resolution originals. But Flickr keeps the originals away from all people, myself included, if I don&#039;t pay Flickr again. To be fair, the resized images are still available, and CC-licensed, to all — &quot;Pro&quot;, &quot;Free&quot;, or not — at Flickr&#039;s site. Nevertheless I am frustrated that my effort in using the CC licenses to help distribute my (high-resolution) photos is offset by Flickr.&lt;/p&gt;
+
+&lt;p&gt;Flickr is part of Yahoo. The &lt;a class=&quot;newpage&quot; href=&quot;http://info.yahoo.com/legal/us/yahoo/utos/utos-173.html&quot;&gt;Yahoo! Terms of Service&lt;/a&gt; &lt;a class=&quot;newpage&quot; href=&quot;http://en.wikipedia.org/wiki/Terms_of_Service&quot;&gt;(ToS)&lt;/a&gt; requires me to grant Yahoo, among others, a license to use the photos I upload to Flickr &lt;a class=&quot;newpage&quot; href=&quot;http://info.yahoo.com/legal/us/yahoo/utos/utos-173.html&quot;&gt;(9.b)&lt;/a&gt;. Supposedly that is where I give it the right to hide my own photos from me. Moreover, the service from Flickr is provided &quot;as is&quot; and with no warranty of any kind &lt;a class=&quot;newpage&quot; href=&quot;http://info.yahoo.com/legal/us/yahoo/utos/utos-173.html&quot;&gt;(19.a)&lt;/a&gt;. Yahoo can change its ToS anytime too &lt;a class=&quot;newpage&quot; href=&quot;http://info.yahoo.com/legal/us/yahoo/utos/utos-173.html&quot;&gt;(24)&lt;/a&gt;. In short, Flickr can do many things to my photos but is under little obligation to me, if I use its service.&lt;/p&gt;
+
+&lt;p&gt;Other content hosting services are no better, in despite that many of them help you mark your works as CC-licensed at their sites. Google&#039;s Picasaweb photo sharing service is known to mix up the CC licenses&#039; marks with &quot;All rights reserved&quot; in some non-sensible manner (&lt;s&gt;take a look at the licensing information about &lt;a class=&quot;newpage&quot; href=&quot;http://picasaweb.google.com/sumadas76/PhotoWalkApril10?feat=featured#5463671976137846690&quot;&gt;this featured photo&lt;/a&gt;&lt;/s&gt; note: this mix-up has been corrected by Google). At &lt;a class=&quot;newpage&quot; href=&quot;http://www.freesound.org/&quot;&gt;freesound.org&lt;/a&gt; and &lt;a class=&quot;newpage&quot; href=&quot;http://www.slideshare.net/&quot;&gt;slideshare.net&lt;/a&gt;, you must register before you can download CC-licensed works hosted at their sites. My colleague I-Yuan doesn&#039;t like this but, as &lt;a class=&quot;newpage&quot; href=&quot;http://blog.bobchao.net/2010/04/freesound-cc.html&quot;&gt;Bob&lt;/a&gt; argues, these service providers cannot be said to violate the terms of the CC licenses. We have agreed to their Terms of Service before files are uploaded to their sites!&lt;/p&gt;
+
+&lt;p&gt;CC licenses are tools to help people distribute and share their works. If my photo is CC-licensed, you can copy it and pass it to others without asking me. You do not have to get the photo directly from me, and you need not download it from some designated web sites either. Once you have the photo, you can freely redistribute it, along with its license information, to anyone without the need to again ask me or anyone. This peer-to-peer nature of free distribution and redistribution is at the core of public licenses such as the Creative Commons Licenses and the GNU General Public Licenses. These public licenses enable and encourage large-scale people-to-people sharing of their works.&lt;/p&gt;
+
+&lt;p&gt;When I rely on a particular service provider to store and distribute contents, however, its ToS imposes conditions on what can be uploaded and how they are available at its site. These conditions may not be in line with the public licenses&#039; free circulation ideals. Here is another example. Although CC licensed works can be freely copied and distributed, they may not be sublicensed &lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by/3.0/legalcode&quot;&gt;(4.a)&lt;/a&gt;. Sublicensing complicates things; it is not necessary when public licenses are used. However, Yahoo&#039;s ToS asks me to grant it a license to use all the photos I upload. This means that I cannot upload, say, both Bob&#039;s &lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by-sa/3.0/tw/deed.en&quot;&gt;CC BY-SA licensed&lt;/a&gt; photo and my retouched version to Flickr, so that their differences can be more easily compared. Unless, of course, I get Bob to grant me the right to sublicense his photo to Yahoo. But this defeats the very purpose of the CC BY-SA license, which already allows us to copy, distribute, modify, and redistribute Bob&#039;s original and our modifications (as long as the works are properly attributed and CC BY-SA licensed).&lt;/p&gt;
+
+&lt;p&gt;Flickr, Freesound, Picasaweb, and Slideshare are some of the earliest content hosting services that adopt the CC licenses. Many of their services are provided for free, and their sites host some of the largest collections of CC-licensed works. I cannot but applaud their efforts in supporting the CC licenses. However, we shall also be aware that these free services do not come for free; their Terms of Service impose conditions on what and how our works are kept and circulated at their sites. As these services increasingly become the hubs of content circulation of our age, we need to keep our eyes on how they are shaping our sharing concepts and practices. Creative Commons Licenses are best used without other conditions, and we shall not allow Terms of Service to trump Public Licenses.&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+特選照片連結失效&lt;br /&gt;
+the page of &quot;this featured photo&quot; is not found.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 15 May 2010 04:00:00 +0000</pubDate>
+ <dc:creator>trc</dc:creator>
+ <guid isPermaLink="false">205 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20100515#comments</comments>
+</item>
+<item>
+ <title>Jon Phillips 談社群經營 and SlideShare</title>
+ <link>https://creativecommons.tw/blog/20070705</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;趙柏強 Po-chiang Chao&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://rejon.org/&quot;&gt;Jon Phillips&lt;/a&gt; 是 Creative Commons 的軟體工程師，他在今年世界級的 Creative Commons 大會「iSummit 2007」發表與社群經營相關的演說，並隨後以「姓名標示」的方式釋出投影片：&lt;/p&gt;
+
+&lt;div&gt;&lt;a href=&quot;http://www.slideshare.net/rejon/phillips-building-communities-isummit-2007&quot;&gt;&lt;img alt=&quot;Jon%20Phillips%20slideshare.jpg;&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/jon_phillips_slideshare.jpg&quot; style=&quot;width:500px&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;突然覺得沒去有點可惜，我想聽這個… orz…&lt;/p&gt;
+
+&lt;p&gt;Anyway, 這才發現 Jon 使用的投影片分享平台「SlideShare」也支援 CC授權！SlideShare 這個網站可以讓你把投影片（.ppt .odp 都行）丟上去後分享給大家，可以想做是 YouTube 的投影片版。我把懿萱前幾天去法鼓山&lt;a class=&quot;newpage&quot; href=&quot;http://www.slideshare.net/bobchao/cc-200706&quot;&gt;說明 CC 的投影片&lt;/a&gt;丟上去了，您也可以參考一下。這個平台不錯，可惜中文的支援能力差強人意，瞧那 tag 的「創用 CC」都只剩「cc」了、投影片中的中文字也會走位。還好，它提供下載原始檔案的功能，所以您也可以在依循「姓名標示-非商業性-相同方式分享 2.5 台灣」的方式自由使用該投影片創作衍生著作喔！&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 05 Jul 2007 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">95 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20070705#comments</comments>
+</item>
+</channel>
+</rss>

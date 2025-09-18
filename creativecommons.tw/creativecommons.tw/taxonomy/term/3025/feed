@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - Mediagoblin</title>
+ <link>https://creativecommons.tw/taxonomy/term/3025</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>開源並嵌入CC授權選項的多媒體分享平台 - MediaGoblin</title>
+ <link>https://creativecommons.tw/in-depth/1069</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;王家薰 / 文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;近年在數位化浪潮下，使用者已經習慣透過數位相簿系統，來儲存與分類自己的影音和照片，而聯網分享更是線上建立這些相簿的主要目的。而最普遍的這類服務，一般都會聯想到用 YouTube、Flickr 等受大眾喜愛的多媒體服務平台。但，畢竟這些平台是基於商業利益來提供服務，在其營運利益的思維下，迭有使用上限制的地方，例如容量上的限制，或是圖片授權上選項的限制，也就是說，這些平台的使用模式，沒有辦法讓使用者有太多客製化調整的空間。因此，在自由開源軟體社群中，漸漸有一股聲音，討論是否有其他的多媒體分享軟體，能提供給想要以創用CC 授權條款 (Creative Commons License)，或其他公眾授權條款釋出素材的組織或個人來使用。因應這樣的需求，台灣創用CC 計畫評比分析了相關套件，最後選擇了以開源授權方式進行協作的多媒體分享平台－Mediagoblin 為基準，並與其核心開發團隊合作調校了一些功能，希望能幫助更多人，能善用這套軟體，來釋出創用CC 或歸於公眾領域 (Public Domain) 的素材，並進一步活化公眾共享的創作世界。&lt;/p&gt;
+
+&lt;h3&gt;什麼是 ＭediaGoblin ？&lt;/h3&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/indepth-img/home_goblin_0.png&quot; style=&quot;float:right;margin:10px; width:240px&quot; /&gt;
+
+&lt;p&gt;MediaGoblin 是一套可由使用者自行架設 (self-hosting) 的多媒體分享平台。您可以把它想像成是分散式的 Flickr，併入 YouTube 與 Sound Cloud 的功能。簡言之，使用者可以自行架設專案平台之後，於其上存放照片、影像、音訊、文件，甚至是 3D 設計的 stl 檔案格式，此種程度的全方位多媒體支援，與當前市售的其他軟體專案相較，可說頗為少見，並且，由於 MediaGoblin 為開放源碼軟體 (Free and Open Source Software)，使用 &lt;a href=&quot;http://www.gnu.org/licenses/agpl.html&quot;&gt;GNU AGPL-3.0&lt;/a&gt;　授權釋出，程式語言方面則是採用 Python 來撰寫，故使用者除了可以很輕易的取得它的程式源碼 (Source Code) 之外，若本身具有程式撰寫能力的話，亦可隨意的調整它的功能，客製出各項需求的模組！而對一般單純使用者來說，在程式應用上若有任何的問題，亦可於 MediaGoblin 的官方網站找到詳細的支援指南 (MediaGoblin wiki: &lt;a href=&quot;https://wiki.mediagoblin.org/Main_Page&quot;&gt;https://wiki.mediagoblin.org/Main_Page&lt;/a&gt;)。可說，這樣豐富的應用資源，已經能夠滿足任何想要永續經營多媒體分享平台的必備條件，故以下，筆者將簡要的為讀者介紹，推薦使用 MediaGoblin 做為素材 (Material) 釋出平台的理由，以及如何簡單的將它架設起來進行運用！&lt;/p&gt;
+
+&lt;h3&gt;為何選擇 MediaGoblin 呢？&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;該專案隸屬於 GNU Project 群體下，這表示它是一個具有發展潛質的開源軟體專案，不易發生專案日後無人維護的狀況。&lt;/li&gt;
+	&lt;li&gt;由於其開放源碼之故，使用者可以查看軟體本身的程式源碼，只要具有該領域的軟體撰寫能力，後續便可以依己意自由地修改及客製化想要的功能。&lt;/li&gt;
+	&lt;li&gt;對平台上的素材，提供完整的創用CC 授權及其他公眾授權方式的設置選項。&lt;/li&gt;
+	&lt;li&gt;建置後設資料 (metadata) 的方式，與其他軟體相較頗為簡便與容易。&lt;/li&gt;
+	&lt;li&gt;支援非常多的多媒體及文件檔案格式，如下表所列。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table class=&quot;addborder&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;Image&lt;/td&gt;
+			&lt;td&gt;&#039;png&#039;, &#039;gif&#039;, &#039;jpg&#039;, &#039;jpeg&#039;, &#039;tiff&#039;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;Video&lt;/td&gt;
+			&lt;td&gt;&#039;mp4&#039;, &#039;mov&#039;, &#039;webm&#039;, &#039;avi&#039;, &#039;3gp&#039;, &#039;3gpp&#039;, &#039;mkv&#039;, &#039;ogv&#039;, &#039;m4v&#039;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;ASCII&lt;/td&gt;
+			&lt;td&gt;&#039;txt&#039;, &#039;asc&#039;, ‘info&#039;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;Other&lt;/td&gt;
+			&lt;td&gt;PDF、Stl (3D model)、Audio&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;那麼，若是使用者想要自行架設 MediaGoblin 的話，應該如何進行呢？為了協助大家讓安裝過程更簡易可親，降低自行架設及後續客製化的門檻，台灣創用CC 計畫在去年度 (2013) 開始，洽詢了 ＭediaGoblin 團隊的核心開發者，在共同討論與共工努力之後，協力改善了該專案的一些功能，包括：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;懶人安裝包 (easy install)：透過安裝互動介面問與答的方式，讓安裝過程更簡便。&lt;/li&gt;
+	&lt;li&gt;批次上傳 (batch upload)：讓 MediaGoblin 能更穩定地批次上傳多筆圖檔，並包含圖檔的 Metadata 等內容描述，也可以在一個步驟的操作裡被更新。&lt;/li&gt;
+	&lt;li&gt;簡易首頁設計 (feature management)：簡易的首頁設置，使用者可指定幾張上傳的圖片，作為首頁圖示，以達到首頁展示上更佳的視覺化效果。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;接下來就讓我們來進行如何安裝架設 MediaGoblin 吧!  本期專文先介紹安裝的部份，至於批次上權及簡易首頁設計的部份，筆者會在另文介紹。&lt;/p&gt;
+
+&lt;h3&gt;如何架設 MediaGoblin？&lt;/h3&gt;
+
+&lt;p&gt;以下安裝展示，是在作業系統 Ubuntu Linux 12.04 下進行示範，故透過終端機視窗下輸入指令的方式來進行。您可以從本文所附的&lt;a href=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/mediagoblin_easy_install-0.7.tgz&quot;&gt;安裝檔&lt;/a&gt;，直接下載已客製化過的檔案進行安裝，或亦可從 MediaGoblin 官方網站提供的下載連結，來得到安裝檔案。&lt;/p&gt;
+
+###
+
+&lt;h4&gt;Step 1：將　mediagoblin_easy_install.tar.gz　解壓縮之後進入資料夾。&lt;/h4&gt;
+
+&lt;pre&gt;
+&lt;code&gt;
+tar zxvf mediagoblin_easy_install.tar.gz  &lt;br&gt;
+cd mediagoblin_easy_install-0.7/
+&lt;/code&gt;
+&lt;/pre&gt;
+
+於此資料夾目錄下輸入下列指令，以執行安裝檔：
+&lt;pre&gt;
+&lt;code&gt;
+sudo ./run_easy_install  
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;h4&gt;Step 2：此步驟會先問您，需不需要使用 nginx (web server) 來架設服務。&lt;/h4&gt;
+&lt;pre&gt;
+&lt;code&gt;
+How would you like to serve your website?
+  0    Locally, (Choose this if you just want to view the website yourself, such as for testing or development)
+  1    Using nginx (Choose this if you want your website to be accessible to users outside your network)
+&gt; 1
+&lt;/code&gt;
+&lt;/pre&gt;
+若您要架設的 MediaGoblin 平台要提供對外服務，請選擇 nginx，輸入 1，若只是本機端自行建置測試使用，則選擇0。&lt;br&gt;
+
+而本範例選擇１執行。&lt;br&gt;
+
+&lt;h4&gt;Step 3：接著問您的電腦系統是屬於下面哪一類。 &lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;
+What linux distribution are you using?
+  0    A Debian-Based Distribution (ie. Ubuntu, LinuxMint, Debian)
+  1    A Redhat-Based Distribution (ie. Fedora, CentOS)
+  2    I&#039;m using an OS other than linux
+&gt; 0
+&lt;/code&gt;&lt;/pre&gt;
+此處的範例為 Ubuntu 12.04，故選擇 0 &lt;br&gt;
+
+&lt;h4&gt;Step 4：如果您所架設的服務是要對外開放，請在此輸入您要使用的網域名稱，若是在近端機器進行測試，則直接輸入 localhost。&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;
+What will you use as the domain name of the website you are setting up? For
+instance you may enter:
+&gt; mediagoblin.thisisanexample.org. 
+
+Please enter the domain name and the suffix (.com, .org, etc) but leave out the &quot;www.&quot; and the &quot;http://&quot;
+&gt;yourdomainname.tw 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4&gt;Step 5：這部分是要問您，想把 MediaGoblin 安裝在哪一個資料夾。&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;
+In what directory will you place your mediagoblin server?
+Examples: /srv/ or /home/&lt;your username&gt;/
+  0    /srv/&lt;new directory&gt;
+  1    /home/mediagoblin/&lt;new directory&gt;
+  2    I want to choose a different directory location
+&gt; 1
+&lt;/code&gt;&lt;/pre&gt;
+若您輸入 2 選擇自設路徑的話，它會問：&lt;br&gt;
+&lt;pre&gt;&lt;code&gt;
+Where will you place this directory?  
+&lt;/code&gt;&lt;/pre&gt;
+
+此時再將您想安裝的絕對路徑貼上去。  &lt;br&gt;
+在此範例中，筆者以安裝至家目錄，也就是選擇１。&lt;br&gt;
+
+
+&lt;h4&gt;Step 6：接著安裝程式，會問您想用哪一類型的資料庫系統，來輔助 MediaGoblin 的運作。&lt;/h4&gt;
+如果您預計會許多的使用者，共同使用存取這個多媒體平台，那請選擇 1 - 安裝 PostGreSQL 這套以 BSD-like 授權方式提供的開源資料庫；反之，若是輕簡並不會有太多使用者的平台，則可選擇 0 - 安裝 SQLite 這套開源，並將著作權貢獻給公眾領域的輕簡資料庫程式。&lt;br&gt;
+
+&lt;pre&gt;&lt;code&gt;
+We&#039;re deciding what type of database to use. Will your server be a small server or will it be often used by many users?
+  0    A Small Server that recieves little traffic (This will install SQLite3 as
+       your database management system)
+  1    Large or Medium server often viewed by many visitors (This will install PostGreSQL as your database management system)
+&gt; 1
+&lt;/code&gt;&lt;/pre&gt;
+
+接下來會安裝你所選擇的資料庫系統，過程中會有一些系統詢問是否要確定安裝的問題，請直接回答 Y
+&lt;pre&gt;
+&lt;code&gt;
+...
+After this operation, 63.2 MB of additional disk space will be used.
+Do you want to continue [Y/n]? Y
+&lt;/code&gt;
+&lt;/pre&gt;
+
+&lt;h4&gt;Step 7：前面幾個問題都輸入完之後，便會開始進入安裝階段，若一切資料皆輸入正確的話，應會出現下列畫面。&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;
+...  &lt;br&gt;
+	Cleaning up...  
+	-&gt; Initializing main mediagoblin tables... done. 
+		+ Laying foundations for Privilege table  
+	-&gt; Initializing plugin &quot;mediagoblin.media_types.image&quot;... done.  
+	Database set up successfully!  
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4&gt;Step 8：開啟啟動服務 &lt;/h4&gt;
+完成上列的步驟之後，在您選擇安裝的路徑下，會多出一個以您輸入域名為檔名的資料夾，在此範例之中筆者在Step5時，選擇使用１家目錄的部份，故直接以 cd 指令進入該資料夾。&lt;br&gt;
+
+&lt;pre&gt;&lt;code&gt;
+cd  /home/mediagoblin/yourdomainname.tw/
+&lt;/code&gt;&lt;/pre&gt;
+&lt;br&gt;
+
+&lt;p&gt;進入資料夾後，若是在一開始的 Step 2 設定步驟，選擇使用本機端 (Locally)，沒有指定要用 nginx，則輸入： &lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;
+sudo -u mediagoblin ./lazyserver.sh  
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;而若是在 Step2 選擇１使用 nginx的話，則輸入下列兩行指令：啟用 nginx 及跑　nginx Server。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;
+sudo /etc/init.d/nginx restart&lt;br&gt;
+sudo -u mediagoblin ./lazyserver.sh --server-name=fcgi fcgi_host=127.0.0.1 fcgi_port=26543
+&lt;/code&gt;&lt;/pre&gt;
+
+
+&lt;p&gt;一切順利的話，應該會顯示如下的資訊： (以下為使用 nginx 的啟動訊息)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;
+Using paster config: paste.ini  &lt;br&gt;
+	Using ./bin/paster  &lt;br&gt;
+	+ export CELERY_ALWAYS_EAGER=true  &lt;br&gt;
+	+ ./bin/paster serve paste.ini --server-name=fcgi fcgi_host=127.0.0.1 fcgi_port=26543 --reload  &lt;br&gt;
+	Starting subprocess with file monitor  &lt;br&gt;
+	2014-07-29 14:43:59,467 INFO    [mediagoblin.app] GNU MediaGoblin 0.6.2.dev main server starting  &lt;br&gt;
+	2014-07-29 14:43:59,540 INFO    [mediagoblin.app] Setting up plugins.  &lt;br&gt;
+	2014-07-29 14:43:59,540 INFO    [mediagoblin.init.plugins] Importing plugin module: mediagoblin.plugins.geolocation  &lt;br&gt;
+	2014-07-29 14:43:59,540 INFO    [mediagoblin.init.plugins] Importing plugin module: mediagoblin.plugins.basic_auth  &lt;br&gt;
+	2014-07-29 14:43:59,540 INFO    [mediagoblin.init.plugins] Importing plugin module: mediagoblin.media_types.image  &lt;br&gt;
+	2014-07-29 14:43:59,683 INFO    [mediagoblin.init.celery] Setting celery configuration from object &quot;mediagoblin.init.celery.dummy_settings_module&quot;  
+	&lt;div class=&quot;tag&quot;&gt;Starting server in PID 4439. &lt;/div&gt; &lt;br&gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4&gt;Step 9：開啟瀏覽器，準備操作 Mediagoblin。&lt;/h4&gt;
+
+&lt;p&gt;在這個步驟，請打開任何一款瀏覽器軟體，並在網址列輸入您在安裝過程中個別指定的域名，在本範例為 yourdomainname.tw  ，則您所自行架設的 MediaGoblin 系統便會顯示出來了。&lt;/p&gt;
+
+&lt;p&gt;而假若您在 Step 2 的步驟是選擇使用本機端 (Locally) ，本機端的測試使用的話，則在 Step 8   的成功訊息最底下會顯示本機端的路徑(URL) 。通常若未特別改設定的話，為 http://127.0.0.1:6543 ，直接複制此路徑至瀏覽器即可。&lt;/p&gt;
+
+###
+
+&lt;p&gt;以上，就是使用 MediaGoblin  easy install 的安裝流程，此安裝完後的 Mediagoblin 具基本的圖片及地理位置定位 (Geolocation) 的功能，若讀者想要再加入其他的功能包含影音、3D模組等，需另外再設定，筆者後續會在另文介紹。由於在安裝過程中，依照不同的作業系統環境會有些許的差異，若讀者安裝過程不是這麼順利，歡迎寄信至本文筆者的信箱：allywang AT iis.sinica.edu.tw，我們共同來討論研究。。&lt;/p&gt;
+
+&lt;p&gt;整體來說，當前的 MediaGoblin 的架設與運用，對於一般完全不懂 Linux 技術詞彙及架設步驟的使用者來說，確實有些門檻。但是，若為一般組織，或是有一點開源軟體技術背景的使用者，則 MediaGoblin 所能帶來的支援功能，實在是相當吸引人！故若使用者不想要受限於，完全無客製可能性的商用多媒體平台的話，那麼 MediaGoblin 正是一個趁手可用的代換選項，對於一般使用者來說，其可以儲放個人家庭所有的影音及照片，並能很方便的分享給家庭成員；而對於個別組織來說，甚至是文件，都可以利用它來進行內部或外部分享。&lt;/p&gt;
+
+&lt;p&gt;此外，因應今年的「公眾領域之實務與藏庫」計畫 ( Practices and Depositories for The Public Domain, 簡稱&lt;a href=&quot;http://pd4pd.org&quot;&gt; PD4PD &lt;/a&gt; ) 成果釋出，台灣創用CC 計畫有幸參與近期與 MediaGoblin 專案的功能協作，我們也架設了一個以 MediaGoblin 為基礎的公眾領域釋出平台 - &lt;a href=&quot;http://publicdomain.tw&quot;&gt;http://publicdomain.tw&lt;/a&gt; 。目前已放置日據時代的台灣堡圖，我們也誠摯的歡迎大家若擁有想要釋出的公眾領域素材， 亦可與我們聯繫，放置於這個平台上。&lt;/p&gt;
+
+&lt;p&gt;對於一個自由軟體來說，需要有更多社群開發者的力量投入，未來發展才能平步青雲，若讀者對於這個專案有興趣的話，歡迎自主加入共工的行列，以讓這樣富延展性，並給予使用者最大自主權限的開源專案，能一步一步發展出更多更好更完善的功能！&lt;/p&gt;
+
+若讀者想要了解或支持 MediaGoblin 專案的話，可參考以下網址:
+&lt;li&gt;MediaGoblin 官方網站: &lt;a href=&quot;http://mediagoblin.org/&quot;&gt;http://mediagoblin.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;贊助 MediaGoblin  :&lt;a href=&quot;http://mediagoblin.org/pages/campaign.html&quot;&gt;http://mediagoblin.org/pages/campaign.html &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;LINUX Magazine: &lt;a href=&quot;http://www.linux-magazine.com/Online/Features/MediaGoblin-Saving-the-Internet-Through-Federation&quot;&gt;MediaGoblin: Saving the Internet Through Federation&lt;/a&gt;&lt;/li&gt;
+
+&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/indepth-img/mediagoblin_postcard-preview9_0.png&quot; style=&quot;margin:10px; width:650px&quot; /&gt;
+&lt;div style=&quot;text-align:center;padding-bottom:10px;&quot;&gt;(GNU MediaGoblin Post Card (CC-BY-SA 3.0 Unported licensed)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 07 Nov 2014 02:15:09 +0000</pubDate>
+ <dc:creator>ally</dc:creator>
+ <guid isPermaLink="false">1069 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/1069#comments</comments>
+</item>
+</channel>
+</rss>

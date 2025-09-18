@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - CC</title>
+ <link>https://creativecommons.tw/taxonomy/term/2998</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>你的網路有多快？ - MLab 把他們的調查分析都 Open Data 了！</title>
+ <link>https://creativecommons.tw/blog/20161207</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/Screen-Shot-2016-11-30-at-4.42.00-PM-1024x576.png?itok=-TWaaBdf&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;em&gt;Introduction to Measurement Lab: &lt;a href=&quot;https://youtu.be/RnIVMfBP4So&quot; target=&quot;_blank&quot;&gt;https://youtu.be/RnIVMfBP4So&lt;/a&gt;, 2011 New America, &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/&quot; target=&quot;_blank&quot;&gt;CC BY 3.0&lt;/a&gt;.&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;Open Data(開放資料)並不僅僅是政府的事！雖然近年在這個領域最常被討論的是政府資料開放、或稱開放政府資料 (Open Government Data)，事實上開放政府這個概念於 1950 年美國境內關於「資訊自由法 (Freedom of Information Act, FOIA）的辯論已經出現，只是在近代的浪潮裡被注入數位與網路提供的新元素。而近年在討論到 Open Data 時，初期多討論的是如何促進政府機關構以更開放的立場、態度，及格式來提供資料，那是因為大量資料被屯儲於公務單位裡，若能就此寶庫先行取得一些成果，對整體開放資料的發展能帶來很大的效益，然而，學術領域與商用領域也必須隨後跟進，如此 Open Data 才能在長期發展下，形成一個豐富應用的生態系 (ecosystem)，Measurement Lab 這個具有學術研究並商業發展雙重面向的單位，已率先將其調查分析所得的相關資料，自行採 CC0 - 公眾領域貢獻宣告的方式，Open Data 出來給不特定多數人皆可不受限制利用，非常具有長期觀察的價值！&lt;/p&gt;
+
+&lt;p&gt;Measurement Lab(以下簡稱 MLab)是一個由 New America 開放科技研究所、Google 開源研究、Princeton 大學 Planet 實驗室，及其他許多學術與商業機構共同合作的協力專案。當前我們都知道網際網路對人們的生活與影響力愈來愈大，所以網速與網路活動的分析，所能帶來的事務分析與說明亦極富價值，多數商業公司在進行相關的研究調查時，會將相關資料與資訊皆視為重要資產、不傳之秘，但 MLab 反其道而行，不但所使用的調查研究工具皆採開源授權的方案，供所有人能自由下載進行衍生開發，對近年調查所得的資料，亦採 CC0 - 公眾領域貢獻宣告，以權利人的角度將其進行著作權利拋棄的宣示，也就是說，相關資料不但能直接從網路取得，並且日後能被用於任何目的，而不會受到著作權利相關的限制。&lt;/p&gt;
+
+&lt;p&gt;Chris Ritzo、Georgia Bullen、Alison Yost、Collin Anderson，以及 Stephen Stuart 這些 MLab 的重要參與人員，近期接受 CC總部的訪問。其分享網路狀態的度量與分析 (Internet Measurement)，是一件基礎，卻對所有人都有高度影響力的事，消費者也許單純只是想知道他們租用的網路服務，是不是真正達到業者承諾的速度；但對網路提供者或網路服務業者來說，這些資料將有助其改善未來商業服務的架構，以有限的資源提供更好的服務；對於公民團體或人權組織來說，具體取得這些資料更有助於分析是否有網路監管或監視狀況產生，而鑑於近年多數這樣的量測結果，都是由商業公司主導，而未將成果與公眾共享，而這與網際網路公眾得以公開近用、不受特定限制的基本架構並不相合，而不同機構所作的調查，亦難以進行一個結合分析的綜效。&lt;/p&gt;
+
+&lt;p&gt;MLab 和許多研究機構合作，亦不是說要求每個研究機構都採用 CC0 全然拋棄資料可能有的著作權利，在個案上 MLab 有時會同意一些研究者暫不提供授權，等到其研究成果完成初始發表之後再來處理，不過整個大原則就是盡量採用資料需對公眾開放的態度來做這件事。至於 MLab 自己網路上託管的資料，則悉採 CC0 的主要原因，在於該專案一開始設立的緣由之一，就是希望資料來源及其應用方式可以客觀而多元，故而採行公眾授權的方式來釋出資料，能夠與參與者之間產生互信關係；另一個原因就是，科學客觀性的建立，在於實驗或分析數據能夠公開，所以研究成果的發表也必須有相關資料的輔助，才能建立其信度與效度，然而多數研究機構並無法從商業組織取得合法授權的網路分析資料，多數商業公司的使用條款皆禁止這些資料被做衍生應用，而即使依法解釋商業公司未必能全然做這樣的要求，然進一步使用資料，如何做去識別化處理，也可能耗時並充滿合法標準模糊的不確定性；而即使像 Princeton 大學研究室能自主建立一個網路資料的收集平台，但其分析範圍也不一定能廣及終端消費者的網路行為，在這種種前提下，MLab 應勢而生，MLab 一開始的設立目標就是要將研究分析成果與公眾共享，形成一個公眾皆可共享的公眾資材 (commons)，所以這是取用 CC0 的主要原因。&lt;/p&gt;
+
+&lt;p&gt;透過 MLab 專案設計的使用與隱私權條款，所有相關工具與網路服務的使用者，都清楚被告知相關資料將被除去個人資料 (Personal Data) 之後進行統計分析，而這些統計分析的成果，亦會歸公眾所用，而不會被限定在特定商業公司或政府機關構內部。與此相近的國內實例，有台灣野生動物路死觀察網 (Taiwan Roadkill Observation Network，路殺社)，路殺社相關資料透過自行量測與公眾貢獻等多元方式取得，統整驗證後的具體成果，多採用 創用CC 姓名標示 3.0 台灣版 條款 (CC BY 3.0 TW) 授權公眾使用。與這些少數的開放授權案例相較，目前網路撈取分析資料的實狀，仍較近於 2010 年 Pete Warden 發表部落格文 - 我如何被 Facebook 聯繫要告 (How I got sued by Facebook) 的狀態，該文說明 Pete Warden 因為驗證分析上的需求，依照 Facebook 揭露的 robot.txt 文件，撰寫了網路爬蟲程式在 Facebook 上捉取他需要的資訊，在他對公眾說明相關方式與成果後，卻為 Facebook 聘僱的律師告知，若不是因為 Pete Warden 之前曾善意舉報一些 Facebook 平台上的安全性漏洞，不然 Facebook 曾考量直接對他發動訴訟，因為即使 Pete Warden 依照 Facebook 主動揭露 robot.txt 文件的技術容許規格來撈取資訊，從使用條款的角度這仍然沒有取得 Facebook 正式的書面授權，而有違法侵權的疑慮必須解決，最後此事以和解收場，Pete Warden 無奈的將其觀測成果及其衍生分析全然銷毀。然而，如果能透過公私協力的角度，促生更多如 MLab 或路殺社這樣的公民科學、開放資料分享平台能推出，則網路資訊實證分析這件事，將能被做的更適法、適當，而不會讓使用者一直處於標準不一、難以放心的研究窘境。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;How fast is your internet? How MLab uses CC0 data for the public interest: &lt;a href=&quot;https://creativecommons.org/2016/11/30/mlab/&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/2016/11/30/mlab/&lt;/a&gt;, 2016 Jennie Rose Halperin, CC BY 4.0.&lt;/li&gt;
+	&lt;li&gt;Introduction to Measurement Lab: &lt;a href=&quot;https://youtu.be/RnIVMfBP4So, 2011 New America&quot; target=&quot;_blank&quot;&gt;https://youtu.be/RnIVMfBP4So, 2011 New America&lt;/a&gt;, CC BY 3.0.&lt;/li&gt;
+	&lt;li&gt;Measurement Lab: &lt;a href=&quot;https://www.measurementlab.net/&quot; target=&quot;_blank&quot;&gt;https://www.measurementlab.net/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;開放政府資料的基本原則與相關政策議題：&lt;a href=&quot;http://www.ndc.gov.tw/Content_List.aspx?n=77B170ACDA8F8252&quot; target=&quot;_blank&quot;&gt;http://www.ndc.gov.tw/Content_List.aspx?n=77B170ACDA8F8252&lt;/a&gt;，2014 李治安、林誠夏、莊庭瑞，公共治理季刊 103 年 3 月第二卷第一期。&lt;/li&gt;
+	&lt;li&gt;台灣野生動物路死觀察網 (Taiwan Roadkill Observation Network)：&lt;a href=&quot;https://roadkill.tw/&quot; target=&quot;_blank&quot;&gt;https://roadkill.tw/&lt;/a&gt;，網站內容採用 創用CC 姓名標示 3.0 台灣版 條款授權公眾使用。&lt;/li&gt;
+	&lt;li&gt;How I got sued by Facebook: &lt;a href=&quot;https://petewarden.com/2010/04/05/how-i-got-sued-by-facebook/&quot; target=&quot;_blank&quot;&gt;https://petewarden.com/2010/04/05/how-i-got-sued-by-facebook/&lt;/a&gt;, 2010 Pete Warden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 07 Dec 2016 05:26:40 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1246 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20161207#comments</comments>
+</item>
+<item>
+ <title>他山之石 - rightsstatements.org 對開放文化館藏的啟發與探討（下）</title>
+ <link>https://creativecommons.tw/blog/20161206</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/20161205.png?itok=DNqol-mL&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;em&gt;Three Categories of Rights Statements at: &lt;a href=&quot;http://rightsstatements.org&quot; target=&quot;_blank&quot;&gt;rightsstatements.org&lt;/a&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【Rights Statements十二款標準分項的簡介與說明】&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;基本上，Rights Statements 對其十二款標示分項，是先以三大分類為基礎，先將數位館藏素材大分為：一、素材仍受著作權利保護，二、素材已不受著作權利保護，以及三、素材著作權利狀態未明，等三個態樣，其後再依應用差異性，來劃分各分類裡的次要分項，以下羅列並提供這十二款標示的基礎簡介與說明。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;一、素材仍受著作權利保護 (Statements for works that are in copyright)&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;1. 著作權利所有-僅得以主張合理使用 (IN COPYRIGHT)：InC 指示該素材仍在著作權利保護範圍之內，其能提供公開披露的權利基礎，為依其著作權利人本身之意願，或已得其著作權利人同意，或者依各國著作專屬權例外及限制 (exception and limitation) 之規定，例如援引合理使用 (Fair Use) 以較低解析模式提供公眾瀏覽，故這類的素材，後續的引用及再利用，基本上利用人亦僅能在個案裡主張合理使用，並自負合理使用判定的法律風險。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. 著作權利所有-孤兒著作 (IN COPYRIGHT - EU ORPHAN WORK)：InC-OW-EU 指示該素材依歐盟 2012/28/EU 號法律指令，可被歸類於孤兒著作。故而文化館藏機構對於這些孤兒著作具有較高的公開披露地位，而使用者在踐履 2012/28/EU 號法律指令內國法化的法律流程後，亦有機會於歐盟境內，提存一筆核定的授權金額後，對這些孤兒著作進行核內範圍內的利用。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;3. 著作權利所有-僅供教育目的使用 (IN COPYRIGHT - EDUCATIONAL USE PERMITTED)：InC-EDU 指示該素材仍在著作財產權保護期間，然而依其著作權利人本身之意願，或已得其著作權利人同意，得公開披露並供一般使用者，基於教育目的來使用這些素材。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;4. 著作權利所有-僅供非商業目的使用 (IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED)：InC-NC 指示該素材仍在著作財產權保護期間，然而依其著作權利人本身之意願，或已得其著作權利人同意，得公開披露並供一般使用者，基於非商業性之目的來使用這些素材。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;5. 著作權利所有-無既存之著作權利人 (IN COPYRIGHT - RIGHTS-HOLDER(S) UNLOCATABLE OR UNIDENTIFIABLE)：InC-RUU 指示館藏機構確信該素材仍在著作財產權保護期間內，然而經過相當程度的調查後，仍無法確認其著作權利人身份，或無法聯繫到其著作權利人。此一標示與孤兒著作標示 InC-OW-EU 不會併行存在，在歐盟領域若文化素材可被認定為孤兒著作，則應依 2012/28/EU 號法律指令，將其標示為 InC-OW-EU，但在其他未建立孤兒著作彈性利用機制的國家，則可將這些孤兒狀態的著作，列入 InC-RUU 分項下。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;二、素材已不受著作權利保護 (Statements for works that are not in copyright)&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;6. 著作權利沒有-契約條件限制 (NO COPYRIGHT - CONTRACTUAL RESTRICTIONS)：NoC-CR 指示該素材原件於著作財產權的層次，已不再受到保護而進入到公眾領域，然而該素材的提供機構，於其數位重製格式上另加上契約性的限制條款，此種狀況舉例來說，提供機構可能基於類似我國的文化資產保存法，對該素材原件具有特別監製或其他管理地位，需要注意的是，使用該標示須明確提供限制利用條款的網頁連結，以供使用者進一步了解相關細節。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;7. 著作權利沒有-僅供非商業目的使用 (NO COPYRIGHT - NON-COMMERCIAL USE ONLY)：NoC-NC 指示該素材之數位重製格式雖位於公眾領域，然製作之初可能基於公私部門協力的契約關係，在一定期間之內不能逕行提供商業目的之使用，例如歐洲部份圖書館與 Google 在公眾領域館藏數位化的合作案，其成果部份即採此一模式進行公眾提供，但限定非商業性使用之目的，以相當程度保障 Google 提供技術、資財建置該數位資料庫的必要利益，此一權利標示可視為前一細項 NoC-CR 之變體。&lt;/p&gt;
+
+&lt;p&gt;8. 著作權利沒有-使用可能受其他法律限制 (NO COPYRIGHT - OTHER KNOWN LEGAL RESTRICTIONS)：NoC-OKLR 指示該素材之數位重製格式已位於公眾領域，然而是否能夠符合特定目的之利用，仍須評估其他相關法律之限制，例如文化資產保存、傳統文化表達 (Traditional cultural expression) 等相關法律。舉例來說，我國近年修訂通過的「原住民族傳統智慧創作保護條例」即為此類相關法律。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;9. 著作權利沒有-美國聯邦著作 (NO COPYRIGHT - UNITED STATES)：美國著作權法於其 105 條有個獨特設計，其律定美國聯邦政府所產出的所有作品，皆不受著作權利的保護，而能夠被不特定國民，自由的重製、散布、改作、公開展示。然而，基於智慧財產權領域的國際互惠原則，美國聯邦政府的作品對其國民不得主張著作權利的保護，不代表這些作品對其他國家的國民，也必然進入了使用上不受限制的公眾領域。故而 NoC-US 指示該素材為美國聯邦政府特別屬性之作品，美國國民在利用上不受著作權利限制，但在其他司法管轄領域仍需例外進行判斷。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;三、素材著作權利狀態未明 (Statements for works where the copyright status is unclear)&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;10. 著作權利不清-未經實質評估 (COPYRIGHT NOT EVALUATED)：CNE 指示該素材的著作權利狀態未明，且基本上仍未經任何合理流程的評估。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;11. 著作權利不清-重要評量要素未明 (COPYRIGHT UNDETERMINED)：UND 指示該素材的著作權利狀態未明，但館藏機構已盡合理流程進行評估，但當前進度是欠缺重要決定因素的確認，故暫時仍以未明來進行標示。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;12. 著作權利不清-無已知著作權利限制 (NO KNOWN COPYRIGHT)：NKC 指示該素材的著作權利狀態未明，館藏機構已盡合理流程進行評估，始終欠缺重要決定因素的確認，然亦有相當理由可推論其已逾著作權利保護期間，故以「無已知著作權利限制」之字句進行標示，此一權利狀態標示的著例，有 Flickr 進行有年，並得到相當數量文化館藏機構參與的公眾相簿計畫。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【Rights Statements 與創用CC 授權條款及相關宣告的競合關係】&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;
+&amp;nbsp;&lt;br /&gt;
+Rights Statements 和既存的公眾散布機制，是處於相輔相乘、互相填補的定位，進一步來說，Rights Statements 並沒有創設任何新的授權條款或權利宣告模組，它僅是在既成的架構下，疏導特色相近的授權模式能被統合分類，以讓使用者在瀏覽相關數位素材時，能收一目了然、快速領略其基礎使用狀態之效。故其白皮書裡明白表示，在「素材仍受著作權利保護」的分類，若館藏機構已就素材進行妥善盤點，則建議採用符合個案管理政策的創用CC 授權條款來釋出這些素材；而在「素材已不受著作權利保護」的分類，當素材在盤點過後很清楚已置於公眾領域，且無其他不必要的契約與相關法律限制利用，則應逕以公眾領域標章 (Public Domain Mark, PDM) 或公眾領域貢獻宣告 (CC0) 來進行散布，唯有在無法完全依照 PDM 或 CC0 散布時，才去額外以 Rights Statements，提醒使用者必須進一步知悉該素材額外受到限制的利用狀態；最後在「素材著作權利狀態未明」的分類，亦有論者指出，若是權利狀態未明，為何要逕行進行公眾披露？但從務實面與積極面而言，進行公開披露亦可視為透過公眾協力舉報、回報的模式，來協助託管藏品之文化機構，能夠進一步確認該素材的權利狀態，所以未經評估、要素未明，以及無已知著作權利限制，其實有其未明狀態的時序階段與差異，從未評、未明，到無已知限制，最後在相關期間未有異議，或群眾協助提供重要決定因素可供確認之後，則有機會正式讓該素材，得以被採公眾領域標章進行標示。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;基本上，Rights Statements 這三大分類、十二細項的文化館藏權利標示的模式，在我國亦多能被直接適用，在統合各個文化館藏自訂提供模式讓公眾了解的面向，更具有他山之石，可以攻錯的參考價值。且就現行普遍流通的創用CC 授權條款及其他公眾授權條款，得收相互輔助之效。唯有美國聯邦著作 - NoC-US 的標示，於我國著作權法框架上並無對應機制，除此之外，孤兒著作 - InC-OW 此一標示，亦有機會略加調整之後，改為適用近年新修訂之文化創意產業發展法，在二十四條項下提存使用報酬後經專責機關許可授權使用之配套。且其於權利盤點上揭示的分階機制，亦相當程度有助於文化館藏機構，據以學習先採輕簡盤點後進行素材公開披露，後續再集中資源釐清重要專案的權利狀態，以妥善文化素材開放授權的後續舉措，並收積極施政令民眾有感之效。&amp;nbsp;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Rightsstatements.org White Paper - Recommendations for Standardized International Rights Statements: &lt;a href=&quot;http://rightsstatements.org/files/160208recommendations_for_standardized_international_rights_statements_v1.1.pdf&quot; target=&quot;_blank&quot;&gt;http://rightsstatements.org/files/160208recommendations_for_standardized_international_rights_statements_v1.1.pdf&lt;/a&gt;, 2015 International Rights Statements Working Group, CC0-1.0.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Rightsstatements.org White Paper - Requirements for the Technical Infrastructure for Standardized International Rights Statements: &lt;a href=&quot;http://rightsstatements.org/files/160322requirements_for_the_technical_infrastructure_for_standardized_international_rights_statements_v1.1.pdf&quot; target=&quot;_blank&quot;&gt;http://rightsstatements.org/files/160322requirements_for_the_technical_infrastructure_for_standardized_international_rights_statements_v1.1.pdf&lt;/a&gt;, 2015 International Rights Statements Working Group, CC0-1.0.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;The Directive on the re-use of public sector information (Directive 2013/37/EU): &lt;a href=&quot;https://ec.europa.eu/digital-single-market/en/european-legislation-reuse-public-sector-information&quot; target=&quot;_blank&quot;&gt;https://ec.europa.eu/digital-single-market/en/european-legislation-reuse-public-sector-information&lt;/a&gt;, 2013 European Parliament and European Council.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Due Diligence, Futile Effort: Copyright and the Digitization of the Thomas E. Watson Papers: &lt;a href=&quot;http://americanarchivist.org/doi/pdf/10.17723/aarc.73.2.16rh811120280434&quot; target=&quot;_blank&quot;&gt;http://americanarchivist.org/doi/pdf/10.17723/aarc.73.2.16rh811120280434&lt;/a&gt;, 2010 Maggie Dickson.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;DPLA Licenses: &lt;a href=&quot;http://www.deanfarr.com/viz/rights.php&quot; target=&quot;_blank&quot;&gt;http://www.deanfarr.com/viz/rights.php&lt;/a&gt;.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Copyright Law of the United States of America, § 105. Subject matter of copyright: United States Government works: &lt;a href=&quot;http://www.copyright.gov/title17/92chap1.html#105&quot; target=&quot;_blank&quot;&gt;http://www.copyright.gov/title17/92chap1.html#105&lt;/a&gt;.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Flickr 公眾相簿計畫：&lt;a href=&quot;https://www.flickr.com/commons/usage/&quot; target=&quot;_blank&quot;&gt;https://www.flickr.com/commons/usage/&lt;/a&gt;。&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;文化創意產業發展法第 24 條：&lt;a href=&quot;http://law.moj.gov.tw/LawClass/LawSingle.aspx?Pcode=H0170075&amp;amp;FLNO=24&quot; target=&quot;_blank&quot;&gt;http://law.moj.gov.tw/LawClass/LawSingle.aspx?Pcode=H0170075&amp;amp;FLNO=24&lt;/a&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 06 Dec 2016 10:54:45 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1245 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20161206#comments</comments>
+</item>
+<item>
+ <title>他山之石 - rightsstatements.org 對開放文化館藏的啟發與探討（上）</title>
+ <link>https://creativecommons.tw/blog/20161205</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/20161205.png?itok=DNqol-mL&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;em&gt;Three Categories of Rights Statements at: &lt;a href=&quot;http://rightsstatements.org&quot; target=&quot;_blank&quot;&gt;rightsstatements.org&lt;/a&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;文化館藏基礎權利標示 (RightsStatements.org) 是一個由歐洲數位典藏平台 - Europeana Collections 與美國數位公眾圖書館 (Digital Public Library of America ,DPLA) 共同發起的協力專案，該專案目前由 Knight Foundation 及歐洲執行委員會 (European Commission) 共同浥注資金，建置與討論過程裡，也廣邀創用CC 總部與全球合作網絡的主要成員參與提供意見。此一文化館藏權利標示套件的主要建置目的，在於協助跨界跨域的美術館、圖書館、檔案館，以及博物館，能以最淺顯方便的標示模式，來述明自身數位館藏最基礎的權利狀態，從而便利、加速該數位素材的流通與被使用。簡要來說，Rights Statements 主要的服務對象，便是 Europeana 與 DPLA，這般會群聚各方數位文化素材的託管平台，因相關素材的貢獻者來自四面八方，其來源皆各有本來的授權配置，故若能統一以標準化、簡單化，並且輔以鍵結技術為索引基礎的 Rights Statements 來進行表述，便能相當程度強化文化館藏數位化分享上的深度與廣度。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【深度權利盤點曠日費時且不具全面執行性】&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;拜近年數位化科技進步之賜，許多美術館、圖書館、檔案館與博物館，得以逐步將其典藏素材進行數位化重製，以探究採遠端、彈性方式，提供是類素材能被便利欣賞或使用的可行性。而在歐洲的發展，因應歐盟公部門資訊再利用指令 (Directive 2013/37/EU) 於 2013 年的增補與修改，公部門資訊再利用的適用對象，已擴張到公有或公資營運的圖書館（包含大學裡設置之圖書館）、博物館，以及檔案館所典藏之文物，其諭令這些機構的數位化典藏素材，也應盡量以活化應用方式提供予公眾使用，然而，開放公務文化館藏的數位化運用，首當其衝必須解決的法律議題，就是權利盤點的實踐及其後的決策，爭議之處在於許多具歷史性的典藏文物，其依著作權法的基本預設，權利狀態應已進入眾人皆可不受限制利用的公眾領域 (Public Domain)，然而也正因為年代久遠，若缺乏直接證據或得以準據的捐獻文件，要確認此一狀態亦是充滿了不確定性，且全面盤點過程高度耗費人力、時間等相關資源，從而在預算相對受限的情況下，期待公務文化館藏機構，皆能於短期內進行收納文物全面的深度盤點，並不具有可執行性。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【公開披露不全然等價於開放提供】&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;簡要來說，Rights Statements 此一權利標示的實踐基礎，在於依照各國著作權法的預設框架，公開展示的素材並不代表其權利人已採開放式授權，將此素材提供予瀏覽者使用，事實上當代的著作權法擴充了許多著作權利的態樣，舉凡我國著作權法列示的重製、散布、出租、改作、公開口述、公開播送、公開上映、公開演出、公開傳輸、公開展示，皆為獨立、切割，具專屬於著作財產權利人的權利態樣，而再依著作權讓與約定不明之部分，推定為未讓與，著作權授權約定不明之部分，推定為未授權之原則，館藏機構於具公開性之網際網路披露其數位藏品時，亦不表示這些素材皆已容許公眾自行下載或得進行深度化利用。從而公開與開放之間，具有相當可操作的彈性空間，館藏機構若在政策上同意將數位藏品先行公開上網，當有助於文化素材提升曝光度，此時在僅供公開瀏覽的權利盤點上之舉措，可輔以要項式的初階處理，在清簡人力、時間等資源的前提下，以 Rights Statements 標準化的模組，就素材的基礎權利狀態簡要述明，而若上級機關構或社會大眾對於特定館藏，提出開放式提供深度利用之具體訴求，後續再撥付必要的資源進行細節的權利盤點，在驗證其權利狀態並取得確信之後，為這些特定的素材，標示相應的開放式授權條款進行公眾釋出。此種作法的優點在於，初階權利盤點所需耗費的相關資源較少，有利於數位館藏素材能被有效率的披露，進而提昇、啟發閱覽群眾的文化創作能力，而要處理的著作權利態樣，可聚焦於公開傳輸與公開展示，必要時亦得權衡以低解析度模式先行提供，以兼容合理使用情境來降低公開披露的法律爭議。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【Rights Statements 並非創用CC 授權條款或其他權利貢獻宣告之替代品】&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;嚴格來說，Rights Statements 並不是創用CC 授權條款，或公眾領域標章 (Public Domain Mark)、公眾領域貢獻宣告 (CC0) 等任何一款權利宣告文件的替代品，就其設立的自我定位來說，Rights Statements 和既存的公眾散布機制，是處於相輔相乘、互相填補的定位。也就是說，依 Rights Statements 分門別類進行的這十二款權利態樣，其自我設限於基礎標示的定位，以創用CC 授權條款來比擬解說，Rights Statements 僅羅列這十二款基礎權利標示的權利標章 (common deed)，而並沒有產生對應的授權條款法律文字 (legal code)，應該說，這些 Rights Statements 羅列的個別標章，同一標章背後可能指向同一份授權法律文字，或相近的授權法律文字，這是因為 Rights Statements 設立的最主要目的，在於解決公務美術館、圖書館、檔案館與博物館，其數位藏品提供利用的授權狀態分殊，而不利於彼此交流的困境，舉 DPLA 的實證調查為例，提供素材供其作網路公開披露的機關、組織，綜合使用了近 87,000 份以上不同的權利標示來貢獻藏品，這些權利標示背後還依附有內容差異性更高的法律文件，這讓 DPLA 這樣的託管平台宥於人力，已無法對素材的權利狀態進行有效管理，故而 Rights Statements，並無意跨越或取代相關素材原始的授權法律文件，僅是導引其能夠依原始法律文件的授權特性，百川匯流到十二款主要的支流，從而讓使用者閱覽到限定十二款的基礎權利標示時，便對其可能的被利用狀態有所認識。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Rightsstatements.org White Paper - Recommendations for Standardized International Rights Statements: &lt;a href=&quot;http://rightsstatements.org/files/160208recommendations_for_standardized_international_rights_statements_v1.1.pdf&quot; target=&quot;_blank&quot;&gt;http://rightsstatements.org/files/160208recommendations_for_standardized_international_rights_statements_v1.1.pdf&lt;/a&gt;, 2015 International Rights Statements Working Group, CC0-1.0.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Rightsstatements.org White Paper - Requirements for the Technical Infrastructure for Standardized International Rights Statements: &lt;a href=&quot;http://rightsstatements.org/files/160322requirements_for_the_technical_infrastructure_for_standardized_international_rights_statements_v1.1.pdf&quot; target=&quot;_blank&quot;&gt;http://rightsstatements.org/files/160322requirements_for_the_technical_infrastructure_for_standardized_international_rights_statements_v1.1.pdf&lt;/a&gt;, 2015 International Rights Statements Working Group, CC0-1.0.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;The Directive on the re-use of public sector information (Directive 2013/37/EU): &lt;a href=&quot;https://ec.europa.eu/digital-single-market/en/european-legislation-reuse-public-sector-information&quot; target=&quot;_blank&quot;&gt;https://ec.europa.eu/digital-single-market/en/european-legislation-reuse-public-sector-information&lt;/a&gt;, 2013 European Parliament and European Council.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Due Diligence, Futile Effort: Copyright and the Digitization of the Thomas E. Watson Papers: &lt;a href=&quot;http://americanarchivist.org/doi/pdf/10.17723/aarc.73.2.16rh811120280434&quot; target=&quot;_blank&quot;&gt;http://americanarchivist.org/doi/pdf/10.17723/aarc.73.2.16rh811120280434&lt;/a&gt;, 2010 Maggie Dickson.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;DPLA Licenses: &lt;a href=&quot;http://www.deanfarr.com/viz/rights.php&quot; target=&quot;_blank&quot;&gt;http://www.deanfarr.com/viz/rights.php&lt;/a&gt;.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Copyright Law of the United States of America, § 105. Subject matter of copyright: United States Government works: &lt;a href=&quot;http://www.copyright.gov/title17/92chap1.html#105&quot; target=&quot;_blank&quot;&gt;http://www.copyright.gov/title17/92chap1.html#105&lt;/a&gt;.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Flickr 公眾相簿計畫：&lt;a href=&quot;https://www.flickr.com/commons/usage/&quot; target=&quot;_blank&quot;&gt;https://www.flickr.com/commons/usage/&lt;/a&gt;。&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;文化創意產業發展法第 24 條：&lt;a href=&quot;http://law.moj.gov.tw/LawClass/LawSingle.aspx?Pcode=H0170075&amp;amp;FLNO=24&quot; target=&quot;_blank&quot;&gt;http://law.moj.gov.tw/LawClass/LawSingle.aspx?Pcode=H0170075&amp;amp;FLNO=24&lt;/a&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Dec 2016 10:47:05 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1244 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20161205#comments</comments>
+</item>
+<item>
+ <title>使用 CC授權的音樂或影片如何處理公播權說明書 - 公眾授權討論系列（五）</title>
+ <link>https://creativecommons.tw/blog/20161202</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/20161202.png?itok=oFzFCUVA&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;em&gt;&quot;Spring&quot; by Schwarzweiss at &lt;a href=&quot;https://www.jamendo.com/en/track/545399/spring&quot; target=&quot;_blank&quot;&gt;https://www.jamendo.com/en/track/545399/spring&lt;/a&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;用最簡要的一段話來說明創用CC 授權的特性，那就是：「所有採創用CC 授權方式提供的素材，皆允許被重製、散布，但前提要件 (condition) 是使用時必須做好姓名標示 (attribution) 的要求，註解原作的來源，並檢視該素材是否有非商業性 (NonCommercial)、禁止改作 (NoDerivs) 等限制性義務 (obligation)，以在後續使用上不要將 NC 素材用在商業營利，也不要將 ND 素材的創作內涵進行變更。」不過，除了重製與散布，CC授權提供的其實是一個更為深度的授權範圍，例如常被一般人忽略的「公開演播 (Publicly Perform)」，其實也在 CC授權素材提供的利用範圍之列。&lt;/p&gt;
+
+&lt;p&gt;進一步來說，目前在電視或廣播頻道裡，影片或音樂檔案播放前，常被平台機構要求出示的「公播權認證書」、「公播權授權書」等，其實早就內含於創用CC 授權的法律條款裡。不過，這個狀態有時並不被熟知，在過往數年協助公眾進行 CC授權研商討論的經驗裡，相當期間便會有類似右列的問題被提出：Creative Commons 授權的音樂，可以在電視頻道上播出嗎？想取得 CC音樂在廣播頻道上的公播權，需要向誰申請或購買呢？公共電視台要求我們出具使用音樂的公播權認證書，請問我們應該洽哪一個單位取得認證？&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【CC 授權條款以「公開演播」擴及到所有公開演示與播送的態樣】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;依當前的著作權法的第 22 條至 29 條，專屬於原作者的財產權利，雖然適用的著作型態不同，但統括是「重製、公開口述、公開播送、公開上映、公開演出、公開傳輸、公開展示、改作、散布，以及出租。」所以說，在商業授權模式裡，取得原作者重製與散布的授權，不代表必然也同時取得公開播送或公開傳輸的授權地位，故而部份電視或廣播頻道的管理者，才會要求進行影音傳輸時，必須同時提示已經合法授權的公播權認證書或說明書。&lt;/p&gt;
+
+&lt;p&gt;但事實上，創用CC 各版授權條款，已於法律文字裡清楚述明，原權利人提供的授權態樣及於公開演播，以 3.0 版 台灣 授權條款為例，其明確指出：「『公開演播』指公開口述本著作，及以任何方法或程序，包含以有線電、無線電或公開數位演播之方式，向公眾傳達上述公開口述內容；或以使公眾得從其各自選定之地點接收本著作之方式，向公眾提供本著作；或以任何方法或程序，包含公開數位演播之方式，對公眾演播本著作，及向公眾傳達上述演播內；或藉任何包含符號、聲音或影像之方式公開播送及再公開播送本著作。上述定義，包含但不限於我國著作權法所定義之『公開展示』、『公開演出』、『公開上映』、『公開播送』、『公開傳輸』及『公開口述』等。」也就是說，於創用CC 授權條款裡，已註明除了重製、散布等權利地位，所有涉及「公開模式」演示與播送的態樣，亦是一併容許被授權人進行利用的範圍。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【創用CC 授權法律條款本身即得作為公播權說明文書之一環】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;再者，透過創用CC 授權條款提供給使用者的使用權利，其授權範圍為全球性 (worldwide)，並且明示其授權原則上不受「著作權集體管理團體 (Copyright Collective Management Organizations)」機制之影響，以下舉創用CC 姓名標示 3.0條款之節錄為例示，其明確述明：「授權人拋棄由個人，或當授權人是著作權集體管理團體（或稱為「著作權仲介團體」）的會員的情況下，透過該集體管理團體，向您收取權利金的權利。」也就是說，原作者採 CC授權釋出其音樂或影帶，前提是其自身與所屬的著作權集體管理團體之間的協議，是容許作者自行對創作進行授權的提供，否則其無法採 CC授權的方式來散布該音樂或影帶，而或者是作者與所屬著作權集體管理團體之間協議，僅以 NC 授權元素的方式提供相關創作，待使用者需另行在商業應用模式裡用到這批素材，再另委由著作權集體管理團體來代為處理授權費用的收取。故除非使用者所欲採用到的，是具有非商業性 - NC 授權元素的 CC素材，不然並不會有需要另行洽談著作權集體管理團體，取得額外商業性公播授權的問題。&lt;/p&gt;
+
+&lt;p&gt;所以在國內外網站上，下載創用CC 授權的音樂或影片進行使用時，只要確定該 CC授權並不帶有 NC 元素，且授權的來源徵而可信為原作者，則毋須另行與著作權集體管理團體洽談，來取得額外的書面證明，而這些 CC授權的音樂，原則上亦不在中華民國衛星廣播電視事業商業同業公會 (Satellite Television Broadcasting Association R.O.C., STBA)，就電視廣告音樂公播認證的審核範圍內。但若實務上還是需要填具相關文書，來表達該播放行為已透過創用CC 授權取得公播授權，則以 jamendo 網站上 &quot;Spring&quot; by Schwarzweiss 這首歌為例，可採行的證明文件，得從權列印以下兩個網址的內容，作為證明文件：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;&quot;Spring&quot; by Schwarzweiss 這首樂曲的釋出與 CC授權指示頁面：&lt;a href=&quot;https://www.jamendo.com/en/track/545399/spring&quot; target=&quot;_blank&quot;&gt;https://www.jamendo.com/en/track/545399/spring&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;其所採用之 CC授權條款全文：&lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/legalcode&quot; target=&quot;_blank&quot;&gt;http://creativecommons.org/licenses/by-sa/3.0/legalcode&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;此外，若音樂或影帶的播放平台，額外要求使用者，出具公播權相關權利說明書或認證書時，原則上不同平台所要求的文書格式，或有些許調整與落差，但相關重要的關鍵登錄資訊，依前例應為：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;使用歌名：Spring&lt;/li&gt;
+	&lt;li&gt;曲之作者：Schwarzweiss&lt;/li&gt;
+	&lt;li&gt;音樂著作公播權人為：■國外製作&lt;/li&gt;
+	&lt;li&gt;音樂授權期間為：自民國 99 年 3 月 19 日至其著作權保護期間終止日（創用CC 授權為不可撤回之終生授權，其授權有效期間為該作品著作財產權有效期間之全期。）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;填註資訊後，將上列兩份連結的內容一併列印，作為此類公播權相關權利說明書或認證書之附件，如此，即已完成一個有效的公播授權法律聲明。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Creative Commons Attribution 3.0 Unported License: &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/legalcode&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/licenses/by/3.0/legalcode&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;創用CC 姓名標示 3.0 台灣 授權條款：&lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/tw/legalcode&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/licenses/by/3.0/tw/legalcode&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;概論FDL與創用CC授權條款之不同：&lt;a href=&quot;http://creativecommons.tw/in-depth/422&quot; target=&quot;_blank&quot;&gt;http://creativecommons.tw/in-depth/422&lt;/a&gt;，2010 林懿萱，CC BY-NC-SA 3.0 TW。&lt;/li&gt;
+	&lt;li&gt;Can I use a Creative Commons license if I am a member of a collecting society?: &lt;a href=&quot;https://creativecommons.org/faq/#can-i-use-a-creative-commons-license-if-i-am-a-member-of-a-collecting-society&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/faq/#can-i-use-a-creative-commons-license-if-i-am-a-member-of-a-collecting-society&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&quot;Spring&quot; by Schwarzweiss: &lt;a href=&quot;https://www.jamendo.com/en/track/545399/spring&quot; target=&quot;_blank&quot;&gt;https://www.jamendo.com/en/track/545399/spring&lt;/a&gt;, 2010 Schwarzweiss, CC BY-SA 3.0.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 02 Dec 2016 11:11:47 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1242 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20161202#comments</comments>
+</item>
+<item>
+ <title>成功讓創用CC 等公眾授權條款在印尼持續有效</title>
+ <link>https://creativecommons.tw/blog/2016112801</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/20161128.png?itok=A5C7gmdR&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Making Creative Commons Licensing Work In Indonesia at: &lt;a href=&quot;https://creativecommons.org/2016/11/28/making-creative-commons-licensing-work-indonesia/&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/2016/11/28/making-creative-commons-licensing-work-indonesia/&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;創用CC 授權條款 (Creative Commons Licenses) 等公眾授權機制，主要的創立目標是要將重要的資訊、知識，透過權利人認同後主動授權的機制，彈性化普及到最多的社會群體，然而因其新穎和與傳統不同的授權提供模式，推行者和支持者也必須在相關法律調整時，主動參與法律制度的修改建言，近期，CC Indonesia 在印尼進行的努力，就是一個最好的示範。這個事件肇因於 2014 年底，印尼著作權辦公室提出了其建議的著作權法修法草案，此次修改的重點在於：「擴充著作權相關保護到資料庫權利 (database right)，並讓著作權利得以成為質押性質契約的擔保品，並進一步規劃了強制性的授權協議登錄制度。」&lt;/p&gt;
+
+&lt;p&gt;也就是說，該法若經修改並正式施行後，所有在印尼當地的著作權利授權行為，都必須至業管的權責機構進行登錄，以確定該授權內容的正確性與嚴縝性。這樣的法律機制並不乏見，如同我國民法第 166-1 條，亦律定「契約以負擔不動產物權之移轉、設定或變更之義務為標的者，應由公證人作成公證書。」然而，將著作權授權行為律定為要式行為，必須經登錄才能成立生效，卻大為傷害與阻礙了創用CC 等公眾授權條款在印尼當地的適用性，因為公眾授權條款在近年能被大舉推展並普及化的基礎在於，權利人宣告其授權規則，任何人願意遵守這些規則來使用作品者，就可以依該條款成為被授權人，此一模式大舉降低了授權行為的時間成本與複雜性。而這樣的便利機制，在印尼政府執行強制性的授權協議登錄制度後，在當地將不復存在。&lt;/p&gt;
+
+&lt;p&gt;有趣的是，同樣戮力於推動政府資料開放 (Open Government Data) 的印尼政府，其於 &lt;a href=&quot;http://data.go.id/&quot; target=&quot;_blank&quot;&gt;data.go.id&lt;/a&gt; 此一官方資料釋出平台上，已經大量的使用 CC BY 4.0 的授權方式來提供資料，那麼，有論者提出，是不是這些政府機關依創用CC 授權條款釋出的資料庫或資料集，在新法修正通過後，也必須進行登錄程序的補正呢？依照印度尼西亞共和國 2014 年 28 號法律修正案所披露的內容，該項登錄制度的要點有：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;每一份著作權授權協議的內容，都必須繳付規費後登錄於權責機構；&lt;/li&gt;
+	&lt;li&gt;若該著作權授權協議的內容不符合新法 82 條的格式與標準，權責機構將不予登錄；&lt;/li&gt;
+	&lt;li&gt;如果著作權授權協議未經登錄或未予登錄，則該協議內容不生法律效力，相關內容皆不得以之對抗第三人。&lt;/li&gt;
+	&lt;li&gt;更多登錄制度的細節與方式，將由權責機關另訂法規命令執行之。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;CC Indonesia 了解此一法案正式修改通過後，對於創用CC 等公眾式、開放式授權條款在當地的衝擊將會是全面與巨大的，故其先與 CC總部與全球合作網絡的協作者進行討論，並於 2016 年 5 月 23 日會唔印尼著作權辦公室的執事官員，9 月 21 日展開第二次會談，並準備提交書面補充報告，一直到 11 月 1 日，終於獲得權責機構明確的肯定回覆，那就是在日後的修改提案裡，創用CC 授權條款與其他開放授權條款 (Open Licenses)，將會被列入強制登錄制度的除外名單，因為他們意識到開放授權常建立在無償授權的基礎上，而該法案的修訂理由，主要是希望在商務協議契約裡進行把關，避免權利與義務高度傾斜傷害一般民眾的狀況發生。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Making Creative Commons Licensing Work In Indonesia: &lt;a href=&quot;https://creativecommons.org/2016/11/28/making-creative-commons-licensing-work-indonesia/&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/2016/11/28/making-creative-commons-licensing-work-indonesia/&lt;/a&gt;, 2016 Alifia Qonita Sudharto and Hilman Fathoni, CC BY 4.0.&lt;/li&gt;
+	&lt;li&gt;DATA INDONESIA DALAM SATU PORTAL: &lt;a href=&quot;http://data.go.id/group/c49a2d15-bb70-4ecf-addb-0d555a492117?license_id=cc-by&quot; target=&quot;_blank&quot;&gt;http://data.go.id/group/c49a2d15-bb70-4ecf-addb-0d555a492117?license_id=cc-by&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;印度尼西亞共和國 2014 年 28 號法律修正案：&lt;a href=&quot;http://eodb.ekon.go.id/download/peraturan/undangundang/UU_28_2014.PDF&quot; target=&quot;_blank&quot;&gt;http://eodb.ekon.go.id/download/peraturan/undangundang/UU_28_2014.PDF&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 27 Nov 2016 16:01:02 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1237 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/2016112801#comments</comments>
+</item>
+<item>
+ <title>Great Minds v. Fedex Office and Print Services, INC. - CC授權司法爭議系列（二）</title>
+ <link>https://creativecommons.tw/blog/20161020</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/20161020.png?itok=S3tG13K1&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://creativecommons.org/wp-content/uploads/2016/08/CC-EDNY-Letter.pdf&quot; target=&quot;_blank&quot;&gt;CC EDNY Letter&lt;/a&gt; for Great Minds v. Fedex Office and Print Services, INC.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Creative Commons 四大元素裡的「非商業性 (NonCommercial)」，指的基本原則是，使用該 CC授權作品的利用目的，不能直接涉及商業牟利。進一步引用創用CC 姓名標示─非商業性 3.0 台灣授權條款裡的法律文字是：「您不得以主要為獲取商業利益或私人金錢報酬的方式，行使依本授權條款第 3 條所授與之權利。(You may not exercise any of the rights granted to You in Section 3 above in any manner that is primarily intended for or directed toward commercial advantage or private monetary compensation.)」所以最淺顯直白的判準，就是「行為互動之間有金錢對價關係者，會被定義為商業行為，反之、若是行為互動之間未必有金錢對價關係者，則有可能逸脫商業行為的範圍。」也就是說，金錢利益的交換與 CC素材的提供之間，若有嚴格的互易性，則該互易關係便為商業行為，反之，則留有相當的解釋空間。然而，所謂「獲取商業利益或私人報酬的方式」，實在日新月異，目前許多網路服務已經逸脫直接對價收費的模式，取而代之是廣告費的收益、點擊率分紅式的收益，故前列條款在極端狀況下，仍然無法清楚定義所有商業行為的份際與範圍。&lt;/p&gt;
+
+&lt;p&gt;因應於此，CC總部於 2009 年間，針對 CC授權條款的使用者對於非商業性的認知做了問卷調查，並依調查結果，完成了 Defining “Noncommercial”: A Study of How the Online Population Understands “Noncommercial Use”（定義非商業性 - 對線上群眾非商業性認知之研究）這份統計報告，透過這份報告的閱覽，將可以了解在不同的使用情境下，有多少比例的 CC授權條款使用者，會偏向認定該情境是商業使用，又多少比例使用者不認為該情境是商業使用，例如使用 CC授權素材建置網站並透過該網站收取廣告利益，綜合約 89％ 的受試者認為這是商業性使用 CC素材，而若該廣告收益僅是為了支應該網站網域和託管空間的租用費用，86％ 的受試者仍然認為這是商業性使用。而 CC總部之所以費時去籌劃這份問卷及其分析，主要是著眼於 CC授權模式是為眾人所利用，其商業性、非商業性的界限，相當程度也必須尊重使用的群眾，所以實作這份問卷來「探求多數使用者真意之表示」。故理論上來說，依照該份報告的分析，就多數使用者皆認為屬於商業行為的情境下，避免使用具非商業性元素的 CC素材，當可以大幅度降低未來產生法律爭議的風險。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【Great Minds v. Fedex Office and Print Services, INC. 的爭議要點】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;然而，就像多數使用者並不會考究 CC授權法律條款的細項一般，即使有了這份研究報告，也不代表所有 CC授權素材的提供者，也都會全然揚棄自己主觀的解讀和見解。在 2016 年 3 月份，Great Minds 這家營運於美國的中小學教科書 (K-12 curriculum) 編撰公司，在美國紐約東區聯邦地區法院 (United States District Court for the Eastern District of New York) 狀告 Fedex 公司及其印刷部門，因為據 Great Minds 進行的調查，Fedex Office 的印刷部門長期大量協助美國境內的中小學進行 Great Minds 公開釋出教材的複印，而這些教材都是 Great Minds 採用「創用CC 姓名標示-非商業性-相同方式分享 4.0 (CC BY-NC-SA 4.0)」的模式，自主提供給公眾使用的。然而，依照 Great Minds 對非商業性元素的解讀，其認為採非商業性元素提供的素材，無論在任何一個流通環結，都不能有使用者因此獲得商業利益，故若這些採 CC BY-NC-SA 4.0 散布的教科書，完全是由學童、家長，或教師自行下載、自行複印，而後用在義務教育的課堂學程裡，Great Minds 認為這是屬於非商業性的利用；但若商業印刷及郵遞公司，大量複印、寄送這些教科書的重製品給非營利教育機構而收取費用時，Great Minds 認為這已經不屬於非商業性的利用，即使 Fedex Office 相關的複印、寄送行為，完全是依照各中小學區學校教職人員的指示或要求。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【CC總部與 CC US 積極關切本案並聲請提交法庭之友意見書】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;一般來說，CC 總部與全球合作網絡個別設立的推動組織，對於授權爭議與相關的司法訴訟，多數是採自我謙抑的角度，不會主動批判，除非是社會各界就研究或客觀數據的提供方面有所需求，才會在現狀的基礎上提供這些資訊。然而，Great Minds v. Fedex Office 一案展開後，CC 總部意識到此案發展若被誤導，後續對非商業性元素帶來的將會是嚴重的負面影響，故其已提出正式聲明，將利用美國司法法庭之友的程序，針對法院可能不能理解或疏為審視的重要爭點提出意見書 (amicus brief)。CC總部總顧問 Diane Peters 及 CC US 公眾項目主持人 Michael Carroll 亦為文指出，Great Minds 對於非商業性元素的解讀態度並不正確，依創用CC 授權條款的解釋，原權利人授權被授權人得就非商業性目的使用素材，自然包括透過僱員或與第三方締約的方式來協助利用，如禁止被授權人經由第三方的協助來進行利用，這不但於法無據，也完全沒有被記載於CC 授權條款的法律文字裡。&lt;/p&gt;
+
+&lt;p&gt;並且，如果嚴格依照 Great Minds 的狹義見解來解讀非商業性元素，那麼目前全球推行的開放教育資源生態系 (OER ecosystem) 將面臨嚴峻的挑戰，故 CC總部公開表示將嚴肅看待此案，務求在後續的司法審判程序裡，提交補充資訊與相關範例予法院評判，以讓非商業性元素的詮釋，能回到授權條款原撰的體系和脈絡來進行討論。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Defending Noncommercial Uses: Great Minds v Fedex Office: &lt;a href=&quot;https://creativecommons.org/2016/08/30/defending-noncommercial-uses-great-minds-v-fedex-office/&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/2016/08/30/defending-noncommercial-uses-great-minds-v-fedex-office/&lt;/a&gt;, 2016 Diane Peters and Michael Carroll, CC BY 4.0.&lt;/li&gt;
+	&lt;li&gt;Documents in the Great Minds v Fedex Office and Print Services Case: &lt;a href=&quot;https://creativecommons.org/documents-great-minds-v-fedex-office-and-print-services-case/&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/documents-great-minds-v-fedex-office-and-print-services-case/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Creative Commons licenses under scrutiny—what does “noncommercial” mean?: &lt;a href=&quot;http://arstechnica.com/tech-policy/2016/09/creative-commons-licenses-under-scrutiny-what-does-noncommercial-mean/&quot; target=&quot;_blank&quot;&gt;http://arstechnica.com/tech-policy/2016/09/creative-commons-licenses-under-scrutiny-what-does-noncommercial-mean/&lt;/a&gt;, 2016 DAVID KRAVETS.&lt;/li&gt;
+	&lt;li&gt;什麼叫商業性？什麼叫非商業性？：&lt;a href=&quot;http://creativecommons.tw/node/317&quot; target=&quot;_blank&quot;&gt;http://creativecommons.tw/node/317&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Defining “Noncommercial”: A Study of How the Online Population Understands “Noncommercial Use”: &lt;a href=&quot;http://mirrors.creativecommons.org/defining-noncommercial/Defining_Noncommercial_fullreport.pdf&quot; target=&quot;_blank&quot;&gt;http://mirrors.creativecommons.org/defining-noncommercial/Defining_Noncommercial_fullreport.pdf&lt;/a&gt;, 2009 Creative Commons Corporation, CC BY 3.0.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 19 Oct 2016 16:27:39 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1240 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20161020#comments</comments>
+</item>
+<item>
+ <title>Drauglis v. Kappa Map Group, LLC - CC授權司法爭議系列（一）</title>
+ <link>https://creativecommons.tw/blog/20161015</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/20161015.jpg?itok=sgbHpcrq&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The front cover and back cover of road atlases published by Kappa Map Group included the “&lt;a href=&quot;https://www.flickr.com/photos/wiredwitch/2455026301&quot; target=&quot;_blank&quot;&gt;Swain’s Lock, Montgomery Co., MD.&lt;/a&gt;” Photograph by &lt;a href=&quot;https://www.flickr.com/photos/wiredwitch/&quot; target=&quot;_blank&quot;&gt;Art Drauglis&lt;/a&gt;. Licensed under the &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/2.0/legalcode&quot; target=&quot;_blank&quot;&gt;Creative Commons Attribution-ShareAlike 2.0 Generic License&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;創用CC 授權條款在數位時代的強項，在於透過基礎幾個簡要的授權要素 (License Element)，組合成標準化的授權標章 (Common Deed)，透過這些授權標章，便能夠簡單的讓人了解，該作品是以何種模式授權利用，而雖然每一個個別的授權標章，都可以被連結到充份定義的法律條款 (Legal Code)，然不可諱言的，多數的使用者並不會時時注意、刻刻翻閱法律條款的細項，故而部份授權人或被授權人，不免憑著自己較主觀的了解來提供 CC 作品的利用，或以自己較主觀的見解來利用別人以 CC 提供的作品。故在個案上若是授權人與被授權人彼此對 CC 授權規則的認識落差太大，極端狀況下不可避免的，還是會有少數的司法爭議產生。美國哥倫比亞特區聯邦地區法院 (United States District Court for the District of Columbia) 在 2015 年承審的 Drauglis v. Kappa Map Group, LLC，證實了創用CC 授權條款在司法實務上是可被法院認可且執行的，亦是一個就姓名標示 (attribution) 與相同方式分享 (share-alike) 兩個重要元素，皆進行了司法解讀的重要判決，對未來相類狀況的判斷上，具有相當的影響力。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【Drauglis v. Kappa Map Group, LLC 的判決要點】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;承審此案的法官 Amy Berman Jackson，透過本案判決書裡做了幾項重要的裁示：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;確認創用CC 授權條款依美國法律具有可執行性；&lt;/li&gt;
+	&lt;li&gt;說明創用CC 授權裡「姓名標示」這個重要元素，依授權條款的解讀具有個案註解上的彈性；&lt;/li&gt;
+	&lt;li&gt;評判將個別照片置入道路圖集的封面，依美國著作權法應是形為一個編輯著作 (collective work)，而非衍生著作 (derivative work)；&lt;/li&gt;
+	&lt;li&gt;評判創用CC 授權裡「相同方式分享」這個元素，只有在利用人就原作產生衍生著作並進行散布時，才會發揮它的法律效果。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;【原告的訴求】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;在 2008 年 4 月份，原告 Art Drauglis 拍攝了一張 Montgomery 郡的路景照片，並採 CC BY-SA 2.0 授權將其發布於 Flickr 網路相片分享平台上，其後於 2012 年，被告 Kappa Map Group 取用了這張照片在其販售的地景圖集裡，並將該照片作為該刊圖集的封面使用。於是原告 Art Drauglis 在 2014 年將這張照片作了著作權登記，因為這是在美國進行著作權司法訴訟的前階程序，並於美國哥倫比亞特區聯邦地區法院提起訴訟，其訴求為：1、雖然 CC BY-SA 2.0 允許使用者將素材進行商業使用，但被告並沒有善盡姓名標示的義務；2、被告僅提示該照片以 CC BY-SA 2.0 提供但並未提供授權條款的連結；3、被告取用了具相同方式分享的照片，應讓整本地景圖集變成該照片的衍生著作，從而散布時全體必須採 CC BY-SA 2.0 進行提供。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【法院的評判】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;針對原告 Art Drauglis 提出的訴求，本案承審的 Amy Berman Jackson 對創用CC 授權條款逐條逐句進行了研讀和分析，並就個別訴求作出了下列裁示。&lt;/p&gt;
+
+&lt;p&gt;就原告第一個訴求，Drauglis 認為該地景圖集應該要在全書的著作權聲明頁，亦即俗稱之版權頁彰明其拍攝照片的姓名標示，但法官認為該地景圖集的作法，是就每一張獨立的照片下緣直接註稱個別的姓名標示，以該出版公司自己拍攝的照片為例，一樣是在每張照片下個別嵌入 “© Kappa Map Group, LLC” 這個標示資訊，所以這樣的作法符合 CC BY-SA 2.0 4(C) 約款對姓名標示的要求，因該約款明確表示：「對於原始著作人的表彰，可以透過任何合理的方式為之；此種對於原始著作人的表彰，至少必須出現在其他相當之作者表彰之處，並且至少以同等明顯的方式為之。」所以說，在地景圖集此種編輯性著作上，若單張照片下緣已個別註稱其姓名標示，則雖全書著作權聲明頁沒有再行標述，亦不能就認為這不是「同等明顯」之方式，畢竟，Kappa Map Group 對其自行拍攝的照片，亦是作一樣平等的處理。&lt;/p&gt;
+
+&lt;p&gt;而就原告第二個訴求，控訴被告並未做到 CC BY-SA 2.0 4(a) 約款，要求使用 CC素材必須提供該 CC授權條影本文或該授權條款的 URL 連結 (Uniform Resource Locator)。就此訴求法官指出，4(a) 約款確實要求 CC素材的使用人，應提供此類資訊，然其精確的用語是為 URI (Uniform Resource Identifier，統一資源識別元)，此一 Identifier 並沒有被限定為必須透過 URL 模式提供連結 (link)，論其要理，提供相當的統一資源名稱 (Uniform Resource Name, URN) 亦是符合授權條款的要求，所以認為 Kappa Map Group 已明確為該照片標示授權方式為 CC BY-SA 2.0，依照該版本號即可在網路上查找到精確的條款全文，故認為被告的作為已經符合 CC BY-SA 2.0 4(a) 約款的要求。&lt;/p&gt;
+
+&lt;p&gt;而就原告最後第三個訴求，認為該地景圖集在部份內容取用了 CC BY-SA 2.0 授權的照片，就應該讓整個出版品轉以 CC BY-SA 2.0 授權來進行散布。這個訴求在法律論理上最需要釐清的爭議點在於，創用CC 授權條款就衍生著作、改用著作方面的定義，基本上是與著作權法相近或相容的，而衍生與編輯關係，在創用CC 授權條款與美國著作權法的闡釋裡，都關乎原作是否在之後的呈現，創作內涵被「改作、轉換，或改用 (recast, transformed, or adapted)」，而在本案裡，承審法官認為完整的引用一張相片，讓其列入地景圖集裡成為眾多照片中的一幅，雖然被置為封面，但究其要理，原照的創作內涵並不能說已被「改作、轉換，或改用」，從而最後的成本整體並非該照片的衍生著作，而是個別單篇照片具獨立創作表現性的編輯著作。故而原告此一訴求亦缺乏法律與授權上的基礎。&lt;/p&gt;
+
+&lt;p&gt;基本上過往 CC總部的法律見解，與此案承審法官亦並無太大的衝突與差異，CC US的公眾項目主持人，美國華盛頓大學法學教授 Michael Carroll 亦為文，認同此案審理法官對前列三訴求的見解與分析。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Court Correctly Interprets Creative Commons Licenses: &lt;a href=&quot;http://us.creativecommons.org/archives/1152, 2015 Michael Carroll&quot; target=&quot;_blank&quot;&gt;http://us.creativecommons.org/archives/1152, 2015 Michael Carroll&lt;/a&gt;, CC BY 4.0.&lt;/li&gt;
+	&lt;li&gt;Drauglis v. Kappa Map Group, LLC, 128 F. Supp.3d 46 (D.D.C. 2015): &lt;a href=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/275902433-Photo-Copyright-Kappa-Decision.pdf&quot; target=&quot;_blank&quot;&gt;http://creativecommons.tw/sites/creativecommons.tw/files/275902433-Photo-Copyright-Kappa-Decision.pdf&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;創用CC 相同「授權」方式分享的擴散效力 - 兼論開源領域 Copyleft 的最新發展：&lt;a href=&quot;http://creativecommons.tw/blog/20160303&quot; target=&quot;_blank&quot;&gt;http://creativecommons.tw/blog/20160303&lt;/a&gt;，2016 林誠夏／文，CC BY-SA 3.0 TW。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 15 Oct 2016 03:05:22 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1239 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20161015#comments</comments>
+</item>
+<item>
+ <title>MS Office 2007 使用的 CC 附加元件登場</title>
+ <link>https://creativecommons.tw/blog/20081215</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;趙柏強 Po-chiang Chao&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;微軟曾為 MS Office XP、2003 推出創用 CC 附加元件，方便你為文件加上創用 CC 宣告。雖然過去的方法已經蠻不錯，但有幾個比較重大的缺點：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;只有英文版&lt;/li&gt;
+	&lt;li&gt;似乎有的電腦 (if not all) 會出現按鈕上的麻煩&lt;/li&gt;
+	&lt;li&gt;內嵌後設資訊的方法似乎一直沒有在標準規格內&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;不支援 MS Office 2007&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;日前微軟推出了 CC add-on for MS Office 2007，除了改善了第三點之外、順帶也解決了前兩點問題。首先你插入的字串有正體中文了！這全拜 CC 方便的 Web service 所賜，各種程式都可以輕鬆取用已經翻譯好的字句讓使用者挑選授權方式；接著，由於 Office 2007 的檔案格式主力是 XML，所以微軟如 OpenDocument 一樣在檔案中訂下了 custom.xml 及相關語彙來嵌入數位授權資訊，這些資料可以在安裝套件後的說明文件中看到。&lt;/p&gt;
+
+&lt;p&gt;操作介面也因應 Office 2007 的方式做了些調整，抓些圖來瞧瞧：&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;image1.jpg&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/image1.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;img alt=&quot;image4.jpg&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/image4.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;img alt=&quot;image3.jpg&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/image3.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;總之，一切都還不錯，有需要的朋友可以到&lt;a class=&quot;newpage&quot; href=&quot;http://www.microsoft.com/downloads/details.aspx?FamilyId=D1DDBDC8-627F-415A-9B0A-97362BC9B480&amp;amp;displaylang=en&quot;&gt;微軟網站&lt;/a&gt;上下載。&lt;/p&gt;
+
+&lt;p&gt;如果你常關注 CC 的新聞，或許會抱怨「可是這玩意不是在八月就推出了嗎，你怎麼拖到現在才講？」事實上八月推出的版本有個功能出了點問題，因此在與 MS、CC 之間魚雁往返了一陣子之後，MS 在九月左右就飛快地修好了問題，而在十二月初 (終於) 把修改版推到大家的眼前。&lt;/p&gt;
+
+&lt;p&gt;是什麼問題呢？就是碰到正體中文環境會判讀錯誤，太搞笑了！所以，我們就只好稍稍晚點報導啦，無論如何還是要感謝 MS 團隊飛快的溝通速度與親切態度 :)&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 15 Dec 2008 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">121 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20081215#comments</comments>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 公開</title>
+ <link>https://creativecommons.tw/category/tags/%E5%85%AC%E9%96%8B</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>美國總統歐巴馬發布行政命令支持開放資料</title>
+ <link>https://creativecommons.tw/blog/20130701-1</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;劉芊影 譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;日前美國總統歐巴馬發布了一則行政命令，要求聯邦政府的資訊應公開且是可供機器閱讀的，這項命令是自2009年開始一系列關於支持增加政府資訊的可接近性及透明度的最新行動。除了此一行政命令外，白宮也發布了一則備忘錄(&lt;a href=&quot;http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf&quot;&gt;Memorandum&lt;/a&gt;)解釋聯邦政府將如何作為以符合這項開放資料(open data)的新政策。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;此備忘錄要求政府機關收集或創建資料的方式包括對於所有新資料收集、創造的工作應使用機器可讀的、開放的格式、數據標準以及相同核心而可擴展的後設資料。它亦包括政府機關應該確保在資料管理的方面，透過使用開放授權以及審查資料的隱密性、機密性、安全性或其他相關限制來做釋出的動作。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;它在開放資料方面也提供了一套具遠見的指引。根據該備忘錄的目的，所謂的開放資料一詞，指涉的是公開可用的數據結構使終端使用者能完全發現並使用之。一般而言，開放資料會和下述原則一致：&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;公開(Public)&lt;/p&gt;
+
+&lt;p&gt;為符合美國政府預算及管理局(OMB)的開放政府指令(Open Government Directive)，各機關必須採取在法律允許的推定範圍內，有利於開放的程度，以及服從隱私、安全、機密性等等限制。&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;可近用性(Accessible)&lt;/p&gt;
+
+&lt;p&gt;開放資料提供了方便、修改、開放的格式，使其能夠被檢索、下載、指引及搜尋。該格式必須是可供機器閱讀者(例如：具合理數據結構能夠允許自動處理)。開放資料的數據結構不歧視任何人或任何族群的人，而且應該提供予最廣泛的使用者為了最廣泛的用途。此外，在法律允許的範圍內，這些格式必須是非私人的、公開的且在使用上沒有限制的。&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;充分說明(Described)&lt;/p&gt;
+
+&lt;p&gt;開放資料應被充分的說明，使這些資料的消費者有充足的資訊了解他們的優勢、劣勢、安全性的要以及如何運行、處理他們。這包括使用健全的、粒狀的後設資料(例如：描述資料的元素)，經由完整的資料元素文件、資料字典以及在可行範圍下增加描述收集的目的、人民的興趣度、樣本的特色以及資料收集的方法。&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;再使用性(Reusable)&lt;/p&gt;
+
+&lt;p&gt;開放資料應基於公開授權之下使其使用沒有限制。&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;完整性(Complete)&lt;/p&gt;
+
+&lt;p&gt;開放資料應公布主要的的型態，包含法律及他規定所允許以及可以實行的最好的粒度(granularity)水平。衍生或總和的公開資料亦應參照主資料而為公布。&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;即時性(Timely)&lt;/p&gt;
+
+&lt;p&gt;開放資料需盡可能的快速去保存資料的價值，而其釋出的頻率則應考量關鍵使用群及下游的需求。&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;管理點設置(Managed Post-Release)&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 應指定一個聯絡點用以協助資料的使用以及對於相關投訴的回應。&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;此外，這個備忘錄也提供了關於美國政府資訊可被再使用的說明，敘述如下：&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;「應確保在資訊管理方面使用開放授權(&lt;strong&gt;open licenses)&lt;/strong&gt;的方式，詳言之，各政府機關須使用開放授權，以在開放資料的計畫中尋得最好的實踐方法，使資料公開後，就這些資料不論是非商業性或商業性目的，在複製、出版、分發、傳輸或其他方式的使用上不會有所限制。」&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;根據這些確切的實施細節，這是一個非常好的行動，可以釐清在使用聯邦政府資料上面任何的法律困惑。藉由使用公開授權，聯邦政府將提供再使用者一項絕好的服務。且，若美國是真的希望使聯邦政府的資訊能夠沒有限制的使用，它能考慮使用公眾領域貢獻宣告(&lt;a href=&quot;http://creativecommons.org/publicdomain/zero/1.0/&quot;&gt;CC0 Public Domain Dedication&lt;/a&gt;，簡稱CCO)的方式，現在，有許多的資料提供者使用CC0以使開放資料能直接放置於公眾領域的範圍內。我們亦已建議使CC0成為分享聯邦政府資訊的其中一個選項。&lt;/p&gt;
+
+&lt;p&gt;而對於白宮在確保美國政府資料於法律、技術上面的可近用、再使用上面所採取的一個正面、積極的做法，是非常值得我們肯定的！&lt;/p&gt;
+
+&lt;p&gt;資料來源：&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/38269&quot;&gt;http://creativecommons.org/weblog/entry/38269&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 01 Jul 2013 08:12:28 +0000</pubDate>
+ <dc:creator>sunlight</dc:creator>
+ <guid isPermaLink="false">699 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20130701-1#comments</comments>
+</item>
+<item>
+ <title>美國數位圖書館(DPLA)將所有後設資料以公眾領域宣言(CC0)釋出公眾領域</title>
+ <link>https://creativecommons.tw/blog/20130424</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;劉芊影 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;美國於2013年4月18日正式成立了數位圖書館(&lt;a class=&quot;newpage&quot; href=&quot;http://dp.la/&quot;&gt;The Digital Public Library of America，簡稱DPLA&lt;/a&gt;)。成立DPLA的計畫於2010年時開始準備，它從眾多的圖書館、資料庫及博物館收集了數以百萬的數位資源。&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/wei_ming_ming__0.jpg&quot; style=&quot;display:block; height:400px; margin-left:auto; margin-right:auto; vertical-align:middle; width:700px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;以下是來自DPLA的消息：「DPLA將於該日的美東中午時設立一個入口及開放一個平台，用以傳輸他們在美國圖書館、資料庫、博物館及文化遺產機構所收集的素材給學生、老師、學者及社會大眾們。而這將遠超過一般的搜尋引擎，對於他們統一收集的上述資源將提供一個創新的搜索及掃描方式。他的幾項特色包括動態地圖、時間軸的部分，使其使用者關於自己一年年的使用上有視覺化的瀏覽，此外亦有圖書館App的提供等。」&lt;br /&gt;
+&lt;br /&gt;
+在今年一月時，DPLA宣布他們將會把所有的後設資料(metadata)在CC0公眾領域宣言( CC0, Public Domain Declaration)下使之成為公眾領域的範疇。開放知識基金會的Joris Pekel則讚揚了DPLA的此項宣布，他表示：對於DPLA選擇採用CC0的方式釋出其後設資料，將能大幅提高和Europeana(此在歐洲即相當於DPLA)的互相操作性。&lt;/p&gt;
+
+&lt;p&gt;現在有越來越多不同的創作者開始出版數位化的文化遺產及其後設資料，也因此，互相操作性將變得越來越重要用以在文化遺產的資料間創造出相互連接的網絡。而同樣都選擇採用CC0的DPLA和Europeana將為達成此目標邁出一個成功的步伐。&lt;br /&gt;
+&lt;br /&gt;
+最後，我們將再次讚揚DPLA所作開放資料的承諾，並且同感高興看到其推出此一重要的資源！&lt;/p&gt;
+
+&lt;p&gt;參考來源：&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/37866&quot;&gt;http://creativecommons.org/weblog/entry/37866&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 24 Apr 2013 09:04:32 +0000</pubDate>
+ <dc:creator>sunlight</dc:creator>
+ <guid isPermaLink="false">675 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20130424#comments</comments>
+</item>
+</channel>
+</rss>

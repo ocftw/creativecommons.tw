@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - Hackathon</title>
+ <link>https://creativecommons.tw/taxonomy/term/3048</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>荷蘭開放文化資料促成多元應用程式產生</title>
+ <link>https://creativecommons.tw/blog/20151105</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;文化機構保存了許多獨特藏品，也有關於藏品的豐富知識、活動展覽消息，以及訪客的資訊與回饋記錄。美術館、圖書館、檔案館、博物館透過開放資料，可以達成機構開放取用文化資產、促成創新利用的任務，也能促成文化機構間彼此合作發展新服務。然而，機構在管理這些資料時，往往沒有意識到潛在價值，透過技術限制使用者的取用機會。&lt;/p&gt;
+
+&lt;p&gt;2011年九月，荷蘭開展「&lt;a href=&quot;http://www.opencultuurdata.nl/&quot; target=&quot;_blank&quot;&gt;開放文化資料(Open Cultuur Data)&lt;/a&gt;」計畫，希望能開放文化資料以激發更多有用且創新的應用程式產生。此計畫聚集了許多相信開放力量的專家參與實驗，他們原本因為缺乏相關知識，或是出於對資料開放後的風險考量，而對開放資料運動猶豫不決。然而，在這場實驗後，他們獲得了開放資料的實務經驗、了解開放對於館藏的價值，甚至願意進一步成為未來開放運動的領頭羊。許多文化機構也發現，原來連結機構外的駭客、設計師、學生，可以一起挖掘出更多嶄新的資料應用方式。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/16159697748_c85b3f9f88_k.jpg?itok=08FBn-ip&quot; style=&quot;height:250px; width:690px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/kl/16159697748/in/photostream/&quot; target=&quot;_blank&quot;&gt;圖片：by Kennisland ＠flickr,&lt;/a&gt; under&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/2.0/&quot;&gt; CC BY-SA&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;推動過程&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;最初，開放文化資料計畫和&lt;a href=&quot;http://www.hackdeoverheid.nl/&quot; target=&quot;_blank&quot;&gt;Hack de Overheid(駭入政府)&lt;/a&gt;合作，主要是使用開放政府資料創造新的應用程式。此時他們訂下一些原則，指出開放文化資料應具備以下五點特性：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;開放文化資料包含館藏物件的數位展現，以及文化機構與館藏、活動和組織相關計畫的知識與資訊。&lt;/li&gt;
+	&lt;li&gt;每個人都可以查詢、使用、散佈、再利用開放文化資料，可能是經由開放授權釋出，或將素材作為公眾領域提供取用。&lt;/li&gt;
+	&lt;li&gt;開放文化資料可以經由能再次使用的數位標準型式取用。&lt;/li&gt;
+	&lt;li&gt;會在&lt;a href=&quot;http://www.opencultuurdata.nl/datasets/&quot; target=&quot;_blank&quot;&gt;資料部落格&lt;/a&gt;等處說明開放文化資料的結構和可能應用程式。&lt;/li&gt;
+	&lt;li&gt;開放文化資料的提供者已經準備好將回答他人對於資料提出的問題，並且會尊重開放資料社群投入應用程式開發的努力。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;他們將開放文化資料區分成「內容」及「詮釋資料(metadata)」。內容即數位化文化物件，像是掃描的圖畫、物件照片、數位文本，關於這些物件的描述性資訊則為詮釋資料。由於創用CC授權在世界各地使用，其授權條款也符合許多開放資料計畫對於權利開放的要求，因此成為開放資料時首選的授權方式。詮釋資料可以使用「公眾領域貢獻宣告CC0」授權，內容則可以使用「公眾領域標章PDM」、「創用CC 姓名標示」、「創用CC 姓名標示—相同方式分享」授權。&lt;/p&gt;
+
+&lt;p&gt;有了這些原則後，他們開始邀請文化遺產機構的人參加工作坊及開放資料。此時，他們邀請到荷蘭國家博物館&lt;a href=&quot;http://www.rijksmuseum.nl/&quot; target=&quot;_blank&quot;&gt;Rijksmuseum&lt;/a&gt;、&lt;a href=&quot;http://www.amsterdammuseum.nl/&quot; target=&quot;_blank&quot;&gt;阿姆斯特丹博物館&lt;/a&gt;、&lt;a href=&quot;http://www.eyefilm.nl/en/&quot; target=&quot;_blank&quot;&gt;荷蘭國家電影資料館&lt;/a&gt;、&lt;a href=&quot;http://en.nationaalarchief.nl/&quot; target=&quot;_blank&quot;&gt;國家檔案館&lt;/a&gt;、&lt;a href=&quot;http://en.wikipedia.org/wiki/Netherlands_Institute_for_Sound_and_Vision&quot; target=&quot;_blank&quot;&gt;荷蘭視聽覺研究中心&lt;/a&gt;與國家荷蘭遺產網站提供資料集。&lt;/p&gt;
+
+&lt;p&gt;2011年9月敲定了一場荷蘭應用程式競賽，希望能促使開發展善用荷蘭政府的開放資料。11月底開始進行黑客松（Hackathon），開發者、程式設計員等人齊聚一堂，上述機構也在此時開放他們的資料集，並舉辦一場工作坊說明。在黑客松進行期間，一共開發了&lt;a href=&quot;http://www.opencultuurdata.nl/2012/01/apps4nl-overzicht-van-open-cultuur-data-demos/&quot; target=&quot;_blank&quot;&gt;13個文化應用程式&lt;/a&gt;，其中8個完成度高而進一步參與競賽，種類多元，可以看出開發者對於文化資料的興趣。文化機構也從此次競賽中體會到這些數位館藏可以如何被再次利用。&lt;/p&gt;
+
+&lt;p&gt;Glimworm IT2使用&lt;a href=&quot;http://www.openimages.eu/&quot; target=&quot;_blank&quot;&gt;開放圖像(Open Images)&lt;/a&gt;的影片與歷史搭配地理定位技術開發的&lt;a href=&quot;http://www.vistory.nl/&quot; target=&quot;_blank&quot;&gt;Vistory&lt;/a&gt;應用程式，在這次競賽過程中獲得大獎。Vistory的使用者選擇一個所處位置附近的歷史影片，將影片停在當地的歷史畫面後拍攝現在的當地景象，影片就會被標記上地理位置及新照片。&lt;/p&gt;
+
+&lt;p&gt;2012年4月到6月，開放文化資料計畫和荷蘭的創用CC合作推出專家課程，主講授權、技術、應用等開放資料過程會遇到的課題，有17間文化機構完成課程。2012年6月到12月，則舉辦了開放文化資料競賽，徵求能以嶄新方式拓展觀眾取用管道及連結不同資料集的應用程式，首獎得主將能獲得3000歐元。參賽者有35個開放授權的資料集可以使用，共有27個應用程式參與競賽，其中8個來自專家課程的文化機構代表。&lt;/p&gt;
+
+&lt;p&gt;最後獲得首獎的是&lt;a href=&quot;http://www.museapp.org/&quot; target=&quot;_blank&quot;&gt;Muse&lt;/a&gt;，人們可以使用這個應用程式聚集及混搭世界名畫及自己的創作。第二名是&lt;a href=&quot;http://www.frontwise.nl/lab/histagram/&quot; target=&quot;_blank&quot;&gt;Histagram&lt;/a&gt;，透過此應用程式可以使用&lt;a href=&quot;http://www.gahetna.nl/node/8315&quot; target=&quot;_blank&quot;&gt;國家檔案館&lt;/a&gt;的照片創作電子賀卡。第三名是&lt;a href=&quot;http://simmuseum.haykranen.nl/&quot; target=&quot;_blank&quot;&gt;SimMuseum&lt;/a&gt;，這是一個讓使用者擔任博物館館長、自行買賣荷蘭博物館藝術作品的遊戲。&lt;/p&gt;
+
+&lt;p&gt;雖然透過這幾次活動產生了40個應用程式，但是只有少數可以持續經營。另外，並非每個資料集的使用頻率都相同，同時開放內容和詮釋資料會比單獨開放詮釋資料吸引更多人使用。在所有資料集中，荷蘭國家博物館由於有12萬多幅高解析度畫像及好用的API，而成為最多人用以開發應用程式的資料集。&lt;/p&gt;
+
+&lt;p&gt;開放文化資料計畫之後將發展一個評估模型(GLAMetrics)，用以獲得開放資料影響的實證。目前這個模型已經在測試階段，之後將進行問卷調查或舉辦工作坊了解文化機構的想法，並試圖與Europeana、OpenGLAM、GLAM-WIKI等國際計畫展開合作。最終結果將會免費在線上分享。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;困難與好處&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;許多文化機構的代表也提出幾個開放資料時的風險。首先，資料在沒有標示出處的情況下散佈，文化機構無法因此累積聲譽，也難以控制資料的利用方式，如此一來將可能損及機構的品牌價值及營銷收入。另外，文化機構的資料（像是家譜）有些會透露個人訊息，因此也會牽涉到資料隱私的保障問題。&lt;/p&gt;
+
+&lt;p&gt;不過，文化機構的代表也指出，開放資料符合其使命，尤其是接受公眾資金的機構。而且透過開放，他們可以讓這些資料普及到更多網站，增加資料連結和取用的機會。使用者可以在自己有需要的時候隨時取用、分享這些館藏，讓館藏產生更多元且嶄新的互動方式。&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;開放文化資料集及開發應用程式一覽表：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table border=&quot;1&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;strong&gt;22&lt;/strong&gt;&lt;strong&gt;間文化機構&lt;/strong&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;&lt;strong&gt;開放物件&lt;/strong&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;&lt;strong&gt;採取授權&lt;/strong&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;strong&gt;40&lt;/strong&gt;&lt;strong&gt;個&lt;/strong&gt;&lt;a href=&quot;http://www.opencultuurdata.nl/category/apps/&quot;&gt;&lt;strong&gt;應用程式&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; (&lt;/strong&gt;&lt;strong&gt;粗體字的為現行可用者)&lt;/strong&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;荷蘭國家博物館&lt;a href=&quot;http://www.rijksmuseum.nl/&quot;&gt;Rijksmuseum&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;111000張圖像&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：PD&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.opencultuurdata.nl/2012/12/art-from-the-rijksmuseum/&quot;&gt;Art from the Rijksmuseum&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2012/12/rijksmuseum/&quot;&gt;Rijksmuseum&lt;/a&gt;、&lt;a href=&quot;https://itunes.apple.com/nl/app/meesterwerken/id524160205?mt=8&quot;&gt;&lt;strong&gt;Rijksmuseum Meesterwerken&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2015/02/breng-afbeeldingen-tot-leven-met-wiggle/&quot;&gt;Breng afbeeldingen tot leven met Wiggle&lt;/a&gt;、&lt;a href=&quot;http://vrmuseum.nl/&quot;&gt;&lt;strong&gt;Virtueel Museum&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2013/01/heatmaps-monumenten/&quot;&gt;Heatmaps monumenten&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2013/01/histagram/&quot;&gt;Histagram&lt;/a&gt;、&lt;a href=&quot;http://www.museapp.org/&quot;&gt;&lt;strong&gt;Muse App&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://simmuseum.haykranen.nl/&quot;&gt;&lt;strong&gt;SimMuseum&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2012/12/maak-jezelf-rijks/&quot;&gt;Maak Jezelf Rijk(s)&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2013/01/muse-the-personal-mobile-museum/&quot;&gt;Muse – The Personal Mobile Museum&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2012/11/doek-voor-in-je-hoek/&quot;&gt;Doek voor in je Hoek&lt;/a&gt;、&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;https://itunes.apple.com/nl/app/naar-toen/id552890202?mt=8&quot;&gt;&lt;strong&gt;Naar Toen&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://projects.haykranen.nl/rijksmuseum/&quot;&gt;&lt;strong&gt;Het Virtuele Rijksmuseum&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.wittyman.nl/RijksmuseumQuiz/&quot;&gt;&lt;strong&gt;Rijksmuseum Quiz&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://rm.contentecontent.com/tijdlijn&quot;&gt;&lt;strong&gt;Rijksmuseum Tijdlijn&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://openarchief.org/&quot;&gt;&lt;strong&gt;Openarchief Twitterstreams&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://mash.openbeelden.nl/apps/openbeelden/51207/&quot;&gt;&lt;strong&gt;Open Beelden video’s verrijkt&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2011/02/connected-collection/&quot;&gt;Connected Collection&lt;/a&gt;、&lt;a href=&quot;http://weblab.ab-c.nl/rijksmuseum&quot;&gt;&lt;strong&gt;Gezichten van het Rijksmuseum&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://him.arkyves.org/HIM/RIJKSMUSEUM/?language=en&quot;&gt;&lt;strong&gt;Arkyves ICONCLASS Browser&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://en.nationaalarchief.nl/&quot;&gt;國家檔案館 Nationaal Archief&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;144050張相片、1170張地圖&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;相片：CC BY-SA、CC0&lt;/div&gt;
+
+			&lt;div&gt;地圖：CC0&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.opencultuurdata.nl/2013/01/anefo-1959-89/&quot;&gt;Anefo 1959-1989&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2013/01/anefoetbal/&quot;&gt;ANEFOetbal&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2015/02/breng-afbeeldingen-tot-leven-met-wiggle/&quot;&gt;Breng afbeeldingen tot leven met Wiggle&lt;/a&gt;、&lt;a href=&quot;http://vrmuseum.nl/&quot;&gt;&lt;strong&gt;Virtueel Museum&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://tijdbalk.nl/&quot;&gt;&lt;strong&gt;Tijdbalk&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://simmuseum.haykranen.nl/&quot;&gt;&lt;strong&gt;SimMuseum&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.merkestijn.nl/school/project/&quot;&gt;&lt;strong&gt;Cabaretier Archief&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;https://itunes.apple.com/nl/app/naar-toen/id552890202?mt=8&quot;&gt;&lt;strong&gt;Naar Toen&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.saira-ayurveda.nl/film/&quot;&gt;&lt;strong&gt;Dutch Film Angle&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2011/02/historische-kaarten-op-de-ipad/&quot;&gt;Historische kaarten op de iPad&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2011/02/connected-collection/&quot;&gt;Connected Collection&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.amsterdammuseum.nl/&quot;&gt;阿姆斯特丹博物館 Amsterdam Museum&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;70000張圖像&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：PD&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://vrmuseum.nl/&quot;&gt;&lt;strong&gt;Virtueel Museum&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2013/01/culthunt/&quot;&gt;CultHunt&lt;/a&gt;、&lt;a href=&quot;http://www.museapp.org/&quot;&gt;&lt;strong&gt;Muse App&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://simmuseum.haykranen.nl/&quot;&gt;&lt;strong&gt;SimMuseum&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2013/01/where-on-earth-is/&quot;&gt;Where on earth is…&lt;/a&gt;、&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://openarchief.org/&quot;&gt;&lt;strong&gt;Openarchief Twitterstreams&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://mash.openbeelden.nl/apps/openbeelden/51207/&quot;&gt;&lt;strong&gt;Open Beelden video’s verrijkt&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2011/02/connected-collection/&quot;&gt;Connected Collection&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Netherlands_Institute_for_Sound_and_Vision&quot;&gt;荷蘭視聽覺研究中心 Netherlands Institute for Sound and Vision&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;2100個聲音檔、12000張圖像、18000篇維基百科文章、1800支影片&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;聲音檔、圖像、文章、影片：CC BY-SA&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://sndrv.nl/soundsvisual/&quot;&gt;&lt;strong&gt;Sounds Visual&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://bites.designpunt.nl/&quot;&gt;&lt;strong&gt;Bites&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://simmuseum.haykranen.nl/&quot;&gt;&lt;strong&gt;SimMuseum&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2013/01/mix-van-nederland/&quot;&gt;Mix van Nederland&lt;/a&gt;、&lt;a href=&quot;http://www.merkestijn.nl/school/project/&quot;&gt;&lt;strong&gt;Cabaretier Archief&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2012/12/toms-tijdmachine/&quot;&gt;Tom’s Tijdmachine&lt;/a&gt;、&lt;a href=&quot;http://mash.openbeelden.nl/apps/openbeelden/51207/&quot;&gt;&lt;strong&gt;Open Beelden video’s verrijkt&lt;/strong&gt;&lt;/a&gt;、&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;Arts%20Holland&quot;&gt;Arts Holland&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;100000 筆活動記錄&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.opencultuurdata.nl/2013/01/tubes-list/&quot;&gt;Tube’s List&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2012/12/randomapp/&quot;&gt;Randomapp&lt;/a&gt;、&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2012/12/weamsterdam/&quot;&gt;WeAmsterdam&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.cultureelerfgoed.nl/&quot;&gt;荷蘭文化遺產國家辦事處 Rijksdienst voor het Cultureel Erfgoed&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;550000張圖像、150000筆圖書館記錄&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：CC BY-SA&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;https://itunes.apple.com/nl/app/naar-toen/id552890202?mt=8&quot;&gt;&lt;strong&gt;Naar Toen&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.rijksmonumenten.nl/&quot;&gt;&lt;strong&gt;Rijksmonumenten&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://rijksmonumenten.nl/&quot;&gt;Rijksmonumenten&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;61000筆附有脈絡資源的遺址&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：CC BY-SA&lt;/div&gt;
+
+			&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;https://itunes.apple.com/nl/app/naar-toen/id552890202?mt=8&quot;&gt;&lt;strong&gt;Naar Toen&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://rijksmonumenten.info/&quot;&gt;&lt;strong&gt;Rijksmonumenten.info&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.eyefilm.nl/en/&quot;&gt;荷蘭國家電影資料館 EYE Film Institute Netherlands&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;170筆電影記錄&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.saira-ayurveda.nl/film/&quot;&gt;&lt;strong&gt;Dutch Film Angle&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.niod.nl/en/node/11&quot;&gt;戰爭、大屠殺、種族滅絕研究中心Institute for War, Holocaust and Genocide Studies(NIOD)&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;140000筆記錄&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.opencultuurdata.nl/2013/01/map-the-war/&quot;&gt;Map the war&lt;/a&gt;、&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;、&lt;/div&gt;
+
+			&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.archiefeemland.nl/&quot;&gt;Archief Eemland&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;2000張地圖&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：CC BY&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://centraalmuseum.nl/&quot;&gt;中央博物館 Centraal Museum&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;8500筆記錄、650張圖像&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：PD/CC0&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.europeana.eu/portal/&quot;&gt;Europeana&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;23000000筆記錄&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.friesmuseum.nl/?language=en&quot;&gt;Fries Museum&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;17000筆記錄、 2100張圖像&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：PD&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.groenehartarchieven.nl/&quot;&gt;Groene Hart Archieven&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;80張地圖&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：PD&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;https://www.kb.nl/&quot;&gt;荷蘭皇家圖書館 Koninklijke Bibliotheek&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;454800份手稿、11240本書&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;手稿：CC0&lt;/div&gt;
+
+			&lt;div&gt;書：PD&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.4en5mei.nl/&quot;&gt;National Committee for 4 and 5 May&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;3500筆戰爭遺址資料&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;https://www.erfgoedleiden.nl/&quot;&gt;Regionaal Archief Leiden&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;4086171筆家譜記錄、80000筆圖像記錄(有些許圖像)&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：CC BY-SA&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www2.nijmegen.nl/wonen/oudste_stad/Archief&quot;&gt;Regionaal Archief Nijmegen&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;681張圖像&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：CC BY-SA&lt;/div&gt;
+
+			&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.rmo.nl/&quot;&gt;荷蘭古物博物館Rijksmuseum van Oudheden&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;15000張圖像&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：CC BY-SA&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://tropenmuseum.nl/&quot;&gt;荷蘭熱帶博物館 Tropenmuseum&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;50000張圖像&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：CC BY-SA&lt;/div&gt;
+
+			&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.uu.nl/en/university-library&quot;&gt;烏特勒支大學圖書館 University Library Utrecht&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;111張地圖&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：PD&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.visserijmuseum.com/&quot;&gt;Visserijmuseum Zoutkamp&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;562筆記錄&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：PD&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;參考資料：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.opencultuurdata.nl/english/&quot; target=&quot;_blank&quot;&gt;http://www.opencultuurdata.nl/english/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://mw2013.museumsandtheweb.com/paper/open-culture-data-opening-glam-data-bottom-up/&quot; target=&quot;_blank&quot;&gt;http://mw2013.museumsandtheweb.com/paper/open-culture-data-opening-glam-data-bottom-up/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://openglam.org/2012/02/16/open-cultural-data-the-first-step-towards-open-cultural-data-in-the-netherlands/#sthash.AgnNPx5f.dpuf&quot; target=&quot;_blank&quot;&gt;http://openglam.org/2012/02/16/open-cultural-data-the-first-step-towards-open-cultural-data-in-the-netherlands/#sthash.AgnNPx5f.dpuf&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://openglam.org/2012/03/12/open-cultural-data-success-of-cultural-apps-in-the-apps-for-the-netherlands-competition/#sthash.J4qYdSFK.dpuf&quot; target=&quot;_blank&quot;&gt;http://openglam.org/2012/03/12/open-cultural-data-success-of-cultural-apps-in-the-apps-for-the-netherlands-competition/#sthash.J4qYdSFK.dpuf&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://openglam.org/2012/04/17/open-cultural-data-lessons-learned-and-next-steps/#sthash.DEUTppSs.dpuf&quot; target=&quot;_blank&quot;&gt;http://openglam.org/2012/04/17/open-cultural-data-lessons-learned-and-next-steps/#sthash.DEUTppSs.dpuf&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://openglam.org/2013/01/17/open-culture-data/#sthash.QKvmmYrl.dpuf&quot; target=&quot;_blank&quot;&gt;http://openglam.org/2013/01/17/open-culture-data/#sthash.QKvmmYrl.dpuf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 05 Nov 2015 11:44:36 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1146 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151105#comments</comments>
+</item>
+</channel>
+</rss>

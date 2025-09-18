@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 政府</title>
+ <link>https://creativecommons.tw/category/tags/%E6%94%BF%E5%BA%9C</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>美國總統歐巴馬發布行政命令支持開放資料</title>
+ <link>https://creativecommons.tw/blog/20130701-1</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;劉芊影 譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;日前美國總統歐巴馬發布了一則行政命令，要求聯邦政府的資訊應公開且是可供機器閱讀的，這項命令是自2009年開始一系列關於支持增加政府資訊的可接近性及透明度的最新行動。除了此一行政命令外，白宮也發布了一則備忘錄(&lt;a href=&quot;http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf&quot;&gt;Memorandum&lt;/a&gt;)解釋聯邦政府將如何作為以符合這項開放資料(open data)的新政策。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;此備忘錄要求政府機關收集或創建資料的方式包括對於所有新資料收集、創造的工作應使用機器可讀的、開放的格式、數據標準以及相同核心而可擴展的後設資料。它亦包括政府機關應該確保在資料管理的方面，透過使用開放授權以及審查資料的隱密性、機密性、安全性或其他相關限制來做釋出的動作。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;它在開放資料方面也提供了一套具遠見的指引。根據該備忘錄的目的，所謂的開放資料一詞，指涉的是公開可用的數據結構使終端使用者能完全發現並使用之。一般而言，開放資料會和下述原則一致：&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;公開(Public)&lt;/p&gt;
+
+&lt;p&gt;為符合美國政府預算及管理局(OMB)的開放政府指令(Open Government Directive)，各機關必須採取在法律允許的推定範圍內，有利於開放的程度，以及服從隱私、安全、機密性等等限制。&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;可近用性(Accessible)&lt;/p&gt;
+
+&lt;p&gt;開放資料提供了方便、修改、開放的格式，使其能夠被檢索、下載、指引及搜尋。該格式必須是可供機器閱讀者(例如：具合理數據結構能夠允許自動處理)。開放資料的數據結構不歧視任何人或任何族群的人，而且應該提供予最廣泛的使用者為了最廣泛的用途。此外，在法律允許的範圍內，這些格式必須是非私人的、公開的且在使用上沒有限制的。&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;充分說明(Described)&lt;/p&gt;
+
+&lt;p&gt;開放資料應被充分的說明，使這些資料的消費者有充足的資訊了解他們的優勢、劣勢、安全性的要以及如何運行、處理他們。這包括使用健全的、粒狀的後設資料(例如：描述資料的元素)，經由完整的資料元素文件、資料字典以及在可行範圍下增加描述收集的目的、人民的興趣度、樣本的特色以及資料收集的方法。&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;再使用性(Reusable)&lt;/p&gt;
+
+&lt;p&gt;開放資料應基於公開授權之下使其使用沒有限制。&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;完整性(Complete)&lt;/p&gt;
+
+&lt;p&gt;開放資料應公布主要的的型態，包含法律及他規定所允許以及可以實行的最好的粒度(granularity)水平。衍生或總和的公開資料亦應參照主資料而為公布。&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;即時性(Timely)&lt;/p&gt;
+
+&lt;p&gt;開放資料需盡可能的快速去保存資料的價值，而其釋出的頻率則應考量關鍵使用群及下游的需求。&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;管理點設置(Managed Post-Release)&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 應指定一個聯絡點用以協助資料的使用以及對於相關投訴的回應。&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;此外，這個備忘錄也提供了關於美國政府資訊可被再使用的說明，敘述如下：&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;「應確保在資訊管理方面使用開放授權(&lt;strong&gt;open licenses)&lt;/strong&gt;的方式，詳言之，各政府機關須使用開放授權，以在開放資料的計畫中尋得最好的實踐方法，使資料公開後，就這些資料不論是非商業性或商業性目的，在複製、出版、分發、傳輸或其他方式的使用上不會有所限制。」&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;根據這些確切的實施細節，這是一個非常好的行動，可以釐清在使用聯邦政府資料上面任何的法律困惑。藉由使用公開授權，聯邦政府將提供再使用者一項絕好的服務。且，若美國是真的希望使聯邦政府的資訊能夠沒有限制的使用，它能考慮使用公眾領域貢獻宣告(&lt;a href=&quot;http://creativecommons.org/publicdomain/zero/1.0/&quot;&gt;CC0 Public Domain Dedication&lt;/a&gt;，簡稱CCO)的方式，現在，有許多的資料提供者使用CC0以使開放資料能直接放置於公眾領域的範圍內。我們亦已建議使CC0成為分享聯邦政府資訊的其中一個選項。&lt;/p&gt;
+
+&lt;p&gt;而對於白宮在確保美國政府資料於法律、技術上面的可近用、再使用上面所採取的一個正面、積極的做法，是非常值得我們肯定的！&lt;/p&gt;
+
+&lt;p&gt;資料來源：&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/38269&quot;&gt;http://creativecommons.org/weblog/entry/38269&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 01 Jul 2013 08:12:28 +0000</pubDate>
+ <dc:creator>sunlight</dc:creator>
+ <guid isPermaLink="false">699 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20130701-1#comments</comments>
+</item>
+<item>
+ <title>社群的創用 CC 資源</title>
+ <link>https://creativecommons.tw/blog/20120905</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/33757&quot;&gt;Natalya Berenshteyn，2012 年 8 月 14 日&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;網路上可以找到有關創用 CC 及其應用的豐富資源，創用 CC 的國際分支機構更提供了大量跨越語言和文化界限的教育資源。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;簡介&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;創用 CC 的影片「遇見創用 CC」對 CC 授權的優點、各種不同的 CC 授權、如何選擇適合授權，做了不錯的介紹。波蘭創用 CC 的公開海報是針對這些授權的絕佳快速導覽。想要更深入瞭解，P2PU 與創用 CC 的新合作計劃「開放學校」提供了簡短的「精通創用 CC」課程。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CC 和政府&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;「創用 CC 與公部門資訊：支援公部門資訊創作者與重用者的彈性工具」是由 Timothy Vollmer 與 Diane Peters 兩位創用 CC 自家人撰寫的論文，其中解釋了 CC 授權如何鼓勵公部門資訊重用。假如希望更深入了解此議題，你應該閱讀 Mireille van Eechoud 和 Brenda van der Wal 撰寫，與荷蘭創用 CC 合作的「CC 授權在公部門資訊：機會與陷阱」。還有 Anne Fitzgerald、Neale Hooper、Brian Fitzgerald 共同撰寫的「CC 授權開啟公部門資訊開放存取-澳洲經驗」，澳洲創用 CC 在「公部門中的創用 CC」簡報中概述了其內容。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;新聞與部落格&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;電子前鋒基金會製作的「部落客的法律指南」，納入了許多與內容發布者相關的法律議題，例如合理使用與數位千禧年著作權法案。創用 CC 的 Eric Steuer 所製作的「新興新聞模式與創用 CC」簡報，針對運用 CC 授權的新的新聞模式，提供了若干案例研究。在 Ars Technica 上的「創用 CC 影像與你：影像用戶的快速指引」一文，提供了尋找 CC 授權影像的指引。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;商業模式&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;同樣來自澳洲創用 CC 的「創意產業案例研究」，針對創作者藉由以 CC 授權公開釋出作品而創造獲利，提供了案例研究。音樂家 Dan Bull、作家 Cory Doctorow、製片人 Nina Paley，都曾在訪談中解釋他們如何及為何使用 CC 授權作品。在他的部落格 Techdirt 上，Mike Masnick 有許多文章談到他稱之為「連接粉絲 + 購買理由」的商業模式。&lt;br /&gt;
+要找到更多資源，我們的維基是不錯的起點，在地資源請見各分支機構的網站。&lt;/p&gt;
+
+&lt;p&gt;原文出處：&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/33757&quot;&gt;http://creativecommons.org/weblog/entry/33757&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 05 Sep 2012 05:41:49 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">640 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120905#comments</comments>
+</item>
+<item>
+ <title>政府與圖書館使用創用CC授權工具進行資料開放</title>
+ <link>https://creativecommons.tw/blog/20120503</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;吳佩凌 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;在過去幾個月中，資料開放的情況已出現顯著增長，尤其是政府部門與圖書館。而最近採用開放資料政策的有奧地利政府、義大利教育大學研究部、義大利眾議院、與哈佛大學圖書館。&lt;/p&gt;
+
+&lt;p&gt;奧地利政府已推出一個&lt;a href=&quot;http://data.gv.at/&quot;&gt;開放數據資料門戶&lt;/a&gt;，以創用CC之&lt;a href=&quot;http://creativecommons.org/licenses/by/3.0/at/&quot;&gt;CC BY&lt;/a&gt;授權條款釋出大量關於其本身之數據資料。該入口網站之&lt;a href=&quot;http://data.gv.at/nutzungsbedingungen/&quot;&gt;使用條款&lt;/a&gt;指明，開放資料建議使用&lt;a href=&quot;http://creativecommons.org/licenses/by/3.0/&quot;&gt;CC BY&lt;/a&gt;授權條款，如此一來，此種資料在數據資料的說明處便會被標明為依照CC BY授權條款釋出。&lt;/p&gt;
+
+&lt;p&gt;義大利教育大學研究部以CC BY授權方式推出其開放資料門戶，公布義大利之學校資料(例如地址、電話、網站、行政代碼)、學生資料(學號、性別、成績表現)、以及教師資料(編號、性別、退休等)。該部門旨在使其所有的資料能全面開放與利用並達到重複使用的終級目標，而為了提高透明度，其致力於理解義大利的學校體制、推動建立新的工具與服務供學生、教師與家庭使用。&lt;/p&gt;
+
+&lt;p&gt;此外，&lt;a href=&quot;http://data.camera.it/data/en/&quot;&gt;義大利眾議院&lt;/a&gt;還發展了一個平台，以創用CC授權條款中之&lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;CC BY-SA&lt;/a&gt;的授權方式，公布開放資料的連結。&lt;/p&gt;
+
+&lt;p&gt;而美國哈佛大學圖書館已經以&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/publicdomain/zero/1.0/deed.zh_TW&quot;&gt;CC0（公眾領域貢獻宣告）&lt;/a&gt;工具&lt;a href=&quot;http://isites.harvard.edu/icb/icb.do?keyword=k77982&amp;amp;pageid=icb.page498373&quot;&gt;釋出了一千兩百萬筆目錄清單&lt;/a&gt;至公眾領域當中。此舉是根據哈佛大學圖書館的&lt;a href=&quot;http://openmetadata.lib.harvard.edu/&quot;&gt;開放元數據政策&lt;/a&gt;。該政策的&lt;a href=&quot;http://openmetadata.lib.harvard.edu/public_faq&quot;&gt;常見問題&lt;/a&gt;指出：「隨著冠上CC0的公眾領域貢獻宣告標章，哈佛放棄對於元數據所持有的任何著作權或其他相關權利。我們相信這有助於促進廣泛使用以及產出的發展，而這將有益於圖書館界以及所有大眾。」&lt;/p&gt;
+
+&lt;p&gt;哈佛的對外&lt;a href=&quot;http://isites.harvard.edu/icb/icb.do?keyword=k77982&amp;amp;pageid=icb.page498373&quot;&gt;新聞稿&lt;/a&gt;中則指出其開放資料的另一項動機：「DPLA 的主席John Palfrey說道，『有了這個重大的貢獻，開發者將能藉由使用重要的國家資源，包含本地的公共研究圖書館、博物館、檔案資料庫、與文化收藏，開始試著進行創新的發展。』並補充道，他希望這能因此鼓勵其他機構也將所擁有的元數據資料公開供大眾使用。」&lt;/p&gt;
+
+&lt;p&gt;我們十分高興創用CC的授權工具被使用在開放資料上。與創用CC及資料有關的問題，可參考&lt;a href=&quot;http://wiki.creativecommons.org/Data&quot;&gt;關於資料的常見問題&lt;/a&gt;，在那裡亦可連結至越來越多加入開放資料行列之政府、圖書館以及機構組織。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;原文出處: &lt;/strong&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/31884&quot;&gt;http://creativecommons.org/weblog/entry/31884&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 03 May 2012 09:07:01 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">596 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120503#comments</comments>
+</item>
+<item>
+ <title>從Data-as-a-Service 角度看 Open Data</title>
+ <link>https://creativecommons.tw/in-depth/592</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;符立典/ 工研院服務系統科技中心&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Data-as-a-Service&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+提供資料的服務並不是新鮮事，圖書館提供的借閱服務正是其中的典型代表。專業年鑑、產業分析報告、甚至新聞、報章雜誌等傳媒也是都是以各種不同型態存在的 Data-as-a-Service (DaaS)」。這類服務的特性是：以資料或資訊為產品、以便利的資訊管道為服務手段。&lt;/p&gt;
+
+&lt;p&gt;DaaS的價值在於：&lt;/p&gt;
+
+&lt;p&gt;1. 資料的真確性(Integrity)：高品質的資料必須同時具備「真實、正確、完整、一致」四種特性。例如新聞報導的內容必須是真實的，而且不應該斷章取意、或是前後不一。&lt;br /&gt;
+2. 資料的珍貴性：珍貴或不易取得的資料，自然具有其特殊價值。&lt;br /&gt;
+3. 資料的再利用性：從人類的知識史來看，資料被再次利用所創造的價值遠大於資料的存在價值。那麼，愈容易再次被重新利用的資料，便合理的具有較高的價值。&lt;br /&gt;
+4. 取得管道的便利性：資訊的價值自然與管道的便利性、即時性有關。&lt;/p&gt;
+
+&lt;p&gt;承上，若服務提供者想要提升資料的價值，則應考量在現今良好數位化基礎的前提下，資料的&lt;strong&gt;再利用性&lt;/strong&gt;及其取得管道的&lt;strong&gt;便利性&lt;/strong&gt;，理應是這四個維度中較容易提高的兩個項目。的確，我們也可以發現世界各國的Open data推動者中，對於「開發者」這種使用者族群幾乎皆採用&lt;a href=&quot;http://en.wikipedia.org/wiki/Representational_state_transfer&quot; target=&quot;_blank&quot;&gt;REST&lt;/a&gt; + &lt;a href=&quot;http://en.wikipedia.org/wiki/JSON&quot; target=&quot;_blank&quot;&gt;JSON&lt;/a&gt;的套裝組合來提供資料服務。&lt;/p&gt;
+
+&lt;p&gt;REST (Representational state transfer) 原則上採用HTTP或是&lt;a href=&quot;http://en.wikipedia.org/wiki/SOAP&quot; target=&quot;_blank&quot;&gt;SOAP&lt;/a&gt; RPC (Remote Procedure Call )作為其通訊協定，故幾乎所有具網路連線能力的設備都可以存取。 JSON (JavaScript Object Notation) 則是一種極簡單的資料表達手段，適用於數位資料的序列化及反序列化(Serialization &amp;amp; Deserialization)。目前已有超過45種程式語言的API支援，當然包含主流的JAVA、C#、Object C、PHP、Python等常見的程式語言。 DaaS提供者應該考量採用這樣的模式提供資料給客戶或使用者。因為這模式至少是目前對於資料使用者而言，最便利的管道；也是最容易再被開發二次利用的格式。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DaaS 營運模式&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;不論是實體DaaS或是數位DaaS，其營運模式皆包括使用者免付費及使用者付費兩種模式，而其下又可再細分不同的營運模式。&lt;/p&gt;
+
+&lt;p&gt;1. 使用者免付費模式：&lt;/p&gt;
+
+&lt;p&gt;a. 政府支付營運費用或公益團體贊助：例如政府開放資料(open data)、圖書館的基本借閱服務或公共電視。這類型的DaaS基於社會福利。所以由政府或由公益團體贊助其營運成本。&lt;br /&gt;
+b. 廣告收入支付營運費用：例如爽報。&lt;/p&gt;
+
+&lt;p&gt;2. 使用者付費模式：&lt;/p&gt;
+
+&lt;p&gt;a. 依使用量收費：例如訂閱某一個時間區段的期刊、雜雜；或是依章節目錄購買的產業分析報告。API-based的DaaS也可以採用Pay-per-call的模式依照對API服務的呼叫次數做為收費標準。&lt;br /&gt;
+b. 依資料型態或類型收費：具有較高再利用性的資料收取較高的費用，而具較低再利用性者則可以免費提供。例如，比較PDF格式與JSON格式，JSON應較易被再次利用，故具有較高的價值。&lt;br /&gt;
+c. 依時效性收費：時效性代表的是資料的珍貴性，而且即時資料和過時資料在不同的場合下其價值也會有不同的判定標準。例如，即時的股市報價資訊的價值非常高，10年前的股價資訊大多可以免費取得。相反的，即時新聞取得的難度要比10年前的特定新聞低，所以10年前的「舊聞」反而可能需收費才能取得。&lt;/p&gt;
+
+&lt;p&gt;不論採用哪一種營運模式，DaaS都必需要取得一種能至少讓財務平衡的資態，才得以永續經營。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Open Data - 一種完全開放的 DaaS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;政府開放資料(open data)近年來在歐美盛行，但是對於相對較保守的華人文化而言，要完全仿效或是快速推動應該會產生很大的阻力。不論現階段政府對於open data的準備度多高，近期看見的頻頻動作都是個值得期待的開始。政府或法人的角色，應在於提供一個良好的環境，讓open data類型的平台或基於open data的應用得以培育發生，並產生可自給自足營運的可能性。 現階段，台灣中央或地方政府大多數(除了台北市及內政部)對open data都沒有發表相關方針。在公部門手中所擁有的資料有很大比例可能尚未正規化，或甚至尚未數位化。在公部門全面數位化的進行政府open data過程中，法人或民間團體可以扮演推手與技術協助的角色。&lt;/p&gt;
+
+&lt;p&gt;而&lt;a href=&quot;http://blog.accesstaiwan.org/&quot; target=&quot;_blank&quot;&gt;AccessTaiwan&lt;/a&gt;是近期一個工研院內部團隊自行發起的計劃，其目的是透過DaaS的手法把台灣的文化、美景和觀光的資訊推向全世界。期望世界各地的 App 開發者可以取得這些難以取得的內容後，自由地發展出多樣的應用。可能是為國外背包客設計的台灣大眾輸輪轉乘工具、&lt;a href=&quot;http://zh.wikipedia.org/wiki/LBS&quot; target=&quot;_blank&quot;&gt;LBS&lt;/a&gt; (Location-Based Service, 基於地理位置的服務)遊戲、民宿優惠收集、甚至是台灣文化教有的小工具。這些潛在應用的多元性，實維繫在資料來源有多「open」。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;軟體產業對DaaS和Open Data的期望&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;軟體本身與其內容的維護是應用服務產生價值的兩個來源。在軟體創業團隊有限的資源下，應將人力緊縮專注於軟體本身及服務流程的發展。若能從外部取得高品質、易整合的內容，對軟體創業團隊具有絕對性的綜效與價值。&lt;/p&gt;
+
+&lt;p&gt;在缺乏這類型的DaaS提供者的目前，政府可以將公部門開放資料做為一個重要的指標性資料提供平台。這個平台的價值不只在於將資料還給社會、或是公開各項應公告的施政資訊；更大的價值在於，&lt;strong&gt;這提供了台灣軟體產業一個前所未有的培育環境。&lt;/strong&gt;除了政府應具前瞻性的思維與環境建構者的使命外，民間團體和法人的協助也是不可或缺的助力。如此一來，在軟體產業鏈的分工與上下游關係亦將更加明確與專業化。如同台灣過去在電子業可以形成完整的產業鏈及產業聚落，軟體亦可以成為台灣下一個被世界注目的焦點。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;參考資料：&lt;/strong&gt;&lt;br /&gt;
+1. &lt;a href=&quot;http://about.me/lidienfu&quot; target=&quot;_blank&quot;&gt;作者：符立典/ 工研院服務系統科技中心&lt;/a&gt;&amp;nbsp;&lt;br /&gt;
+2. &lt;a href=&quot;http://en.wikipedia.org/&quot; target=&quot;_blank&quot;&gt;Wikipedia&lt;/a&gt;&lt;br /&gt;
+3. &lt;a href=&quot;http://json.org/&quot; target=&quot;_blank&quot;&gt;JSON&lt;/a&gt;&lt;br /&gt;
+4. &lt;a href=&quot;http://blog.accesstaiwan.org/&quot; target=&quot;_blank&quot;&gt;AccessTaiwan&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 06 Apr 2012 02:08:05 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">592 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/592#comments</comments>
+</item>
+<item>
+ <title>2012.01.18 我國公開資料加值(open data)推動策略會議</title>
+ <link>https://creativecommons.tw/blog/20120104</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;台灣創用CC計畫&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;開放政府資料（Open Government Data）最近真是相當火紅的議題。去年12月中剛在中研院辦完&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.tw/blog/02011226&quot;&gt;「開放政府資料：現況、願景、策略」座談會&lt;/a&gt;。緊接著，行政院科技顧問組著眼於「透過政府公開資料加值，帶動臺灣創新服務，促進產業發展」，也將於2012/01/18舉行&lt;a class=&quot;newpage&quot; href=&quot;http://goo.gl/8BaLy&quot;&gt;「2012年我國公開資料加值(Open Data)推動策略會議」&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;開放政府資料後，可以怎麼加值應用？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;本次會議邀請到美國 Kathy Conrad（Principal Deputy Associate Administrator,GSA Office of Citizen Services and Innovative Technologies, General Services Administration, US）與英國Andrew Stott（UK Transparency Board and former Director of data.gov.uk）分享各自政府在 Open Data 推動經驗。前者結合城市行銷執行，後者建立收費與授權機制，讓政府公開資料成為公共可運用的資產，均為政府機關積極開放公部門資料加值之最佳案例。&lt;br /&gt;
+&lt;br /&gt;
+此外，也邀請行政院研考會、經建會、交通部說明台灣資料加值推動規劃，及可帶給民眾生活的創新與展望，並邀請廠商經驗分享，希望能協助民間創新產業服務模式，創造就業機會並促進經濟發展。&lt;br /&gt;
+&lt;br /&gt;
+名額有限，報名要快！請於101年1月13（星期五）前透過傳真或EMAIL回覆&lt;a class=&quot;newpage&quot; href=&quot;http://goo.gl/8BaLy&quot;&gt;出席表&lt;/a&gt;(.doc文件)給主辦單位，以完成報名。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2012 我國公開資料加值(open data)推動策略會議&lt;/strong&gt;&lt;br /&gt;
+主辦單位：行政院科技會報辦公室&lt;br /&gt;
+時　間：民國101年1月18日（星期三）9時30分至15時30分&lt;br /&gt;
+地　點：台大醫院 國際會議中心101會議室&lt;br /&gt;
+議&amp;nbsp;&amp;nbsp; 程：&lt;a class=&quot;newpage&quot; href=&quot;http://goo.gl/8BaLy&quot;&gt;詳細內容&lt;/a&gt;(.doc文件)&lt;br /&gt;
+聯絡窗口：林宜燕小姐 (02) 2737-7223&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://www.bost.ey.gov.tw/cp.aspx?n=E48F3D33FA666886&quot;&gt;2012 我國公開資料加值推動策略會議 會議資料&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 04 Jan 2012 08:45:49 +0000</pubDate>
+ <dc:creator>ccworker</dc:creator>
+ <guid isPermaLink="false">574 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120104#comments</comments>
+</item>
+<item>
+ <title>論非營利組織於資訊共享環境中所扮演的角色（下）</title>
+ <link>https://creativecommons.tw/in-depth/432</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;李治安&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;在(上)篇中，筆者以公共財作為分類依據，羅列出資訊共享環境中的各類非營利組織後，(下)篇中本文選擇以當今非營理組織學說中最具影響力的兩個理論，解釋資訊共享運動中的各參與組織。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;一、契約失靈理論：&lt;/strong&gt;第一個理論是 Henry Hansmann 提出的契約失靈理論 (contract failure theory)，該理論指出，在交易雙方之間存在著資訊不對稱的情況時，買方無法檢驗商品的品質，因此賣方可能會提供劣質的服務或產品。此時，如果由非營利組織扮演賣方的角色，該等組織的「不分配限制」特質將可適度防止其濫用優勢資訊，欺壓買方。&lt;/p&gt;
+
+&lt;p&gt;契約失靈理論在資訊共享環境中有傳統的應用角度，亦即非營利組織可代社群接受並管理他人捐贈。與營利事業相較，非營利組織較不會濫用該等捐贈，此外，亦存在以下三種新形態的契約失靈情境：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;(一)、近用失靈&lt;/strong&gt;&lt;br /&gt;
+許多個人創作者都希望其作品能廣為流傳，但並非所有的潛在讀者都能接近使用該等作品，當作者無法為其讀者提供理想的近用資訊時，即發生了近用失靈的情況。以學術文章為例，作者通常希望自己的文章能夠廣為流傳，因為該等文章被引用率可一定程度的象徵作者的學術聲望，而著作權通常不是學術作者所需要的創作誘因；但以營利為目的的出版商卻希望控制期刊的流傳數量以獲取最大的利潤，就此而言，出版商和作者具有相當程度的利害衝突。像 Public Library of Science (PLoS) 般的非營利組織出版社，因為不追求最大利潤，所以無須控制期刊內容的著作權，如此反而符合學術作者的利益，也解決了近用失靈的不效率。其他處理近用失靈的機構包括了 Internet Archive、Television Archive、免費提供課程資訊的麻省裡工學院、以及支持維基百科的 Wikimedia Foundation 等機構。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;(二)、協力失靈&lt;/strong&gt;&lt;br /&gt;
+協力失靈可能發生於個人間或組織間。個人間的協力失靈指的是在同儕生產社群中，如果沒有正式組織作後盾，協力工作將因欠缺集體產權管理、交易主體、承擔潛在責任主體、制度化決策程序及標準等問題而無法完成，而如維基基金會(Wikimedia Foundation)及阿帕契基金會(Apache Software Foundation)等非營利組織的存在即適度解決了該等問題。通常大型的同儕生產社群才會成立非營利組織，因為社群須有相當規模，才有足夠的資源成立正式組織；而且規模大使得資訊內容逐漸複雜，才會需要組織的存在。&lt;/p&gt;
+
+&lt;p&gt;某些非營利組織則是專注於處理組織間的協力失靈問題，像 Eclipse Foundation 和 Linux Foundation 都是商會型的非營利組織，他們是由營利機構所組成，可視為各公司會員為了構築商業基礎設施（如標準）、分擔成本而採取的集體行動。因為對所有會員公司而言，如果基礎設施被單一營利機構所掌握，則公司的經營將被鎖死(lock-in)，產品成本也勢必大幅增加。除了商會型的非營利組織以外，一些負責智慧財產權公益遊說的團體如 Public Knowledge 也扮演了統合各組織共同利益的角色，就此而言，這些組織都解決了組織間協力失靈的問題。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;(三)、授權失靈&lt;/strong&gt;&lt;br /&gt;
+授權失靈分成兩種形態，第一種授權失靈是由於著作權法的規定，使得創作人無法隨心所欲的讓他人使用其創作，針對該種失靈，Creative Commons 提供了一系列的授權條款，協助創作人依其喜好，授權其作品。&lt;/p&gt;
+
+&lt;p&gt;第二種授權失靈則是指授權條款間的不相容，導致資訊的使用人不能隨心所欲的使用依據不同授權條款授權的共享資訊，就此問題，包括 Creative Commons 及 Free Software Foundation (FSF)組織已開始推動授權條款間的相容性。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;二、市場與政府失靈理論：&lt;/strong&gt;第二個關於非營利組織的理論是市場與政府失靈理論(market and government failure theory)，此理論認為市場及政府對於某些公共財的供給都會發生失靈，因此為非營利組織提供了生存利基，市場失靈主要是因為經濟學上的搭便車現象，使得生產者欠缺誘因從事生產活動；而政府失靈則是因為在民主社會中，政府只能提供有限的資源，因此其通常會選擇滿足部分人的需求，而捨棄其他人的需求。&lt;/p&gt;
+
+&lt;p&gt;在資訊共享環境中，政府失靈與著作權法有密切的關係，對許多非營利組織言，著作權法本身就是一種政府失靈，而被商業利益控制的著作權法立法過程，則是另一種政府失靈。許多非營利組織及與其密切相關的自由文化運動，都是因為不滿國會通過數位千禧著作權法(Digital Millennium Copyright Act, DMCA)及著作權期限延長法案(Copyright Term Extension Act, CETA) 通過而形成。市場失靈則包含了前述的契約失靈，以及資訊公共財過度受到獨佔及生產不足所導致的不效率情況。&lt;/p&gt;
+
+&lt;p&gt;非營利組織型塑了當今的資訊訊共享生態系統，本文以上係以當代兩個主流的非營利組織理論分析相關非營利組織於資訊共享環境中所扮演的角色，這兩個理論對於理解該等組織於資訊共享運動中之價值及功能，具有相當助益，當然，各理論均有其不足之處，而各理論間也可互補其不足。本文中界定出近用失靈、協力失靈及授權失靈三種新型態的契約失靈。&lt;/p&gt;
+
+&lt;p&gt;此外，非營利組織的出現與存在亦與市場失靈及政府失靈有關，該等失靈包括了著作權法本身、著作權法的立法過程以及公共財的過度壟斷及供給不足。在可預見的未來，相信各種組織形態將繼續在不同的資訊環境中，扮演不同的角色，其互動及相關發展亦值得繼續關注。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 02 Jul 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">432 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/432#comments</comments>
+</item>
+</channel>
+</rss>

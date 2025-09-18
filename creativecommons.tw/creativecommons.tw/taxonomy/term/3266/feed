@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - InC-OW-EU</title>
+ <link>https://creativecommons.tw/taxonomy/term/3266</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>他山之石 - rightsstatements.org 對開放文化館藏的啟發與探討（下）</title>
+ <link>https://creativecommons.tw/blog/20161206</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/20161205.png?itok=DNqol-mL&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;em&gt;Three Categories of Rights Statements at: &lt;a href=&quot;http://rightsstatements.org&quot; target=&quot;_blank&quot;&gt;rightsstatements.org&lt;/a&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【Rights Statements十二款標準分項的簡介與說明】&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;基本上，Rights Statements 對其十二款標示分項，是先以三大分類為基礎，先將數位館藏素材大分為：一、素材仍受著作權利保護，二、素材已不受著作權利保護，以及三、素材著作權利狀態未明，等三個態樣，其後再依應用差異性，來劃分各分類裡的次要分項，以下羅列並提供這十二款標示的基礎簡介與說明。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;一、素材仍受著作權利保護 (Statements for works that are in copyright)&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;1. 著作權利所有-僅得以主張合理使用 (IN COPYRIGHT)：InC 指示該素材仍在著作權利保護範圍之內，其能提供公開披露的權利基礎，為依其著作權利人本身之意願，或已得其著作權利人同意，或者依各國著作專屬權例外及限制 (exception and limitation) 之規定，例如援引合理使用 (Fair Use) 以較低解析模式提供公眾瀏覽，故這類的素材，後續的引用及再利用，基本上利用人亦僅能在個案裡主張合理使用，並自負合理使用判定的法律風險。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. 著作權利所有-孤兒著作 (IN COPYRIGHT - EU ORPHAN WORK)：InC-OW-EU 指示該素材依歐盟 2012/28/EU 號法律指令，可被歸類於孤兒著作。故而文化館藏機構對於這些孤兒著作具有較高的公開披露地位，而使用者在踐履 2012/28/EU 號法律指令內國法化的法律流程後，亦有機會於歐盟境內，提存一筆核定的授權金額後，對這些孤兒著作進行核內範圍內的利用。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;3. 著作權利所有-僅供教育目的使用 (IN COPYRIGHT - EDUCATIONAL USE PERMITTED)：InC-EDU 指示該素材仍在著作財產權保護期間，然而依其著作權利人本身之意願，或已得其著作權利人同意，得公開披露並供一般使用者，基於教育目的來使用這些素材。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;4. 著作權利所有-僅供非商業目的使用 (IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED)：InC-NC 指示該素材仍在著作財產權保護期間，然而依其著作權利人本身之意願，或已得其著作權利人同意，得公開披露並供一般使用者，基於非商業性之目的來使用這些素材。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;5. 著作權利所有-無既存之著作權利人 (IN COPYRIGHT - RIGHTS-HOLDER(S) UNLOCATABLE OR UNIDENTIFIABLE)：InC-RUU 指示館藏機構確信該素材仍在著作財產權保護期間內，然而經過相當程度的調查後，仍無法確認其著作權利人身份，或無法聯繫到其著作權利人。此一標示與孤兒著作標示 InC-OW-EU 不會併行存在，在歐盟領域若文化素材可被認定為孤兒著作，則應依 2012/28/EU 號法律指令，將其標示為 InC-OW-EU，但在其他未建立孤兒著作彈性利用機制的國家，則可將這些孤兒狀態的著作，列入 InC-RUU 分項下。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;二、素材已不受著作權利保護 (Statements for works that are not in copyright)&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;6. 著作權利沒有-契約條件限制 (NO COPYRIGHT - CONTRACTUAL RESTRICTIONS)：NoC-CR 指示該素材原件於著作財產權的層次，已不再受到保護而進入到公眾領域，然而該素材的提供機構，於其數位重製格式上另加上契約性的限制條款，此種狀況舉例來說，提供機構可能基於類似我國的文化資產保存法，對該素材原件具有特別監製或其他管理地位，需要注意的是，使用該標示須明確提供限制利用條款的網頁連結，以供使用者進一步了解相關細節。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;7. 著作權利沒有-僅供非商業目的使用 (NO COPYRIGHT - NON-COMMERCIAL USE ONLY)：NoC-NC 指示該素材之數位重製格式雖位於公眾領域，然製作之初可能基於公私部門協力的契約關係，在一定期間之內不能逕行提供商業目的之使用，例如歐洲部份圖書館與 Google 在公眾領域館藏數位化的合作案，其成果部份即採此一模式進行公眾提供，但限定非商業性使用之目的，以相當程度保障 Google 提供技術、資財建置該數位資料庫的必要利益，此一權利標示可視為前一細項 NoC-CR 之變體。&lt;/p&gt;
+
+&lt;p&gt;8. 著作權利沒有-使用可能受其他法律限制 (NO COPYRIGHT - OTHER KNOWN LEGAL RESTRICTIONS)：NoC-OKLR 指示該素材之數位重製格式已位於公眾領域，然而是否能夠符合特定目的之利用，仍須評估其他相關法律之限制，例如文化資產保存、傳統文化表達 (Traditional cultural expression) 等相關法律。舉例來說，我國近年修訂通過的「原住民族傳統智慧創作保護條例」即為此類相關法律。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;9. 著作權利沒有-美國聯邦著作 (NO COPYRIGHT - UNITED STATES)：美國著作權法於其 105 條有個獨特設計，其律定美國聯邦政府所產出的所有作品，皆不受著作權利的保護，而能夠被不特定國民，自由的重製、散布、改作、公開展示。然而，基於智慧財產權領域的國際互惠原則，美國聯邦政府的作品對其國民不得主張著作權利的保護，不代表這些作品對其他國家的國民，也必然進入了使用上不受限制的公眾領域。故而 NoC-US 指示該素材為美國聯邦政府特別屬性之作品，美國國民在利用上不受著作權利限制，但在其他司法管轄領域仍需例外進行判斷。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;三、素材著作權利狀態未明 (Statements for works where the copyright status is unclear)&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;10. 著作權利不清-未經實質評估 (COPYRIGHT NOT EVALUATED)：CNE 指示該素材的著作權利狀態未明，且基本上仍未經任何合理流程的評估。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;11. 著作權利不清-重要評量要素未明 (COPYRIGHT UNDETERMINED)：UND 指示該素材的著作權利狀態未明，但館藏機構已盡合理流程進行評估，但當前進度是欠缺重要決定因素的確認，故暫時仍以未明來進行標示。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;12. 著作權利不清-無已知著作權利限制 (NO KNOWN COPYRIGHT)：NKC 指示該素材的著作權利狀態未明，館藏機構已盡合理流程進行評估，始終欠缺重要決定因素的確認，然亦有相當理由可推論其已逾著作權利保護期間，故以「無已知著作權利限制」之字句進行標示，此一權利狀態標示的著例，有 Flickr 進行有年，並得到相當數量文化館藏機構參與的公眾相簿計畫。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【Rights Statements 與創用CC 授權條款及相關宣告的競合關係】&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;
+&amp;nbsp;&lt;br /&gt;
+Rights Statements 和既存的公眾散布機制，是處於相輔相乘、互相填補的定位，進一步來說，Rights Statements 並沒有創設任何新的授權條款或權利宣告模組，它僅是在既成的架構下，疏導特色相近的授權模式能被統合分類，以讓使用者在瀏覽相關數位素材時，能收一目了然、快速領略其基礎使用狀態之效。故其白皮書裡明白表示，在「素材仍受著作權利保護」的分類，若館藏機構已就素材進行妥善盤點，則建議採用符合個案管理政策的創用CC 授權條款來釋出這些素材；而在「素材已不受著作權利保護」的分類，當素材在盤點過後很清楚已置於公眾領域，且無其他不必要的契約與相關法律限制利用，則應逕以公眾領域標章 (Public Domain Mark, PDM) 或公眾領域貢獻宣告 (CC0) 來進行散布，唯有在無法完全依照 PDM 或 CC0 散布時，才去額外以 Rights Statements，提醒使用者必須進一步知悉該素材額外受到限制的利用狀態；最後在「素材著作權利狀態未明」的分類，亦有論者指出，若是權利狀態未明，為何要逕行進行公眾披露？但從務實面與積極面而言，進行公開披露亦可視為透過公眾協力舉報、回報的模式，來協助託管藏品之文化機構，能夠進一步確認該素材的權利狀態，所以未經評估、要素未明，以及無已知著作權利限制，其實有其未明狀態的時序階段與差異，從未評、未明，到無已知限制，最後在相關期間未有異議，或群眾協助提供重要決定因素可供確認之後，則有機會正式讓該素材，得以被採公眾領域標章進行標示。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;基本上，Rights Statements 這三大分類、十二細項的文化館藏權利標示的模式，在我國亦多能被直接適用，在統合各個文化館藏自訂提供模式讓公眾了解的面向，更具有他山之石，可以攻錯的參考價值。且就現行普遍流通的創用CC 授權條款及其他公眾授權條款，得收相互輔助之效。唯有美國聯邦著作 - NoC-US 的標示，於我國著作權法框架上並無對應機制，除此之外，孤兒著作 - InC-OW 此一標示，亦有機會略加調整之後，改為適用近年新修訂之文化創意產業發展法，在二十四條項下提存使用報酬後經專責機關許可授權使用之配套。且其於權利盤點上揭示的分階機制，亦相當程度有助於文化館藏機構，據以學習先採輕簡盤點後進行素材公開披露，後續再集中資源釐清重要專案的權利狀態，以妥善文化素材開放授權的後續舉措，並收積極施政令民眾有感之效。&amp;nbsp;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Rightsstatements.org White Paper - Recommendations for Standardized International Rights Statements: &lt;a href=&quot;http://rightsstatements.org/files/160208recommendations_for_standardized_international_rights_statements_v1.1.pdf&quot; target=&quot;_blank&quot;&gt;http://rightsstatements.org/files/160208recommendations_for_standardized_international_rights_statements_v1.1.pdf&lt;/a&gt;, 2015 International Rights Statements Working Group, CC0-1.0.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Rightsstatements.org White Paper - Requirements for the Technical Infrastructure for Standardized International Rights Statements: &lt;a href=&quot;http://rightsstatements.org/files/160322requirements_for_the_technical_infrastructure_for_standardized_international_rights_statements_v1.1.pdf&quot; target=&quot;_blank&quot;&gt;http://rightsstatements.org/files/160322requirements_for_the_technical_infrastructure_for_standardized_international_rights_statements_v1.1.pdf&lt;/a&gt;, 2015 International Rights Statements Working Group, CC0-1.0.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;The Directive on the re-use of public sector information (Directive 2013/37/EU): &lt;a href=&quot;https://ec.europa.eu/digital-single-market/en/european-legislation-reuse-public-sector-information&quot; target=&quot;_blank&quot;&gt;https://ec.europa.eu/digital-single-market/en/european-legislation-reuse-public-sector-information&lt;/a&gt;, 2013 European Parliament and European Council.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Due Diligence, Futile Effort: Copyright and the Digitization of the Thomas E. Watson Papers: &lt;a href=&quot;http://americanarchivist.org/doi/pdf/10.17723/aarc.73.2.16rh811120280434&quot; target=&quot;_blank&quot;&gt;http://americanarchivist.org/doi/pdf/10.17723/aarc.73.2.16rh811120280434&lt;/a&gt;, 2010 Maggie Dickson.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;DPLA Licenses: &lt;a href=&quot;http://www.deanfarr.com/viz/rights.php&quot; target=&quot;_blank&quot;&gt;http://www.deanfarr.com/viz/rights.php&lt;/a&gt;.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Copyright Law of the United States of America, § 105. Subject matter of copyright: United States Government works: &lt;a href=&quot;http://www.copyright.gov/title17/92chap1.html#105&quot; target=&quot;_blank&quot;&gt;http://www.copyright.gov/title17/92chap1.html#105&lt;/a&gt;.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Flickr 公眾相簿計畫：&lt;a href=&quot;https://www.flickr.com/commons/usage/&quot; target=&quot;_blank&quot;&gt;https://www.flickr.com/commons/usage/&lt;/a&gt;。&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;文化創意產業發展法第 24 條：&lt;a href=&quot;http://law.moj.gov.tw/LawClass/LawSingle.aspx?Pcode=H0170075&amp;amp;FLNO=24&quot; target=&quot;_blank&quot;&gt;http://law.moj.gov.tw/LawClass/LawSingle.aspx?Pcode=H0170075&amp;amp;FLNO=24&lt;/a&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 06 Dec 2016 10:54:45 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1245 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20161206#comments</comments>
+</item>
+<item>
+ <title>他山之石 - rightsstatements.org 對開放文化館藏的啟發與探討（上）</title>
+ <link>https://creativecommons.tw/blog/20161205</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/20161205.png?itok=DNqol-mL&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;em&gt;Three Categories of Rights Statements at: &lt;a href=&quot;http://rightsstatements.org&quot; target=&quot;_blank&quot;&gt;rightsstatements.org&lt;/a&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;文化館藏基礎權利標示 (RightsStatements.org) 是一個由歐洲數位典藏平台 - Europeana Collections 與美國數位公眾圖書館 (Digital Public Library of America ,DPLA) 共同發起的協力專案，該專案目前由 Knight Foundation 及歐洲執行委員會 (European Commission) 共同浥注資金，建置與討論過程裡，也廣邀創用CC 總部與全球合作網絡的主要成員參與提供意見。此一文化館藏權利標示套件的主要建置目的，在於協助跨界跨域的美術館、圖書館、檔案館，以及博物館，能以最淺顯方便的標示模式，來述明自身數位館藏最基礎的權利狀態，從而便利、加速該數位素材的流通與被使用。簡要來說，Rights Statements 主要的服務對象，便是 Europeana 與 DPLA，這般會群聚各方數位文化素材的託管平台，因相關素材的貢獻者來自四面八方，其來源皆各有本來的授權配置，故若能統一以標準化、簡單化，並且輔以鍵結技術為索引基礎的 Rights Statements 來進行表述，便能相當程度強化文化館藏數位化分享上的深度與廣度。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【深度權利盤點曠日費時且不具全面執行性】&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;拜近年數位化科技進步之賜，許多美術館、圖書館、檔案館與博物館，得以逐步將其典藏素材進行數位化重製，以探究採遠端、彈性方式，提供是類素材能被便利欣賞或使用的可行性。而在歐洲的發展，因應歐盟公部門資訊再利用指令 (Directive 2013/37/EU) 於 2013 年的增補與修改，公部門資訊再利用的適用對象，已擴張到公有或公資營運的圖書館（包含大學裡設置之圖書館）、博物館，以及檔案館所典藏之文物，其諭令這些機構的數位化典藏素材，也應盡量以活化應用方式提供予公眾使用，然而，開放公務文化館藏的數位化運用，首當其衝必須解決的法律議題，就是權利盤點的實踐及其後的決策，爭議之處在於許多具歷史性的典藏文物，其依著作權法的基本預設，權利狀態應已進入眾人皆可不受限制利用的公眾領域 (Public Domain)，然而也正因為年代久遠，若缺乏直接證據或得以準據的捐獻文件，要確認此一狀態亦是充滿了不確定性，且全面盤點過程高度耗費人力、時間等相關資源，從而在預算相對受限的情況下，期待公務文化館藏機構，皆能於短期內進行收納文物全面的深度盤點，並不具有可執行性。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【公開披露不全然等價於開放提供】&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;簡要來說，Rights Statements 此一權利標示的實踐基礎，在於依照各國著作權法的預設框架，公開展示的素材並不代表其權利人已採開放式授權，將此素材提供予瀏覽者使用，事實上當代的著作權法擴充了許多著作權利的態樣，舉凡我國著作權法列示的重製、散布、出租、改作、公開口述、公開播送、公開上映、公開演出、公開傳輸、公開展示，皆為獨立、切割，具專屬於著作財產權利人的權利態樣，而再依著作權讓與約定不明之部分，推定為未讓與，著作權授權約定不明之部分，推定為未授權之原則，館藏機構於具公開性之網際網路披露其數位藏品時，亦不表示這些素材皆已容許公眾自行下載或得進行深度化利用。從而公開與開放之間，具有相當可操作的彈性空間，館藏機構若在政策上同意將數位藏品先行公開上網，當有助於文化素材提升曝光度，此時在僅供公開瀏覽的權利盤點上之舉措，可輔以要項式的初階處理，在清簡人力、時間等資源的前提下，以 Rights Statements 標準化的模組，就素材的基礎權利狀態簡要述明，而若上級機關構或社會大眾對於特定館藏，提出開放式提供深度利用之具體訴求，後續再撥付必要的資源進行細節的權利盤點，在驗證其權利狀態並取得確信之後，為這些特定的素材，標示相應的開放式授權條款進行公眾釋出。此種作法的優點在於，初階權利盤點所需耗費的相關資源較少，有利於數位館藏素材能被有效率的披露，進而提昇、啟發閱覽群眾的文化創作能力，而要處理的著作權利態樣，可聚焦於公開傳輸與公開展示，必要時亦得權衡以低解析度模式先行提供，以兼容合理使用情境來降低公開披露的法律爭議。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【Rights Statements 並非創用CC 授權條款或其他權利貢獻宣告之替代品】&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;嚴格來說，Rights Statements 並不是創用CC 授權條款，或公眾領域標章 (Public Domain Mark)、公眾領域貢獻宣告 (CC0) 等任何一款權利宣告文件的替代品，就其設立的自我定位來說，Rights Statements 和既存的公眾散布機制，是處於相輔相乘、互相填補的定位。也就是說，依 Rights Statements 分門別類進行的這十二款權利態樣，其自我設限於基礎標示的定位，以創用CC 授權條款來比擬解說，Rights Statements 僅羅列這十二款基礎權利標示的權利標章 (common deed)，而並沒有產生對應的授權條款法律文字 (legal code)，應該說，這些 Rights Statements 羅列的個別標章，同一標章背後可能指向同一份授權法律文字，或相近的授權法律文字，這是因為 Rights Statements 設立的最主要目的，在於解決公務美術館、圖書館、檔案館與博物館，其數位藏品提供利用的授權狀態分殊，而不利於彼此交流的困境，舉 DPLA 的實證調查為例，提供素材供其作網路公開披露的機關、組織，綜合使用了近 87,000 份以上不同的權利標示來貢獻藏品，這些權利標示背後還依附有內容差異性更高的法律文件，這讓 DPLA 這樣的託管平台宥於人力，已無法對素材的權利狀態進行有效管理，故而 Rights Statements，並無意跨越或取代相關素材原始的授權法律文件，僅是導引其能夠依原始法律文件的授權特性，百川匯流到十二款主要的支流，從而讓使用者閱覽到限定十二款的基礎權利標示時，便對其可能的被利用狀態有所認識。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Rightsstatements.org White Paper - Recommendations for Standardized International Rights Statements: &lt;a href=&quot;http://rightsstatements.org/files/160208recommendations_for_standardized_international_rights_statements_v1.1.pdf&quot; target=&quot;_blank&quot;&gt;http://rightsstatements.org/files/160208recommendations_for_standardized_international_rights_statements_v1.1.pdf&lt;/a&gt;, 2015 International Rights Statements Working Group, CC0-1.0.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Rightsstatements.org White Paper - Requirements for the Technical Infrastructure for Standardized International Rights Statements: &lt;a href=&quot;http://rightsstatements.org/files/160322requirements_for_the_technical_infrastructure_for_standardized_international_rights_statements_v1.1.pdf&quot; target=&quot;_blank&quot;&gt;http://rightsstatements.org/files/160322requirements_for_the_technical_infrastructure_for_standardized_international_rights_statements_v1.1.pdf&lt;/a&gt;, 2015 International Rights Statements Working Group, CC0-1.0.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;The Directive on the re-use of public sector information (Directive 2013/37/EU): &lt;a href=&quot;https://ec.europa.eu/digital-single-market/en/european-legislation-reuse-public-sector-information&quot; target=&quot;_blank&quot;&gt;https://ec.europa.eu/digital-single-market/en/european-legislation-reuse-public-sector-information&lt;/a&gt;, 2013 European Parliament and European Council.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Due Diligence, Futile Effort: Copyright and the Digitization of the Thomas E. Watson Papers: &lt;a href=&quot;http://americanarchivist.org/doi/pdf/10.17723/aarc.73.2.16rh811120280434&quot; target=&quot;_blank&quot;&gt;http://americanarchivist.org/doi/pdf/10.17723/aarc.73.2.16rh811120280434&lt;/a&gt;, 2010 Maggie Dickson.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;DPLA Licenses: &lt;a href=&quot;http://www.deanfarr.com/viz/rights.php&quot; target=&quot;_blank&quot;&gt;http://www.deanfarr.com/viz/rights.php&lt;/a&gt;.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Copyright Law of the United States of America, § 105. Subject matter of copyright: United States Government works: &lt;a href=&quot;http://www.copyright.gov/title17/92chap1.html#105&quot; target=&quot;_blank&quot;&gt;http://www.copyright.gov/title17/92chap1.html#105&lt;/a&gt;.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Flickr 公眾相簿計畫：&lt;a href=&quot;https://www.flickr.com/commons/usage/&quot; target=&quot;_blank&quot;&gt;https://www.flickr.com/commons/usage/&lt;/a&gt;。&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;文化創意產業發展法第 24 條：&lt;a href=&quot;http://law.moj.gov.tw/LawClass/LawSingle.aspx?Pcode=H0170075&amp;amp;FLNO=24&quot; target=&quot;_blank&quot;&gt;http://law.moj.gov.tw/LawClass/LawSingle.aspx?Pcode=H0170075&amp;amp;FLNO=24&lt;/a&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Dec 2016 10:47:05 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1244 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20161205#comments</comments>
+</item>
+</channel>
+</rss>

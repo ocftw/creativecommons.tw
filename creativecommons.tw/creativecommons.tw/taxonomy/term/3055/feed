@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - CK-12</title>
+ <link>https://creativecommons.tw/taxonomy/term/3055</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>開放教科書大戰版權教科書</title>
+ <link>https://creativecommons.tw/blog/20151108</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;以創用CC授權的開放教育資源百百種，有影片、圖片也有教科書，都無使用上的法律疑義，而且免費，提供教學者更多元的教材選擇來源。但是，這些開放教育資源的品質如何呢？用起來真的好用嗎？出版社由專人負責的版權教科書應該會比較專業吧？&lt;/p&gt;
+
+&lt;p&gt;為了解答這個問題，楊百翰大學(Brigham Young University) 的Royce Kimmons教授做了一個研究，他邀請了30位美國國高中階段不同學科與年級的教學者，請他們為版權教科書、開放教科書、改編後的開放教科書進行10個指標的評分。&lt;/p&gt;
+
+&lt;p&gt;這些老師在參加研究前，多數對於開放教科書不慎了解，因此會先跟他們進行開放教育資源和著作權等議題的講解。接下來會讓同科目或同年級的老師組成小組，花45分鐘討論版權教科書的優缺點並完成版權教科書的評分。再讓他們使用&lt;a href=&quot;http://www.ck12.org/&quot; target=&quot;_blank&quot;&gt;CK-12&lt;/a&gt;與&lt;a href=&quot;https://openstaxcollege.org/&quot; target=&quot;_blank&quot;&gt;OpenStax&lt;/a&gt;的開放教科書，花45-60分鐘討論及評分。最後，會讓這些老師挑選開放教科書進行改編，改編後再進行評分。&lt;/p&gt;
+
+&lt;p&gt;評分結果如下所示，可以發現開放教科書在每個指標都大勝版權教科書。而改編後的開放教科書既然是基於老師需求做出調整，自然會在三者中獲得最高分。&lt;/p&gt;
+
+&lt;table border=&quot;1&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:113px&quot;&gt;
+			&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:104px&quot;&gt;
+			&lt;div&gt;&lt;strong&gt;版權教科書&lt;/strong&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:104px&quot;&gt;
+			&lt;div&gt;&lt;strong&gt;開放教科書&lt;/strong&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:161px&quot;&gt;
+			&lt;div&gt;&lt;strong&gt;改編後的開放教科書&lt;/strong&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:113px&quot;&gt;
+			&lt;div&gt;資訊正確度&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:104px&quot;&gt;
+			&lt;div&gt;0.60&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:104px&quot;&gt;
+			&lt;div&gt;0.68&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:161px&quot;&gt;
+			&lt;div&gt;0.79&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:113px&quot;&gt;
+			&lt;div&gt;閱讀程度適當&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:104px&quot;&gt;
+			&lt;div&gt;0.44&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:104px&quot;&gt;
+			&lt;div&gt;0.70&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:161px&quot;&gt;
+			&lt;div&gt;0.83&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:113px&quot;&gt;
+			&lt;div&gt;標準符合度&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:104px&quot;&gt;
+			&lt;div&gt;0.32&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:104px&quot;&gt;
+			&lt;div&gt;0.66&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:161px&quot;&gt;
+			&lt;div&gt;0.89&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:113px&quot;&gt;
+			&lt;div&gt;內容即時性&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:104px&quot;&gt;
+			&lt;div&gt;0.35&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:104px&quot;&gt;
+			&lt;div&gt;0.78&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:161px&quot;&gt;
+			&lt;div&gt;0.85&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:113px&quot;&gt;
+			&lt;div&gt;簡潔無冗文&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:104px&quot;&gt;
+			&lt;div&gt;0.31&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:104px&quot;&gt;
+			&lt;div&gt;0.62&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:161px&quot;&gt;
+			&lt;div&gt;0.79&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:113px&quot;&gt;
+			&lt;div&gt;字體大小行距&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:104px&quot;&gt;
+			&lt;div&gt;0.61&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:104px&quot;&gt;
+			&lt;div&gt;0.62&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:161px&quot;&gt;
+			&lt;div&gt;0.83&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:113px&quot;&gt;
+			&lt;div&gt;設計美感&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:104px&quot;&gt;
+			&lt;div&gt;0.48&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:104px&quot;&gt;
+			&lt;div&gt;0.54&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:161px&quot;&gt;
+			&lt;div&gt;0.85&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:113px&quot;&gt;
+			&lt;div&gt;圖像媒體品質&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:104px&quot;&gt;
+			&lt;div&gt;0.53&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:104px&quot;&gt;
+			&lt;div&gt;0.72&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:161px&quot;&gt;
+			&lt;div&gt;0.83&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:113px&quot;&gt;
+			&lt;div&gt;連結豐富資源&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:104px&quot;&gt;
+			&lt;div&gt;0.25&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:104px&quot;&gt;
+			&lt;div&gt;0.71&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:161px&quot;&gt;
+			&lt;div&gt;0.85&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:113px&quot;&gt;
+			&lt;div&gt;補充教材&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:104px&quot;&gt;
+			&lt;div&gt;0.40&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:104px&quot;&gt;
+			&lt;div&gt;0.47&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:161px&quot;&gt;
+			&lt;div&gt;0.62&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:113px&quot;&gt;
+			&lt;div&gt;&lt;strong&gt;總平均&lt;/strong&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:104px&quot;&gt;
+			&lt;div&gt;0.429&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:104px&quot;&gt;
+			&lt;div&gt;0.65&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:161px&quot;&gt;
+			&lt;div&gt;0.81&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;由評分結果可以看出，版權教科書最被詬病的項目有三點：連結豐富資源、簡潔無冗文、標準符合度。受限於紙本媒介，版權教科書無法像開放教科書一樣透過網路超連結及時補充資源，而且版權教科書通常由大學老師或博士等級的專業人士負責編撰，常常會加入不必要的字句，也未必符合學生的閱讀程度。另外，美國地廣人多，各州有各自的教育標準，版權教科書往往無法完全符合各州標準。開放教科書在此指標雖然能有很大的改善，但是還是要由老師自行改編後的開放教科書才能最符合該州的教育標準。&lt;/p&gt;
+
+&lt;p&gt;版權教科書最主要的優勢在於資訊正確度，開放教科書雖然在此項目的評分比較高，但其實相差不多。另一項優勢為字體大小與間距，但這項指標的得分同樣與開放教科書相差不多。&lt;/p&gt;
+
+&lt;p&gt;開放教科書除了能善用數位環境增加連結豐富性，也因為數位傳播的特性，在內容即時性、圖像媒體品質兩個指標都大幅提升，而且開放教科書的閱讀程度也比較符合中學生的程度。&lt;/p&gt;
+
+&lt;p&gt;不過，開放教科書並不會帶來比較多的補充教材，如練習、測驗、教案、課程活動、評分設計等，設計美感這種比較主觀的指標也是要在改編後的開放教科書才獲得較高評分。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/2341-18271-1-PB.png&quot; style=&quot;height:325px; width:600px&quot; /&gt;&lt;br /&gt;
+圖說：三類條件下教科書評價圖示。&lt;br /&gt;
+來源：&lt;a href=&quot;http://www.irrodl.org/index.php/irrodl/article/view/2341/3405&quot;&gt;參考文章中之圖示，著作權為其所有&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;綜上所述，可以發現開放教科書帶來的好處不只是節省成本及增加內容及時性而已，開放教科書更大的價值在於它可以被改編，能讓老師順應各州的教育標準、各班學生的閱讀程度、老師個人的美感偏好等進行個人化的調整。開放教育資源帶來一個轉捩點，將重心從供給面轉向需求面，教科書的生產過程不再那麼重要，而是由每天接觸教育實務的老師根據在地脈絡挑選最適合學生、在班級內用的最順手的教科書。&lt;/p&gt;
+
+&lt;p&gt;開放教科書對於美國公立的國高中特別有價值，因為公立中學有經費控制，通常教科書都要使用很多年導致內容過時的問題。開放教科書無須成本，就可以快速更新，才能維持教學內容與時俱進的品質。&lt;/p&gt;
+
+&lt;p&gt;開放教育書能否對於臺灣的中學發揮相同的價值呢？美國已經累積了許多各式各樣的開放教育資源，也設計了介面優美、查找方便的資料庫，就算並非所有中學老師都知道有這些資源可以使用，卻也有推廣應用開放教科書的基礎。目前似乎沒有太多中學階段開放教育資源的中文翻譯，許多中學階段的中文資源則缺乏清楚的授權標誌及匯集的資料庫，使這些開放教育資源很難真正用於實務教學現場。而且，臺灣相較美國真是小太多了，也就比較沒有因應各州教育標準或社群文化需要在地化改編教科書的需要。開放教科書對於臺灣的中學教育能產生什麼價值，或許還是要由本土的案例來進行解答。&lt;/p&gt;
+
+&lt;p&gt;---&lt;/p&gt;
+
+&lt;p&gt;參考文獻：&lt;a href=&quot;http://www.irrodl.org/index.php/irrodl/article/view/2341/3405&quot; target=&quot;_blank&quot;&gt;OER Quality and Adaptation in K-12: Comparing Teacher Evaluations of Copyright-Restricted, Open, and Open/Adapted Textbooks&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 08 Nov 2015 06:34:27 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1157 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151108#comments</comments>
+</item>
+</channel>
+</rss>

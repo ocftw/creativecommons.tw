@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - formality</title>
+ <link>https://creativecommons.tw/taxonomy/term/3202</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>成功讓創用CC 等公眾授權條款在印尼持續有效</title>
+ <link>https://creativecommons.tw/blog/2016112801</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/20161128.png?itok=A5C7gmdR&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Making Creative Commons Licensing Work In Indonesia at: &lt;a href=&quot;https://creativecommons.org/2016/11/28/making-creative-commons-licensing-work-indonesia/&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/2016/11/28/making-creative-commons-licensing-work-indonesia/&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;創用CC 授權條款 (Creative Commons Licenses) 等公眾授權機制，主要的創立目標是要將重要的資訊、知識，透過權利人認同後主動授權的機制，彈性化普及到最多的社會群體，然而因其新穎和與傳統不同的授權提供模式，推行者和支持者也必須在相關法律調整時，主動參與法律制度的修改建言，近期，CC Indonesia 在印尼進行的努力，就是一個最好的示範。這個事件肇因於 2014 年底，印尼著作權辦公室提出了其建議的著作權法修法草案，此次修改的重點在於：「擴充著作權相關保護到資料庫權利 (database right)，並讓著作權利得以成為質押性質契約的擔保品，並進一步規劃了強制性的授權協議登錄制度。」&lt;/p&gt;
+
+&lt;p&gt;也就是說，該法若經修改並正式施行後，所有在印尼當地的著作權利授權行為，都必須至業管的權責機構進行登錄，以確定該授權內容的正確性與嚴縝性。這樣的法律機制並不乏見，如同我國民法第 166-1 條，亦律定「契約以負擔不動產物權之移轉、設定或變更之義務為標的者，應由公證人作成公證書。」然而，將著作權授權行為律定為要式行為，必須經登錄才能成立生效，卻大為傷害與阻礙了創用CC 等公眾授權條款在印尼當地的適用性，因為公眾授權條款在近年能被大舉推展並普及化的基礎在於，權利人宣告其授權規則，任何人願意遵守這些規則來使用作品者，就可以依該條款成為被授權人，此一模式大舉降低了授權行為的時間成本與複雜性。而這樣的便利機制，在印尼政府執行強制性的授權協議登錄制度後，在當地將不復存在。&lt;/p&gt;
+
+&lt;p&gt;有趣的是，同樣戮力於推動政府資料開放 (Open Government Data) 的印尼政府，其於 &lt;a href=&quot;http://data.go.id/&quot; target=&quot;_blank&quot;&gt;data.go.id&lt;/a&gt; 此一官方資料釋出平台上，已經大量的使用 CC BY 4.0 的授權方式來提供資料，那麼，有論者提出，是不是這些政府機關依創用CC 授權條款釋出的資料庫或資料集，在新法修正通過後，也必須進行登錄程序的補正呢？依照印度尼西亞共和國 2014 年 28 號法律修正案所披露的內容，該項登錄制度的要點有：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;每一份著作權授權協議的內容，都必須繳付規費後登錄於權責機構；&lt;/li&gt;
+	&lt;li&gt;若該著作權授權協議的內容不符合新法 82 條的格式與標準，權責機構將不予登錄；&lt;/li&gt;
+	&lt;li&gt;如果著作權授權協議未經登錄或未予登錄，則該協議內容不生法律效力，相關內容皆不得以之對抗第三人。&lt;/li&gt;
+	&lt;li&gt;更多登錄制度的細節與方式，將由權責機關另訂法規命令執行之。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;CC Indonesia 了解此一法案正式修改通過後，對於創用CC 等公眾式、開放式授權條款在當地的衝擊將會是全面與巨大的，故其先與 CC總部與全球合作網絡的協作者進行討論，並於 2016 年 5 月 23 日會唔印尼著作權辦公室的執事官員，9 月 21 日展開第二次會談，並準備提交書面補充報告，一直到 11 月 1 日，終於獲得權責機構明確的肯定回覆，那就是在日後的修改提案裡，創用CC 授權條款與其他開放授權條款 (Open Licenses)，將會被列入強制登錄制度的除外名單，因為他們意識到開放授權常建立在無償授權的基礎上，而該法案的修訂理由，主要是希望在商務協議契約裡進行把關，避免權利與義務高度傾斜傷害一般民眾的狀況發生。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Making Creative Commons Licensing Work In Indonesia: &lt;a href=&quot;https://creativecommons.org/2016/11/28/making-creative-commons-licensing-work-indonesia/&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/2016/11/28/making-creative-commons-licensing-work-indonesia/&lt;/a&gt;, 2016 Alifia Qonita Sudharto and Hilman Fathoni, CC BY 4.0.&lt;/li&gt;
+	&lt;li&gt;DATA INDONESIA DALAM SATU PORTAL: &lt;a href=&quot;http://data.go.id/group/c49a2d15-bb70-4ecf-addb-0d555a492117?license_id=cc-by&quot; target=&quot;_blank&quot;&gt;http://data.go.id/group/c49a2d15-bb70-4ecf-addb-0d555a492117?license_id=cc-by&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;印度尼西亞共和國 2014 年 28 號法律修正案：&lt;a href=&quot;http://eodb.ekon.go.id/download/peraturan/undangundang/UU_28_2014.PDF&quot; target=&quot;_blank&quot;&gt;http://eodb.ekon.go.id/download/peraturan/undangundang/UU_28_2014.PDF&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 27 Nov 2016 16:01:02 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1237 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/2016112801#comments</comments>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 維基</title>
+ <link>https://creativecommons.tw/category/tags/%E7%B6%AD%E5%9F%BA</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>人性的美麗與哀愁：跨越時空的利人與利己基因</title>
+ <link>https://creativecommons.tw/in-depth/648</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;李治安/文 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;（本文擷取自&amp;lt;人性的美麗與哀愁：跨越時空的利人與利己基因&amp;gt;，《新聞學研究》，第111期，頁257-263，2012年4月。為《The Penguin and the Leviathan: The Triumph of Cooperation over Self-Interest》之書評。）書名：The Penguin and the Leviathan: The Triumph of Cooperation over Self-Interest&amp;nbsp;&lt;br /&gt;
+作者：Yochai Benkler&amp;nbsp;&lt;br /&gt;
+出版日期：2011年&amp;nbsp;&lt;br /&gt;
+出版社：Crown Business&lt;/p&gt;
+
+&lt;p&gt;哈佛大學法學院Yochai Benkler教授是當代資訊法學界最重要的思想家之一，在其2011年的專書《企鵝與利維坦：協力如何超越自利》 （The Penguin and the Leviathan: The Triumph of Cooperation over Self-Interest）中，Benkler刻意的擺脫了其過去所擅長的冗長、縝密的抽象理論推陳書寫模式， 也捨棄了一般學術著作所必須附帶的註釋及參考文獻，取而代之的是以一個通俗作家的筆觸，藉由許多生動例子來延續並印證過去的相關研究， 相較於以往的誘因、行為、組織及政策分析，這次Benkler探索的其實是更深層的人性本質問題。書中參酌神經科學、認知心理學、人類學、社會學、政治學、管理學、 實驗經濟學及演化生物學等不同領域發展出研究成果，說明自私自利並非人類行為的唯一可能；相反的，在不同的時空環境中，人類常會自發性的實踐協力合作的利他行為， 而這種協力合作在網路時代中更是屢見不鮮，包括維基百科（Wikipedia）的創作及自由或開放原始碼軟體（free/open source software）的開發等，都是典型的例子。Benkler認為， 雖然協力合作早已成為人類行為的一種典型，但是既有的社會科學理論及制度假設卻未將其納入考量，這也是本書主要的寫作動機。&lt;/p&gt;
+
+&lt;p&gt;書名中的「利維坦」（Leviathan）原本是舊約聖經中記載的一種怪獸，十七世紀時的政治學家霍布斯（Thomas Hobbes）認為，由於人類都是短視而且自私的， 因此社會上需要如利維坦一般的強勢國家政府控制人類行為，防止人類因自私心作祟而相互殘害。然而，包括亞當史密斯（Adam Smith）在內的許多經濟學家則認為， 人類的自私心其實是市場運作的原動力與理性選擇（rational choice）理論的基礎，這種自私心理有益於社會整體發展，因為為了滿足個人的自私心理，人類會從事市場交易、各取所需， 如此｢看不見的手｣（invisible hand）得以運作，而整體社會福祉也得以提升，此外，人性自私的主張也是諸如公共選擇、代理理論及賽局理論等諸多重要經濟學理論的假設前提。 相同的假設亦反映在其他社會架構的設計上，如嚴刑峻罰的法律規範及階層化的企業管理結構等，其實都是為了處理人性本質自私的問題。&lt;/p&gt;
+
+&lt;p&gt;本書作者認為，霍布斯及亞當史密斯的共同假設基礎——人類行為的自私本質——其實並不足以說明許多不同型態的人類行為，作者以社群協力開發的Linux系統吉祥物企鵝， 代表非因自私心而發生的協力行為，並說明該等非以自利為導向的人類行為其實早已存在，而且所在多有，企業應善用該等行為，設計產品、研發技術、並發展新的經營獲利模式； 政府政策及制度設計亦應妥適考量協力互助行為的社會價值，而非如過去完全植基於人類本性自私的假設之上。 作者在書中所舉關於人類利他行為的諸多例子跨越時空，並不限於二十一世紀或數位網路中的人類行為，其中包括了2009年諾貝爾經濟學獎得主Elinor Ostrom的研究發現：在不同時空環境中， 人類如何以自律的方式，永續分配天然資源，追求社群整體利益，避免竭澤而漁的社會浩劫；就充滿著作權爭議的線上音樂分享而言， 作者以Magnatune等網站及英國搖滾團體Radiohead於2007年推出的專輯In Rainbows為例，說明由利用人自主決定支付下載或重製音樂價格的經營模式其實是可行的， 多數利用人並不會以低於平均成本的價格下載音樂檔案，相較於受到網路分享嚴重衝擊的傳統唱片產業而言，由利用人或使用者自由付費（pay-as-you-wish）的經營模式反而能提升表演者的平均報酬， 對於制度或經營模式設計者而言，重要的是應如何營造出符合著作人權益的社會規範（social norms），讓利用人知道應支付多少的價錢方符合社會期待，一旦該等社會規範成功型塑，則雙贏且互利的人類行為自然會成為社會慣例。&lt;/p&gt;
+
+&lt;p&gt;事實上，自利與協力有時並非絕對不相容，有時行為人亦可透過利他的協力行為獲得經濟或非經濟利益，如書中所舉關於西南航空與豐田汽車的協力工作模式，員工相互協力的動機未必全然是為了利他目的， 很可能是為了提升自己的工作效率與表現，許多實證研究也發現，軟體工程師參與自由或開放原始碼開發的動機除了興趣、利他、克服挑戰及價值等因素外，其實還包含經濟性誘因，因為在自由或開放原始碼社群的卓越聲望， 有時可為程式設計師帶來極佳的工作機會或職位。作者透過這本書所欲呈現的其實是人類行為與動機的複雜性，絕非單一理論或假設所能解釋，且不同人在面臨相同情境時，也會有不同的行為動機與偏好， 若所有的制度設計與對人類行為的解釋均以單一的假設作為前提，則很容易會忽視甚至破壞其他行為與誘因的社會價值。&lt;/p&gt;
+
+&lt;p&gt;作者認為制度的設計要同時兼顧人類的自私與利他動機，避免獨尊前者而傷害後者，一個制度在提供經濟上誘因給自私行為人的同時，也應考慮促進、鼓勵利他行為的社會規範與價值， 作者以參與開放原始碼軟體的公司為例，說明制度設計的微妙之處，通常公司要求員工參與開放原始碼開發工作及社群的同時，會給予員工相當的自主性， 不像一般軟體公司透過嚴格的組織架構及工作流程管控程式開發工作，因為開放原始碼社群強調的是自主、熱情與價值，若公司對員工的控制過強，則很有可能降低員工的參與熱情和社群歸屬感。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 06 Sep 2012 16:00:00 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">648 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/648#comments</comments>
+</item>
+<item>
+ <title>澳洲公共廣電機構使用創用CC授權釋出新聞檔案</title>
+ <link>https://creativecommons.tw/blog/20120406</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ChiuHao Chen 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ABC_Mobile_Studio_Caravan.jpg/639px-ABC_Mobile_Studio_Caravan.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h6&gt;&lt;strong&gt;圖片出處：&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:ABC_Mobile_Studio_Caravan.jpg&quot; rel=&quot;cc:attributionURL&quot; style=&quot;color: #4374b7; font-size: 12px; line-height: 11px; font-family: &#039;Helvetica Neue&#039;, Helvetica, Arial, sans-serif;&quot;&gt;ABC Mobile Studio Caravan&lt;/a&gt;&amp;nbsp;&amp;nbsp;/&amp;nbsp;&lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0&quot; rel=&quot;license&quot; style=&quot;color: #4374b7; font-size: 12px; line-height: 11px; font-family: &#039;Helvetica Neue&#039;, Helvetica, Arial, sans-serif;&quot;&gt;CC BY-SA&lt;/a&gt;&lt;/strong&gt;&lt;/h6&gt;
+
+&lt;p&gt;全球的廣播電視新聞機構之中，又有一位重量級機構加入了創用CC授權的陣容。CC澳洲日前宣布了澳洲公共廣電機構 (ABC, Australian Broadcasting Corporation) 使用維基共享( Wikimedia Commons) 並在”CC姓名標示-相同方式分享 澳洲” (CC BY-SA)之授權下釋出歷史上重要的新聞片段。&lt;/p&gt;
+
+&lt;p&gt;為了慶祝ABC的80歲生日，隨著慶祝活動網站”改變我們的80天”，在維基共享上也陸續釋出了許多歷史典藏素材。然而，這些活動網站僅僅是ABC開放檔案(Open Archive) 計畫的延伸，開放檔案專案計畫釋出歷史事件與其相關的聲音、影像讓人可以重新使用，更包含了當前事務的新聞檔案。因此，ABC建立了一個社群媒體網站叫做Pool，在這邊可以看到更多的介紹。&lt;/p&gt;
+
+&lt;p&gt;當然，許多傳播機構也利用創用CC授權釋出相關素材，但”開放檔案”計畫的重要之處在於釋出的新聞片段都是經過精心編輯的歷史重要事件，而不是那些主題不明確或是未經過整理編輯過的新聞剪輯。例如，它包含了1969年的阿波羅11號太空船登陸事件，1986年林迪.張伯倫(Lindy Chamberlain)的澳洲失嬰懸案，1983年澳洲開始開放的浮動貨幣政策，更不用說還有發生在1974年，知名科幻小說 - 2001太空漫遊(Space Odessy)作者克拉克 (Arthur Clarke)精準的針對網際網路的樣貌做出預測的訪談片段 (影片中說的未來應該是指2001年之後)。&lt;/p&gt;
+
+&lt;p&gt;另外，在維基共享上釋出素材也鼓勵了在維基百科上的重新使用，例如這篇關於板球世界盃的介紹。選用在維基共享釋出的作法不僅助長資訊傳播，並將新聞媒材之影響力從ABC自有的網站上釋放至無遠弗屆。ABC的創意長Agnela Clark這麼說：”使用此分享方式不但讓大家都能取得ABC的素材，也能吸引新的觀眾發揮創意，探索利用這些影片的無限可能”。&lt;/p&gt;
+
+&lt;p&gt;維基百科說：這是第一個於維基共享上釋出的套裝(packaged)影片。當然，ABC的這套影片也依循了維基百科的CC姓名標示-相同方式分享(BY-SA)開放授權下釋出。我們也期待更多使用創用CC授權的案例，歡迎與我們一起分享！&lt;/p&gt;
+原文出處: http://creativecommons.org/weblog/entry/32102&lt;br /&gt;
+備註： Agnela Clark言詞出處連結失效&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 06 Apr 2012 01:20:16 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">591 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120406#comments</comments>
+</item>
+<item>
+ <title>尋寶去！如何在網路上尋找有趣的公眾領域作品？</title>
+ <link>https://creativecommons.tw/blog/20120224</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ChiuHao Chen /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/Bibliotheca_Buloviana_%28Ausschnitt%29.jpg&quot; style=&quot;height:362px; width:516px&quot; /&gt;&lt;br /&gt;
+&lt;a href=&quot;http://commons.wikimedia.org/wiki/File:Bibliotheca_Buloviana_%28Ausschnitt%29.jpg&quot; rel=&quot;cc:attributionURL&quot; style=&quot;border-color: initial; font-size: 12px; line-height: 11px;&quot;&gt;Bibliotheca Buloviana (Ausschnitt)&lt;/a&gt;Georg Daniel Heumann&lt;a href=&quot;http://creativecommons.org/publicdomain/mark/1.0/&quot; style=&quot;color: #4374b7; border-style: initial; border-color: initial; font-size: 12px; line-height: 11px;&quot;&gt;Public Domain&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;寫在前頭&lt;/h2&gt;
+
+&lt;p&gt;農曆年間，隨手翻閱了書架上堆滿灰塵的歷史書，其中，關於周朝的「井田制度」，有這麼一段話：「...八家農戶各耕耘外圍的八塊方地，並共同耕種當中一塊「公地」，亦即公侯所領之地。...顯然當日農民認為在中央地區無代價的工作，有如一種公眾的義務。流傳所及，今日中文字裡公眾之「公」也與公侯之「公」無別。」[1]&lt;/p&gt;
+
+&lt;p&gt;於是，對於「公侯權利」與「公眾義務」，我有種想像：早在西元前700多年的周朝制度裡，「公侯伯子男」的世襲權利（擁有公地）已經隱隱約約的與公眾義務（耕作公有地）做了一定的認同與連結。如果稍微去除封建制度的軍事政治意義，當時，人們除了各自耕種外，仍願意共同耕耘「公侯之地」之行為，若把農耕之舉比擬當今人們的筆耕文創，個人的創作行為就好比一種權利，適當的將自己的耕耘成果回饋大眾更恰如義務一般理所當然，權利的賦予與義務的釋出彼此產生良性循環，這樣的社會共識，似乎是老祖宗就有的先見。有趣的是，兩千七百多年後的我們，反而針對公眾領域(public domain)[2]之下的資產如何使用與界定充滿歧見，不同的國家對於公眾領域創作版權的使用限制有著不一樣的解釋。但，唯一可以確定的是，經過時間的遞嬗，世世代代的創作積累絕對是人類無價的資產，這些創作如果不能開放的且自由的與全人類一起分享共用，那也太可惜了吧！&lt;/p&gt;
+
+&lt;p&gt;因此，在這裡我們將參考&lt;a href=&quot;http://publicdomainreview.org/guide-to-finding-interesting-public-domain-works-online&quot;&gt;公眾領域評論網站上的指南&lt;/a&gt;，協助對於公眾領域創作有興趣的人們，尋找與探索那些已經進入公眾領域的作品。&lt;/p&gt;
+
+&lt;h2&gt;尋寶的線索是？&lt;/h2&gt;
+
+&lt;p&gt;公眾領域作品的訊息可能來自四面八方，從展覽、博物館、音樂會、電視、廣播、書籍、報紙，甚至來自與朋友的交談中。 當然，網際網路一定是一個非常好的訊息來源。像是很讚的部落格 &lt;a href=&quot;http://bibliodyssey.blogspot.com/&quot;&gt;Biblioddysey&lt;/a&gt; 和&lt;a href=&quot;http://resobscura.blogspot.com/&quot;&gt; Res Obscura&lt;/a&gt;都定期刊登有趣的公眾領域作品（雖然讀者常常還是需要眯着眼睛搜尋著來自各單位的小小版權宣告，藉此確定作品是否來自公眾領域）。&lt;/p&gt;
+
+&lt;p&gt;另外，社群媒體也不斷的提供搜尋公眾領域素材的新方法。在網路社群裡正存在對於各式典藏檔/歷史集充滿高度興趣的tweeters，如果你是一個Twitter用戶，你可以試著建立#publicdomain這個feed，透過訂閱這個標籤，越來越多的人們討論着公眾領域中的有趣作品。&lt;/p&gt;
+
+&lt;p&gt;除此之外，也有郵件群組(mailing list)專門討論有關公眾領域。在群組裡，人們時常留言討論著有關於最近剛進入公眾領域的作品。開放知識基金會(The Open Knowledge Foundation) 主持了這樣一個郵件群組，可以在此訂閱&lt;a href=&quot;http://lists.okfn.org/mailman/listinfo/pd-discuss&quot;&gt;PD 討論訊息頁&lt;/a&gt;。 如果在部落格、tweets上面的連結常常因為使用限制讓你傷透腦筋，千萬不要太沮喪​​，因為網路上通常可以取得多個作品分身，而且，它門還有可能是開放授權(Open Licensing) 呢！&lt;/p&gt;
+
+&lt;p&gt;所以呢，請輕鬆的隨意瀏覽網頁，試圖尋找在廣播上聽到的奇妙作品，在展覽上面看到的，或是在部落格上展示的。這些都是尋找線上收藏的好方法。下一節，我們將快速的導覽網路上幾個稍具規模的公眾領域收藏。&lt;/p&gt;
+
+&lt;h2&gt;寶藏就在網路上&lt;/h2&gt;
+
+&lt;p&gt;在我們尋找作品前，我們還是需要注意，雖然作品可能已經在很久以前已經進入公眾領域範疇，但這可不表示它們也有線上的數位版本。而且，他們往往會用CC BY-NC這樣具有部分限制性的許可於網上公佈 （意味著使用時不能有商業用途且需標示姓名）。&lt;/p&gt;
+
+&lt;p&gt;正因如此，當你要上傳公眾領域的材料時，能夠使用各種常用的創用CC (Creative Commons)授權是非常用重要的（請參考&lt;a href=&quot;http://creativecommons.tw/&quot;&gt;台灣創用CC的網頁&lt;/a&gt;），若能先瞭解這些授權方式，能讓你瀏覽以下公眾領域資源更加得心應手....&lt;/p&gt;
+
+&lt;h3&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm8.staticflickr.com/7016/6714918585_c9fe4d9a1c_m.jpg&quot; style=&quot;float:left; height:73px; width:60px&quot; /&gt;&lt;a href=&quot;http://europeana.eu/portal/&quot;&gt;Europeana Europeana&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;這是一個探索歐洲文化珍藏的入口網站。目前，它正大量收集來自歐洲各地文化遺產機構所擁有的數據。當然，從Europeana可以發現某些作品並不保證是在公眾領域裡，因此，在搜尋功能中你可以加入篩選(filter)選項。一旦你進行了初步的搜尋，您接著可以使用左邊的“By copyright” 來依據授權方式篩選搜尋的結果 (目前網站沒有中文版）。例如，點選CC0 (免費用於任何用途) 的選項就會篩選出在開放授權下無任何權利的項目; 點選CC BY-NC則會顯示所有在&quot;姓名標示 - 非商業性&quot; 授權下的作品。覺得麻煩嗎？另一個替代方案就是直接使用我們給你的連結，例如： &lt;a href=&quot;http://www.europeana.eu/portal/search.html?query=europeana_rights:*public*&quot;&gt;公眾領域/CC0的作品&lt;/a&gt;或是&lt;a href=&quot;http://www.europeana.eu/portal/search.html?query=europeana_rights:*creative*&quot;&gt;創用CC授權的作品&lt;/a&gt; （當然，你還是可以透過網頁左邊的篩選選項尋找你指定的其他授權方式）。&lt;/p&gt;
+
+&lt;h3&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6022/5929814872_158e1bb716_o.jpg&quot; style=&quot;height:49px; width:60px&quot; /&gt;[[http://www.archive.org/|網際網路檔案館]] (Internet Archive)&lt;/h3&gt;
+
+&lt;p&gt;這是一個收藏了大量的文化作品與大量對於公眾領域作品的連結，包括電影、音樂和文字（但照片方面還不夠好）。&lt;/p&gt;
+
+&lt;p&gt;網站的亮點包括了Prelinger Archives。Prelinger Archives的收藏包含各種主題的應時(ephemeral)與公共服務影片，範疇從如何成為受歡迎的核子攻擊倖存者到一大堆的78轉唱盤錄音收藏[3]。網際網路檔案館最近還針對了網站上的大量收藏推出了&quot;策展人精選&quot; (Curator&#039;s Choice) 。&lt;/p&gt;
+
+&lt;p&gt;這裡當然也是個非常好的起點，讓人可以在網路檔案館的大海中撈到有趣的資源。但是，有些東西只以CC BY-NC授權釋出，但你還是可以在搜尋功能中篩選出公眾領域或是CC BY和CC BY-SA釋出的材料。例如說，我們要使用關鍵字“dog”作搜尋要找到公眾領域類型的東西，可以在搜尋框找到進階搜尋(Advanced Search)，將你要搜尋的條件與關鍵字填入，最重要的是，在&quot;Custom Field&quot;中選擇&quot;license&quot;，然後在條件欄位上填&quot;publicdomain&quot;，最後，按下搜尋按鈕就對了。&lt;/p&gt;
+
+&lt;p&gt;如果你只要搜尋CC BY的東西，那就把“publicdomain”換成“by”就可以了。依此類推，CC BY-SA就用&quot;by-sa&quot;，CC BY-ND就用&quot;by-nd&quot;當作搜尋條件。（如果你習慣自己寫參數，參數是這樣的：“ (dog) AND license:(publicdomain)” 或是你想要從metadata中尋找，也可以這樣寫：&quot;(dog) AND /metadata/licenseurl:http*publicdomain/* &quot;。&lt;/p&gt;
+
+&lt;p&gt;我知道，這可能對一般人來說有點小複雜，但是熟能生巧，請試試看吧！另一件重要的事情要注意的是，你會發現許多文字已被Google掃描，而且不幸的是他們已經將這些文字以非商業性授權條款發佈了。另外，大部分的授權都是使用者在上傳時所指定的，請謹慎使用，避免錯誤地標示！&lt;/p&gt;
+
+&lt;h3&gt;[[http://commons.wikimedia.org/wiki/Main_Page|&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6121/5929814880_ee53597044_o.jpg&quot; style=&quot;height:79px; width:60px&quot; /&gt;維基共享資源]] (Wikimedia Commons)&lt;/h3&gt;
+
+&lt;p&gt;這是一個可以用來尋找圖片的維基百科(Wikipedia) 媒體庫 ，裡面的圖片從[[http://commons.wikimedia.org/wiki/File:Anatomical_theatre_Leiden.jpg|17世紀的解剖學版畫]]到任何用戶隨意上傳的購物中心照片都有。他們做了非常大的努力嘗試把內容組織成”目錄”(category)，使用這樣的目錄操作可以讓來來回回檢索更加容易，但它有時需要一點點時間來習慣點擊目錄。&lt;/p&gt;
+
+&lt;p&gt;舉例來說，在搜索結果中你會看到 Category:XX（XX是您的搜索關鍵字），有時候如果你搜尋的關鍵字是相對簡單的，你也有可能直接進入那個分類，例如Category: dogs。他們也與不同的機構合作開放內容，像是地圖經銷商Geographicus從他們2011的收藏中捐贈了超過2000張高解析度照片，所有的內容都已進入公眾領域中，因此，不是擁有公眾領域標章(PD Mark)就會以CC BY-SA授權釋出。&lt;/p&gt;
+
+&lt;h3&gt;[[http://www.loc.gov/library/libarch-digital.html|&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6133/5929814874_c65bbbd522_o.jpg&quot; /&gt;美國國會圖書館]]&lt;/h3&gt;
+
+&lt;p&gt;所有有關於美國的資源，裡面有大量地印刷品、圖集、影音材料。大部分的材料都是公眾領域的，但仍不是全部，所以使用者還是需要逐一確認。使用右上角的搜尋欄或是透過他們非常有趣的&quot;[[http://www.loc.gov/index.html|典藏精選]]&quot;(Collection Highlights) 區瀏覽。&lt;/p&gt;
+
+&lt;h3&gt;[[http://www.flickr.com/commons|&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6132/5929814868_fa1b3b26e1_o.jpg&quot; style=&quot;height:53px; width:60px&quot; /&gt;Flickr的：The Commons]]&lt;/h3&gt;
+
+&lt;p&gt;一個找老照片的好所在。這裡的收藏，就好像在跳蚤市場找到一個老盒子，一打開，裡面擺滿了老照片，只是，這裡是線上版的老盒子。Flickr也與各機構合作把數以千計的照片上線，如史密森博物館(Smithsonian Museum)，國會圖書館 (Library of Congress)等。&lt;/p&gt;
+
+&lt;p&gt;但其中Flickr定義了&quot;[[http://www.flickr.com/commons/usage/|無已知版權限制]]&quot; 的授權狀態有點尷尬。依據網站說明，這意味者幾種狀態：&lt;/p&gt;
+
+&lt;p&gt;(1) 由於版權已過期，因此已屬於公共領域；&lt;br /&gt;
+(2) 版權由於其他原因流入公共領域，例如無法遵循所需的正式手續或條件；&lt;br /&gt;
+(3) 機構擁有版權，但不想對其進行控制；&lt;br /&gt;
+(4) 或者某些機構擁有足夠的合法權利，可以授權他人不受限制地使用作品。如果還是覺得不清楚，點選照片旁邊的&quot;無已知版權限制&quot;連結，你將會被導引到各單位有關於版權的說明頁。&lt;/p&gt;
+
+&lt;h3&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6003/5929814886_d21df3cffb_o.jpg&quot; style=&quot;height:75px; width:60px&quot; /&gt;[[http://zh.wikisource.org/|維基文庫]] (Wikisource)&lt;/h3&gt;
+
+&lt;p&gt;尋找純文字或是HTML版本文庫的好網站。由維基百科/維基社區所收集維護的線上出版品圖書館。他們擁有超過273,000英文文本，以及其他語言版本的網站，當然，也有中文版的維基文庫收藏，還沒看過紅樓夢嗎？也可以在這裡找到。除非網頁下方另有說明，例如，紅樓夢就已經屬於公眾領域，所有貢獻於維基文庫的用戶都以CC BY-SA授權。&lt;/p&gt;
+
+&lt;h3&gt;[[http://www.gutenberg.org/|&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6141/5929814878_7e157fb46f_o.jpg&quot; style=&quot;height:50px; width:60px&quot; /&gt;古騰堡計劃]](Project Gutenburg)&lt;/h3&gt;
+
+&lt;p&gt;另一個很好的純文字/ HTML文本庫。它提供了超過38,000本免費的電子書，你可以取得開放格式的電子書檔案(ePub)下載到電腦上或是Kindle、Andr​​oid、iOS等等行動裝置。它的特點是提供在美國已經是公眾領域的文本，因此，其他司法管轄區的用戶應該確認書中的授權方式後再進行適當的使用。&lt;/p&gt;
+
+&lt;h3&gt;[[http://www.openimages.eu/|&lt;img alt=&quot;&quot; src=&quot;http://farm8.staticflickr.com/7021/6724883099_495d8ce081_o.jpg&quot; style=&quot;height:75px; width:70px&quot; /&gt;開放圖片]] (OpenImages)&lt;/h3&gt;
+
+&lt;p&gt;新的影音檔案庫，雖然很新但成長快速。這是一個找到老荷蘭新聞影片的好地方，目前提供了超過70萬小時的電視、廣播、電影等的聲像記錄。由[[http://en.wikipedia.org/wiki/Netherlands_Institute_for_Sound_and_Vision|荷蘭聲像研究院]](Netherlands Institute for Sound and Vision)與[[http://www.kennisland.nl/|Knowledgeland]]合作的新創公司。&lt;/p&gt;
+
+&lt;h3&gt;[[http://www.biodiversitylibrary.org/Default.aspx|&lt;img alt=&quot;&quot; src=&quot;http://farm8.staticflickr.com/7163/6724910991_c213b7c12c_o.jpg&quot; style=&quot;height:52px; width:109px&quot; /&gt;生物多樣性歷史文獻圖書館]] (Biodiversity Heritage Library)&lt;/h3&gt;
+
+&lt;p&gt;從收集自然歷史與植物收藏的大量生物庫而來的計畫。依據開放的原則，也就是說，原來在公眾領域的素材仍處於公眾領域。他們也與Internet Archive合作製作特輯。&lt;/p&gt;
+
+&lt;h3&gt;[[http://publicdomainreview.org/|&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6142/6023444441_a9e77717eb_t.jpg&quot; style=&quot;height:92px; width:100px&quot; /&gt;公眾領域評論]] (The Public Domain Review)&lt;/h3&gt;
+
+&lt;p&gt;這裡有很多關於公眾領域的有趣評論（本文就是編譯這個網站的文章），它是人們進入公眾領域且能一窺大堂之奧的最佳入口。&lt;/p&gt;
+
+&lt;h3&gt;[[http://en.wikipedia.org/wiki/List_of_digital_library_projects|&lt;img alt=&quot;&quot; src=&quot;http://farm7.static.flickr.com/6135/6008873671_dafe292357_t.jpg&quot; style=&quot;height:54px; width:100px&quot; /&gt;其實還有很多...]]&lt;/h3&gt;
+
+&lt;p&gt;也有不少專案免費提供數位媒材（很多是來自大學裡），雖然有時候仍需要小心的在版權宣告中判別他們是否利用開放授權來釋出公眾領域作品。但還是很可惜，很多都沒有這樣做。但有些單位是有的，例如[[http://www.nlm.nih.gov/onlineexhibitions.html|美國國家醫學圖書館]] (U.S. National Library of Medicine) ，或由[[http://www.archive.org/details/cornell|康奈爾大學圖書館]](Cornell University Library)與網際網路檔案館(Internet Archive)攜手合作展示的數位圖書館，這裡不僅可以找到1915年出版的[[http://www.archive.org/stream/sketchesfromtaiw00camprich|關於福爾摩沙的老書]] ，更有[[http://www.archive.org/stream/taiwanrestaurant00sf|台菜餐廳菜單]]，有趣吧！。&lt;/p&gt;
+
+&lt;p&gt;另外，CC的搜尋工具也可以讓你方便的在Google圖片裡面搜尋公眾領域的收藏....&lt;/p&gt;
+
+&lt;h3&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm8.staticflickr.com/7172/6724777047_724d949017_o.jpg&quot; style=&quot;height:44px; width:150px&quot; /&gt;[[http://search.creativecommons.org/?betaActive=1&amp;amp;q|創用CC搜尋工具]]&lt;/h3&gt;
+
+&lt;p&gt;透過創用CC搜尋工具也可以方便得搜尋公眾領域素材。這裡依據CC授權透過Europeane, Flickr, Google Image等資料庫提供搜尋素材。（你也可以試試[[http://creativecommons.tw/search|台灣創用CC的搜尋工具]]）但必須注意的是，由用戶所授與的CC授權沒有被驗證過，因此仍有出錯的風險。我們的建議是：&quot;如果你有任何的懷疑，你應該直接與著作權擁有者聯絡，或試著與提供素材的網站聯絡&quot;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h2&gt;關於法律&lt;/h2&gt;
+
+&lt;h3&gt;授權方法&lt;/h3&gt;
+
+&lt;p&gt;很多放在網路上的素材，想要做到開放授權，許多人會選擇創用CC授權，其中，包括了無已知的著作權的公眾領域標章1.0 (PD Mark)，無著作權 (CC0)，姓名標示 (CC BY)，姓名標示-相同方式分享 (CC BY-SA)，姓名標示-禁止改作 (CC BY-ND)，姓名標示-非商業性-相同方式分享 (CC BY-NC )，詳細的說明，可以到[[http://creativecommons.tw/explore|台灣創用CC]]的網站看看。&lt;/p&gt;
+
+&lt;h3&gt;作品何時才會進入公眾領域？&lt;/h3&gt;
+
+&lt;p&gt;比較安全的說法是：在1850年前出版的作品(也就是超過150年前），全球幾乎都可以認可這些作品已經進入了公眾領域！所以，這段時間已經累積出了大量可讓大家無限制使用的作品。就如先前所說的，可惜的是，許多機構都宣稱他們擁有掃描或是上傳之後的檔案版權，因而，這些公眾領域的作品反而在掃描或上傳之後，另外又受到了著作權限制。 針對較為近代的作品，你必須更熟悉關於法律上的限制。&lt;/p&gt;
+
+&lt;p&gt;無奈的是，因為每個國家都有關於何時作品進入公眾領域的不同法律規定，這些法律一般來說會針對作品的種類而有所不同。有些國家依據作者過世的時間，有的國家依據出版日起算一段時間。對於文學，戲劇，音樂或藝術作品，在大多數的歐洲或其他世界各國家，針對一個作品是否進入公眾領域，則是從最後一位作者去世之當年底後的70年（這裡也包括電影的導演，編劇和任何作曲者）。又例如，大西洋上的島國巴貝多(Barbados)是50年，墨西哥則是100年。另外，因為採用&quot;截止日模式“ (cut off date model)，加上基於著作權何時更新或是否完全更新等因素，在美國則又是另外一個完全不同的故事。&lt;/p&gt;
+
+&lt;p&gt;以下提供一些連結，希望能幫助你在晦暗的法條中（我希望大部分的時候是光明的）找到一盞明燈！&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;[[http://publicdomain.okfn.org/calculators/|公眾領域計算機]] ：針對在歐洲的作品，提供一個[[http://outofcopyright.eu/calculator.html|簡單的工具]] ，它利用幾個按鈕問答，幫你確定在你的司法管轄區中是否該作品已經進入公眾領域。&lt;/li&gt;
+	&lt;li&gt;[[http://www.copyrightservice.co.uk/copyright/p01_uk_copyright_law|英國版權服務]] ：一個明確解釋英國法律的地方。&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;[[http://fairuse.stanford.edu/Copyright_and_Fair_Use_Overview/chapter8/|史丹佛大學解釋美國著作權的網站]]：非常明確的解釋美國的著作權系統，包括[[http://fairuse.stanford.edu/charts_tools/|大量的工具]]來確認公眾領域狀態。&lt;/li&gt;
+	&lt;li&gt;[[http://en.wikipedia.org/wiki/List_of_countries%27_copyright_length|維基裡不同國家的著作權清單]]：在wiki搜尋中打上國家的名稱與關鍵字&quot;copyright law&quot;，你應該可以看到一些正式的解釋。但需要注意，用Wikipedia來尋找一些概括的論述是可以的，但千萬不要把它當作是最精確的來源。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;有種情況是常發生的，就是當你想要使用的作品在原來的國家已經是公眾領域的作品了，但卻無法適用於你的國家。某些國家會使用“[[http://en.wikipedia.org/wiki/Rule_of_the_shorter_term|較短時間法則]]”，這意味著：當面臨國外的著作權狀態疑義時，這個原則允許著作權保護期間較長之會員國，得拒絕給予著作權保護期間較短之會員國之國民，與自己國民享有相同較長之著作權保護期間[4]。但仍需要注意，許多國家雖然聲稱遵守&quot;最短時間法則&quot;，但他們還是另外訂立了凌駕於此原則之外的雙邊協定。&lt;/p&gt;
+
+&lt;p&gt;==================================================================&lt;/p&gt;
+
+&lt;p&gt;[1] &quot;亞聖與史皇&quot;, 中國大歷史, 王仁宇&lt;br /&gt;
+[2] [[http://creativecommons.tw/in-depth/539|&quot;The Public Domain&quot; 怎麼說？]]&amp;nbsp;&lt;br /&gt;
+[3] [[http://en.wikipedia.org/wiki/Prelinger_Archives|Prelinger Archive]]&lt;br /&gt;
+[4] &quot;[[http://www.copyrightnote.org/crnote/bbs.php?board=2&amp;amp;act=read&amp;amp;id=155http://www.copyrightnote.org/crnote/bbs.php?board=2&amp;amp;act=read&amp;amp;|甚麼時候才算真正的公共所有?]]&quot;, 章忠信&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 24 Feb 2012 12:06:39 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">583 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120224#comments</comments>
+</item>
+<item>
+ <title>如何尋找「開放授權」的圖片檔案？</title>
+ <link>https://creativecommons.tw/blog/20120110</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;盧美慈&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;筆者在參與台灣創用CC計畫以及教育部創用CC計畫歷程中，最常碰到的問題就是「請問我用XXX的圖片放在教材或文章裡合法嗎？」、「請問我這樣標示圖片來源檔案是正確的嗎？」、「請問要去哪邊尋找用了不會侵犯著作權法的圖片檔案呢？」而這些問題也是目前教師教學、參加教案比賽、學生撰寫期末報告、民眾舉辦小型活動時所容易碰到的問題。本次專欄將以筆者自己的經驗，簡介如何尋找採取創用CC授權或已進入公共領域的圖片檔案，並概要說明使用這些檔案時應注意的標示問題，希望藉此可以使網路使用者更加願意使用開放授權的檔案，以及注意如何合法地使用這些檔案。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;一、如何尋找創用CC授權圖片？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;創用CC授權為一種開放的授權條款，當作者將其作品（圖文、音樂影像）採取創用CC授權，並選擇授權條款（例如：姓名標示—非商業性）後&lt;a href=&quot;#_ftn1&quot;&gt;[1]&lt;/a&gt;，使用者在使用其作品時，只要達到作品授權條款的條件，使用者就不用擔心著作權侵權問題。目前台灣創用CC網站的檔案搜尋介面，已整合了各種採取創用CC授權的圖像、音樂、影像、研究資料庫網站。由於本次主題以圖片為主，以採取創用CC授權的圖片網站Flickr為例：&lt;/p&gt;
+
+&lt;p&gt;（一）先進入台灣創用CC網站的檔案搜尋介面：&lt;a href=&quot;http://creativecommons.tw/search&quot;&gt;http://creativecommons.tw/search&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://lh6.googleusercontent.com/-tfrbkXaOIPw/TwU6GJ9wBUI/AAAAAAAABg4/b17D2FsYEuI/s640/01.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（二）在搜尋處輸入想搜尋的圖片名稱（例如：蒹葭），並勾選搜尋來源為Flickr&lt;a href=&quot;#_ftn2&quot;&gt;[2]&lt;/a&gt; &lt;img alt=&quot;&quot; src=&quot;https://lh5.googleusercontent.com/-DDAmsOgDn3Y/TwU6GFQDTXI/AAAAAAAABg0/-ZPi_FJRAec/s640/02.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（三）按下搜尋，將直接進入Flickr的搜尋結果頁面&lt;img alt=&quot;&quot; src=&quot;https://lh4.googleusercontent.com/-YOcokoRNcxc/TwU6GOZmbtI/AAAAAAAABhE/HtI5LLNwqW0/s640/03.jpg&quot; style=&quot;border-color:initial; border-style:initial; font-size:13px; line-height:20px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（四）點選想使用的圖片，確認授權資訊及作者&amp;nbsp;&lt;img alt=&quot;&quot; src=&quot;https://lh4.googleusercontent.com/-2l49yOjzXhs/TwVV7IOqAXI/AAAAAAAABis/keqrv2r6F4A/s640/04.jpg&quot; style=&quot;border-color:initial; border-style:initial; font-size:13px; line-height:20px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（五）下載檔案步驟1：先點擊圖片，在頁面中選擇「檢視全部尺寸」&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://lh6.googleusercontent.com/-lzLA9cUMAWY/TwU6HCfss5I/AAAAAAAABhM/eTzluavfpQs/s640/05.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（六）下載檔案步驟2：選擇想下載的尺寸，並點擊下載 &lt;img alt=&quot;&quot; src=&quot;https://lh4.googleusercontent.com/-FX7alXxNmK8/TwU6HatNpRI/AAAAAAAABhU/U0HJcLbBB_w/s640/06.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;二、如何尋找已入公共領域的圖片？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;進入公共領域的圖片，有可能是作者創作時就選擇將該圖片公開給大眾使用，或是該圖片因為著作權保護期限屆滿，而進入公共領域。進入公共領域之著作，任何人都可以自由利用，即使將其作品商業化，也沒有違反著作權法的疑慮。&lt;/p&gt;
+
+&lt;p&gt;目前較可信的公共領域圖片搜尋資源，以維基共享資源網 Wikimedia Commons為大宗。&lt;/p&gt;
+
+&lt;p&gt;（一）先進入維基共享資源網：&lt;a href=&quot;http://commons.wikimedia.org/wiki/&quot;&gt;http://commons.wikimedia.org/wiki/&lt;/a&gt; &lt;img alt=&quot;&quot; src=&quot;https://lh5.googleusercontent.com/-vwZvs930cp8/TwU6Ha3G6CI/AAAAAAAABhQ/sBO_Aaob830/s640/07.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（二）在Search部分輸入想查詢的關鍵字:在這部份要注意，維基共享資元的圖片來源大部份為英文，故在查詢時以英文作為關鍵字比較容易找到正確圖片 &lt;img alt=&quot;&quot; src=&quot;https://lh3.googleusercontent.com/-xsmWi5Nft4k/TwU6Hzse4_I/AAAAAAAABhc/IxFgpW-1YjE/s640/08.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（三）按下搜尋，觀看結果&lt;/p&gt;
+
+&lt;p&gt;（四）點選Reeds, Reeds, Reeds圖片，進入圖片資訊頁面&amp;nbsp;&lt;img alt=&quot;&quot; src=&quot;https://lh4.googleusercontent.com/-LB21e6jdayE/TwU6IbmRlvI/AAAAAAAABho/H9dE0vKDtoo/s640/09.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（五）點選download或是右鍵，另存新檔即可取得圖片檔案&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://lh4.googleusercontent.com/-Ry7yTcaD0kI/TwU6IYvBBeI/AAAAAAAABh0/sLHHo56Rx2I/s640/10.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;三、使用開放授權圖片資源時的常見問題：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;（一）利用創用CC素材不要忘記姓名標示創用CC授權2.0版以後的所有條款都有「姓名標示」的要求。在創作者有提供相關資訊的情況下，利用人必須標示創作者的名稱（或筆名）、著作名稱、出處或網址、原有的授權方式。&lt;/p&gt;
+
+&lt;p&gt;（二）標示方式：不限於圖片正中間或是其他大而明顯的標示，使用者可以為了配合版面美觀等需求，將作品來源資訊以及姓名標示放在不影響版面、但他人可以明確看到引用著作的來源以及原作姓名標示之處所。&lt;/p&gt;
+
+&lt;p&gt;（三）未依照授權條款的方式使用或標示的法律效果：由於創用CC授權條款是一種「開放式」授權，具有契約性質，使用者若未依照該條款使用著作，則如同未獲授權，法律效果則回歸到一般著作權法上「未獲他人授權而使用他人作品、改作他人作品」的情況，而有侵害作者著作權的風險。&lt;/p&gt;
+
+&lt;div&gt;&amp;nbsp;
+&lt;hr /&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;a href=&quot;#_ftnref1&quot;&gt;[1]&lt;/a&gt;&amp;nbsp;依據創用CC「姓名標示」、「非商業性」、「禁止改作」以及「相同方式分享」四個要素，共組成六種條款，包含姓名標示、姓名標示─非商業性、姓名標示─非商業性─相同方式分享、姓名標示─禁止改作、姓名標示─非商業性─禁止改作、姓名標示─相同方式分享。詳細內容請參照台灣創用CC授權介紹網站，&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org.tw/betacc/license&quot;&gt;http://creativecommons.org.tw/betacc/license&lt;/a&gt;，最後瀏覽日2012/1/3。&lt;br /&gt;
+&lt;a href=&quot;#_ftnref2&quot;&gt;[2]&lt;/a&gt;&amp;nbsp;雖然整合頁面中有google圖片與google網站可以選擇搜尋，但該二網站的授權條款標示可能非原作者所為，故較不推薦以google尋找創用CC授權資源。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 10 Jan 2012 09:33:47 +0000</pubDate>
+ <dc:creator>bonjovilll</dc:creator>
+ <guid isPermaLink="false">575 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120110#comments</comments>
+</item>
+<item>
+ <title>論公眾授權條款之相容性：以創用CC授權條款及GNU自由文件授權條款為例（下）</title>
+ <link>https://creativecommons.tw/in-depth/446</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;李治安、林懿萱&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Creative Commons（該組織以下簡稱「CC」）之創辦人 Lawrence Lessig 教授曾指出，造成公眾授權條款彼此不相容性之原因有二：其一是來自於不同的著作權人本身對於授權條款的選擇就有不同的偏好，有些人只希望主張姓名表示權，有些人還希望基於其原著作所改作之衍生著作亦能以相同方式授權，有些人則希望限制他人對其作品做商業使用，在不同類型的創用 CC 授權條款之間，所存在的不相容問題，即是屬於因為使用者偏好不同所造成；其二則是因為授權條款本身之設計所造成，有時內容類似或目的相同之授權條款會被設計成彼此不相容，如創用CC「姓名標示-相同方式分享」與 GFDL 之例，若兩種授權條款皆要求改作後之衍生著作須以相同之授權方式釋出，則使用該兩種授權條款所釋出之內容自無交互使用流通之可能。&lt;/p&gt;
+
+&lt;p&gt;Lessig 認為，對於上述第一種原因所導致之授權條款不相容性，或可透過對於授權人之宣導與教育稍微舒緩，但由於每個人的偏好不同，因此難以將個人所選擇授權條款之差異消弭於無形，不過此種不相容至少可反映著作權人對其著作控制偏好及需求之差異。但第二種導致授權條款不相容之原因，則純粹是因為原有授權條款之設計不良，因而導致大眾可利用的資源被不同的授權條款割裂，此種不相容之存在，不但不具任何功能，而且阻礙了自由文化運動之推展及資訊之流通使用&lt;strong&gt;[註一]&lt;/strong&gt;。事實上，前述 GFDL 及創用 CC「姓名標示-相同方式分享」授權條款之精神與其所欲保護的核心自由，其實是一樣的&lt;strong&gt;[註二]&lt;/strong&gt;，如果因為著作權人選擇不同授權條款而阻礙了內容的再利用，實有違該等授權條款之設計目的。再者，對原本選擇該等授權條款之授權人而言，他們很可能並不樂見因為選擇了特定的授權條款，反而削弱了作品被再利用的機會。&lt;/p&gt;
+
+&lt;h3&gt;授權條款不相容的解決之道&lt;/h3&gt;
+
+&lt;p&gt;針對上述因授權條款設計問題導致之不相容問題，Lessig 認為解決之道在於肯定不同授權條款相互差異的同時，應將不同的授權條款標準化(standardization)，在該等授權條款中加入相容性條款(compatibility clause)，允許內容利用者可藉其他類似或相當的授權條款釋出內容&lt;strong&gt;[註三]&lt;/strong&gt;。換言之，解決公眾授權條款不相容性之方法在於促使不同的各授權條款展開對話與連結。&lt;/p&gt;
+
+&lt;p&gt;事實上，CC 已經開始促成不同授權條款間之相容性，創用 CC 授權條款3.0版新增了「Creative Commons 相容授權條款」(Creative Commons Compatible License)&lt;strong&gt;[註四]&lt;/strong&gt;的規範。只要經 CC 認可、實質上與創用 CC 授權條款相當者，則改用作品不受限於僅可適用和原作品相同的授權條款釋出，但至今 CC 尚未認可任何一種授權與創用 CC 授權條款相容&lt;strong&gt;[註五]&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;負責營運維基百科的維基媒體基金會(Wikimedia Foundation)自2007年起也開始處理授權相容性之問題，該基金會之董事會開會時曾討論社群對於（GFDL 和創用 CC「姓名標示-相同方式分享」）兩種授權條款不相容之疑慮，並決議要求 GFDL 修正，以容許如維基百科及其他大型協力發展、開放眾人編輯的 wiki 計畫，能有多一種選擇，使用創用 CC「姓名標示-相同方式分享」授權條款3.0版或後續版本。自由軟體基金會在2008年11月3日推出了微幅修改的1.3版 GFDL &lt;strong&gt;[註六]&lt;/strong&gt;，依據該版本之授權條款，凡是以 GFDL 授權釋出之「大型多作者協力網站」(Massive Multiauthor Collaboration Site)內容，均可以採用創用 CC「姓名標示-相同方式分享」之授權條款再授權釋出，但只能在特定的時間限制下進行（該協力網站上內容首次發佈時需係採 GFDL、且該等內容需是在2008年11月1日之前即被納入(incorporate)該協力網站，此外，再授權的內容只能在2009年8月1日之前於原網站發布）。&lt;/p&gt;
+
+&lt;p&gt;我們認為，在自由文化運動發展的過程中，創用 CC 授權條款及 GFDL 的並存某種程度與資訊產業中的標準競爭(standard competition)頗為類似，雖然在資訊產業中，標準所指涉的是特定的技術，但是對使用者而言，選用特定的授權條款與購買特定的技術產品相同，都必須面臨未來改變心意時所須考量的轉換成本(switching costs)及與其他產品或內容相容性的問題；再者，如果將兩種授權條款當作彼此競爭的標準，則該等競爭將有助於授權條款的改良。&lt;/p&gt;
+
+&lt;p&gt;具體言之，參與自由文化運動的創作者在選擇特定授權條款釋出其作品時，其考量因素亦類似於標準競爭過程中的消費者，消費者通常會選擇購買較多人使用的產品，加入較大規模的網路，以尋求相容於最大的產品市場，此即為使用者越多，市場力量即越強大的網路效應(network effect)或網路外部性(network externality)。如果把創用 CC 及 GFDL 兩種授權條款當作不同的網路，則創作者也會考慮二者中哪一個網路規模較大，因為採用愈多人使用的授權條款，即表示使用者的作品能與愈多的其他作品相容，進而愈有機會成為其他自由文化運動參與者的創作素材。&lt;/p&gt;
+
+&lt;p&gt;回到創用 CC 與 GFDL 的相容性問題，如果兩者的實質差異並不影響創作者關於作品釋出的價值抉擇及個別需求，則無論從自由文化運動集中力量推廣理念的角度而言，抑或是從創作者求取其作品被混用或其他再使用之最大可能性而言，創作者都應選擇一個較多人採用的授權條款。再者，將自由文化社群所採用的授權條款單純化還有一個好處，就是當未來授權條款發生其他問題而須修改時，可由原草擬條款的組織（如 CC 或自由軟體基金會）統籌辦理單一授權條款、凝聚共識，避免不同組織間協商所產生的交易成本。&lt;/p&gt;
+
+&lt;p&gt;維基百科於2009年起已改採創用 CC 與 GFDL 雙重授權方式&lt;strong&gt;[註七]&lt;/strong&gt;，此舉對於參與自由文化運動的創作者而言，實具指標意義，因為這個改變已使維基百科的大量內容轉往 CC 授權，進而提升創作者選用 CC 授權條款的誘因；再者，如前所述，由於 GFDL 與創用 CC 授權條款不同之處，在於前者係針對軟體說明書所設計，而後者則是針對一般創作內容，因此後者恐較符合一般數位創作者之需求。準此，本文以為，就長期觀點而言，創用 CC 授權條款有相當的可能逐漸在自由文化運動中佔有上風，如果採用該授權條款者能在自由文化運動中超過臨界多數(critical mass)，則授權不相容之問題亦將自然解決。&lt;/p&gt;
+
+&lt;h3&gt;結語&lt;/h3&gt;
+
+&lt;p&gt;自由文化運動的目的原本在於匯集擴大可供公眾創作使用的分享資訊，但是彼此不相容的各授權條款卻將該等分享資訊不必要的割裂。GFDL 1.3版和創用 CC 授權條款3.0版雖已分別處理了相容性問題，作為推動彼此相容之起點，但如本文所述，因 GFDL 相容條款設有時間的限制，就達成完全相容之理想而言，上述處理方式仍有其侷限性，未來在發布更新版本之授權條款時，GFDL 與創用CC授權仍有空間往更高程度的相容性理想邁進。就自由文化運動之近來發展及長期觀點而言，本文基於網路外部性、組織間的交易成本及授權條款實用性等理由，認為創用 CC 授權條款有相當程度的可能在未來取得臨界多數，這也是自由文化社群以自發力量解決授權不相容問題的方法之一。&lt;/p&gt;
+
+&lt;p&gt;如果授權相容性之理想可以達成，則自由文化運動的推動可謂向前邁進一大步，授權內容不會因為原授權人對授權條款的選擇而喪失其他被再利用的機會，主要的開放內容計畫之間亦不會互相孤立；此外，開放內容如果可在不同的授權條款間移動，則亦可藉由市場機制呈現出不同授權條款之優缺點，理論上授權內容最終會以最佳的授權條款釋出，如此也可為開放內容的社群提供一個更穩定的授權基礎設施。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[註一]&lt;/strong&gt; Lawrence Lessig, Re-crafting a Public Domain, 18 YALE J.L. &amp;amp; HUMAN. 56, 77-78 (2006)&lt;br /&gt;
+&lt;strong&gt;[註二]&lt;/strong&gt; Lawrence Lessig, Re-crafting a Public Domain, 18 YALE J.L. &amp;amp; HUMAN. 56, 77-78 (2006)&lt;br /&gt;
+&lt;strong&gt;[註三]&lt;/strong&gt; Id. at 77.&lt;br /&gt;
+&lt;strong&gt;[註四]&lt;/strong&gt; 創用 CC 六種核心授權中，僅「姓名標示-相同方式分享」此一授權條款開放與其他非創用 CC 授權條款體系相容。依據該授權條款第 1 條第 c 項規定，「Creative Commons相容授權條款」指， &lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/compatiblelicenses&quot;&gt;http://creativecommons.org/compatiblelicenses&lt;/a&gt;所列經 Creative Commons 認可、實質上與本授權條款相當的授權條款，此乃因為該授權條款至少： (i) 包含和本授權條款之授權要素具有相同之目的、意義及效力之條款；及(ii)明示其所提供之衍生著作，依據本授權條款或與本授權條款具有相同授權要素的尚未本地化(unported)或其他司法管轄領域之創用CC授權條款，可再為授權。&lt;br /&gt;
+&lt;strong&gt;[註五]&lt;/strong&gt;請見&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/compatiblelicenses%EF%BC%88%E6%9C%80%E5%BE%8C%E7%80%8F%E8%A6%BD%E6%97%A5%E6%9C%9F%E8%A5%BF%E5%85%832010%E5%B9%B412%E6%9C%8828&quot;&gt;http://creativecommons.org/compatiblelicenses&lt;/a&gt;（最後瀏覽日期西元2010年12月28日）。&lt;br /&gt;
+&lt;strong&gt;[註六]&lt;/strong&gt;請見&lt;a class=&quot;newpage&quot; href=&quot;http://www.fsf.org/licensing/licenses/fdl-1.3-faq.html%EF%BC%88%E6%9C%80%E5%BE%8C%E7%80%8F%E8%A6%BD%E6%97%A5%E6%9C%9F%E8%A5%BF%E5%85%832010%E5%B9%B412%E6%9C%8828&quot;&gt;http://www.fsf.org/licensing/licenses/fdl-1.3-faq.html&lt;/a&gt;（最後瀏覽日期西元2010年12月28日）(連結失效)。&lt;br /&gt;
+&lt;strong&gt;[註七]&lt;/strong&gt;請參見林懿萱，&lt;a class=&quot;newpage&quot; href=&quot;http://www.openfoundry.org/index.php?option=com_content&amp;amp;Itemid=252&amp;amp;id=2162〈=en&amp;amp;task=view&quot;&gt;FDL 與創用 CC 授權條款相容性問題初探：從維基百科談起&lt;/a&gt;，2009年9月25日。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 28 Jan 2011 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">446 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/446#comments</comments>
+</item>
+<item>
+ <title>從公眾授權談科學教育和研究的普及</title>
+ <link>https://creativecommons.tw/in-depth/438</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;莊庭瑞、周文茵&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;（本文截錄自第八屆兩岸三院資訊技術交流與數位資源共享研討會會議論文集內容）&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4&gt;科學的普及傳播&lt;/h4&gt;
+
+&lt;p&gt;科學教育正從菁英教育轉向公眾教育，並逐漸受到各界的關注與肯定，也致使科學傳播的方式更加活潑多元。科學消息的傳播是科學知識普及的重要關鍵，科學傳播的意涵幾乎等同於科學普及。因此，如何正確、深入、廣泛、快速且有效地傳播，成為科普教育的重要議題。而科普不僅由傳統科學知識推廣，轉變成為全民科學素養的提升，也融入關懷與平等的教育意涵，將縮小城鄉差距納入規劃思考。&lt;/p&gt;
+
+&lt;p&gt;科普知識的傳播，除了在課堂教學的內容外，也或透過報章雜誌的科技新知、科普知識的翻譯、科學雜誌的出版、科普節目的製播，以及如科普研習營、科學特展、科普講座、科學競賽、科學季等科普活動等不同形式呈現。而在科學知識的傳佈上，教案素材、數據資料、實驗方法、以及軟硬體教具設計的廣泛流通使用，分外重要。&lt;/p&gt;
+
+&lt;p&gt;在網路基礎建設成熟的今日，科學研究與科學教育的資訊交換與累積，似乎變得更容易、迅速與多樣。然而現行著作權體制對於著作的散布使用，卻有嚴厲的限制：在未獲得著作權人的事先許可之前，除非確為合理使用，不得使用其著作。為求著作的廣泛流通，著作權人對公眾事先、明確的著作使用授權聲明，已逐漸普及。目前常見的公眾授權條款，在軟體程式碼方面有 「GNU一般公眾授權條款」(GNU General Public License, 簡稱GPL)，在一般著作方面則有「創用CC授權條款」(Creative Commons Licenses)。&lt;/p&gt;
+
+&lt;h4&gt;科普教育網站與公眾授權條款&lt;/h4&gt;
+
+&lt;p&gt;科學教育與數位資源網站使用公眾授權條款的趨勢，在台灣逐漸普見。例如「數位典藏與數位學習科技計畫」的聯合目錄，就將計畫中完成的魚、貝、植物等數位照片以創用 CC 授權釋出；而「&lt;a class=&quot;newpage&quot; href=&quot;http://learning.froghome.org/&quot;&gt;蛙蛙世界學習網&lt;/a&gt;」則提供許多青蛙的相關知識。教育部也透過&lt;a class=&quot;newpage&quot; href=&quot;http://isp.moe.edu.tw/&quot;&gt;教育部數位教學資源入口網&lt;/a&gt; ，方便教師們將教案置於平台上，彼此交流，而不用擔心侵權的問題。&lt;/p&gt;
+
+&lt;p&gt;在國外，&lt;a class=&quot;newpage&quot; href=&quot;http://phet.colorado.edu/&quot;&gt;PhET&lt;/a&gt; 則是美國的一個成功例子。這套軟體由諾貝爾獎得主 Carl Wieman 於2002年在美國科羅拉多大學物理系所發起的計畫逐步建立。這套互動式模擬教學軟體，對中學、大學教師們講解科學概念相當有幫助。教師們可以藉由這套軟體，講解如化學反應平衡或是量子力學等艱深的觀念，亦可以當作虛擬實驗，以取代危險或是昂貴的實驗器材（如雷射或核分裂的裝置）。這套軟體的特色之一，在於它整套都是採用公眾授權方式釋出。可以直接執行的模擬程式（執行檔）採用「創用 CC 授權條款」或是「GNU一般公眾授權條款」，而其原始碼採「GNU一般公眾授權條款」釋出。因其採用公眾授權，方便使用者複製、散布、轉譯，透過大眾的協力，目前已經有多種語言版本可以使用，&lt;a class=&quot;newpage&quot; href=&quot;http://phet.colorado.edu/en/simulations/translated/zh_TW&quot;&gt;華語版本&lt;/a&gt;在台灣則非常受到歡迎。&lt;/p&gt;
+
+&lt;h4&gt;大眾參與的科學教育與研究&lt;/h4&gt;
+
+&lt;p&gt;在研究的方法和程序上，科學的普及化，還可以探究大眾參與的層面。也就是以大眾共同參與某項研究所需特定工作的方式，加快研究工作的完成，或是讓研究工作更周延。這類大眾參與的研究項目，以美國加州大學柏克萊校區發起的 &lt;a class=&quot;newpage&quot; href=&quot;http://setiathome.berkeley.edu/&quot;&gt;SETI@HOME&lt;/a&gt; 為濫觴。這項工作號召網際網路上的參與者，提供他們個人電腦的計算資源，共同分析電波望遠鏡的觀測資料，以尋求可能的外太空智慧跡象。&lt;/p&gt;
+
+&lt;p&gt;除了提供各自的計算資源，以協助研究工作的進行，大眾自身也可投入研究資料的分類、分析工作。這方面的新近例子是 &lt;a class=&quot;newpage&quot; href=&quot;http://www.galaxyzoo.org/&quot;&gt;Galaxy Zoo&lt;/a&gt; （星系動物園）。這項研究使用 &lt;a class=&quot;newpage&quot; href=&quot;http://www.sdss.org/&quot;&gt;Sloan Digital Sky Survey&lt;/a&gt; （史隆數位天空觀測）的資料，請大眾就研究人員所整理出的巨量星系影像，在網站上一一進行分類。透過眾人的協助，讓星系相關的研究假設，得到進一步檢驗。在這同時，經由大眾的觀察辨別，也因而發現前所未見的天體類型。&lt;/p&gt;
+
+&lt;p&gt;另外，百科全書式的條目整理和解說，是散布科學知識的常見方法。以 Wiki （維基）共筆工具，眾人合力線上編寫眾人所需的知識性、事實性資訊，也是參與式的科普知識生產方式。這方面則屬維基媒體基金會所維運管理的 &lt;a class=&quot;newpage&quot; href=&quot;http://www.wikipedia.org/&quot;&gt;Wikipedia&lt;/a&gt; （維基百科）最為著名。前述星系動物園和維基百科都使用創用 CC 授權條款，來散布網站上眾人所創建的成果。&lt;/p&gt;
+
+&lt;p&gt;在高等教育的課程教案與教材分享上， &lt;a class=&quot;newpage&quot; href=&quot;http://ocw.mit.edu/index.htm&quot;&gt;MIT OpenCourseWare&lt;/a&gt;（麻省理工學院的「開放式課程網頁」）首開風氣之先，鼓勵該校教員將授課內容以創用 CC 授權方式，發佈于該校專屬網站，方便眾人轉載散布使用。同時 &lt;a class=&quot;newpage&quot; href=&quot;http://p2pu.org/&quot;&gt;Peer 2 Peer University&lt;/a&gt; （同儕對同儕大學）這項計畫，更是以草根的力量，進行大學科目的教材散布以及數位學習的學分認證。這項計畫同樣採用創用 CC 授權，以確保該網站的資料，可以持續被眾人使用和更新。&lt;/p&gt;
+
+&lt;p&gt;現代科學技術發展十分迅速，影響範疇廣達我們生活的各個層面；而整體科技創新能力的提升，將有賴公眾科學素質的提高。科學教育的普及，更深遠地來說，其實攸關國家競爭力。世界經濟論壇（WEF）的全球競爭力指標中，「效率增強」與「創新與成熟因素」都是與科學技術甚為相關的評比項目；而推動契合國家發展需要的科學教育工作，也儼然成為全球各國共同思維。如：美國科學促進會 (American Association for the Advancement of Science) 提出「2061計畫」，以改革中小學科學教育課程；英國政府也在2000年公布《國家科學教育課程標準》；澳洲則推動「全國中小學科學計畫」。大眾參與的科學教育與研究範例，以上僅列舉一二，其間各式樣態推陳出新，目不暇給，這方面台灣仍需要快步趕上。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 01 Oct 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">438 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/438#comments</comments>
+</item>
+<item>
+ <title>論非營利組織於資訊共享環境中所扮演的角色（下）</title>
+ <link>https://creativecommons.tw/in-depth/432</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;李治安&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;在(上)篇中，筆者以公共財作為分類依據，羅列出資訊共享環境中的各類非營利組織後，(下)篇中本文選擇以當今非營理組織學說中最具影響力的兩個理論，解釋資訊共享運動中的各參與組織。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;一、契約失靈理論：&lt;/strong&gt;第一個理論是 Henry Hansmann 提出的契約失靈理論 (contract failure theory)，該理論指出，在交易雙方之間存在著資訊不對稱的情況時，買方無法檢驗商品的品質，因此賣方可能會提供劣質的服務或產品。此時，如果由非營利組織扮演賣方的角色，該等組織的「不分配限制」特質將可適度防止其濫用優勢資訊，欺壓買方。&lt;/p&gt;
+
+&lt;p&gt;契約失靈理論在資訊共享環境中有傳統的應用角度，亦即非營利組織可代社群接受並管理他人捐贈。與營利事業相較，非營利組織較不會濫用該等捐贈，此外，亦存在以下三種新形態的契約失靈情境：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;(一)、近用失靈&lt;/strong&gt;&lt;br /&gt;
+許多個人創作者都希望其作品能廣為流傳，但並非所有的潛在讀者都能接近使用該等作品，當作者無法為其讀者提供理想的近用資訊時，即發生了近用失靈的情況。以學術文章為例，作者通常希望自己的文章能夠廣為流傳，因為該等文章被引用率可一定程度的象徵作者的學術聲望，而著作權通常不是學術作者所需要的創作誘因；但以營利為目的的出版商卻希望控制期刊的流傳數量以獲取最大的利潤，就此而言，出版商和作者具有相當程度的利害衝突。像 Public Library of Science (PLoS) 般的非營利組織出版社，因為不追求最大利潤，所以無須控制期刊內容的著作權，如此反而符合學術作者的利益，也解決了近用失靈的不效率。其他處理近用失靈的機構包括了 Internet Archive、Television Archive、免費提供課程資訊的麻省裡工學院、以及支持維基百科的 Wikimedia Foundation 等機構。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;(二)、協力失靈&lt;/strong&gt;&lt;br /&gt;
+協力失靈可能發生於個人間或組織間。個人間的協力失靈指的是在同儕生產社群中，如果沒有正式組織作後盾，協力工作將因欠缺集體產權管理、交易主體、承擔潛在責任主體、制度化決策程序及標準等問題而無法完成，而如維基基金會(Wikimedia Foundation)及阿帕契基金會(Apache Software Foundation)等非營利組織的存在即適度解決了該等問題。通常大型的同儕生產社群才會成立非營利組織，因為社群須有相當規模，才有足夠的資源成立正式組織；而且規模大使得資訊內容逐漸複雜，才會需要組織的存在。&lt;/p&gt;
+
+&lt;p&gt;某些非營利組織則是專注於處理組織間的協力失靈問題，像 Eclipse Foundation 和 Linux Foundation 都是商會型的非營利組織，他們是由營利機構所組成，可視為各公司會員為了構築商業基礎設施（如標準）、分擔成本而採取的集體行動。因為對所有會員公司而言，如果基礎設施被單一營利機構所掌握，則公司的經營將被鎖死(lock-in)，產品成本也勢必大幅增加。除了商會型的非營利組織以外，一些負責智慧財產權公益遊說的團體如 Public Knowledge 也扮演了統合各組織共同利益的角色，就此而言，這些組織都解決了組織間協力失靈的問題。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;(三)、授權失靈&lt;/strong&gt;&lt;br /&gt;
+授權失靈分成兩種形態，第一種授權失靈是由於著作權法的規定，使得創作人無法隨心所欲的讓他人使用其創作，針對該種失靈，Creative Commons 提供了一系列的授權條款，協助創作人依其喜好，授權其作品。&lt;/p&gt;
+
+&lt;p&gt;第二種授權失靈則是指授權條款間的不相容，導致資訊的使用人不能隨心所欲的使用依據不同授權條款授權的共享資訊，就此問題，包括 Creative Commons 及 Free Software Foundation (FSF)組織已開始推動授權條款間的相容性。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;二、市場與政府失靈理論：&lt;/strong&gt;第二個關於非營利組織的理論是市場與政府失靈理論(market and government failure theory)，此理論認為市場及政府對於某些公共財的供給都會發生失靈，因此為非營利組織提供了生存利基，市場失靈主要是因為經濟學上的搭便車現象，使得生產者欠缺誘因從事生產活動；而政府失靈則是因為在民主社會中，政府只能提供有限的資源，因此其通常會選擇滿足部分人的需求，而捨棄其他人的需求。&lt;/p&gt;
+
+&lt;p&gt;在資訊共享環境中，政府失靈與著作權法有密切的關係，對許多非營利組織言，著作權法本身就是一種政府失靈，而被商業利益控制的著作權法立法過程，則是另一種政府失靈。許多非營利組織及與其密切相關的自由文化運動，都是因為不滿國會通過數位千禧著作權法(Digital Millennium Copyright Act, DMCA)及著作權期限延長法案(Copyright Term Extension Act, CETA) 通過而形成。市場失靈則包含了前述的契約失靈，以及資訊公共財過度受到獨佔及生產不足所導致的不效率情況。&lt;/p&gt;
+
+&lt;p&gt;非營利組織型塑了當今的資訊訊共享生態系統，本文以上係以當代兩個主流的非營利組織理論分析相關非營利組織於資訊共享環境中所扮演的角色，這兩個理論對於理解該等組織於資訊共享運動中之價值及功能，具有相當助益，當然，各理論均有其不足之處，而各理論間也可互補其不足。本文中界定出近用失靈、協力失靈及授權失靈三種新型態的契約失靈。&lt;/p&gt;
+
+&lt;p&gt;此外，非營利組織的出現與存在亦與市場失靈及政府失靈有關，該等失靈包括了著作權法本身、著作權法的立法過程以及公共財的過度壟斷及供給不足。在可預見的未來，相信各種組織形態將繼續在不同的資訊環境中，扮演不同的角色，其互動及相關發展亦值得繼續關注。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 02 Jul 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">432 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/432#comments</comments>
+</item>
+<item>
+ <title>利用公眾授權內容，其實，很簡單。</title>
+ <link>https://creativecommons.tw/blog/20100126</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;周文茵&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;最近看到一則報導，發現原來「台北市公共運輸處全球資訊網」也取用來自維基百科的公眾授權內容，可見維基百科內容的品質受到一定程度的肯定。台北市公共運輸處在內容的利用上，無疑是符合公眾授權的大趨勢，但也暴露出使用者對如何正確地使用公眾授權內容的認識仍然不足。&lt;br /&gt;
+利用公眾授權內容，其實，很簡單。&lt;br /&gt;
+在這個案例上，公運處要合法使用維基百科內容的條件是，必須依照維基百科的要求標示出所取用文字的原始網址連結，而且衍生自維基百科的內容，也必須採用其原本使用的公眾授權條款（姓名標示-相同方式分享）釋出，讓公眾自由地再複製、散布、與改寫所衍生的新著作。&lt;/p&gt;
+
+&lt;p&gt;拜網路平台所賜，讓大家有機會可以方便取得由眾人協力產生、量大質優的公眾授權內容。不過如果沒有依照上述的規範去利用公眾授權釋出的著作，基本上是有侵權之虞的。&lt;/p&gt;
+
+&lt;p&gt;【延伸閱讀】&lt;br /&gt;
+&lt;s&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://www.libertytimes.com/2010/new/jan/18/today-o9.htm&quot;&gt;把握兩點 維基就是良機&lt;/a&gt;&lt;/s&gt; (連結失效)&lt;br /&gt;
+&lt;a class=&quot;newpage&quot; href=&quot;http://zh.wikipedia.org/zh-tw/Wikipedia:CRFAQ&quot;&gt;如何引用維基百科的文章&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 26 Jan 2010 04:00:00 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">190 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20100126#comments</comments>
+</item>
+<item>
+ <title>台灣棒球維基館：給你棒球知識力！</title>
+ <link>https://creativecommons.tw/blog/20090831-1</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;周文茵&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;&lt;a href=&quot;http://twbsball.dils.tku.edu.tw/wiki/index.php/%E9%A6%96%E9%A0%81&quot;&gt;&lt;img alt=&quot;wiki%20baseball.png;&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/wiki_baseball.png&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;棒球，一直是台灣人的驕傲！只要有國際賽事，大家總會排除萬難看比賽，管他是三更半夜，還是凌晨十分，就是要準時守在電視機前，絕不錯過Live實況轉播，然後入戲地跟著轉播員一起激動，好像身歷其境一般地暢快嘶吼。&lt;/p&gt;
+
+&lt;p&gt;剛在美國威廉波特舉辦的&lt;a class=&quot;newpage&quot; href=&quot;http://twbsball.dils.tku.edu.tw/wiki/index.php/2009%E5%B9%B4%E7%AC%AC%E5%85%AD%E5%8D%81%E4%B8%89%E5%B1%86%E4%B8%96%E7%95%8C%E5%B0%91%E5%B9%B4%E6%A3%92%E7%90%83%E9%8C%A6%E6%A8%99%E8%B3%BD&quot;&gt;LLB世界少棒錦標賽&lt;/a&gt;中，代表中華隊出賽的龜山國小少棒，取得亞太區冠軍以及世界組亞軍的殊榮，不但讓身在台灣的我們感到與有榮焉，也為台灣棒球歷史掀啟另一頁輝煌。&lt;/p&gt;
+
+&lt;p&gt;講到台灣棒球的歷史，21世紀的今天，不得不提起&lt;a class=&quot;newpage&quot; href=&quot;http://twbsball.dils.tku.edu.tw/wiki/index.php/%E9%A6%96%E9%A0%81&quot;&gt;台灣棒球維基館&lt;/a&gt;，一個不同以往，活跳跳的線上棒球圖書館。習慣搜尋引擎查找資料的你，無論用的是Google，還是Yahoo，鍵入關鍵字—棒球，很難不發現這個蘊藏豐富內容的平台。&lt;/p&gt;
+
+&lt;p&gt;說到底，還是拜科技之賜。成熟的網際網路環境和以共筆為核心功能的維基系統，讓眾人協力建構知識成為可能。這樣的協同創作空間，不但編輯、搜尋方便自由&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-1&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-1&#039;)&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; ，透過先行明訂內容產出者之行為規範（&lt;a class=&quot;newpage&quot; href=&quot;http://twbsball.dils.tku.edu.tw/wiki/index.php/TwBsBall:%E9%97%9C%E6%96%BC%E6%9C%AC%E7%AB%99/%E6%9C%AC%E7%AB%99%E5%AE%97%E6%97%A8&quot;&gt;本站宗旨&lt;/a&gt;、&lt;a class=&quot;newpage&quot; href=&quot;http://twbsball.dils.tku.edu.tw/wiki/index.php/Help:%E7%B7%A8%E8%BC%AF%E8%A6%8F%E5%89%87&quot;&gt;編輯原則&lt;/a&gt;），以及建立具有公信力的守門員制度（&lt;a class=&quot;newpage&quot; href=&quot;http://twbsball.dils.tku.edu.tw/wiki/index.php/TwBsBall:%E9%97%9C%E6%96%BC%E6%9C%AC%E7%AB%99/%E5%8F%B0%E7%81%A3%E6%A3%92%E7%90%83%E7%B6%AD%E5%9F%BA%E9%A4%A8%E7%AE%A1%E7%90%86%E5%93%A1%E8%A6%8F%E7%AB%A0&quot;&gt;管理員規章&lt;/a&gt;、&lt;a class=&quot;newpage&quot; href=&quot;http://twbsball.dils.tku.edu.tw/wiki/index.php/TwBsBall:%E9%97%9C%E6%96%BC%E6%9C%AC%E7%AB%99/%E5%8F%B0%E7%81%A3%E6%A3%92%E7%90%83%E7%B6%AD%E5%9F%BA%E9%A4%A8%E7%8D%8E%E5%8B%B5%E6%96%B9%E5%BC%8F&quot;&gt;榮譽管理&lt;/a&gt;），加上此平台很周到地結合&lt;a class=&quot;newpage&quot; href=&quot;http://twbsball.dils.tku.edu.tw/wiki/index.php/TwBsBall:%E7%89%88%E6%AC%8A%E4%BF%A1%E6%81%AF&quot;&gt;創用CC公眾授權方式&lt;/a&gt;，讓內容的利用與交換上，可以更具彈性。輔以相關的&lt;a class=&quot;newpage&quot; href=&quot;http://twbsball.dils.tku.edu.tw/wiki/index.php/TwBsBall:%E5%AD%B8%E8%A1%93%E7%A0%94%E7%A9%B6&quot;&gt;研究分析&lt;/a&gt;，讓平台經營規劃上，能更貼近使用者需求。&lt;/p&gt;
+
+&lt;p&gt;如果，你也想發起一個主題維基館，台灣棒球維基館無疑是一個好的範例，因為架構規劃思考相當完整周延，值得大家參考。如果，你想更瞭解台灣棒球的相關知識與歷史，台灣棒球維基館更是一個挖寶的好所在！&lt;/p&gt;
+
+&lt;div&gt;
+&lt;div&gt;Footnotes&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-1&#039;)&quot;&gt;1&lt;/a&gt;. &lt;a class=&quot;newpage&quot; href=&quot;http://twbsball.dils.tku.edu.tw/wiki/index.php/Help:%E8%A8%BB%E5%86%8A%E8%88%87%E7%99%BB%E5%85%A5&quot;&gt;註冊或不註冊均可編輯、搜尋&lt;/a&gt;。惟不註冊，則以IP顯示編修人之身分；註冊者除可以自己命名的代號顯示，並且其創作編修之歷程可完整記錄於系統，亦可隨時察看。&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 31 Aug 2009 04:00:00 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">170 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20090831-1#comments</comments>
+</item>
+<item>
+ <title>公共領域縮水危機</title>
+ <link>https://creativecommons.tw/blog/20090805-2</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;周文茵&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;&lt;img alt=&quot;pd_large.png;&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/pd_large.png&quot; style=&quot;margin-right:20px; width:180px&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;「假如把進入公共領域的圖片/作品，拿來放在wikipedia上，可以嗎？」&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;這可真是個有趣的問題。&lt;/p&gt;
+
+&lt;p&gt;進入討論之前，或許得先來做個簡單的概念前導。&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;Wikipedia的授權方式採用的是&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.tw/betacc/blog/20090423-1&quot;&gt;公眾授權&lt;/a&gt;，必須依附在現行著作權法架構基礎上；也就是說你需要有著作權利（而且是著作財產權），才能將此著作以公眾授權方式釋出。&lt;/li&gt;
+	&lt;li&gt;當著作一旦離於著作權保護期限，便進入所謂的&lt;a class=&quot;newpage&quot; href=&quot;http://zh.wikipedia.org/zh-tw/%E5%85%AC%E5%85%B1%E9%A2%86%E5%9F%9F&quot;&gt;「公共領域」（Public Domain）&lt;/a&gt;，因此這些作品的權利不屬於任何人，任何人都可以任何方式任意地利用。&lt;/li&gt;
+	&lt;li&gt;目前著作權法採取&lt;a class=&quot;newpage&quot; href=&quot;http://www.copyrightnote.org/crnote/bbs.php?board=11&amp;amp;act=read&amp;amp;id=13&quot;&gt;創作保護主義&lt;/a&gt;，一旦著作產生，成為著作權法所保護的標的，即受著作權法保護，不需任何標示或登記的動作。&lt;/li&gt;
+	&lt;li&gt;基於數位科技的特性，致使無論是瀏覽網頁或是傳送檔案，複製的行為都是必須的動作；而知識內容不因分享而減損。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;所以，當公共領域的作品，遇到公眾授權的環境，會激盪出什麼新鮮的議題？&lt;/p&gt;
+
+&lt;p&gt;從法律的層面，我們可能可以告誡公眾：「請找擁有權利的東西來分享」。但是，「不要用」不等於「不能用」，所以從法律的角度，你拿公共領域的東西到wikipedia上使用，可沒有任何法律可以強制禁止。而且，公眾的使用習慣（創意的產生與知識的建構），可不是以這樣的法律邏輯來展現，人們總是站在前人的肩膀上來累積知識。但如果使用了，又會讓未來的利用人誤會你擁有此作品的權利，反而，變相地成為侵蝕掉公共領域整體範圍的幫凶。&lt;/p&gt;
+
+&lt;p&gt;如果說你覺得不然清楚標示權利資訊，總可以吧？在一個創作保護主義架構下的著作權法規範裡，要知道這個作品是不是已經納入公共領域，就是一個議題了&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-1&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-1&#039;)&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; 。更何況，Wikipedia的平台政策即以特定公眾授權為授權選項（沒有其他選擇的餘地）。&lt;/p&gt;
+
+&lt;p&gt;上述這些問題，都只是很粗淺地從一個使用者的提問，所引發的思考，或許尚嫌不夠深入，但卻是實實在在地存在，並且困擾著我們，而且這種&lt;a class=&quot;newpage&quot; href=&quot;http://en.wikipedia.org/wiki/Copyfraud&quot;&gt;Copyfraud&lt;/a&gt; 的&lt;a class=&quot;newpage&quot; href=&quot;http://www.theregister.co.uk/2009/06/26/copyfraud/&quot;&gt;議題&lt;/a&gt;討論，相信在未來在世界各地仍會不斷地&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/15764&quot;&gt;上演&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;著作權法的發展歷史反映出其&lt;a class=&quot;newpage&quot; href=&quot;http://www.is-law.com/old/OurDocuments/CR0009LA.pdf&quot;&gt;特定的時代背景&lt;/a&gt;，當數位時代來臨，分享的定義改變（分享不等於要犧牲）；複製變成無意識的必須，著作權（copyright）是一種「複製權利（right of copy）」的保護，還是該新解成「重製有理（copy is right）」？這些都是有趣的思維辯證與價值建構議題。&lt;/p&gt;
+
+&lt;p&gt;創用CC授權之所以能廣為在數位環境中流行起來，其實也可以解離出公眾對新環境（快速交換作品的數位環境）之新秩序的渴望；也是對現行著作權法這樣的過度傾斜的法律（過度權利保護），一種自力救濟的草根運動。&lt;/p&gt;
+
+&lt;p&gt;而法律的意義，無非是在定調一個社會的價值標準（以較為符合公眾利益為目標來做規範），而這個價值標準必須因應時代環境，同時奠基於公眾使用的基礎上來思考。畢竟，如果一部法律的規範下，多數人都必得成為罪犯的話，那是時間該好好檢討這部法律了。&lt;/p&gt;
+
+&lt;div&gt;
+&lt;div&gt;Footnotes&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-1&#039;)&quot;&gt;1&lt;/a&gt;. Creative Commons日前已提出一個&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.tw/betacc/blog/20090325&quot;&gt;CC0&lt;/a&gt;的概念，試圖透過標準標示的建立，藉此標示能讓公眾更清楚且自由地接近利用公共領域。&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 05 Aug 2009 04:00:00 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">162 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20090805-2#comments</comments>
+</item>
+</channel>
+</rss>

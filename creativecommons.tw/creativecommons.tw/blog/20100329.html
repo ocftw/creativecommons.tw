@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+
+<!-- Mirrored from creativecommons.tw/blog/20100329 by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 17 Sep 2025 20:34:14 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="../sites/all/themes/cctw2016/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="../node/198.html" />
+<link rel="canonical" href="20100329.html" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>科學教學的開放源碼模擬軟體：PhET | 台灣創用CC計畫</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+  <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="../sites/creativecommons.tw/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../index.html" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/creativecommons.tw/files/css/css_85iEcOFlKQd-H-S1fZVZ7XJcopLlazWMzpRSHQRsmlM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/creativecommons.tw/files/css/css_z1oeDNwiYdrsVT1UKHIbCFoqpUDgkP6YlpixHLbxmfg.css" media="all" />
+  <script src="../sites/creativecommons.tw/files/js/js_9lwnnBd2U2EnWoWYICAlPh-LFE_WFEe5GjUBoGN02wc.js"></script>
+<script src="../sites/creativecommons.tw/files/js/js_2OW9smDzq6Hssd0FDvQ664w9ArSoSOINoM7rtv681-0.js"></script>
+<script>var switchTo5x = true;</script>
+<script src="https://ws.sharethis.com/button/buttons.js"></script>
+<script>if (stLight !== undefined) { stLight.options({"publisher":"dr-a6f4b667-9f00-c2e6-70c0-c0b645779a66","version":"5x"}); }</script>
+<script src="../sites/creativecommons.tw/files/js/js_2t14JFxNsmXuSrBBKYsR5YNtLjOwu9qoZonh_BKtWb0.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cctw2016","theme_token":"NonIv3C1hFgpjv8wE4E0-AF-xLtSS6QtPda66dihLog","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.effects.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.effect.min.js":1,"sites\/all\/modules\/back_to_top\/js\/back_to_top.js":1,"0":1,"https:\/\/ws.sharethis.com\/button\/buttons.js":1,"1":1,"sites\/all\/modules\/responsive_menus\/styles\/responsive_menus_simple\/js\/responsive_menus_simple.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/back_to_top\/css\/back_to_top.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/responsive_menus\/styles\/responsive_menus_simple\/css\/responsive_menus_simple.css":1,"sites\/all\/themes\/cctw2016\/system.menus.css":1,"sites\/all\/themes\/cctw2016\/system.messages.css":1,"sites\/all\/themes\/cctw2016\/system.theme.css":1,"sites\/all\/themes\/cctw2016\/css\/styles.css":1}},"urlIsAjaxTrusted":{"\/blog\/20100329":true},"back_to_top":{"back_to_top_button_trigger":"100","back_to_top_prevent_on_mobile":0,"back_to_top_prevent_in_admin":1,"back_to_top_button_type":"image","back_to_top_button_text":"Back to top","#attached":{"library":[["system","ui"]]}},"responsive_menus":[{"toggler_text":"\u2630","selectors":[".region-navigation"],"media_size":"414","absolute":true,"remove_attributes":true,"responsive_menus_style":"responsive_menus_simple"}]});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script> 
+$(document).ready(function(){
+  $("#button").click(function(){
+    $("#text").slideToggle("slow");
+  });
+});
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1509135-11', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-198 node-type-blog section-blog" >
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+  <header class="header" id="header" role="banner">
+   <div id="page">
+	<div class="wrapper">
+   <div class="logo">
+          <a href="../index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="../sites/creativecommons.tw/files/logo_0.png" alt="Home" class="header__logo-image" /></a>
+    
+          <div class="header__name-and-slogan" id="name-and-slogan">
+                  <h1 class="header__site-name" id="site-name">
+            <a href="../index.html" title="Home" class="header__site-link" rel="home"><span>台灣創用CC計畫</span></a>
+          </h1>
+        
+                  <div class="header__site-slogan" id="site-slogan">Creative Commons Taiwan</div>
+              </div>
+    
+   </div>
+    
+        <div id="navigation" >
+
+              <nav id="main-menu" role="navigation" tabindex="-1">
+                  </nav>
+      
+        <div class="region region-navigation">
+    <div id="block-block-32" class="block block-block first odd">
+
+      
+  <form action="https://creativecommons.tw/blog/20100329" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-LAKCtVhNwsUcjZLW0v4GDIpfWcT8GgXQt5XwhhF7Rxo" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+<div id="block-system-main-menu" class="block block-system block-menu last even" role="navigation">
+
+      
+  <ul class="menu"><li class="menu__item is-collapsed first collapsed"><a href="../about.html" class="menu__link">關於我們</a></li>
+<li class="menu__item is-collapsed collapsed"><a href="../explore.html" class="menu__link">創用CC授權</a></li>
+<li class="menu__item is-collapsed collapsed"><a href="../public_domain.html" class="menu__link">公眾領域</a></li>
+<li class="menu__item is-collapsed collapsed"><a href="../news.html" class="menu__link">新知消息</a></li>
+<li class="menu__item is-collapsed last collapsed"><a href="../feature.html" title="" class="menu__link">特別企劃</a></li>
+</ul>
+</div>
+  </div>
+
+    </div>
+    </div>
+
+    </div>
+  </header>
+
+<div id="page">
+  <div id="main">
+<!--
+	<div class="breadarea">
+	      	      	</div>
+-->
+       <div class="region region-highlighted">
+    <div id="block-block-35" class="block block-block first last odd">
+
+      
+  <div style="background-image: linear-gradient(120deg, #155799, #159957);color:white;padding:20px;"><h2 style="color:white;">再會了</h2>感謝您對「台灣創用CC計畫」的支持與愛護，十多年來「台灣創用CC計畫」受中央研究院支持，並在資訊科學研究所以及資訊科技創新研究中心執行，<a style="color:gray;" href="20180625.html">現已完成階段性的任務</a>。CC 授權條款在台灣的推廣使用，之後將由「開放文化基金會」協調組織的「<a  href="https://cc.ocf.tw/">CC台灣社群</a> 」進行。
+<br><br>本網站預計持續維運至 2021年底，網站內容基本上不會再更動。</div>
+</div>
+  </div>
+
+    <div id="content" class="column" role="main" style="clear:both;">
+      <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">科學教學的開放源碼模擬軟體：PhET</h1>
+                                          
+
+
+<article class="node-198 node node-blog view-mode-full clearfix" about="/blog/20100329" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                  <span property="dc:title" content="科學教學的開放源碼模擬軟體：PhET" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+              <p class="submitted">
+                    <?php// print $submitted; ?>
+	  2010-03-29        </p>
+      
+          </header>
+  
+  <div class="field field-name-field-author field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">江易原 I-Yuan Chiang</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>（本文以 CC0 釋出）</p>
+
+<p><a class="newpage" href="http://phet.colorado.edu/index.php">PhET</a> 是一項由諾貝爾獎得主 Carl Wieman 於 <a class="newpage" href="http://www.colorado.edu/news/releases/2006/194.html">2002 年在美國科羅拉多大學 (Boulder) 物理系所發起的計畫</a> 。</p>
+
+<p>到今日，PhET 已經有<a class="newpage" href="http://phet.colorado.edu/simulations/translations.php">多種語言版本</a>可以使用。這些互動式的模擬教學軟體對老師講解科學概念很有幫助。老師們可以藉由 PhET ，講解如化學反應平衡或是量子力學等艱深的觀念，亦可以當作虛擬實驗，以取代危險或是昂貴的實驗器材 (如雷射或核分裂的裝置)。不但如此，PhET 最棒的特色之一是採用公眾授權方式釋出。可以直接執行的模擬程式（執行檔）採 CC BY 或是 GNU GPL 授權，而其<a class="newpage" href="http://phet.colorado.edu/about/source-code.php">原始碼</a>採 GNU GPL 授權 (更多授權細節請參考 PhET <a class="newpage" href="http://phet.colorado.edu/about/licensing.php">授權方式</a>)。PhET 不限制商業用途，所以更有廣泛的應用可能。</p>
+
+<p>2008 年時我與一些同好跟 PhET 團隊聯繫，開始進行翻譯的工作。在 2009 年 8 月完成了翻譯，並開始嘗試導入到中小學的課程。除了可以到到 PhET 官方網頁下載在地化的 PhET 程式之外，<a class="newpage" href="http://ossacc.moe.edu.tw/uploads/datafile/ezgo7_win/ezgo_win/_phet.html">中文化的 PhET 網頁</a>及相關套件已經整合到 <a class="newpage" href="http://news.ossacc.org/EzGo7/ezgo7_linux/index.html">Ezgo7 光碟</a> (Ezgo7 是以 Linux 系統為基礎、可直接開機使用的教育軟體光碟，其中包含許多教學使用的素材和軟體)。Ezgo7 由台灣教育部補助、中華民國軟體自由協會所製作，可能是眾多 Linux 套件中，第一個把教材整合到光碟的。這樣的好處是可以提供一個完整功能的教育光碟，而且不用擔心違反著作權法，因為其中收錄的套件及教材都是公眾授權的自由軟體和內容。</p>
+
+<p>我們收到很多使用 PhET 的正面反應與建議，很多老師肯定很 PhET，特別是 PhET 可以免費取得，又不用擔心智慧財產權問題。但是有些小學老師認為 PhET 比較適合中學及大學的課程，只有部份主題才能用在小學的課程。的確，在完成軟體介面的翻譯後，我們該想想如何進行客製化的工作。許多人目前對這個課題都感到興趣，討論尋求各種合作的方式，來製作適合小學的教學主題軟體。<a class="newpage" href="http://ossacc.moe.edu.tw/">請加入我們！</a></p>
+
+<p>(This text is released under CC0.)</p>
+
+<p><a class="newpage" href="http://phet.colorado.edu/index.php">PhET</a> was launched by <a class="newpage" href="http://www.colorado.edu/news/releases/2006/194.html">Nobel laureate Carl Wieman in the Department of Physics, University of Colorado at Boulder, 2002</a>.</p>
+
+<p>To this date, PhET are available in <a class="newpage" href="http://phet.colorado.edu/simulations/translations.php">many languages</a>. The interactive simulations are quite useful for learning science. Teachers can use PhET to demonstrate difficult concepts (like chemical reactions or quantum mechanics), or to run virtual experiments instead of relying on dangerous or expensive equipments (like lasers or devices for nuclear fission). In addition, the best part about PhET is that it is open source. The executable is released under either CC BY or GNU GPL, and the <a class="newpage" href="http://phet.colorado.edu/about/source-code.php">source code</a> is licensed under GNU GPL (please check the PhET <a class="newpage" href="http://phet.colorado.edu/about/licensing.php">licensing options</a> for details). PhET does not have restriction on commercial use, thus it can be used widely.</p>
+
+<p>In 2008, several colleagues and I contacted the PhET team, and started to translate about 80 simulations into the <a class="newpage" href="http://ossacc.moe.edu.tw/uploads/datafile/ezgo7_win/ezgo_win/_phet.html">traditional Chinese language</a>. In August 2009, the translations were mostly done and we tried to introduce localized versions of PhET to K-12 education in Taiwan. Besides downloading directly from the PhET sites, the simulation packages are also integrated into <a class="newpage" href="http://news.ossacc.org/EzGo7/ezgo7_linux/index.html">Ezgo7</a>, a Linux-based Live CD enhanced with educational materials and applications. Ezgo7, which is supported by the Ministry of Education in Taiwan and produced by the Software Liberty Association of Taiwan, could be the first Linux distro that incorporates publicly licensed educational materials (e.g. PhET) into the operating system. The advantage of such Live CD is its all-in-one nature, which can be easily used in education. As all in the CD are free software packages and contents, surely there is no risk for any possible copyright infringement. They are all released under free licenses.</p>
+
+<p>Many positive feedbacks and suggestions about using PhET are received. Many teachers really appreciate the great work, especially the CD with educational contents is free of charge and can be freely copied and used. However, some teachers of elementary schools feel that PhET is more suitable to high school and college courses; only some simulations can be employed at their classes. In deed, besides localization, one need also to consider "customization" for individual courses and classes. Many more people are now involved, and are in discussion on how to cooperate to customize packages for elementary schools. <a class="newpage" href="http://ossacc.moe.edu.tw/">Join us!</a></p>
+
+<p>備註：<br />
+Ezgo7光碟連結失效<br />
+link of Ezgo7 is not found.</p>
+</div></div></div>  
+
+</article>
+<div id="block-views-news-block-2" class="block block-views even">
+
+      
+  <div class="view view-News view-id-News view-display-id-block_2 view-dom-id-2655a2f6cc6f7edc2190ac79cf3a9f7d">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul class="list-style">          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field views-field-term-node-tid">    <strong class="views-label views-label-term-node-tid">Tags: </strong>    <span class="field-content"><a href="../category/tags/gnu.html">GNU</a>, <a href="../category/tags/%e5%85%ac%e7%9c%be%e6%8e%88%e6%ac%8a.html">公眾授權</a>, <a href="../category/tags/%e6%95%99%e8%82%b2.html">教育</a>, <a href="../category/tags/%e8%87%aa%e7%94%b1%e8%bb%9f%e9%ab%94.html">自由軟體</a></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+<div id="block-views-news-block-3" class="block block-views odd">
+
+      
+  <div class="view view-News view-id-News view-display-id-block_3 view-dom-id-66bad2e2f65ce0fa6e6187254cd7f9f5">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <span>    <h2>相關文章</h2>    <span><div class="item-list"><ul><li class="first"><a href="../in-depth/438.html">從公眾授權談科學教育和研究的普及</a></li>
+<li><a href="20100430.html">PhET 所帶來的教學創新與啟發</a></li>
+<li><a href="20100619.html">Animations for Physics and Astronomy 物理與天文動畫</a></li>
+<li class="last"><a href="20100725.html">簡介創用 CC 授權之物理數位教材與淺談其元件釋出方式</a></li>
+</ul></div></span>  </span>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+<div id="block-sharethis-sharethis-block" class="block block-sharethis last even">
+
+      
+  <div class="sharethis-wrapper"><span st_url="https://creativecommons.tw/blog/20100329" st_title="科學教學的開放源碼模擬軟體：PhET" class="st_delicious_button" displayText="delicious"></span>
+<span st_url="https://creativecommons.tw/blog/20100329" st_title="科學教學的開放源碼模擬軟體：PhET" class="st_facebook_button" displayText="facebook"></span>
+<span st_url="https://creativecommons.tw/blog/20100329" st_title="科學教學的開放源碼模擬軟體：PhET" class="st_twitter_button" displayText="twitter"></span>
+<span st_url="https://creativecommons.tw/blog/20100329" st_title="科學教學的開放源碼模擬軟體：PhET" class="st_linkedin_button" displayText="linkedin"></span>
+<span st_url="https://creativecommons.tw/blog/20100329" st_title="科學教學的開放源碼模擬軟體：PhET" class="st_email_button" displayText="email"></span>
+<span st_url="https://creativecommons.tw/blog/20100329" st_title="科學教學的開放源碼模擬軟體：PhET" class="st_sharethis_button" displayText="sharethis"></span>
+<span st_url="https://creativecommons.tw/blog/20100329" st_title="科學教學的開放源碼模擬軟體：PhET" class="st_plusone_button" displayText="plusone"></span>
+<span st_url="https://creativecommons.tw/blog/20100329" st_title="科學教學的開放源碼模擬軟體：PhET" class="st_fblike_button" displayText="fblike"></span>
+</div>
+</div>
+          </div>
+
+    
+          <aside class="sidebars">
+                  <section class="region region-sidebar-second column sidebar">
+    <div id="block-views-nodelicense-block" class="block block-views first odd">
+
+      
+  <div class="view view-nodelicense view-id-nodelicense view-display-id-block view-dom-id-4e7edd6e3c74371897c338a34ef15049">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-php">        <span class="field-content"><div style='width:100%;height:60px;'><br><img src="../sites/creativecommons.tw/files/cc-by-sa-88x31.png" alt="" width="88" height="31"/><div style='vertical-align:bottom;margin-top:5px;line-height:1.2;'>本文採用 <span class='nodelicense'><a href='http://creativecommons.org/licenses/by-sa/3.0/tw/' target='_black'>創用 CC 姓名標示-相同方式分享 3.0 台灣</a> </span>授權條款 釋出</div></div><br><br><br></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+<div id="block-block-34" class="block block-block even">
+
+      
+  <form action="https://creativecommons.tw/blog/20100329" method="post" id="search-block-form--2" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--4">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--4" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--3"><input type="submit" id="edit-submit--3" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-GHD_WJRUeWvkz7hTRi2b_pdmrR7Kp4rBwBk1ONwrLVU" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+<div id="block-block-26" class="block block-block last odd">
+
+      
+  <h4 class="addline"><a href="../blog.html">部落格 Blog</a></h4>
+<h4><a href="../in-depth.html">CC 專題 In-depth</a></h4>
+
+
+</div>
+  </section>
+      </aside>
+    
+  </div>
+
+
+</div>
+
+  <footer id="footer" class="region region-footer">
+	<div class="wrapper">
+	<div id="page">
+    <div id="block-block-1" class="block block-block first odd">
+
+      
+  <div class="foot-follow"><h2 class="block__title">聯絡我們</h2>歡迎活動演講邀約及任何 CC 授權法律諮詢<br>詳情請參見此<a href="../contact" target="_block"><b > 聯絡我們頁面 </b></a><br><!--地址:台北市南港區研究院路二段128號 <br>資訊科技創新研究中心 304室<br>--><br><a href="https://www.facebook.com/CCTaiwan" target="_black"><img src="../sites/all/themes/cctw2013/images/facebook.png"></a>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCFCAeOZAvfjI01jYAvUS6BQ" target="_black"><img src="../sites/all/themes/cctw2013/images/youtub.png"></a>&nbsp;&nbsp;<a href="../feed/blog"><img src="../sites/all/themes/cctw2013/images/rss.png"></a></div>
+</div>
+<div id="block-menu-menu-quicklinks" class="block block-menu even" role="navigation">
+
+      
+  <ul class="menu"><li class="menu__item is-expanded first expanded"><a href="../about.html" title="" class="menu__link">關於我們</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="../worldcc.html" class="menu__link">全球的CC</a></li>
+<li class="menu__item is-leaf leaf"><a href="../twcc.html" class="menu__link">台灣創用CC計畫</a></li>
+<li class="menu__item is-leaf leaf"><a href="../downloads.html" title="" class="menu__link">出版品/下載</a></li>
+<li class="menu__item is-leaf last leaf"><a href="../contact" title="" class="menu__link">聯絡我們</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><a href="../explore.html" title="" class="menu__link">創用CC授權</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="../explore.html" title="" class="menu__link">創用CC 是什麼?</a></li>
+<li class="menu__item is-leaf leaf"><a href="../choose-license.html" title="" class="menu__link">授權精靈</a></li>
+<li class="menu__item is-leaf leaf"><a href="../search.html" title="" class="menu__link">素材搜尋</a></li>
+<li class="menu__item is-leaf last leaf"><a href="../faq.html" title="" class="menu__link">常見問題</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><a href="../public_domain.html" title="" class="menu__link">公眾領域</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="../cc0.html" title="" class="menu__link">CC0</a></li>
+<li class="menu__item is-leaf last leaf"><a href="../pdm.html" title="" class="menu__link">PDM</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><a href="../news.html" title="" class="menu__link">新知消息</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="../blog.html" title="" class="menu__link">部落格</a></li>
+<li class="menu__item is-leaf leaf"><a href="../in-depth.html" title="" class="menu__link">CC 專題</a></li>
+<li class="menu__item is-leaf last leaf"><a href="../newsletter.html" title="" class="menu__link">創用 CC 電子報</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded"><a href="../feature.html" title="" class="menu__link">特別企劃</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="../feature/openvideo.html" title="" class="menu__link">自由映象</a></li>
+<li class="menu__item is-leaf last leaf"><a href="../feature/opendesign.html" title="" class="menu__link">開放設計</a></li>
+</ul></li>
+</ul>
+</div>
+<div id="block-block-10" class="block block-block odd">
+
+      
+  <div class="foot-license"><a href="http://creativecommons.org/licenses/by-sa/3.0/tw/"><img src="../sites/all/themes/cctw2013/images/cc-by-sa.png"></a>除另有註明，網站之內容皆採用 <br><a href="http://creativecommons.org/licenses/by-sa/3.0/tw/">創用CC 姓名標示-相同方式分享 3.0 台灣</a> 授權條款 </div>
+</div>
+<div id="block-block-11" class="block block-block last even">
+
+      
+  <div class="foot-icon"><a href="http://www.citi.sinica.edu.tw/"><img src="../sites/all/themes/cctw2013/images/citi-logo-bw.png"></a><a href="http://www.citi.sinica.edu.tw/">中央研究院資訊科技創新研究中心</a><br><a href="http://www.citi.sinica.edu.tw/">Research Center for Information Technology Innovation</a></div>
+</div>
+	</div>
+	</div>
+  </footer>
+  <div class="region region-bottom">
+    <div id="block-block-25" class="block block-block first last odd">
+
+      
+  <div class="cctwfoot">台灣創用CC計畫 製作 最佳瀏覽狀態：Chrome 或 IE9 或 Firefox2.0以上 (建議使用Chrome) ‧ 解析度1024*768 ‧ <a href="../policies.html">使用條款</a></div>
+
+</div>
+  </div>
+  </body>
+
+<!-- Mirrored from creativecommons.tw/blog/20100329 by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 17 Sep 2025 20:34:15 GMT -->
+</html>

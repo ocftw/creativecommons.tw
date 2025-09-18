@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 地圖</title>
+ <link>https://creativecommons.tw/category/tags/%E5%9C%B0%E5%9C%96</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Data.gov: 資料公開釋出成多國政府要務</title>
+ <link>https://creativecommons.tw/blog/20100201</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;莊庭瑞(trc)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;美國歐巴馬總統就任後，推動各項「開放政府前瞻」 (Open Government Initiative) 作為，倡導參與式民主，其中 &lt;a class=&quot;newpage&quot; href=&quot;http://www.data.gov/&quot;&gt;data.gov&lt;/a&gt; 是重要的一環。 Data.gov 網站提供了眾多由美國聯邦政府行政部門所產出、高價值、可再資訊處理的資料集，方便公眾查詢利用。事實上，美國聯邦政府所屬機關所產出的著作與資料集，屬於公共領域，任何人都可以自由使用、不受限制。 Data.gov 作為一個政府資料集的大型集散網站，還同時收錄了關於這些資料集的後設資料、以及處理所需的軟體工具，眾人都可以自由下載使用。該網站並有明確易懂的 &lt;a class=&quot;newpage&quot; href=&quot;http://www.data.gov/datapolicy&quot;&gt;「資料政策聲明」 (Data Policy Statements)&lt;/a&gt;，值得參考。&lt;/p&gt;
+
+&lt;p&gt;舉例來說，經由 data.gov 可以方便找到美國人口普查局 (United States Census Bureau) 所釋出的地圖集 &lt;a class=&quot;newpage&quot; href=&quot;http://www.census.gov/geo/www/tiger/&quot;&gt;TIGER&lt;/a&gt; (Topologically Integrated Geographic Encoding and Referencing) 。該地圖集收錄了 164,593 份十萬分之一比例尺的的行政區地圖，每份地圖尚包括區內的道路、建物、水系、行政區界線等詳細資料。該地圖集因為是美國聯邦政府所產出，歸屬於公共領域，任何人都可以自由下載使用，不受限制。目前該地圖集已使用於 &lt;a class=&quot;newpage&quot; href=&quot;http://www.openstreetmap.org/&quot;&gt;openstreetmap.org&lt;/a&gt; 這個由使用者社群所建立地圖網站，作為美國部份的底圖。&lt;/p&gt;
+
+&lt;p&gt;除了美國政府，英國政府和澳洲政府也分別建置了 &lt;a class=&quot;newpage&quot; href=&quot;http://data.gov.uk/&quot;&gt;data.gov.uk&lt;/a&gt; 以及 &lt;a class=&quot;newpage&quot; href=&quot;http://data.australia.gov.au/&quot;&gt;data.australia.gov.au&lt;/a&gt; 網站。英國的網站是在 Tim Berners-Lee 爵士以及 Nigel Shadbolt 教授的指導下成立，強調「公部門資訊」 (Public Sector information) 的公開與再次使用，並與「語意網」 (Semantic Web) 資訊技術結合。澳洲的網站，特別指明歡迎大眾使用網站所提供的資料集，為新的應用（也就是 mash-up）。不過值得注意的是，英國政府與澳洲政府所提供的資料集，並不屬公共領域的性質，而是以簡明、開放的授權方式釋出，由政府提供給大眾使用。這部份的細節請參考英國網站政府的&lt;a class=&quot;newpage&quot; href=&quot;http://data.gov.uk/terms-conditions&quot;&gt;「使用條款與前提」 (Terms and Conditions)&lt;/a&gt;，以及澳洲政府網站的&lt;a class=&quot;newpage&quot; href=&quot;http://australia.gov.au/about/terms-of-use&quot;&gt;「使用條款」 (Terms of Use)&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+資料政策聲明(Data Policy Statements)、英國網站政府「使用條款與前提」(Terms and Conditions)連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 01 Feb 2010 04:00:00 +0000</pubDate>
+ <dc:creator>trc</dc:creator>
+ <guid isPermaLink="false">191 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20100201#comments</comments>
+</item>
+</channel>
+</rss>

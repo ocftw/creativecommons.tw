@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 基本認識</title>
+ <link>https://creativecommons.tw/faq/basic</link>
+ <description>你想對創用CC本身有更多認識
+</description>
+ <language>en</language>
+<item>
+ <title>我可以拿創用CC授權的作品來修改、運用到自己作品中，去參加有獎金的比賽嗎？</title>
+ <link>https://creativecommons.tw/faq/25</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Creative Commons 推行的「非商業性 Non-commercial」標章，指的基本原則就是：該作品的利用目的不能直接涉及商業牟利。但何謂「非商業性」的範圍也時常引發爭議和討論，因為我們要定義「非商業」之後，首先得先定義何謂商業，而Creative Commons的作法是「尋求共識」，其在2008年9月發起了一個&lt;a class=&quot;external&quot; href=&quot;http://creativecommons.tw/blog/20081020&quot;&gt;「非商業性使用」的研究計畫&lt;/a&gt;，透過&lt;a class=&quot;external&quot; href=&quot;http://creativecommons.org/press-releases/entry/9554&quot;&gt;問卷調查的方式&lt;/a&gt;，探求Creative Commons授權標章的使用者其「心中所認定的非商業性範圍究竟到哪裡」，其後並在一年之後&lt;a class=&quot;external&quot; href=&quot;http://creativecommons.tw/blog/20090916&quot;&gt;公佈研究報告&lt;/a&gt;，透過參閱這份報告書的全文，大概就可以知道一般人認知的「商業性vs.非商業性」的區隔在哪裡。&lt;/p&gt;
+
+&lt;p&gt;但，上述是較學術性研究方面的資訊。就一般法律原則來說，那就是&lt;strong&gt;「行為之間有金錢對價關係者，常會被定義為商業行為，反之，若是行為之間未必有金錢對價關係者，則有可能會逸脫商業行為的範圍。」&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;舉目前很時新的APP應用來做為實例，依照這樣的原則，Android平台上的應用程式讓人免費下載，但連帶嵌入廣告，就像Windows平台上的MSN Messenger一樣的運作模式，這樣的運作模式，如果契約裡面又明定「使用者不得將廣告機制關閉」，則這樣的行為整體是有一個商業模式在運作，應該要被認定是商業行為，因為程式必須被內嵌廣告並消耗頻寬，且用契約規定這個廣告機制不能事後被下載者自行移除，則「內嵌廣告」與「程式下載使用」之間已經有一個「直接交換關係」，而這個交換關係能夠讓程式的開發者與散布者賺取金錢，這樣的模式可以被認定是一個「有對價關係」的商業行為；反之、若是程式的下載開始雖然有內嵌廣告，但使用者可以自行透過介面操作的方式將其關閉，或是契約內容也並不明文禁止使用者去做移除廣告的動作，則這樣的模式因不具有「內嵌廣告」與「程式下載使用」的「強制交換關係」，則就比較有機會被解釋為「非商業行為」。 所以說，依照上面介紹的法律論理，若並非參賽便一定獲致獎金，則參賽與獎金取得之間並沒有嚴謹的對價關係，則這樣的參賽行為，應符合「非商業性」的要求，然而，若是此作品得獎之後，要另行出版牟利，則這些進階利用，便可能超過非商業性的要求，而不受CC授權條款的非商業性標章所允許。&lt;/p&gt;
+
+&lt;p&gt;而教育部創用CC資訊網，對關於參賽獎金的問題，也有相關可以參考的回覆：&lt;a class=&quot;external&quot; href=&quot;https://isp.moe.edu.tw/ccedu/faq.php#thisFaq109&quot;&gt;https://isp.moe.edu.tw/ccedu/faq.php#thisFaq109&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 19 Jun 2014 08:01:13 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">994 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/faq/25#comments</comments>
+</item>
+<item>
+ <title>使用創用 CC，出了問題，誰要負責任？</title>
+ <link>https://creativecommons.tw/faq/32</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;在探討責任歸屬前，應先就問題的性質或種類加以釐清判定，才能依此界定責任的歸屬與範疇為何。&lt;/p&gt;&lt;p&gt;過去與創用創用 CC 授權相關的案例中，多數問題出於著作權人、使用者，或執法單位一或多方對創用 CC 授權不盡瞭解。因此不論是哪一方，充分瞭解自身權益，並明白其所應負之責任為使用創用 CC 的必要條件。台灣創用 CC 除了盡力宣導創用 CC 的正確觀念，還致力於蒐集各種實際判決案例並予以分析討論，盡量減少因認知差異導致須對簿公堂的事件發生。&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 07 Mar 2011 07:36:38 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">333 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/faq/32#comments</comments>
+</item>
+<item>
+ <title>哪裡有高解析度的創用 CC 標示、標章的圖檔？</title>
+ <link>https://creativecommons.tw/faq/19</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;您可以&lt;a href=&quot;http://creativecommons.org/about/downloads/&quot;&gt;至此&lt;/a&gt;取得高解析度版本的 Creative Commons 標誌與授權條款圖示。&lt;br /&gt;美國 Creative Commons 組織僅授權依其&lt;a href=&quot;http://creativecommons.org/policies&quot;&gt;政策&lt;/a&gt;來使用這些標誌、名稱與授權條款圖鈕。&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 07 Mar 2011 07:36:37 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">329 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/faq/19#comments</comments>
+</item>
+<item>
+ <title>創用 CC 授權條款的內容為何？</title>
+ <link>https://creativecommons.tw/faq/5</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;創用CC授權要素為「姓名標示」、「非商業性」、「禁止改作」以及「相同方式分享」，並由這四個要素組合為六種條款。以下簡要說明這些授權要素的意思：&lt;/p&gt;&lt;table style=&quot;border-spacing: 46px 26px;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;width: 25%; text-align: center; border: 1px solid #c2c9be; padding: 20px 10px 50px;&quot;&gt;&lt;img class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/cc-by.png&quot; alt=&quot;cc-by.png&quot;&gt;&lt;p&gt;&lt;strong&gt;姓名標示&lt;/strong&gt;表示：&lt;/p&gt;&lt;p&gt;您必須按照著作人或授權人所指定的方式，表彰其姓名&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;width: 25%; text-align: center; border: 1px solid #c2c9be; padding: 20px 10px 50px;&quot;&gt;&lt;img class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/cc-nc.png&quot; alt=&quot;cc-nc.png&quot;&gt;&lt;p&gt;&lt;strong&gt;非商業性&lt;/strong&gt;表示：&lt;/p&gt;&lt;p&gt;您不得因獲取商業利益或私人金錢報酬為主要目的來利用作品&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;width: 25%; text-align: center; border: 1px solid #c2c9be; padding: 20px 10px 50px;&quot;&gt;&lt;img class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/cc-nd.png&quot; alt=&quot;cc-nd.png&quot;&gt;&lt;p&gt;&lt;strong&gt;禁止改作&lt;/strong&gt;表示：&lt;/p&gt;&lt;p&gt;您僅可重製作品不得變更、變形或修改&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;width: 25%; text-align: center; border: 1px solid #c2c9be; padding: 20px 10px 50px;&quot;&gt;&lt;img class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/cc-sa.png&quot; alt=&quot;cc-sa.png&quot;&gt;&lt;p&gt;&lt;strong&gt;相同方式分享&lt;/strong&gt;表示：&lt;/p&gt;&lt;p&gt;若您變更、變形或修改本著作，則僅能依同樣的授權條款來散布該衍生作品&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;我們列出了&lt;a href=&quot;http://creativecommons.tw/license&quot;&gt;所有的授權條款&lt;/a&gt;供您瀏覽。或者，您也可按&lt;a href=&quot;http://creativecommons.tw/explore&quot;&gt;授權標章&lt;/a&gt;和&lt;a href=&quot;http://creativecommons.tw/choose-license&quot;&gt;法律條款&lt;/a&gt;來檢視。&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 07 Mar 2011 07:36:37 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">323 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/faq/5#comments</comments>
+</item>
+<item>
+ <title>創用 CC 授權鼓勵著作人釋出部分權利，對著作人有什麼保障？</title>
+ <link>https://creativecommons.tw/faq/4</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;著作人所受的保障，在使用創用CC授權釋出部份權利後，也沒有減少。因為創用CC是奠基於著作權法的授權條款，只是為了建立一個較為彈性的著作運用模式，解決現行著作權法的一些利用障礙。&lt;/p&gt;&lt;p&gt;也就是說，若某著作採用創用CC授權模式，其著作權並不會消失、也不會被創用CC授權模式所取代。著作人只是在某些條件下，授權不特定人利用這項著作，而利用人若違反了著作人選擇的授權方式，仍屬侵害著作權的行為。&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 07 Mar 2011 07:36:37 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">324 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/faq/4#comments</comments>
+</item>
+<item>
+ <title>當創用 CC 推出新版條款，舊版的是否就失效了？還是會自動升級？</title>
+ <link>https://creativecommons.tw/faq/28</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;不會有失效或升級的問題。&lt;br /&gt;任何版本都有其獨立的效力，惟可與新版本相容。&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 07 Mar 2011 07:36:36 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">315 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/faq/28#comments</comments>
+</item>
+<item>
+ <title>何謂「衍生著作」？</title>
+ <link>https://creativecommons.tw/faq/26</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;「衍生著作」依著作權法第六條規定：「就原著作改作之創作為衍生著作，以獨立之著作保護之。衍生著作之保護，對原著作之著作權不生影響。」至於「改作」，依著作權法第三條第一項第十一款規定：「指以翻譯、編曲、改寫、拍攝影片或其他方法就原著作另為創作。」所以，依小說拍成電影，或將中文小說翻譯成英文小說，都是衍生著作。&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 07 Mar 2011 07:36:36 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">319 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/faq/26#comments</comments>
+</item>
+<item>
+ <title>什麼叫商業性？什麼叫非商業性？</title>
+ <link>https://creativecommons.tw/faq/22</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;一般對商業用途的認定是有直接的金錢或利益交換。 而創用 CC 授權對非商業用途的說明是：&lt;/p&gt;&lt;p&gt;「您不得以主要為獲取商業利益或私人金錢報酬的方式，行使依本授權條款第 3 條所授與之權利。以數位檔案分享或其他方式而以本著作交換其他受著作權保護之著作，若該著作物的交換並無涉及任何金錢報酬之給付，則不應被認為是為意圖獲取商業利益或私人金錢報酬。」&lt;/p&gt;&lt;p&gt;此外，在 CC 英文官方的常見問答也提到，若您不確定您使用方式是否符合他人的創作中非商業用途的條件，這部份 CC 組織無法幫您判定，您可以跟創作人聯繫以釐清問題。&lt;/p&gt;&lt;h4&gt;&lt;span&gt;參考資料&lt;/span&gt;&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://creativecommons.org/licenses/by-nc/3.0/tw/legalcode&quot;&gt;姓名標示─非商業性 3.0 台灣&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://wiki.creativecommons.org/FFAQ&quot;&gt;Is use X a violation of the Noncommercial clause of the licenses?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://wiki.creativecommons.org/Defining_Noncommercial&quot;&gt;Defining_Noncommercial&lt;/a&gt; (2009 年，CC 對使用者對於非商業使用的認知做調查。可下載完整報告的 PDF 檔)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 07 Mar 2011 07:36:36 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">317 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/faq/22#comments</comments>
+</item>
+<item>
+ <title>什麼是「公眾授權」？</title>
+ <link>https://creativecommons.tw/faq/21</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;公眾授權 (public licenses) 展現的是一種開放、自由的著作流通精神。透過創作人自願性的釋出著作權法對其創作之保護 (而非對抗製著作權法)，以減少使用者使用上的限制，讓使用者有更多的自由。公眾授權條款是種奠基於著作權法的法律工具，內容清楚定義權利人與使用者間相關的權利與義務關係。藉由這個工具，讓著作權人可以告知不特定的大眾自由利用其著作的前提條件。&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 07 Mar 2011 07:36:36 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">320 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/faq/21#comments</comments>
+</item>
+<item>
+ <title>我在有些網頁上看到的「保留部份權利」圖示，代表什麼意思？</title>
+ <link>https://creativecommons.tw/faq/20</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;「保留部份權利」圖示是創用CC授權條款的泛用圖示，在網站上點擊該圖示應可導引到CC授權中的其中一則條款。&lt;/p&gt;&lt;p&gt;「保留部份權利」圖示是用來告訴您，您不須個別取得創作者或授權人的許可，即可使用作品或網站中的內容──當然啦，前提是您得按照創用 CC授權條款所許可的方式來使用該作品。&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 07 Mar 2011 07:36:36 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">313 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/faq/20#comments</comments>
+</item>
+</channel>
+</rss>

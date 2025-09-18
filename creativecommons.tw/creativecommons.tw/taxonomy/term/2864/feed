@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - GNU</title>
+ <link>https://creativecommons.tw/category/tags/gnu</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Thingiverse—開放數位設計、發揮3D列印機的無限潛力</title>
+ <link>https://creativecommons.tw/blog/20130815</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;科技產品越來越多樣化，也越來越普遍，&lt;a href=&quot;http://zh.wikipedia.org/wiki/%E4%B8%89%E7%BB%B4%E6%89%93%E5%8D%B0&quot;&gt;3D列印機&lt;/a&gt;(3D printer)、自動裁紙機(Automatic papar cutter)、&lt;a href=&quot;http://www.zwbk.org/zh-tw/Lemma_Show/265089.aspx&quot;&gt;雷射切割機&lt;/a&gt;(laser cutter)、電腦數位機床(CNC machine)等都更容易被取得，也就越來越多人開始使用這些設備來自行創造有用而新奇的小物品。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;不過，當人們了解&lt;a href=&quot;http://www.youtube.com/watch?v=Jq0xkPz265Q&amp;amp;feature=youtu.be&quot;&gt;3D列印機的功能&lt;/a&gt;後，最常問的問題就是「為什麼你需要一個這樣的機器？」就算機器再好用、再普及，也需要先有數位設計才能讓這些機器發揮作用，因此就有了&lt;a href=&quot;http://www.thingiverse.com/&quot;&gt;Thingiverse&lt;/a&gt;這個解決之道。&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/shu_wei_she_ji_1.jpg&quot; style=&quot;display:block; height:324px; margin-left:auto; margin-right:auto; vertical-align:baseline; width:640px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thingiverse是一個分享平台，匯集各地可以實踐成真實產品的數位設計藍圖。創作者在此提供3D列印機讀取的3D檔案、供雷射切割機使用的向量檔案、說明製作流程的PDF檔案等，其他人要是有興趣，就可以一次打包所有相關檔案，複製或是改造出屬於自己的實體成品。&lt;/p&gt;
+
+&lt;p&gt;Thingiverse附屬於開放資源3D列印機&lt;a href=&quot;http://www.makerbot.com/%E2%80%8E&quot;&gt;MakerBot&lt;/a&gt;公司，這個公司由Adam Mayer、Smith aka Hoeken和Joris Peels成立，比起另一個知名的開放資源3D列印機RepRap，他們設計的MakerBot能更快速的組裝，但同樣都是開放資源，讓使用者可以協助改進3D列印機的效能。&lt;/p&gt;
+
+&lt;p&gt;雖然，Joris Peels預估這樣的東西大概再十年後才會變的普遍，但是他們現在的消費者其實不只有科技玩家、工程師、設計師，也有一些想要自己動手做一些東西、快速解決生活小問題的一般人，令人驚喜的是，有不少學生藉此發揮創意，年紀輕輕就能做出許多意想不到的成品。&lt;/p&gt;
+
+&lt;p&gt;Thingiverse時常會舉辦競賽，參賽者要根據挑戰主題及規則將設計的作品放在網站上，鼓勵他人使用自己的設計，最後的贏家會有獎品，並在&lt;a href=&quot;http://www.makerbot.com/blog/category/thingiverse/&quot;&gt;部落格&lt;/a&gt;上專門介紹，以促使更多人一起來發揮3D列印機的潛力。&lt;/p&gt;
+
+&lt;p&gt;在這個平台上，創作者要根據創用CC或GNU來授權，但是不同的人可以選擇不同的授權方式，因此在使用不同人的設計時，都要特別留意，有些可能連名字都不需要標注，有些則需要同時遵守創用CC的四個條件。&lt;/p&gt;
+
+&lt;p&gt;為了方便使用者記憶以及增加標示出創作者的意願，最近，Thingiverse將創作者whosawhatsis設計的Thingitag發揚光大，Thingitag上有授權方式、作品作者名稱、發布日期和連結網址QR碼，在Thingiverse的網頁上可以很方便而迅速的點擊列印。&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/shu_wei_she_ji_2.jpg&quot; style=&quot;display:block; height:168px; margin-left:auto; margin-right:auto; vertical-align:baseline; width:467px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thingiverse除了在授權標誌上讓創作者很自由、讓使用者很放心之外，值得一提的是，它清楚展現了每個設計的來龍去脈。創作者可以說明自己設計的點子來自於平台上的哪些設計，使用者則可以表態他喜不喜歡、想不想收藏，以及他做出來的成品或是改造之後的會是什麼樣子。&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/shu_wei_she_ji_3.jpg&quot; style=&quot;display:block; height:338px; margin-left:auto; margin-right:auto; vertical-align:baseline; width:640px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;這個網站背後的夢想是，希望到了人人都有一台3D列印機的那一天，他們會來到這個平台，找到對他們而言很有用、很有趣、很酷的東西，下載、列印，只要花個幾分鐘，就能快速拿到實體物品。&lt;/p&gt;
+
+&lt;p&gt;ps.&lt;a href=&quot;https://sites.google.com/site/makerbottw/product-1&quot;&gt;台灣的makerbot介紹網站&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;延伸閱讀 :&amp;nbsp;&lt;a href=&quot;http://opendesignnow.org/index.php/case/thingiverse-zach-smith/&quot;&gt;http://opendesignnow.org/index.php/case/thingiverse-zach-smith/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+MakerBot連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 15 Aug 2013 14:51:20 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">691 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20130815#comments</comments>
+</item>
+<item>
+ <title>論公眾授權條款之相容性：以創用CC授權條款及GNU自由文件授權條款為例（下）</title>
+ <link>https://creativecommons.tw/in-depth/446</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;李治安、林懿萱&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Creative Commons（該組織以下簡稱「CC」）之創辦人 Lawrence Lessig 教授曾指出，造成公眾授權條款彼此不相容性之原因有二：其一是來自於不同的著作權人本身對於授權條款的選擇就有不同的偏好，有些人只希望主張姓名表示權，有些人還希望基於其原著作所改作之衍生著作亦能以相同方式授權，有些人則希望限制他人對其作品做商業使用，在不同類型的創用 CC 授權條款之間，所存在的不相容問題，即是屬於因為使用者偏好不同所造成；其二則是因為授權條款本身之設計所造成，有時內容類似或目的相同之授權條款會被設計成彼此不相容，如創用CC「姓名標示-相同方式分享」與 GFDL 之例，若兩種授權條款皆要求改作後之衍生著作須以相同之授權方式釋出，則使用該兩種授權條款所釋出之內容自無交互使用流通之可能。&lt;/p&gt;
+
+&lt;p&gt;Lessig 認為，對於上述第一種原因所導致之授權條款不相容性，或可透過對於授權人之宣導與教育稍微舒緩，但由於每個人的偏好不同，因此難以將個人所選擇授權條款之差異消弭於無形，不過此種不相容至少可反映著作權人對其著作控制偏好及需求之差異。但第二種導致授權條款不相容之原因，則純粹是因為原有授權條款之設計不良，因而導致大眾可利用的資源被不同的授權條款割裂，此種不相容之存在，不但不具任何功能，而且阻礙了自由文化運動之推展及資訊之流通使用&lt;strong&gt;[註一]&lt;/strong&gt;。事實上，前述 GFDL 及創用 CC「姓名標示-相同方式分享」授權條款之精神與其所欲保護的核心自由，其實是一樣的&lt;strong&gt;[註二]&lt;/strong&gt;，如果因為著作權人選擇不同授權條款而阻礙了內容的再利用，實有違該等授權條款之設計目的。再者，對原本選擇該等授權條款之授權人而言，他們很可能並不樂見因為選擇了特定的授權條款，反而削弱了作品被再利用的機會。&lt;/p&gt;
+
+&lt;h3&gt;授權條款不相容的解決之道&lt;/h3&gt;
+
+&lt;p&gt;針對上述因授權條款設計問題導致之不相容問題，Lessig 認為解決之道在於肯定不同授權條款相互差異的同時，應將不同的授權條款標準化(standardization)，在該等授權條款中加入相容性條款(compatibility clause)，允許內容利用者可藉其他類似或相當的授權條款釋出內容&lt;strong&gt;[註三]&lt;/strong&gt;。換言之，解決公眾授權條款不相容性之方法在於促使不同的各授權條款展開對話與連結。&lt;/p&gt;
+
+&lt;p&gt;事實上，CC 已經開始促成不同授權條款間之相容性，創用 CC 授權條款3.0版新增了「Creative Commons 相容授權條款」(Creative Commons Compatible License)&lt;strong&gt;[註四]&lt;/strong&gt;的規範。只要經 CC 認可、實質上與創用 CC 授權條款相當者，則改用作品不受限於僅可適用和原作品相同的授權條款釋出，但至今 CC 尚未認可任何一種授權與創用 CC 授權條款相容&lt;strong&gt;[註五]&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;負責營運維基百科的維基媒體基金會(Wikimedia Foundation)自2007年起也開始處理授權相容性之問題，該基金會之董事會開會時曾討論社群對於（GFDL 和創用 CC「姓名標示-相同方式分享」）兩種授權條款不相容之疑慮，並決議要求 GFDL 修正，以容許如維基百科及其他大型協力發展、開放眾人編輯的 wiki 計畫，能有多一種選擇，使用創用 CC「姓名標示-相同方式分享」授權條款3.0版或後續版本。自由軟體基金會在2008年11月3日推出了微幅修改的1.3版 GFDL &lt;strong&gt;[註六]&lt;/strong&gt;，依據該版本之授權條款，凡是以 GFDL 授權釋出之「大型多作者協力網站」(Massive Multiauthor Collaboration Site)內容，均可以採用創用 CC「姓名標示-相同方式分享」之授權條款再授權釋出，但只能在特定的時間限制下進行（該協力網站上內容首次發佈時需係採 GFDL、且該等內容需是在2008年11月1日之前即被納入(incorporate)該協力網站，此外，再授權的內容只能在2009年8月1日之前於原網站發布）。&lt;/p&gt;
+
+&lt;p&gt;我們認為，在自由文化運動發展的過程中，創用 CC 授權條款及 GFDL 的並存某種程度與資訊產業中的標準競爭(standard competition)頗為類似，雖然在資訊產業中，標準所指涉的是特定的技術，但是對使用者而言，選用特定的授權條款與購買特定的技術產品相同，都必須面臨未來改變心意時所須考量的轉換成本(switching costs)及與其他產品或內容相容性的問題；再者，如果將兩種授權條款當作彼此競爭的標準，則該等競爭將有助於授權條款的改良。&lt;/p&gt;
+
+&lt;p&gt;具體言之，參與自由文化運動的創作者在選擇特定授權條款釋出其作品時，其考量因素亦類似於標準競爭過程中的消費者，消費者通常會選擇購買較多人使用的產品，加入較大規模的網路，以尋求相容於最大的產品市場，此即為使用者越多，市場力量即越強大的網路效應(network effect)或網路外部性(network externality)。如果把創用 CC 及 GFDL 兩種授權條款當作不同的網路，則創作者也會考慮二者中哪一個網路規模較大，因為採用愈多人使用的授權條款，即表示使用者的作品能與愈多的其他作品相容，進而愈有機會成為其他自由文化運動參與者的創作素材。&lt;/p&gt;
+
+&lt;p&gt;回到創用 CC 與 GFDL 的相容性問題，如果兩者的實質差異並不影響創作者關於作品釋出的價值抉擇及個別需求，則無論從自由文化運動集中力量推廣理念的角度而言，抑或是從創作者求取其作品被混用或其他再使用之最大可能性而言，創作者都應選擇一個較多人採用的授權條款。再者，將自由文化社群所採用的授權條款單純化還有一個好處，就是當未來授權條款發生其他問題而須修改時，可由原草擬條款的組織（如 CC 或自由軟體基金會）統籌辦理單一授權條款、凝聚共識，避免不同組織間協商所產生的交易成本。&lt;/p&gt;
+
+&lt;p&gt;維基百科於2009年起已改採創用 CC 與 GFDL 雙重授權方式&lt;strong&gt;[註七]&lt;/strong&gt;，此舉對於參與自由文化運動的創作者而言，實具指標意義，因為這個改變已使維基百科的大量內容轉往 CC 授權，進而提升創作者選用 CC 授權條款的誘因；再者，如前所述，由於 GFDL 與創用 CC 授權條款不同之處，在於前者係針對軟體說明書所設計，而後者則是針對一般創作內容，因此後者恐較符合一般數位創作者之需求。準此，本文以為，就長期觀點而言，創用 CC 授權條款有相當的可能逐漸在自由文化運動中佔有上風，如果採用該授權條款者能在自由文化運動中超過臨界多數(critical mass)，則授權不相容之問題亦將自然解決。&lt;/p&gt;
+
+&lt;h3&gt;結語&lt;/h3&gt;
+
+&lt;p&gt;自由文化運動的目的原本在於匯集擴大可供公眾創作使用的分享資訊，但是彼此不相容的各授權條款卻將該等分享資訊不必要的割裂。GFDL 1.3版和創用 CC 授權條款3.0版雖已分別處理了相容性問題，作為推動彼此相容之起點，但如本文所述，因 GFDL 相容條款設有時間的限制，就達成完全相容之理想而言，上述處理方式仍有其侷限性，未來在發布更新版本之授權條款時，GFDL 與創用CC授權仍有空間往更高程度的相容性理想邁進。就自由文化運動之近來發展及長期觀點而言，本文基於網路外部性、組織間的交易成本及授權條款實用性等理由，認為創用 CC 授權條款有相當程度的可能在未來取得臨界多數，這也是自由文化社群以自發力量解決授權不相容問題的方法之一。&lt;/p&gt;
+
+&lt;p&gt;如果授權相容性之理想可以達成，則自由文化運動的推動可謂向前邁進一大步，授權內容不會因為原授權人對授權條款的選擇而喪失其他被再利用的機會，主要的開放內容計畫之間亦不會互相孤立；此外，開放內容如果可在不同的授權條款間移動，則亦可藉由市場機制呈現出不同授權條款之優缺點，理論上授權內容最終會以最佳的授權條款釋出，如此也可為開放內容的社群提供一個更穩定的授權基礎設施。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[註一]&lt;/strong&gt; Lawrence Lessig, Re-crafting a Public Domain, 18 YALE J.L. &amp;amp; HUMAN. 56, 77-78 (2006)&lt;br /&gt;
+&lt;strong&gt;[註二]&lt;/strong&gt; Lawrence Lessig, Re-crafting a Public Domain, 18 YALE J.L. &amp;amp; HUMAN. 56, 77-78 (2006)&lt;br /&gt;
+&lt;strong&gt;[註三]&lt;/strong&gt; Id. at 77.&lt;br /&gt;
+&lt;strong&gt;[註四]&lt;/strong&gt; 創用 CC 六種核心授權中，僅「姓名標示-相同方式分享」此一授權條款開放與其他非創用 CC 授權條款體系相容。依據該授權條款第 1 條第 c 項規定，「Creative Commons相容授權條款」指， &lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/compatiblelicenses&quot;&gt;http://creativecommons.org/compatiblelicenses&lt;/a&gt;所列經 Creative Commons 認可、實質上與本授權條款相當的授權條款，此乃因為該授權條款至少： (i) 包含和本授權條款之授權要素具有相同之目的、意義及效力之條款；及(ii)明示其所提供之衍生著作，依據本授權條款或與本授權條款具有相同授權要素的尚未本地化(unported)或其他司法管轄領域之創用CC授權條款，可再為授權。&lt;br /&gt;
+&lt;strong&gt;[註五]&lt;/strong&gt;請見&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/compatiblelicenses%EF%BC%88%E6%9C%80%E5%BE%8C%E7%80%8F%E8%A6%BD%E6%97%A5%E6%9C%9F%E8%A5%BF%E5%85%832010%E5%B9%B412%E6%9C%8828&quot;&gt;http://creativecommons.org/compatiblelicenses&lt;/a&gt;（最後瀏覽日期西元2010年12月28日）。&lt;br /&gt;
+&lt;strong&gt;[註六]&lt;/strong&gt;請見&lt;a class=&quot;newpage&quot; href=&quot;http://www.fsf.org/licensing/licenses/fdl-1.3-faq.html%EF%BC%88%E6%9C%80%E5%BE%8C%E7%80%8F%E8%A6%BD%E6%97%A5%E6%9C%9F%E8%A5%BF%E5%85%832010%E5%B9%B412%E6%9C%8828&quot;&gt;http://www.fsf.org/licensing/licenses/fdl-1.3-faq.html&lt;/a&gt;（最後瀏覽日期西元2010年12月28日）(連結失效)。&lt;br /&gt;
+&lt;strong&gt;[註七]&lt;/strong&gt;請參見林懿萱，&lt;a class=&quot;newpage&quot; href=&quot;http://www.openfoundry.org/index.php?option=com_content&amp;amp;Itemid=252&amp;amp;id=2162〈=en&amp;amp;task=view&quot;&gt;FDL 與創用 CC 授權條款相容性問題初探：從維基百科談起&lt;/a&gt;，2009年9月25日。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 28 Jan 2011 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">446 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/446#comments</comments>
+</item>
+<item>
+ <title>論公眾授權條款之相容性：以創用CC授權條款及GNU自由文件授權條款為例（上）</title>
+ <link>https://creativecommons.tw/in-depth/444</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;李治安、林懿萱[註]&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;span style=&quot;line-height:1.6&quot;&gt;近年來自由文化運動(free culture movement)在著作權法學界及文化創意產業受到廣泛的重視，該運動之落實與具體化，其實是仰賴一系列不同的公眾授權條款。自由文化運動之推動者及支持者多認為，公眾授權條款對該運動實具有舉足輕重之影響力；但該等條款並非促進資訊無遠弗屆、完全分享的萬靈丹。事實上，由於公眾授權條款不只一種，因此多種不同授權條款的並存產生了彼此不相容之問題。&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;本文以當今最重要之兩種內容公眾授權機制—創用 CC 授權(Creative Commons Licenses)及 GNU 自由文件授權(GNU Free Documentation License, GFDL 或簡稱為 FDL)—為中心，探討自由文化社群中所發生之公眾授權條款不相容之問題，以及社群組織所發展的解決之道。本文全文已發表于2010年12月出刊的《科技法學評論》第七卷第二期，為了方便《創用CC電子報》的讀者閱讀，在此分上、下兩期連載全文的精簡版。註釋和書目參考資料等，煩請查閱全文。&lt;/p&gt;
+
+&lt;h3&gt;自由文化運動與公眾授權條款&lt;/h3&gt;
+
+&lt;p&gt;近年來許多論者開始質疑著作權保護範圍的逐漸擴張是否具有正當性及必要性，因而形成了所謂自由文化運動，自由文化運動之目的在於建立一塊無須許可(permission free)、也無須律師(lawyer free)的資訊領域，使一般創作人有選取創作素材、而無庸擔心因侵害著作權而被訴的自由。而所謂的「自由」則是指文化的發展不再只被少數的媒體集團所壟斷，任何人都有藉由創作活動形塑當代文化的自由。&lt;/p&gt;
+
+&lt;p&gt;除了協力創作以外，自由文化運動的支持者亦相當鍾情於推廣重新混用的創作方式，他們認為科技發展已使得文化創作的資源相當程度地民主化；現在一般人不但可使用網際網路快速傳遞資訊或與他人協力，也可利用數位科技從事業餘文化創作。&lt;/p&gt;
+
+&lt;p&gt;雖然數位科技降低了一般人從事重新混用創作的技術成本，但是著作權法對於業餘創作人所課予的法律成本卻未相對降低，創作人一旦利用既存的他人著作，則須擔負著作權侵權的法律責任，對有意從事新混用創作的業餘創作者而言，會產生相當的嚇阻作用。縱使創作人願意尋求原作者的授權，該等創作人亦可能因為尋找著作權人、委託律師及相關談判所衍生的龐大交易成本，而望之卻步。&lt;/p&gt;
+
+&lt;p&gt;為了降低上述著作權法對於創作人所帶來的法律成本，如創用CC等公眾授權條款應蘊而生，該等授權條款一方面可幫助著作權人界定其欲開放他人使用其著作之範圍，一方面也使著作之利用人知悉，哪些著作、在符合何種條件下得用以從事衍生著作的創作或重新混用。&lt;/p&gt;
+
+&lt;h3&gt;創用CC授權條款與GFDL之不相容問題&lt;/h3&gt;
+
+&lt;p&gt;授權的不相容阻礙了使用不同公眾授權條款的創作者間的創作分享，以 &lt;a class=&quot;newpage&quot; href=&quot;http://wikitravel.org/en/Main_Page&quot;&gt;Wikitravel&lt;/a&gt; 為例，該計畫之內容係由全球的旅遊愛好者所協力創作，但該計畫卻未如維基百科採用GFDL授權，而是選擇創用 CC「姓名標示-相同方式分享」授權。主要原因是 Wikitravel 的個別內容條項均相當簡短，但 GFDL 卻要求散布授權內容時，須連同法律授權條款之全文一同散布。Wikitravel 的條項不但內容簡短，而且常是旅客於旅遊途中隨性撰寫，其內容累積相當篇幅後，由小型出版社出版成輕薄的小冊子，如果要求作者在散布這些簡短條項的整個過程中，都要伴隨十頁以上的法律文件，不但讓人感覺頭重腳輕，而且也造成了資訊傳輸的不經濟，而創用CC授權條款卻可容許被授權人在散布改作作品時，僅須附上原授權條款之連結網址即可，因此 Wikitravel 選擇放棄了維基百科的授權模式，採用&lt;a class=&quot;newpage&quot; href=&quot;http://wikitravel.org/shared/Copyleft&quot;&gt;創用 CC 授權&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;過去創用 CC「姓名標示-相同方式分享」授權條款及維基百科所採用的 GFDL，對於授權內容的利用有相當嚴格的規範，使用者如果就授權內容從事改作或其他利用，則所產生的衍生著作均須以相同的創用 CC「姓名標示-相同方式分享」或 GFDL 方式授權。申言之，過去由於創用 CC「姓名標示-相同方式分享」與 GFDL 兩種授權條款之不相容，上述 Wikitravel 的參與創作者，無法將維基百科上的內容合法的利用到Wikitravel計畫。類似的例子亦發生在照片分享網站 &lt;a class=&quot;newpage&quot; href=&quot;http://www.flickr.com/&quot;&gt;Flickr&lt;/a&gt; 與維基百科間的內容流通，前者網站上的照片原則上是以創用 CC「 姓名標示-相同方式分享」授權條款釋出，但由於後者是採取 GFDL 授權，因此創作者在法律上無法將 Flickr 上開放分享的照片置於維基百科的網站上。&lt;/p&gt;
+
+&lt;p&gt;諸如此類的例子，在不同的自由文化社群中均常發生，因此近年來，自由文化運動的支持者及參與者，已開始意識到授權不相容問題對該等運動所可能帶來的負面影響，並亟思解決之道。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[註]&lt;/strong&gt;李治安，現為國立政治大學法律科際整合研究所暨智慧財產研究所合聘助理教授；林懿萱，現為台灣創用 CC 計劃法律顧問，中央研究院資訊科技創新研究中心。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 07 Jan 2011 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">444 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/444#comments</comments>
+</item>
+<item>
+ <title>眾志與眾智？「禁止改作」與公民新聞的同儕生產</title>
+ <link>https://creativecommons.tw/blog/20101025</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;黃泰然&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;公視一直是台灣創用 CC 重要的推動者之一。&lt;a class=&quot;newpage&quot; href=&quot;http://cc.pts.org.tw/New_MainPage.aspx&quot;&gt;「公視創用」&lt;/a&gt;提供了許多公共電視製作的新聞影片，其影片都以創用 CC 授權釋出。&lt;a class=&quot;newpage&quot; href=&quot;http://www.peopo.org/&quot;&gt;「 PeoPo 公民新聞平台 」&lt;/a&gt;則是一個由註冊的公民記者上傳影片與撰寫報導的公民新聞的交流平台，在上傳影片與報導時，也提供了創用 CC 的授權選項。不過，很可惜的是，公視創用所有的新聞影片都是採用「姓名標示-非商業性-禁止改作」， 而 PeoPo 公民新聞平台在公民記者上傳影片時的預設選項也是「姓名標示-非商業性-禁止改作」，所以大部分的影片都是採用此種創用 CC 授權條款。&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;01.JPG&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/01.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;其實，「禁止改作」此一授權條件，與公視創用原本旨在「讓更多的衍生著作在此地分享、衍生、再分享、再衍生」&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-1&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-1&#039;)&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;的目的並不相符，也不利於創用 CC 和公民新聞原本結合的目標—-透過「眾志與眾智」由下而上的對議題發聲。&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-2&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-2&#039;)&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;這是因為「禁止改作」與「同儕生產」（peer-production）的模式是相衝突的，也與自由文化的理念不符。另外，採行「禁止改作」的疑慮，例如正確性與浮水印的問題，其實可以透過其他方式處理，不需要因此增加不必要的限制。 再從國外的例子來看，其他媒體以創用 CC 授權釋出的影片很少採用「禁止改作」的授權條件，而知名的公民新聞「全球之聲」（Global Voice），其生產模式同樣也是建立在「允許改作」，而非「禁止改作」的基礎上。本文認為公視應該考慮不包括禁止改作條件的其他創用 CC 授權條款。 以下，將詳細討論個別議題。&lt;/p&gt;
+
+&lt;h4&gt;壹、同儕生產與公民新聞&lt;/h4&gt;
+
+&lt;p&gt;「同儕生產」（peer-production）是 Yochai Benkler 提出的概念，此種生產模式與過去階層化組織的不同在於，參與者比較處於平行的關係，且可能素未謀面，其主要的生產誘因往往也不是金錢報酬&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-3&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-3&#039;)&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;。同儕生產於的經典例子是維基百科和自由軟體。兩者都是透過社群的合作，讓人們可以異時異地的共同產出一篇維基百科的條目、 或者像 Linux、 Gimp 等自由軟體。 維基百科與自由軟體的同儕生產所以可行，除了網路讓這些人得以連結與合作，以及社群的凝聚力等因素之外，授權條款（稱治理架構其實更適合）選擇得當，更是其生產模式得以運作不可或缺的要素。 維基百科原本採用的是「GNU 自由文件授權」（GNU Free Documentation Licenses）Licenses），2009年則轉換到相容的創用 CC「姓名標示-相同方式分享」，而自由軟體則大多是採用「GNU 通用公眾授權」（GNU General Public License），或者其他符合自由軟體定義的公眾授權 。 這些授權條款的共通特色之一是「允許改作」 ，其核心精神亦在此。 為了要「允許改作」，所有的自由軟體都要開放原始碼(目的碼沒「人」看得懂，其他人如何修改改善？)，改作之後的軟體，也要「相同方式分享」，允許社群的其他人繼續改作。 維基百科的情形也與此相類，沒有允許改作，同儕生產的力量就很難發生。 讓我們假設當初維基百科當初採用了「禁止改作」的授權方式，會是什麼的情況？首先，有位熱心的老師寫了一篇紫斑蝶的條目，但只有大致的介紹，另一名平日熱心生態觀察的人，在寫信取得原作者的同意後，補充了一些內容，於是這篇條目現在有了兩位共同作者，第三位作者要取得前兩位的同意，才可以透過授權的方式修改、第四位則要前面三位全部同意、第五位要四人同意…….。 很明顯地，採用這種授權條款的「維基百科」絕對不可能有今天的成就，它的條目會少得可憐，造成「反共用地悲劇」（anti-commons tragedy）。&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-4&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-4&#039;)&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;同樣地，像 PeoPo 公民新聞這樣的新聞平台，如果要透過「眾智與眾志」的公民新聞的生產，達成由下而上介入與實踐的力量，「禁止改作」的授權條件反而會妨礙其理想的實現。它讓大部分的影片一上傳之後，就不太會有人再去修改、或者和其他的影片與音樂混合，甚至剪輯到在自己影片中成為另外一篇公民新聞的一部份。另一方面，許多 PeoPo 公民新聞中的影片，往往還不是完整的報導但卻有可能是珍貴且取得困難的一手影像，其最具價值之處本來就是作為他人改作與報導的素材，但是 「禁止改作」卻妨礙了此種運用的實現。公視創用中的影片雖然是完整的報導，但因為仍不乏使用者可能只想要用其中部份的畫面或影片，&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-5&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-5&#039;)&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;「禁止改作」的限制條件，也降低了這些影片在運用上的價值。（因為在教育部全國創用 CC 諮詢中心工作之故，有些老師會向我反應他/她們對「禁止改作」的影片要運用在教材製作、 甚至擷取「部份」影片播放會有疑慮）。 簡言之，選擇「姓名標示-非商業性-禁止改作」，並不利於「同儕生產」，因此會使得公視創用與 PeoPo 公民新聞平台的發展，可能停留在在 web 1.0 的階段，只是作為個別作者典藏與出版的媒介，而不能實現 「眾智與眾志」的理想。 我想這也是熱心推動創用 CC 與公民新聞的公視所不樂見的。&lt;/p&gt;
+
+&lt;h4&gt;貳、 正確性與姓名標示的疑慮&lt;/h4&gt;
+
+&lt;p&gt;會採用或預設「姓名標示-非商業性-禁止改作」的創用 CC 授權條款，可能的顧慮是報導的「正確性」與「扭曲」的問題。 但是，同樣以維基百科為例，我們也可以發現任何人都可以匿名修改的條目，只要有適當的機制予以處理，正確性的問題並不嚴重。《科學》雜誌過去即有將維基百科與大英百科全書與科學有關的42個條目作比較，最後的結論是兩者「在正確性的差異並不特別顯著」。&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-6&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-6&#039;)&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;PeoPo 與公視創用，應該以更開放的角度來面對這個問題。 其實，與其讓作者/權利人「事前」自己決定，他人的改作與修改，是否有扭曲與正確性的問題，不如「事後」 透過同儕的與社群的公評來建立市場機制。 而這才是「自由文化」的精神所在，如果後來的創作者都要取得前人的「允准」才可以修改，不僅費時費力，也有事前內容審查的問題。 再者，與同儕生產可能產生的效益相比，即使偶有惡意扭曲之作，我們也不該因噎廢食。&lt;/p&gt;
+
+&lt;p&gt;公視創用另一個採用「姓名標示-非商業性-禁止改作」的理由，可能是考量到影片中公視創用的浮水印會被使用者以「改作」的方式移除。 但是，這層顧慮只要能清楚說明浮水印的保留是遵守「指定姓名標示方式」的條件之一即可。 如果使用者仍擅自移除浮水印，此時即等於未遵守「姓名標示」。我們不需要以「禁止改作」確保浮水印的存在，造成資源在利用上不必要的限制。&lt;/p&gt;
+
+&lt;h4&gt;參、 幾個國外的例子&lt;/h4&gt;
+
+&lt;p&gt;其實，就筆者的觀察，以荷蘭的公共廣播事業 VPRO (Vrijzinnig Protestantse Radio Omroep)為例，它在 eeuwvandestad 以創用 CC 授權釋出的&lt;a class=&quot;newpage&quot; href=&quot;http://eeuwvandestad.nl/archives/223&quot;&gt;歷史影片&lt;/a&gt;素材，少有採用「禁止改作」的例子，因為這些影片的價值即在作為剪輯使用；此外 VPRO 也將它的&lt;a class=&quot;newpage&quot; href=&quot;http://eeuwvandestad.nl/download&quot;&gt;部份紀錄片&lt;/a&gt;以創用 CC 授權釋出，絕大多數亦採「姓名標示-非商業性-相同方式分享」的方式授權。紀錄片會採用創用 CC 授權，原因是希望除了在電視之外提供更多的流通管道，而且作為公共廣播事業其亦有責任讓公眾可以盡可能的以各種方式使用其資源。&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-7&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-7&#039;)&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;02.JPG&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/02.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;另一個值得注意的案例，是總部在卡達的半島電視台 (Al Jazeera) 於2009年設立的 &lt;a class=&quot;newpage&quot; href=&quot;http://cc.aljazeera.net/&quot;&gt;Creative Commons Repository&lt;/a&gt;，雖然網站本身採用「姓名標示-非商業性-禁止改作」，但是其提供的下載的影片全部都是以創用 CC「姓名標示」的方式釋出，方便他人（包括商業媒體）改作與重製。其中有不少影片是在西方媒體無法進入的加薩地區所拍攝，相當珍貴。 這樣的授權方式有利於其影片被公眾廣為使用與知悉。不過，半島電視台另外在2009年設立的 &lt;a class=&quot;newpage&quot; href=&quot;http://blogs.aljazeera.net/&quot;&gt;Al Jazeera Blog&lt;/a&gt;，其中的報導文章採用的是「姓名標示-非商業性-禁止改作」。這可能是出自於轉貼文章時，不希望被節錄而保持完整性的考量，但是，與影片素材相較，文字報導採用「禁止改作」所造成的限制與不便，尚不太大，因為著作權僅保護文字的表達方式，而不保護其中傳達的事實與思想，所以即使禁止改作，在得悉這些資訊後，仍然可以參考其意旨而撰寫相關報導；相反地，影片如果禁止改作，不能剪輯實際的畫面，而僅能以文字敘述其中的事實，就喪失了最重要的功用。&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;03.JPG&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/03.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;其實，在&lt;a class=&quot;newpage&quot; href=&quot;http://zh.globalvoicesonline.org/hant/m&quot;&gt;全球之聲&lt;/a&gt;（Global Voice）這個部落客公民記者報導與翻譯的網路平台，採用的就是創用 CC「姓名標示」的授權條款。許多參與全球之聲公民報導的部落客，並不是第一手的報導者，而是扮演翻譯或協同翻譯的角色。如果全球之聲採用了含有 「禁止改作」的創用 CC 授權條款，其運作將會受到阻礙，這其實也透露了「禁止改作」的條件可能妨礙同儕生產的眾志與眾智實現的可能性。 全球之聲如此，作為全球之聲友好媒體的 PeoPo 公民新聞平台亦然。&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;04.JPG&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/04.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;h4&gt;肆、 未來方向的建議&lt;/h4&gt;
+
+&lt;p&gt;簡言之，我認為 PeoPo 公民新聞平台不應該將「姓名標示-非商業性-禁止改作」設為選項，而可以考慮將創用 CC「姓名標示-非商業性-相同方式分享」授權條款設為預設選項 ；「公視創用」甚至可以考慮採用「姓名標示」，讓這些影片可以更自由的流通。 就 PeoPo 公民新聞平台，因為有公民記者可能不希望其報導被作為商業使用，而「非商業性」可以避免此爭議，「相同方式分享」則可以確保改作後的影片同樣屬於共用資源。 至於公視創用，因為沒有確保生產誘因的互惠層面的問題，其考量的應該是讓資源可以被最自由的利用，因此甚至可以考慮採用創用 CC「姓名標示」的授權條款。&lt;/p&gt;
+
+&lt;blockquote&gt;本文為著作人接受中央研究院資訊科技創新研究中心台灣創用 CC 計畫「專題研究獎助計畫」的產出。本文內容不必然代表中央研究院資訊科技創新研究中心或台灣創用 CC 計畫的立場。本文的著作權利為著作人所有，且著作人（黃泰然）已同意採用創用 CC 「姓名標示」3.0 台灣版授權條款釋出。&lt;/blockquote&gt;
+
+&lt;div&gt;
+&lt;div&gt;Footnotes&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-1&#039;)&quot;&gt;1&lt;/a&gt;. 此為公視創用推動緣起的文字，參&lt;a class=&quot;newpage&quot; href=&quot;http://cc.pts.org.tw/about.html&quot;&gt;http://cc.pts.org.tw/about.html&lt;/a&gt; (last visited 2010/07/31)。&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-2&#039;)&quot;&gt;2&lt;/a&gt;. 參羅志宏，《眾智與眾志的想像：數位典藏、公民新聞與創用CC結合的可能性》，&lt;a class=&quot;newpage&quot; href=&quot;http://groups.google.com/group/cc-taiwan-newsletter/browse_thread/thread/6d02842bc6349848#&quot;&gt;創用 CC 電子報第13期&lt;/a&gt;，2007年5月。&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-3&#039;)&quot;&gt;3&lt;/a&gt;. See Generally YOCHAI BENKLER, THE WEALTH OF NETWORKS: HOW SOCIAL PRODUCTION TRANSFORM MARKETS AND FREEDOM (2006). available at &lt;a class=&quot;newpage&quot; href=&quot;http://cyber.law.harvard.edu/wealth_of_networks/Download_PDFs_of_the_book&quot;&gt;http://cyber.law.harvard.edu/wealth_of_networks/Download_PDFs_of_the_book&lt;/a&gt;.&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-4&#039;)&quot;&gt;4&lt;/a&gt;. See Generally MICHAEL HELLER, GRIDLOCK-ECONOMY: HOW TOO MUCH OWNERSHIP WRECKS MARKETS, STOPS INNOVATIONS, AND COSTS LIVES (2008)。&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-5&#039;)&quot;&gt;5&lt;/a&gt;. 因為在教育部全國創用 CC 諮詢中心工作之故，有些老師會向我反應他/她們對「禁止改作」的影片要運用在教材製作、甚至擷取「部份」影片播放會有疑慮。&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-6&#039;)&quot;&gt;6&lt;/a&gt;. Jim Gilles, “Special Report： Internet encyclopedias go head to head,” Nature, Dec 14, 2005.&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-7&#039;)&quot;&gt;7&lt;/a&gt;. See &lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/18128&quot;&gt;http://creativecommons.org/weblog/entry/18128&lt;/a&gt; (last visited 2010/07/29)&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 25 Oct 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">228 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20101025#comments</comments>
+</item>
+<item>
+ <title>從公眾授權談科學教育和研究的普及</title>
+ <link>https://creativecommons.tw/in-depth/438</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;莊庭瑞、周文茵&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;（本文截錄自第八屆兩岸三院資訊技術交流與數位資源共享研討會會議論文集內容）&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4&gt;科學的普及傳播&lt;/h4&gt;
+
+&lt;p&gt;科學教育正從菁英教育轉向公眾教育，並逐漸受到各界的關注與肯定，也致使科學傳播的方式更加活潑多元。科學消息的傳播是科學知識普及的重要關鍵，科學傳播的意涵幾乎等同於科學普及。因此，如何正確、深入、廣泛、快速且有效地傳播，成為科普教育的重要議題。而科普不僅由傳統科學知識推廣，轉變成為全民科學素養的提升，也融入關懷與平等的教育意涵，將縮小城鄉差距納入規劃思考。&lt;/p&gt;
+
+&lt;p&gt;科普知識的傳播，除了在課堂教學的內容外，也或透過報章雜誌的科技新知、科普知識的翻譯、科學雜誌的出版、科普節目的製播，以及如科普研習營、科學特展、科普講座、科學競賽、科學季等科普活動等不同形式呈現。而在科學知識的傳佈上，教案素材、數據資料、實驗方法、以及軟硬體教具設計的廣泛流通使用，分外重要。&lt;/p&gt;
+
+&lt;p&gt;在網路基礎建設成熟的今日，科學研究與科學教育的資訊交換與累積，似乎變得更容易、迅速與多樣。然而現行著作權體制對於著作的散布使用，卻有嚴厲的限制：在未獲得著作權人的事先許可之前，除非確為合理使用，不得使用其著作。為求著作的廣泛流通，著作權人對公眾事先、明確的著作使用授權聲明，已逐漸普及。目前常見的公眾授權條款，在軟體程式碼方面有 「GNU一般公眾授權條款」(GNU General Public License, 簡稱GPL)，在一般著作方面則有「創用CC授權條款」(Creative Commons Licenses)。&lt;/p&gt;
+
+&lt;h4&gt;科普教育網站與公眾授權條款&lt;/h4&gt;
+
+&lt;p&gt;科學教育與數位資源網站使用公眾授權條款的趨勢，在台灣逐漸普見。例如「數位典藏與數位學習科技計畫」的聯合目錄，就將計畫中完成的魚、貝、植物等數位照片以創用 CC 授權釋出；而「&lt;a class=&quot;newpage&quot; href=&quot;http://learning.froghome.org/&quot;&gt;蛙蛙世界學習網&lt;/a&gt;」則提供許多青蛙的相關知識。教育部也透過&lt;a class=&quot;newpage&quot; href=&quot;http://isp.moe.edu.tw/&quot;&gt;教育部數位教學資源入口網&lt;/a&gt; ，方便教師們將教案置於平台上，彼此交流，而不用擔心侵權的問題。&lt;/p&gt;
+
+&lt;p&gt;在國外，&lt;a class=&quot;newpage&quot; href=&quot;http://phet.colorado.edu/&quot;&gt;PhET&lt;/a&gt; 則是美國的一個成功例子。這套軟體由諾貝爾獎得主 Carl Wieman 於2002年在美國科羅拉多大學物理系所發起的計畫逐步建立。這套互動式模擬教學軟體，對中學、大學教師們講解科學概念相當有幫助。教師們可以藉由這套軟體，講解如化學反應平衡或是量子力學等艱深的觀念，亦可以當作虛擬實驗，以取代危險或是昂貴的實驗器材（如雷射或核分裂的裝置）。這套軟體的特色之一，在於它整套都是採用公眾授權方式釋出。可以直接執行的模擬程式（執行檔）採用「創用 CC 授權條款」或是「GNU一般公眾授權條款」，而其原始碼採「GNU一般公眾授權條款」釋出。因其採用公眾授權，方便使用者複製、散布、轉譯，透過大眾的協力，目前已經有多種語言版本可以使用，&lt;a class=&quot;newpage&quot; href=&quot;http://phet.colorado.edu/en/simulations/translated/zh_TW&quot;&gt;華語版本&lt;/a&gt;在台灣則非常受到歡迎。&lt;/p&gt;
+
+&lt;h4&gt;大眾參與的科學教育與研究&lt;/h4&gt;
+
+&lt;p&gt;在研究的方法和程序上，科學的普及化，還可以探究大眾參與的層面。也就是以大眾共同參與某項研究所需特定工作的方式，加快研究工作的完成，或是讓研究工作更周延。這類大眾參與的研究項目，以美國加州大學柏克萊校區發起的 &lt;a class=&quot;newpage&quot; href=&quot;http://setiathome.berkeley.edu/&quot;&gt;SETI@HOME&lt;/a&gt; 為濫觴。這項工作號召網際網路上的參與者，提供他們個人電腦的計算資源，共同分析電波望遠鏡的觀測資料，以尋求可能的外太空智慧跡象。&lt;/p&gt;
+
+&lt;p&gt;除了提供各自的計算資源，以協助研究工作的進行，大眾自身也可投入研究資料的分類、分析工作。這方面的新近例子是 &lt;a class=&quot;newpage&quot; href=&quot;http://www.galaxyzoo.org/&quot;&gt;Galaxy Zoo&lt;/a&gt; （星系動物園）。這項研究使用 &lt;a class=&quot;newpage&quot; href=&quot;http://www.sdss.org/&quot;&gt;Sloan Digital Sky Survey&lt;/a&gt; （史隆數位天空觀測）的資料，請大眾就研究人員所整理出的巨量星系影像，在網站上一一進行分類。透過眾人的協助，讓星系相關的研究假設，得到進一步檢驗。在這同時，經由大眾的觀察辨別，也因而發現前所未見的天體類型。&lt;/p&gt;
+
+&lt;p&gt;另外，百科全書式的條目整理和解說，是散布科學知識的常見方法。以 Wiki （維基）共筆工具，眾人合力線上編寫眾人所需的知識性、事實性資訊，也是參與式的科普知識生產方式。這方面則屬維基媒體基金會所維運管理的 &lt;a class=&quot;newpage&quot; href=&quot;http://www.wikipedia.org/&quot;&gt;Wikipedia&lt;/a&gt; （維基百科）最為著名。前述星系動物園和維基百科都使用創用 CC 授權條款，來散布網站上眾人所創建的成果。&lt;/p&gt;
+
+&lt;p&gt;在高等教育的課程教案與教材分享上， &lt;a class=&quot;newpage&quot; href=&quot;http://ocw.mit.edu/index.htm&quot;&gt;MIT OpenCourseWare&lt;/a&gt;（麻省理工學院的「開放式課程網頁」）首開風氣之先，鼓勵該校教員將授課內容以創用 CC 授權方式，發佈于該校專屬網站，方便眾人轉載散布使用。同時 &lt;a class=&quot;newpage&quot; href=&quot;http://p2pu.org/&quot;&gt;Peer 2 Peer University&lt;/a&gt; （同儕對同儕大學）這項計畫，更是以草根的力量，進行大學科目的教材散布以及數位學習的學分認證。這項計畫同樣採用創用 CC 授權，以確保該網站的資料，可以持續被眾人使用和更新。&lt;/p&gt;
+
+&lt;p&gt;現代科學技術發展十分迅速，影響範疇廣達我們生活的各個層面；而整體科技創新能力的提升，將有賴公眾科學素質的提高。科學教育的普及，更深遠地來說，其實攸關國家競爭力。世界經濟論壇（WEF）的全球競爭力指標中，「效率增強」與「創新與成熟因素」都是與科學技術甚為相關的評比項目；而推動契合國家發展需要的科學教育工作，也儼然成為全球各國共同思維。如：美國科學促進會 (American Association for the Advancement of Science) 提出「2061計畫」，以改革中小學科學教育課程；英國政府也在2000年公布《國家科學教育課程標準》；澳洲則推動「全國中小學科學計畫」。大眾參與的科學教育與研究範例，以上僅列舉一二，其間各式樣態推陳出新，目不暇給，這方面台灣仍需要快步趕上。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 01 Oct 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">438 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/438#comments</comments>
+</item>
+<item>
+ <title>科學教學的開放源碼模擬軟體：PhET</title>
+ <link>https://creativecommons.tw/blog/20100329</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;江易原 I-Yuan Chiang&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;（本文以 CC0 釋出）&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://phet.colorado.edu/index.php&quot;&gt;PhET&lt;/a&gt; 是一項由諾貝爾獎得主 Carl Wieman 於 &lt;a class=&quot;newpage&quot; href=&quot;http://www.colorado.edu/news/releases/2006/194.html&quot;&gt;2002 年在美國科羅拉多大學 (Boulder) 物理系所發起的計畫&lt;/a&gt; 。&lt;/p&gt;
+
+&lt;p&gt;到今日，PhET 已經有&lt;a class=&quot;newpage&quot; href=&quot;http://phet.colorado.edu/simulations/translations.php&quot;&gt;多種語言版本&lt;/a&gt;可以使用。這些互動式的模擬教學軟體對老師講解科學概念很有幫助。老師們可以藉由 PhET ，講解如化學反應平衡或是量子力學等艱深的觀念，亦可以當作虛擬實驗，以取代危險或是昂貴的實驗器材 (如雷射或核分裂的裝置)。不但如此，PhET 最棒的特色之一是採用公眾授權方式釋出。可以直接執行的模擬程式（執行檔）採 CC BY 或是 GNU GPL 授權，而其&lt;a class=&quot;newpage&quot; href=&quot;http://phet.colorado.edu/about/source-code.php&quot;&gt;原始碼&lt;/a&gt;採 GNU GPL 授權 (更多授權細節請參考 PhET &lt;a class=&quot;newpage&quot; href=&quot;http://phet.colorado.edu/about/licensing.php&quot;&gt;授權方式&lt;/a&gt;)。PhET 不限制商業用途，所以更有廣泛的應用可能。&lt;/p&gt;
+
+&lt;p&gt;2008 年時我與一些同好跟 PhET 團隊聯繫，開始進行翻譯的工作。在 2009 年 8 月完成了翻譯，並開始嘗試導入到中小學的課程。除了可以到到 PhET 官方網頁下載在地化的 PhET 程式之外，&lt;a class=&quot;newpage&quot; href=&quot;http://ossacc.moe.edu.tw/uploads/datafile/ezgo7_win/ezgo_win/_phet.html&quot;&gt;中文化的 PhET 網頁&lt;/a&gt;及相關套件已經整合到 &lt;a class=&quot;newpage&quot; href=&quot;http://news.ossacc.org/EzGo7/ezgo7_linux/index.html&quot;&gt;Ezgo7 光碟&lt;/a&gt; (Ezgo7 是以 Linux 系統為基礎、可直接開機使用的教育軟體光碟，其中包含許多教學使用的素材和軟體)。Ezgo7 由台灣教育部補助、中華民國軟體自由協會所製作，可能是眾多 Linux 套件中，第一個把教材整合到光碟的。這樣的好處是可以提供一個完整功能的教育光碟，而且不用擔心違反著作權法，因為其中收錄的套件及教材都是公眾授權的自由軟體和內容。&lt;/p&gt;
+
+&lt;p&gt;我們收到很多使用 PhET 的正面反應與建議，很多老師肯定很 PhET，特別是 PhET 可以免費取得，又不用擔心智慧財產權問題。但是有些小學老師認為 PhET 比較適合中學及大學的課程，只有部份主題才能用在小學的課程。的確，在完成軟體介面的翻譯後，我們該想想如何進行客製化的工作。許多人目前對這個課題都感到興趣，討論尋求各種合作的方式，來製作適合小學的教學主題軟體。&lt;a class=&quot;newpage&quot; href=&quot;http://ossacc.moe.edu.tw/&quot;&gt;請加入我們！&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;(This text is released under CC0.)&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://phet.colorado.edu/index.php&quot;&gt;PhET&lt;/a&gt; was launched by &lt;a class=&quot;newpage&quot; href=&quot;http://www.colorado.edu/news/releases/2006/194.html&quot;&gt;Nobel laureate Carl Wieman in the Department of Physics, University of Colorado at Boulder, 2002&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To this date, PhET are available in &lt;a class=&quot;newpage&quot; href=&quot;http://phet.colorado.edu/simulations/translations.php&quot;&gt;many languages&lt;/a&gt;. The interactive simulations are quite useful for learning science. Teachers can use PhET to demonstrate difficult concepts (like chemical reactions or quantum mechanics), or to run virtual experiments instead of relying on dangerous or expensive equipments (like lasers or devices for nuclear fission). In addition, the best part about PhET is that it is open source. The executable is released under either CC BY or GNU GPL, and the &lt;a class=&quot;newpage&quot; href=&quot;http://phet.colorado.edu/about/source-code.php&quot;&gt;source code&lt;/a&gt; is licensed under GNU GPL (please check the PhET &lt;a class=&quot;newpage&quot; href=&quot;http://phet.colorado.edu/about/licensing.php&quot;&gt;licensing options&lt;/a&gt; for details). PhET does not have restriction on commercial use, thus it can be used widely.&lt;/p&gt;
+
+&lt;p&gt;In 2008, several colleagues and I contacted the PhET team, and started to translate about 80 simulations into the &lt;a class=&quot;newpage&quot; href=&quot;http://ossacc.moe.edu.tw/uploads/datafile/ezgo7_win/ezgo_win/_phet.html&quot;&gt;traditional Chinese language&lt;/a&gt;. In August 2009, the translations were mostly done and we tried to introduce localized versions of PhET to K-12 education in Taiwan. Besides downloading directly from the PhET sites, the simulation packages are also integrated into &lt;a class=&quot;newpage&quot; href=&quot;http://news.ossacc.org/EzGo7/ezgo7_linux/index.html&quot;&gt;Ezgo7&lt;/a&gt;, a Linux-based Live CD enhanced with educational materials and applications. Ezgo7, which is supported by the Ministry of Education in Taiwan and produced by the Software Liberty Association of Taiwan, could be the first Linux distro that incorporates publicly licensed educational materials (e.g. PhET) into the operating system. The advantage of such Live CD is its all-in-one nature, which can be easily used in education. As all in the CD are free software packages and contents, surely there is no risk for any possible copyright infringement. They are all released under free licenses.&lt;/p&gt;
+
+&lt;p&gt;Many positive feedbacks and suggestions about using PhET are received. Many teachers really appreciate the great work, especially the CD with educational contents is free of charge and can be freely copied and used. However, some teachers of elementary schools feel that PhET is more suitable to high school and college courses; only some simulations can be employed at their classes. In deed, besides localization, one need also to consider &quot;customization&quot; for individual courses and classes. Many more people are now involved, and are in discussion on how to cooperate to customize packages for elementary schools. &lt;a class=&quot;newpage&quot; href=&quot;http://ossacc.moe.edu.tw/&quot;&gt;Join us!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+Ezgo7光碟連結失效&lt;br /&gt;
+link of Ezgo7 is not found.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 29 Mar 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">198 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20100329#comments</comments>
+</item>
+<item>
+ <title>概論FDL與創用CC授權條款之不同</title>
+ <link>https://creativecommons.tw/in-depth/422</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林懿萱&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;創用CC授權條款於2002年底推出之後，陸續更新了幾個版本，而2007年推出3.0改版的重點之一，是納入相容性的架構&lt;strong&gt;[註1]&lt;/strong&gt;。無獨有偶的，同樣適用於文字性創作的GNU Free Documentation License （以下簡稱 FDL），於2008年底推出1.3版時，相容性也是改版重點；即有條件的開放與創用CC授權條款相容&lt;strong&gt;[註2]&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;創用CC授權條款與FDL都適用於內容創作，在適用客體相近的情況下，授權相容性問題引起愈來愈多的關注，許多人也因此有了疑惑，究竟選用FDL或創用CC授權何者比較適合？&lt;/p&gt;
+
+&lt;p&gt;以下本文試著比較兩種授權條款的主要不同點，期協助使用者釐清概念，以擇出最合己用的授權條款。又因FDL允許商業性利用及改作，要求衍生自原作品的修改作品(Modified Version of the Document)須採用與原作品相同的授權條款，且必須表彰著作作者，與創用CC六種授權條款中的「姓名標示-相同方式分享」此一授權條款最相近，因此本文將以此一特定授權條款的3.0版與 FDL 1.3 版做對照比較。&lt;/p&gt;
+
+&lt;p&gt;一、任何文學或藝術創作，如書籍、小手冊、甚至繪畫、攝影著作、戲劇或舞蹈著作等都可依據創用CC授權條款提供大眾利用。而FDL原是補足適用於自由軟體的GNU General Public License而來，使自由軟體相關的說明文件有「文件」適用的授權條款，因此適用範圍相對較創用CC授權來的窄，僅適用於文字性作品。&lt;/p&gt;
+
+&lt;p&gt;二、創用CC「姓名標示-相同方式分享」授權條款，允許被授權人重製、散布、修改、為商業目的使用採創用CC授權的著作（以下簡稱本著作）外，還允許公開演播(publicly perform)本著作或基於本著作而來的改用作品(Adaptation)，但禁止對本著作再授權&lt;strong&gt;[註3]&lt;/strong&gt;。FDL 則允許被授權人重製、散布、改作、再授權、為商業目的使用採FDL授權的文件（以下簡稱本文件），另外也允許出租和公開展示(publicly display)本文件的重製物&lt;strong&gt;[註4]&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;三、創用CC「姓名標示-相同方式分享」3.0授權條款，允許改用作品可採用與原著作相同的授權條款（或其後續版本），或與該授權條款具有相同授權要素的（3.0或後續版本的）尚未本地化或任一司法管轄領域的授權條款。FDL則相對嚴格，修改作品必須採用和原作品一模一樣的授權條款，被授權人才能重製及散布該修改作品。&lt;/p&gt;
+
+&lt;p&gt;四、創用CC授權條款要求，當散布本著作、改用作品或彙編(Collection)時，除非收到授權人的移除表彰的通知，否則必須表彰本著作創作者（即原始著作人）的姓名或筆名，且若原始著作人或本著作的授權人指定第三人（例如贊助機構、期刊）為姓名標示對象，則應提供之。FDL則要求在修改作品中，除非獲得原作品作者的免除，否則須列出至少五位原作品的主要作者，若少於五位，則需列出全部主要作者，且應列明該修改作品的作者。除此姓名標示目的外，原作品作者並未授權被授權人得使用其姓名作為對修改作品的背書。&lt;/p&gt;
+
+&lt;p&gt;五、創用CC授權條款規定，除非事先取得原始著作人、授權人或第三人之姓名標示對象的同意，否則被授權人不得暗示或主張，其本人或其對原著作的使用，與原始著作人、授權人或第三人之姓名標示對象間存在任何關連或有贊助或背書關係。FDL則要求修改作品中必須刪除原作品「背書」(Endorsements)標題的章節，但可增加對於修改作品的背書，例如該修改作品已經同儕審閱(peer review)的聲明。&lt;/p&gt;
+
+&lt;p&gt;六、創用CC授權條款規定，當被授權人違反任一款項，則授權條款所授予的權利將自動終止，且未設有授權自動恢復的機制。FDL規定，當被授權人非依授權條款所定方式使用本文件時，所獲授權將自動終止。1.3版新增授權恢復的規定，只要被授權人停止所有違反FDL規定的行為，則自某一特定著作權人得到的授權，可重新恢復&lt;strong&gt;[註5]&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;七、當新版創用CC授權條款推出，並不會自動適用於採舊版授權條款的著作上，若要一著作同時適用不同版本的創用CC授權條款，則可依循多重授權模式釋出&lt;strong&gt;[註6]&lt;/strong&gt;。當作品採用FDL時，可指定或不指定版本&lt;strong&gt;[註7]&lt;/strong&gt;；1.3 版另增設了代理人(proxy)機制，授權人可選擇一代理人為其決定，其以 FDL 授權的作品，未來以哪一版本釋出。&lt;/p&gt;
+
+&lt;p&gt;CC 授權強調在地化，因此 Creative Commons 設有Creative Commons International 計畫，專門推動創用CC授權條款各司法領域版本的產生，以我國情形為例，即是將尚未本地化( unported ) 創用CC授權條款翻譯成華文外，並配合我國著作權及相關法規作最小範圍的必要調整&lt;strong&gt;[註8]&lt;/strong&gt;。FDL 原係為搭配自由軟體適用的 GNU General Public License而來，而在資訊領域中並沒有國界之分，因此FDL強調國際通用，授權條款雖可視需要產生翻譯版本，但當兩者不一致時，須以英文原文版本為準。&lt;/p&gt;
+
+&lt;p&gt;此外，創用CC授權條款由四種授權標章(Commons Deed)排列組合出六種授權條款&lt;strong&gt;[註9]&lt;/strong&gt;。除本文談論到的「姓名標示-相同方式分享」授權條款外，使用者還可依據三項標準：是否開放作品被使用於商業目的、是否允許他人修改自己的作品、若同意他人改作，是否要求衍生作品必須適用和原作品相同或類似的授權條款，來選擇合適的授權條款；而FDL則沒有授權標章的設計，也不得自由排列組合成其他類型的授權條款，且相較之下，FDL在用語不若創用CC授權條款精確，用意在於保留給各國司法機關有彈性解釋空間。這些都是除上述差異比較外，兩種授權條款的基本的不同。&lt;/p&gt;
+
+&lt;p&gt;若是使用者對於創用CC授權或FDL有所偏好，建議可以根據上面兩者的差異分析為自己的作品選擇適合的授權條款；若是沒有特別偏好，又想要自己的作品可以被廣泛地利用，則可以參考維基百科(Wikipedia)的雙重授權模式，如此則可兼容並蓄，作品在創用CC授權或FDL的授權體系中都能相容。&lt;/p&gt;
+
+&lt;h4&gt;註釋：&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;[註1]：&lt;/strong&gt;創用 CC 六種核心授權中，僅「姓名標示-相同方式分享」此一授權條款開放與其他非創用CC授權條款體系相容。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[註2]：&lt;/strong&gt;FDL 1.3 版在第11條「再授權」（Relicensing） 處理與創用CC授權的相容性問題，若一採用FDL 1.3版的著作首次發佈於某一wiki之外的其他地方，之後在西元2008年11月1日前，該著作一部或全部被放入該wiki中，則該著作可以使用FDL 1.3 版也可以使用CC「姓名標示-相同方式分享」3.0版或後續版本授權條款釋出。除前述期限之外，FDL 1.3 版第11條尚訂有另一期限，即允許和創用CC「姓名標示-相同方式分享」3.0版雙重授權的期間只到2009年8月1日止。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[註3]：&lt;/strong&gt;“Publicly Perform”是3.0版新增的定義名詞，若按照其原文字義，將只包含公開口述、公開傳輸、公開演出及公開播送。但因創用CC授權條款可因地制宜的特性，在3.0版本地化的過程中，將「公開演播」定義作了調整，使其包含但不限於我國著作權法所定義的公開展示、公開演出、公開上映、公開播送、公開傳輸及公開口述等。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[註4]：&lt;/strong&gt;依據FDL第2條之規定，被授權人可出借(lend)重製物，並可對重製物收取報償(compensation)，故本文將“lend”推定為類同我國著作權法「出租」概念。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[註5]：&lt;/strong&gt;授權的恢復分為暫時性恢復及永久恢復，只要停止違反FDL規定的行為，則授權即可暫時性恢復，除非被授權人所利用本文件的著作權人明確、且終局的終止對該被授權人的授權；若著作權人自被授權人停止違反FDL規定行為起的六十日內，未以合理方式通知該被授權人其違反規定的事實，則該被授權人將可永久恢復FDL的授權。此外，若被授權人是首次收到某一特定著作權人關於違反FDL規定的通知，且該被授權人在收到通知後的三十日內，即矯正其行為時，則FDL授權亦可永久恢復。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[註6]：&lt;/strong&gt;創用CC授權條款開放改用作品得採用與原著作相同的授權條款或其後續版本外，也可選擇適用與該特定授權條款具有相同授權要素的3.0或後續版本的尚未本地化或任一司法管轄領域的創用CC授權條款，但並不允許適用之前的版本（如2.5或2.0版）。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[註7]：&lt;/strong&gt;若授權人指定適用某特定版本（如 1.3 版）或其後續版本，被授權人得遵循該特定版本授權條款的規定，或選擇適用該特定授權條款的後續版本；當作品未指定適用的版本時，被授權人可選擇適用自由軟體基金會曾發行過的任一版本的FDL，包含先前或後續版本。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[註8]：&lt;/strong&gt;創用CC授權條款2.5版及之前版本是奠基於美國著作權法而來，自3.0版以下始區分「尚未本地化版」與「美國版」。3.0 尚未本地化版係奠基於伯恩公約、羅馬公約、世界智慧財產權組織著作權條約(WCT)及保護表演人及錄音物製作人權利之條約(WPPT)等國際智慧財產協定，以符合參與CC國際化計畫的眾多司法管轄領域在移植授權條款上的需求。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[註9]：&lt;/strong&gt;詳見&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.tw/betacc/license&quot;&gt;創用CC主網站&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 05 Feb 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">422 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/422#comments</comments>
+</item>
+<item>
+ <title>GNU自由文件授權1.3版已推出</title>
+ <link>https://creativecommons.tw/blog/20081107</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;王珮儀 Pei-yi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;自由軟體基金會於2000年3月推出「GNU自由文件授權(Free Documentation License)」1.1版、2002年11月推出1.2版，目前又推出了最新的&lt;a class=&quot;newpage&quot; href=&quot;http://www.gnu.org/licenses/fdl-1.3.html&quot;&gt;1.3版&lt;/a&gt;。在1.3版中，允許經由自由文件授權的 &lt;a class=&quot;newpage&quot; href=&quot;http://www.gnu.org/licenses/fdl-1.3-faq.html&quot;&gt;wikis&lt;/a&gt; 可以至2009年8月1日為止，以CC授權「姓名標示-相同方式分享」再出版這些內容，除非這些經由自由文件授權的內容於2008年11月1日以前已整合於wiki的內容中。&lt;/p&gt;
+
+&lt;p&gt;GNU自由文件授權1.3版的修訂，對於軟體世界中的自由文化有加速成長的影響，並且對於&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/7876&quot;&gt;自由文化的聚結&lt;/a&gt;（de-fracturing）是一個重要的一步。未來，當Wikipedia社群與其他以自由文件授權的wiki決定採用CC授權「姓名標示-相同方式分享」3.0版釋出內容時，將會是下一個重要的里程碑。&lt;/p&gt;
+
+&lt;p&gt;Creative Commons 的 Mike Linksvayer 希望社群們可以用CC授權條款釋出由大量群體所共同創作的著作（請參照&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/8213&quot;&gt;Statement of Intent for Attribution-ShareAlike Licenses&lt;/a&gt;與&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/8051&quot;&gt;Approved for Free Cultural Works branding&lt;/a&gt;）。&lt;/p&gt;
+
+&lt;p&gt;在長久規劃上，對於個別不同利益的社群團體創作出大量群體共同著作時，如何特定「姓名標示」（我們從CC授權2.5已開始著重此議題）以及對於當採用CC授權「姓名標示-相同方式分享」釋出影像時，要求「相同方式分享」的程度究竟要多強烈之議題，Creative Commons 會如同自由軟體基金會一樣小心慎重地討論與處理創用CC「姓名標示-相同方式分享」授權條款的未來版本（就如同在2.0版時處理「依時間序列關係與動態影像所為之同步錄製(synching)」議題般）。&lt;/p&gt;
+
+&lt;p&gt;Mike Linksvayer 再次感謝&lt;a class=&quot;newpage&quot; href=&quot;https://my.fsf.org/associate/support_freedom/donate/index_html&quot;&gt;自由軟體基金會（FSF）&lt;/a&gt;與&lt;a class=&quot;newpage&quot; href=&quot;http://wikimediafoundation.org/wiki/Donate&quot;&gt;維基媒體基金會（WMF）&lt;/a&gt;，他們與 Creative Commons 一樣，對於自由世界建造了一個重要的架構。也希望您也能支持與捐款給這些非營利組織!&lt;/p&gt;
+
+&lt;p&gt;更多資料，請參照Lawrence Lessig 的部落格&lt;a class=&quot;newpage&quot; href=&quot;http://lessig.org/blog/2008/11/enormously_important_news_from.html&quot;&gt;Enormously important news from the Free Software Foundation&lt;/a&gt;一文.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 07 Nov 2008 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">116 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20081107#comments</comments>
+</item>
+<item>
+ <title>開放內容 — 一場數位資訊的草根運動 （上）</title>
+ <link>https://creativecommons.tw/in-depth/344</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;李治安&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;長久以來，出版社、製片商、唱片公司、電視台及其他大型的媒體公司為社會提供了大部分的資訊內容，當然也掌控了其中大部分的智慧財產權；然而，傳統集中化的資訊生產模式在數位時代中已經無法唯我獨尊，在網路世界許多分散式的資訊產出平台中，一場資訊媒體的草根運動正逐漸萌芽、茁壯。&lt;/p&gt;
+
+&lt;p&gt;開放原始碼暨自由軟體運動為這場草根運動帶來了重要的啟發，從資訊生產的角度而言，過去資訊的生產大部份是發生在少數創作者及媒體集團間的封閉過程，但是由於數位科技降低了資訊生產及傳遞的成本，現在一般人也可透過網路，在不同階段參與資訊的產出過程；從資訊使用的角度而言，過去由於受限於著作權法、科技保護措施及「版權所有、翻印必究」的制式著作權宣示方式，使用者得以自由重製、改作及從事其他衍生使用的內容其實相當有限，但是在現今的資訊社會中，有愈來愈多的內容以公眾授權的方式，開放給一般大眾無償使用。本文以下即以資訊生產及資訊使用這兩個構面為基礎，探討新興的開放內容(open content)生產方式。&lt;/p&gt;
+
+&lt;h4&gt;壹、 資訊生產過程的開放&lt;/h4&gt;
+
+&lt;p&gt;首先，就創作過程而言，過去知識創作是一個封閉的過程 ，在創作完成並發表以前，所有的思辨及心智活動都只發生在特定作者之間，但是一些新興的社會軟體（註一）結合網際網路以後，知識創作不再是絕對封閉的過程，散佈在世界各地的網路公民可以跨越時間與空間，共同協力撰寫一篇文章或一起發現並更正文章裡的錯誤，維基百科的成功證明了開放創作過程所帶來的集思廣益力量，經由志願者不斷的協力撰寫及修改，這部大型的線上百科全書至今已經有超過四百三十萬篇以不同語言撰寫的文章，其中包括了超過一百一十八萬篇英文文章。&lt;/p&gt;
+
+&lt;p&gt;其次，就資訊的生產而言，過去社會大眾所能接觸到的資訊大部分是出自於媒體工作者之手 ， 但是隨著資訊生產成本的降低，個人也可以將自行生產的資訊作品藉由網際網路與社會大眾分享，媒體公司的定位不再絕對是資訊的生產者，也有可能扮演資訊聚集者(aggregator)的角色。舉例而言，南韓新聞網站「我的新聞」 (&lt;a class=&quot;newpage&quot; href=&quot;http://www.ohmynews.com/&quot;&gt;OhmyNews&lt;/a&gt;) 強調「每個人都可以成為記者」，該網站上除了少部份的報導是由全職的專業新聞人員撰寫以外，其他大部分的報導是由讀者所撰寫， OhmyNews 近年來不僅獲利漸增，而且逐漸開始在韓國的新聞界扮演舉足輕重的角色；又例如知名的科技新知網站&lt;a class=&quot;newpage&quot; href=&quot;http://slashdot.org&quot;&gt;Slashdot&lt;/a&gt;及文摘網站 &lt;a class=&quot;newpage&quot; href=&quot;http://www.everything2.com&quot;&gt;Everything2 (E2)&lt;/a&gt;上所有的短文評論也都是由讀者而非專業記者所撰寫。&lt;/p&gt;
+
+&lt;p&gt;再者，就資訊分類而言，在網路世界中，如果沒有良好的資訊分類及搜尋方式，使用者很可能被淹沒在龐大的資訊洪流中，所幸現今一般的網路公民也可以自發性的將網路上的資訊訂定標籤分類(tagging)，以便其他使用者搜尋，這種分類方式稱為群眾分類(folksonomy)或社會分類(social classification)。舉例而言，書籤網站del.icio.us提供免費空間，供使用者儲存其設為書籤的網址，使用者還可以尋找和自己有相同網頁瀏覽偏好的人還設定了哪些書籤網址，經由使用者的共同協力，del.icio.us上所包含的所有網址都含有關鍵字標籤命名，del.icio.us以其作為分類依據，協助使用者輕易的搜尋到想找的網址；而知名的照片分享網站&lt;a class=&quot;newpage&quot; href=&quot;http://www.flickr.com&quot;&gt;Flickr&lt;/a&gt;就從del.icio.us獲得靈感，開放使用者參與所有照片的標籤關鍵字命名，經由這些關鍵字，使用者也更容易搜尋到他們想找的照片。&lt;/p&gt;
+
+&lt;p&gt;最後，就資訊的選取而言，過去哪些作品可以公開發表，多由專業的編輯或媒體人決定，但是在開放內容的時代，任何人都可以參與資訊選取與發表的決策過程。舉例而言，知名的科技文化網站&lt;a class=&quot;newpage&quot; href=&quot;http://www.kuro5hin.org/&quot;&gt;Kuro5hin (K5)&lt;/a&gt;為了與前述Slashdot網站區隔，除了由社群成員撰寫網站文章以外，K5並將文章刊登的決定權開放給所有的社群成員，社群成員可以投票決定文章是否刊登在網站上。&lt;/p&gt;
+
+&lt;h4&gt;貳、資訊使用方式的開放&lt;/h4&gt;
+
+&lt;p&gt;資訊使用方式的開放，是指創作者不再堅持全面保有著作權所賦予的權利，而以公眾授權的方式，將創作內容開放給社會大眾無償重製、修改、編輯或做其他衍生使用。資訊使用方式的開放與上述資訊生產過程的開放具有密切關係，例如，創作者須先將自己的作品內容開放給大眾修改、參與，才有可能促成廣泛參與的協力創作過程。&lt;/p&gt;
+
+&lt;p&gt;資訊使用方式的開放對於資訊社會中知識的擴散與傳遞有重要的影響，舉例而言， 麻省理工學院自2003年9月開始，逐步將研究所及大學部的課程內容及教材&lt;a class=&quot;newpage&quot; href=&quot;http://ocw.mit.edu/&quot;&gt;在網路上公開&lt;/a&gt;，以創用CC 2.5授權條款，授權社會大眾基於非商業目的，無償的使用或改作，但前提是改作後的作品也必須以相同的授權條款與他人分享；又例如頗受歡迎的科技文化網誌&lt;a class=&quot;newpage&quot; href=&quot;http://boingboing.net/&quot;&gt;BoingBoing&lt;/a&gt;，雖然沒有開放讀者參與撰寫或討論，但網站上的文章均以創用CC 1.0授權條款授權大眾使用；此外，前述維基百科採用了 GNU自由文件授權(GNU Free Documentation License, GFDL)，授權使用者重製、散布或改作，該授權對於改作後的作品也要求以相同的GFDL做公眾授權。&lt;/p&gt;
+
+&lt;p&gt;註一：社會軟體 (social software)是指協助使用者利用網際網路或其他通訊科技建立通訊社群或協力合作的軟體，社會軟體所強調的是一種由下而上 (bottom-up)的通訊方式，狹義的社會軟體通常指多對多(many-to-many)的協力軟體，如維基百科(&lt;a class=&quot;newpage&quot; href=&quot;http://www.wikipedia.org/&quot;&gt;Wikipedia&lt;/a&gt;)所使用的wiki軟體，廣義的社會軟體則還包括一對多 (one-to-many)的公告軟體如部落格(blog)軟體，及一對一(one-to-one)的聯繫軟體如電子郵件和及時傳訊(instant message)軟體。&lt;/p&gt;
+
+&lt;p&gt;（本期先就開放內容概念作一簡單介紹，下期將繼續探討有關開放內容的社會、經濟及法律意涵。）&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 01 Sep 2006 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">344 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/344#comments</comments>
+</item>
+<item>
+ <title>《淺談創用CC授權條款 — 一種現行著作權體制下的彈性授權模式 》</title>
+ <link>https://creativecommons.tw/in-depth/336</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林懿萱、莊庭瑞&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;為什麼需要創用CC授權條款？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;一件作品在歸入「公共領域」（public domain）與宣告「保留所有權利 」(all rights reserved) 之間，作者是否有其他行使權利的方式，不需透過律師、亦不會耗費過多的溝通成本，讓作品的創作者及利用者雙方都覺得便利且無損權益？創用CC（註1）為此提供了一種富彈性的授權模式。&lt;/p&gt;
+
+&lt;p&gt;一群來自網路法律、智慧財產權及資訊科技等不同領域的菁英，包括 James Boyle、Michael Carroll、和 Lawrence Lessig，MIT資訊科學教授 Hal Abelson，律師轉任紀錄片製作再轉而成為網路法律專家的 Eric Saltzman，及公共領域網路出版者 Eric Eldred 等皆肯定這種可能性，並熱情、積極的投入 Creative Commons（以下簡稱CC）催生過程。CC此一非營利組織因此得以在2001年創立。&lt;/p&gt;
+
+&lt;p&gt;美國著作權法規定，創作一旦「固著於有形物體之表達媒介」時，即自動受到著作權保護；台灣著作權法則規定，著作於「完成時」，便受到著作權保護。包括美國與台灣在內的許多國家，著作權的主張皆不需要著作權聲明。然而，許多人並不想完整地行使著作權法所賦予他們的權利，特別是那些在網路上從事創作的人，因為全面性的著作權法保護反而無助讓他們的創作獲得較高的曝光度，同時亦阻礙創作被廣泛地散布。為解決這個困境，CC在2002年發展出一套公眾授權條款，免費提供予全球著作人（或稱創作人）使用，協助他們向世人宣告，他們只要「保留部分權利」（Some rights reserved）。&lt;/p&gt;
+
+&lt;p&gt;創用CC授權條款（Creative Commons licenses）的設計靈感某種程度上來自於自由軟體基金會（Free Software Foundation）的GNU通用公共授權條款（GNU General Public License，簡稱GNU GPL）（註2），都是在現行著作權法的架構下，建立一套授權模式，使創作人得以就著作權法所賦予他的權利，讓他人在某些特定條件下，能夠自由利用其作品。然而，創用CC授權條款與GNU GPL最大的不同在於，GNU GPL適用於程式碼，而創用CC授權條款則是適用於程式碼之外其他形式的創作，如網站、學術、音樂、影片、攝影、文學、教材等。&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;何謂創用CC授權條款？&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;CC核心在於創用CC授權條款，透過這套授權條款的運作，創作人得以運用其私權利，讓創作更加便利流通。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;（一） 運作模式&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;為協助創作人方便擇定特定條件，並在此條件下授權全世界的使用者利用其作品，CC在2002年12月發佈其第一項計畫：一套著作權授權條款，讓創作人得依其作品屬性，在由「姓名標示」（Attribution）、「禁止改作」（No Derivative Works）、「非商業性」（Non-Commercial）與「相同方式分享」（Share Alike）這四個授權要素所搭配出的六種授權條款（註3）中，選擇最合其所用的一種授權模式，為其作品授權。&lt;br /&gt;
+&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.tw/betacc/license&quot;&gt;四種授權要素&lt;/a&gt;所分別代表的意義及說明如下：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;姓名標示：您允許他人對您受著作權保護的著作及衍生著作進行重製、散布、展出及演出等利用行為，但前提是對方必須保留您的姓名標示。&lt;/li&gt;
+	&lt;li&gt;非商業性：您允許他人對您的著作及衍生著作進行重製、散布、展出及演出等利用行為，但僅限於非商業性的目的。&lt;/li&gt;
+	&lt;li&gt;禁止改作：您允許他人對您的著作原封不動地進行重製、散布、 展出及演出等利用行為，但不得產出衍生著作。&lt;/li&gt;
+	&lt;li&gt;相同方式分享： 只有當他人將衍生著作採用與您的原著作相同之授權條款時，您方允許他人散布衍生著作。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;創用CC授權條款共有三種呈現的形式：「授權標章」（Commons Deed）、「法律條款」（Legal Code）與「數位標籤」（Digital Code）。&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;「授權標章」是為一般人所設計，對授權條款所做的簡易、白話摘要，並搭配相關授權要素的圖示。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;#「法律條款」是為法律人所設計的正式授權契約，是每一個授權標章實際代表的法律意涵，及確保授權條款在法庭上具有效力的完整版本。&lt;br /&gt;
+#「數位標籤」將授權條款轉譯為機器可辨讀的形式，協助搜尋引擎及其他應用程式，從著作中辨認出創作人所使用的授權條款。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;（二）創用CC授權條款的特色&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;每種創用CC授權條款皆能協助創作人：
+	&lt;ol&gt;
+		&lt;li&gt;保留其著作權；&lt;/li&gt;
+		&lt;li&gt;宣告他人的合理使用、第一次銷售及自由表達的權利，皆不受授權條款影響。&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;/li&gt;
+	&lt;li&gt;每種創用CC授權條款皆要求被授權人（或稱使用人、利用人）：
+	&lt;ol&gt;
+		&lt;li&gt;需取得創作人的許可後，才能進行創作人原本禁止的利用行為。例如，對創作人的著作進行商業利用，創作衍生著作；&lt;/li&gt;
+		&lt;li&gt;在創作人原著作所有的重製物中，完整地保留任何著作權聲明；&lt;/li&gt;
+		&lt;li&gt;使創作人著作的重製物，皆能連結到原著作的授權條款；&lt;/li&gt;
+		&lt;li&gt;不得改變授權條款；&lt;/li&gt;
+		&lt;li&gt;不得使用科技措施來限制其他被授權人對原著作的合法使用。&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;/li&gt;
+	&lt;li&gt;只要被授權人遵守創作人選擇的授權條款的條件，則每種創用CC授權條款皆允許被授權人：
+	&lt;ol&gt;
+		&lt;li&gt;重製原著作；&lt;/li&gt;
+		&lt;li&gt;散布原著作；&lt;/li&gt;
+		&lt;li&gt;公開口述及公開展示原著作；&lt;/li&gt;
+		&lt;li&gt;公開演出、公開上映、公開播送及公開傳輸原著作；&lt;/li&gt;
+		&lt;li&gt;將原著作原封不動地轉換成另一種格式之重製物。&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;/li&gt;
+	&lt;li&gt;每種創用CC授權條款：
+	&lt;ol&gt;
+		&lt;li&gt;皆適用於全世界；&lt;/li&gt;
+		&lt;li&gt;其有效期間持續至著作的著作權保護期間屆滿為止；&lt;/li&gt;
+		&lt;li&gt;皆不得撤銷。&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3&gt;&lt;strong&gt;結語&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;自2004年9月CC正式導入台灣以來，獲得各界許多先進與朋友（特別是藝術及音樂創作者）的支持與回響，可見在現行著作權法的規範之下，國內創作人與使用者對於具彈性的公眾授權模式的強烈需求。在不違背現行著作權法規範之下，CC提倡的簡便、免費且易懂的授權模式的適時出現，讓在逐漸僵化的著作權體制下的創作人與使用者，同時開啟了另一扇窗戶，透進一絲新鮮自由的空氣。著作採用創用CC授權，除可具體呈現對開放內容（open content）的支持，豐富台灣本地甚至全球的創作素材外，更可為全球文化的累積演進盡一份力。我們樂見創用CC的發展，能如同自由軟體一般，在全球掀起自由自助的協力合作風潮，益發成長茁壯。&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;註1：&quot;Creative Commons&quot;該怎麼翻譯？自Creative Commons Taiwan計畫成立以來，這問題一直困擾著我們。在2005年底，Creative Commons Taiwan邀請多個領域的專家，經歷審慎討論後，終於確定「創用CC」為&quot;Creative Commons&quot;的中譯名稱。&quot;Create&quot; 是創造、也可以是創作； &quot;Commons&quot; 是眾，強調的是透過眾人的使用及參與，才能讓創作的分享與使用成為可能。「創用CC」同時採用了 &quot;Creative Commons&quot; 的縮寫 &quot;CC&quot;，一定程度的保留英文原意，讓不懂英文的人看到「創用CC」能立即聯想到這和CC相關。&lt;/li&gt;
+	&lt;li&gt;註2：自由軟體基金會（簡稱FSF）創立於1985年；FSF致力於提升電腦使用者使用、研究、修改、以及複製修改後電腦程式的權利，及促進自由軟體（特別是GNU作業系統）的使用與發展；FSF創始人Richard Stallman因其遠見與執著，於1990年獲美國麥克阿瑟基金會獎項殊榮。&lt;/li&gt;
+	&lt;li&gt;註3：授權條款不能同時包含「禁止改作」與「相同方式分享」此二個授權要素，因為「禁止改作」是要求利用人不得產生衍生著作；而「相同方式分享」是針對衍生著作所做的規範。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 05 May 2006 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">336 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/336#comments</comments>
+</item>
+</channel>
+</rss>

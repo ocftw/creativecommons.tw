@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 商業</title>
+ <link>https://creativecommons.tw/category/tags/%E5%95%86%E6%A5%AD</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>下一個創業寶藏--政府開放資料</title>
+ <link>https://creativecommons.tw/in-depth/705</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;S.H. Shih /文 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;美國前總統雷根（Ronald Reagan）應該沒想到任期內的一道行政命令，會打開政府公開資料的寶藏。&lt;/p&gt;
+
+&lt;p&gt;1983年，大韓航空民航機誤闖蘇聯領空，遭擊射落海。事件發生後，雷根下令開放美國軍用全球衛星導航系統（GPS）給民間使用，避免同樣的悲劇再次發生。&lt;/p&gt;
+
+&lt;p&gt;一道開放令，在19年後，2011年由民間提供的GPS服務，已為美國帶來9千萬美元的收入，而這樣的經濟效益還在持續擴大中。 等於說，政府先將軟性基礎建設打下基礎，再進一步開放給民眾加值利用，背後帶來的創新及創業機會不容忽視。 這也難怪美國資訊長（Chief Technology Officer）陶德‧帕克（Todd Park）於2012年3月上任後，大力推動政府開放資料只是其一， 在「&lt;a href=&quot;http://www.opendatainitiative.org/&quot; target=&quot;_blank&quot;&gt;開放資料倡議（Open data initiative）&lt;/a&gt;」計畫中，帕克也特別強調，希望藉由政府開放資料、將資料轉換為機器可讀（machine-readable）模式後，能陸續帶動創新應用和創業活動，藉此創造工作機會（create jobs）。&lt;/p&gt;
+
+&lt;p&gt;帕克並不是空談。在他上任後，已大量舉辦橫跨政府部門、創業家、資料科學專家的聚會，希望透過跨界交流，激盪火花，等於是政府帶頭衝開放資料的金礦。 到目前為止，成效最好、並明顯增加就業機會的團隊，就屬下面3組：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.&lt;a href=&quot;https://www.itriagehealth.com/&quot; target=&quot;_blank&quot;&gt;iTriage&lt;/a&gt;&lt;/strong&gt;（採醫療機構公開資料）：&lt;br /&gt;
+&lt;strong&gt;商業模式：&lt;/strong&gt;兩名急診室的醫生，利用美國衛生及公共服務部門（Department of Health and Human Services）開放的醫療機構資料，讓使用者能根據所在位置，透過手機應用程式iTriage，立刻搜尋鄰近的診所及醫院。&lt;br /&gt;
+&lt;strong&gt;效應：&lt;/strong&gt;超過600家醫院與iTriage簽約，全美有800萬人次使用iTriage服務，公司也已聘僱90位人力。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.&lt;a href=&quot;http://opower.com/&quot; target=&quot;_blank&quot;&gt;OPower&lt;/a&gt;&lt;/strong&gt;（採能源和天氣公開資料）：&lt;br /&gt;
+&lt;strong&gt;商業模式：&lt;/strong&gt;透過政府開放的能源和天氣資料，為使用者量身訂做「家庭能源管理方案」，如果使用能源超過客戶預先設定的額度，OPower會發送通知，以協助各個家庭做好節能生活。&lt;br /&gt;
+&lt;strong&gt;效應：&lt;/strong&gt;OPower目前雇用超過200名人力，預估已幫使用者至少省下美金1.65億元的帳單。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3.&lt;a href=&quot;https://www.billguard.com&quot; target=&quot;_blank&quot;&gt;BillGuard&lt;/a&gt;&lt;/strong&gt;（採信用分數公開資料）：&lt;br /&gt;
+&lt;strong&gt;商業模式：&lt;/strong&gt;BillGuard 利用美國消費者金融保護局（Consumer Financial Protection Bureau）的信用卡客訴資料庫，向註冊的使用者每日免費發送信用卡檢測通知，讓使用者清楚知道自己口袋中的信用卡今天有沒有被盜用、被收取額外費用、 或產生錯誤收費。如有可疑的信用卡交易產生，BillGuard也會協助使用者索回金額。&lt;br /&gt;
+&lt;strong&gt;效應：&lt;/strong&gt;BillGuard已雇用21名員工。&lt;/p&gt;
+
+&lt;p&gt;這些團隊到底是如何把政府開放資料，轉化成具有市場性的應用和服務？社交平台LinkedIn前任科學家暨資料產品負責人派提爾（DJ Patil）特別撰寫的專文——「資料柔術（Data Jujitsu）」，或許可以提供一個方向。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;用「資料柔術」找機會&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;所謂「&lt;a href=&quot;https://en.wikipedia.org/wiki/Jujutsu&quot; target=&quot;_blank&quot;&gt;柔術（Jujitsu）&lt;/a&gt;」，就是將對方的攻擊力量，有效轉化為制服對方的技術。面對龐大的資料，也許你想到的是統計學、資料剖析等高深的技術，去攻擊資料的困難點，但派提爾卻建議：「大問題都要從小地方著手，所以首先要問的是：有任何人會需要你的資料產品（data product）嗎？」&lt;/p&gt;
+
+&lt;p&gt;派提爾借用「&lt;a href=&quot;http://theleanstartup.com/principles&quot; target=&quot;_blank&quot;&gt;最精簡可行產品（Minimum Viable Product）&lt;/a&gt;」的開發概念，以自己過去在Linkedin服務時，透過使用者測試，先提供初步適切的服務，再陸續調整資料探勘的流程和目標。&lt;/p&gt;
+
+&lt;p&gt;「把產品放第一，資料放第二，」派提爾強調，就算有超過8成的時間得花在整理、分析資料上，但思考資料產品的創新點子時，不妨先回到下面3個基本問題：&lt;/p&gt;
+
+&lt;p&gt;1. 你希望使用者從產品中得到什麼？&lt;br /&gt;
+2. 你希望使用者因為產品而進行什麼樣的行動？&lt;br /&gt;
+3. 使用者在使用產品時和使用產品後，分別感覺到什麼？&lt;/p&gt;
+
+&lt;p&gt;台灣政府開放資料平台已於日前正式上線，要如何從一筆筆的數字中挖掘創新點子、甚至是創業機會？透過以上美國的例子，希望能帶給你不一樣的刺激。&lt;/p&gt;
+
+&lt;p&gt;---&lt;br /&gt;
+&lt;strong&gt;延伸閱讀：&lt;/strong&gt;&lt;br /&gt;
+1. “&lt;a href=&quot;http://www.scientificamerican.com/article.cfm?id=how-to-kick-start-innovaton&amp;amp;fb_action_ids=10151575754633698&amp;amp;fb_action_types=og.likes&amp;amp;fb_source=timeline_og&amp;amp;action_object_map=%7B%2210151575754633698%22%3A344140802354738%7D&amp;amp;action_type_map=%7B%2210151575754633698%22%3A%22og.likes%22%7D&amp;amp;action_ref_map=&quot; target=&quot;_blank&quot;&gt;How to Kick-Start Innovation with Free Data&lt;/a&gt;”，available at 《Scientific America》,last visited 06/14/2013.&lt;br /&gt;
+2. &lt;a href=&quot;http://radar.oreilly.com/2012/07/data-jujitsu.html&quot; target=&quot;_blank&quot;&gt;資料柔術（Data Jujitsu）&lt;/a&gt;,last visited 06/14/2013.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 05 Jul 2013 01:48:22 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">705 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/705#comments</comments>
+</item>
+<item>
+ <title>彷彿沒有明天的資料狂歡會（datapalooza）</title>
+ <link>https://creativecommons.tw/in-depth/671</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;S.H. Shih /文 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;2010年，美國華盛頓。&lt;/p&gt;
+
+&lt;p&gt;在美國資訊長（U.S. Chief Technology Officer）陶德‧帕克（Todd Park）的號招下，來自軟體工程，醫療產業還有創投背景的45位高手聚在一起， 仔細挖掘美國國家科學院醫學研究所（Institute of Medicine）提供的開放資料（open data），試圖從中解決目前醫療問題，甚至，找出下一個可能的創業點子。&lt;/p&gt;
+
+&lt;p&gt;他們的碰面，並不是偶然，而是為了美國白宮第一次舉辦的「資料狂歡會」（datapalooza），這樣的活動形式，正成為目前開放資料界的流行語。但，到底什麼是資料狂歡會？&lt;/p&gt;
+
+&lt;p&gt;翻開美國俚語字典，&lt;a href=&quot;http://www.urbandictionary.com/define.php?term=palooza&quot; target=&quot;_blank&quot;&gt;palooza&lt;/a&gt;指的是「彷彿沒有明天」的聚會。資料狂歡會並沒有那麼迷幻，反而是場紮紮實實的討論會，主要可以分成3個階段：&lt;/p&gt;
+
+&lt;p&gt;1. 挖掘資料（Priming the pump）：所有創新者（innovators）得花上8小時聚在一起，仔細思考，究竟需要哪些資料才能推動新應用程式的產生？如同搖滾樂團練習時， 透過 “jam”，一種實驗性的摸索過程，來找尋適合的旋律及和旋，這一個階段也被稱為：“data jam”。&lt;/p&gt;
+
+&lt;p&gt;2. 展示發現（Showcasing the results）：第二階段則是讓創新者們在創投和其他可能的投資者前展示第一階段的發現成果。 過程中，為了確保討論的熱烈度，主辦單位也會宣布，若創新計畫實現，未來可能獲得的獎勵。&lt;/p&gt;
+
+&lt;p&gt;3. 持續投入（Continuing the work）：展示會結束後，接下來有一系列的見面會、視訊會議或程式馬拉松（hackathons）等活動， 除了能繼續挖掘需要解決的問題，這個階段也提供創新者進行使用者測試，持續修正產品。&lt;/p&gt;
+
+&lt;p&gt;和過往的程式馬拉松（hackathon）等開放資料活動相比，資料狂歡會以現有公共問題為出發點， 尋求創新解決方案，還有商業化的機會。簡單而言，這項活動背後事實上也代表了3個新意義。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;首先，活動以創新者為中心。&lt;/strong&gt;在 2012年 Personal Democracy Forum 會議上，帕克特別強調，既然目前趨勢是專業分工細緻，每一位專家擅長的領域個不同，大家更應該去思考如何配對不同領域的專家。這當中，政府面對創新者時， 應該是提供關鍵資料的角色，就好比把各類資料攤開在桌面上， 詢問各領域專家有沒有哪些資料是值得注意？剩下的工作，就交由這群創新者負責後續的開發。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;第二，強調資料的可應用性。&lt;/strong&gt;在2010年第一場的資料狂歡會上，歷經8小時的腦力激盪後，第一階段就已產出超過20個關於新興應用程式和產品的點子。「我們告訴與會的人，在90天後將會舉辦一場成果發表會， 看看你們從今天的基礎上還能繼續做什麼努力，」帕克接受採訪時提到，「3個月後，這些創新者研發出超過20個應用程式，所有人都很驚訝。」&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;最後，狂歡會不能只有3分鐘熱度，得有後續的組織和活動延續討論熱度。&lt;/strong&gt;在第一場資料狂歡會後，一些關於醫療產業的創業組織和活動，如&lt;a href=&quot;http://www.startuphealth.com/&quot; target=&quot;_blank&quot;&gt;StarUp Health&lt;/a&gt;, &lt;a href=&quot;http://rockhealth.com/&quot; target=&quot;_blank&quot;&gt;RockHealth&lt;/a&gt; 也隨之升起。 又如2012年，兩位約翰霍普金斯的醫學院學生，也接續利用疾病管制局的資料，建立網路和手機應用程式&lt;a href=&quot;http://symcat.com/&quot; target=&quot;_blank&quot;&gt;Symcat&lt;/a&gt;， 病人可從中查詢自己可能罹患的疾病和原因，這項程式也已獲得美金10萬美元的獎金。&lt;/p&gt;
+
+&lt;p&gt;短短兩年，資料狂歡會目前已不止發生於美國政府單位，非營利組織和私人企業也開始流行舉辦類似活動；討論焦點也從醫療產業，跨足教育,能源, 貧窮等議題， 皆以政府開放資料為基礎，鼓勵跨界合作和應用資料的機會。&lt;/p&gt;
+
+&lt;p&gt;「帕克的模式告訴我們，不是只要把資料公開、丟在那兒期待好事發生就好，」知名公益投資組織 Omidyar Network 政策負責人馬丁‧帝斯內（Martin Tisné）特別&lt;a href=&quot;http://hbr.org/special-collections/insight/scaling-social-impact/an-all-out-crazy-party-of-data&quot; target=&quot;_blank&quot;&gt;撰文&lt;/a&gt; 分析，「相反的，帕克的團隊鼓勵非營利組織和私人企業勇於使用和應用政府公開資料。」儘管資料狂歡會的活動概念仍算年輕， 能否擴大活動規模，需要再觀察，但「資料狂歡會」的確讓人看到政府開放資料的另一種可能性。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;延伸閱讀：&lt;/strong&gt;&lt;br /&gt;
+1. Health datapalooza 官方網站：&lt;br /&gt;
+&lt;a href=&quot;http://healthdatapalooza.org&quot; target=&quot;_blank&quot;&gt;http://healthdatapalooza.org&lt;/a&gt;&lt;br /&gt;
+2. 2012年美國教育部第一場 datapalooza 活動記錄：&lt;br /&gt;
+&lt;a href=&quot;http://storify.com/usedgov/education-datapalooza&quot; target=&quot;_blank&quot;&gt;http://storify.com/usedgov/education-datapalooza&lt;/a&gt;&lt;br /&gt;
+3. 2012年美國交通運輸部門第一場 Safety datapalooza 活動影音全紀錄：&lt;br /&gt;
+&lt;a href=&quot;http://www.youtube.com/user/whitehouse/videos?query=safety+datapalooza&quot; target=&quot;_blank&quot;&gt;http://www.youtube.com/user/whitehouse/videos?query=safety+datapalooza&lt;/a&gt;&lt;br /&gt;
+4. 2012年美國能源部首場 Energy datapalooza 成果展示：&lt;br /&gt;
+&lt;a href=&quot;http://energy.gov/articles/celebrating-innovation-and-open-data-energy-datapalooza&quot; target=&quot;_blank&quot;&gt;http://energy.gov/articles/celebrating-innovation-and-open-data-energy-datapalooza&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 05 Apr 2013 01:39:09 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">671 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/671#comments</comments>
+</item>
+<item>
+ <title>社群的創用 CC 資源</title>
+ <link>https://creativecommons.tw/blog/20120905</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/33757&quot;&gt;Natalya Berenshteyn，2012 年 8 月 14 日&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;網路上可以找到有關創用 CC 及其應用的豐富資源，創用 CC 的國際分支機構更提供了大量跨越語言和文化界限的教育資源。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;簡介&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;創用 CC 的影片「遇見創用 CC」對 CC 授權的優點、各種不同的 CC 授權、如何選擇適合授權，做了不錯的介紹。波蘭創用 CC 的公開海報是針對這些授權的絕佳快速導覽。想要更深入瞭解，P2PU 與創用 CC 的新合作計劃「開放學校」提供了簡短的「精通創用 CC」課程。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CC 和政府&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;「創用 CC 與公部門資訊：支援公部門資訊創作者與重用者的彈性工具」是由 Timothy Vollmer 與 Diane Peters 兩位創用 CC 自家人撰寫的論文，其中解釋了 CC 授權如何鼓勵公部門資訊重用。假如希望更深入了解此議題，你應該閱讀 Mireille van Eechoud 和 Brenda van der Wal 撰寫，與荷蘭創用 CC 合作的「CC 授權在公部門資訊：機會與陷阱」。還有 Anne Fitzgerald、Neale Hooper、Brian Fitzgerald 共同撰寫的「CC 授權開啟公部門資訊開放存取-澳洲經驗」，澳洲創用 CC 在「公部門中的創用 CC」簡報中概述了其內容。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;新聞與部落格&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;電子前鋒基金會製作的「部落客的法律指南」，納入了許多與內容發布者相關的法律議題，例如合理使用與數位千禧年著作權法案。創用 CC 的 Eric Steuer 所製作的「新興新聞模式與創用 CC」簡報，針對運用 CC 授權的新的新聞模式，提供了若干案例研究。在 Ars Technica 上的「創用 CC 影像與你：影像用戶的快速指引」一文，提供了尋找 CC 授權影像的指引。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;商業模式&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;同樣來自澳洲創用 CC 的「創意產業案例研究」，針對創作者藉由以 CC 授權公開釋出作品而創造獲利，提供了案例研究。音樂家 Dan Bull、作家 Cory Doctorow、製片人 Nina Paley，都曾在訪談中解釋他們如何及為何使用 CC 授權作品。在他的部落格 Techdirt 上，Mike Masnick 有許多文章談到他稱之為「連接粉絲 + 購買理由」的商業模式。&lt;br /&gt;
+要找到更多資源，我們的維基是不錯的起點，在地資源請見各分支機構的網站。&lt;/p&gt;
+
+&lt;p&gt;原文出處：&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/33757&quot;&gt;http://creativecommons.org/weblog/entry/33757&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 05 Sep 2012 05:41:49 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">640 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120905#comments</comments>
+</item>
+<item>
+ <title>幽默不起來的創意？─論商標之戲謔仿作</title>
+ <link>https://creativecommons.tw/in-depth/628</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;吳佩凌/文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;在狗的絨毛咀嚼玩具上印上知名精品商標 LOUIS VUITTON 之經典圖紋，是仿冒？還是幽默創意？對 LOUIS VUITTON 來說，印上名牌經典圖紋的狗玩具是仿冒品，廉價絨毛仿製成的經典圖紋上沾滿狗狗的口水更是種冒犯。 隨著1960年代起，商標戲謔仿作的逐漸盛行，此議題現已廣受各界關注。可惜的是，國內關於戲謔仿作之介紹多集中在著作權方面，商標之戲謔仿作則仍十分匱乏，故本文擬介紹幾個美國實務發展的代表性案件， 期能協助讀者對於商標之戲謔仿作有初步的了解。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;一、前言&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;美國憲法增修條文第一條，禁止國會制定任何法律剝奪言論自由；美國商標法之立法本意則是鼓勵公平競爭，讓商業使用註冊商標來表示產品或服務的來源。然而言論思想之表達早已不拘泥於傳統形式， 透過蓄意仿製知名商標以傳達特定思想者，在創意漸趨大膽前衛的今日並不罕見。但未經授權，即以他人之商標為自己表達思想所用，不免與商標權人所享有之商標專用權利相衝突。 此時究應將美國憲法增修條文第一條保護言論自由之精神延展到極致而一律予以保護；抑或優先保護商標權人所享有之商標法上權利？始終是個難解的習題……。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;二、戲謔仿作於美國法上之發展概況&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;1979年 Dallas Cowboys Cheerleaders, Inc. v. Pussycat Cinema, Ltd. 一案&lt;a href=&quot;#[1]&quot;&gt;[1]&lt;/a&gt;，被告製作了一部下流、令人反感的色情影片，使片中主角穿著與 Dallas Cowboys Cheerleaders 的制服極其相似之服裝從事各種性行為。 被告於審理過程中援引了憲法增修條文第一條之權利，但法院認為，有太多侵害他人商標權以外的其他方法，足使被告表達對於體育運動界情色風氣的評論；且被告影片的呈現方式可能引導大眾誤認該影片為原告隊員拍攝的作品， 故下達了禁制令。許多評論家注意到，法院判決的背後似乎是一種價值信仰，即不容許內容「粗俗下流又令人噁心」的作品。&lt;/p&gt;
+
+&lt;p&gt;然而在1987年 L.L. Bean, Inc. v. Drake Publishers, Inc. 的案件中&lt;a href=&quot;#[2]&quot;&gt;[2]&lt;/a&gt;，法院轉持寬容態度，認為戲謔仿作仍應擁有本質上的自由─無論是作為娛樂、或是社會及文學批評的一種形式…。 法院並於判決中說道：商標的戲謔仿作，即使令人討厭，也有某種訊息的傳達，該訊息可能只是，不需要總是把企業和產品形象看得那麼嚴肅；我們有嘲笑該圖像以及嘲笑該標誌所連結之對象的自由。 雖然該訊息缺乏明確的政治性內容，但沒有理由使其受憲法增修條文第一條較少的保護。&lt;/p&gt;
+
+&lt;p&gt;兩年後的 Rogers v. Grimaldi 一案&lt;a href=&quot;#[3]&quot;&gt;[3]&lt;/a&gt;，法院發展出著名的 Rogers 平衡測試法。該測試以「避免混淆的公共利益」與「自由表達的公共利益」為天秤的兩端。要求未經授權的使用須與表達性作品具有最低程度的關聯， 以確保表達性作品是真正的文化貢獻，而不是一個商業的搭便車行為。&lt;/p&gt;
+
+&lt;p&gt;接著時間推展到了2007年 Louis Vuitton Malletier S.A. v. Haute Diggity Dog 的案子&lt;a href=&quot;#[4]&quot;&gt;[4]&lt;/a&gt;。一個販賣狗玩具的商人銷售一款狗的咀嚼玩具，以粗糙的絨毛仿製當時最受歡迎的LV包包或飾品。 該狗玩具以 CHEWY VUITON 為其商標名稱，藉以對 LOUIS VUITTON、以及對普遍存在炫耀性消費的社會現象做出評論。狗狗們似乎都很喜歡；但 LOUIS VUITTON 的品牌擁有者卻一點都不感到幽默。 在歷經簡易判決與上訴後，狗玩具贏得了這場訴訟&lt;a href=&quot;#[5]&quot;&gt;[5]&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;法院於本案將「戲謔仿作」定義為：基於商標目的，藉由並置對該商標的不敬表示與該標誌擁有者所設定創建出的理想形象，傳達一個簡單的娛樂形式。並補充：「戲謔仿作必須同時傳達兩個互相矛盾的訊息：這是原作品， 但又不是原作品，而是戲謔仿作。」法院認為，Haute Diggity Dog 並沒有減損 LVM 的商標本身得作為識別單一商品來源的能力，且並沒有類似到足以削弱 LVM 商標的特殊性。&lt;/p&gt;
+
+&lt;p&gt;這是一個戲謔仿作成功在商標侵權訴訟中全身而退的例子。在2003年的 Mattel, Inc. v. Walking Mountain Prods. 案&lt;a href=&quot;#[6]&quot;&gt;[6]&lt;/a&gt;中，法院便曾說道「戲謔仿作是一個社會以及文學批評的形式，它具有如憲法增修條文第一條下， 言論自由之社會重大價值。」且「憲法增修條文第一條的保護不只適用在表達清楚者、玩笑有趣者、和戲謔仿作成功者」…。綜覽自1960年代至今之相關判決，似可推認美國法院已漸趨以寬容的態度來看待戲謔仿作。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;三、戲謔仿作之難題&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;然誠如學者所言，肯認戲謔仿作社會價值的同時，必須進一步思考，基於尊重自由言論的考量，使得戲謔仿得作為抵擋侵權控訴的盾牌，無疑係同時犧牲了商標所有人以龐大成本建立而成的品牌價值利益， 與大眾清楚識別產品及服務來源的公共利益，是以評論的表達不應毫無節制，在評論中似乎仍需要存在一些界線。或有建議，「模仿手法過於粗劣下流無法見容於當下的社會風俗規範」 （如 Dallas Cowboys Cheerleaders 案）似乎可為其中一個把關的界線；而「一個戲謔仿作的特質，是否可被合理察覺」可為另外一個門檻，因為如果戲謔仿作的價值是對於原作評論或批判的一種溝通，那麼該溝通的語言就必須要能被理解。&lt;/p&gt;
+
+&lt;p&gt;在商業競爭的舞台上，商標是識別某商品、服務或與其相關具體個人或企業的顯著標誌，且對商標註冊人亦是一種獎勵，使其商品或服務能獲得承認和經濟效益；然而當應用在非競爭者上時，該保護便扼殺了批評與評論， 並且過度威嚇藝術的選擇，因此不可不慎。此外，由於戲謔仿作所傳達之訊息是否具有社會價值而有保護之必要性不免涉及主觀認定，故當前最迫切者，便是找出一套妥善的判斷標準； 試想若允許法院任意決定何者為與表達性作品一致之社會言論價值，便形同使法院以想像力與創造力進行無標準的運作，司法系統將不免大亂。&lt;/p&gt;
+
+&lt;p&gt;故商標戲謔仿作之議題實有賴實務界與學界將之發展的更臻完善，也希望本文對於戲謔仿作的介紹能使讀者有所收穫。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&quot;[1]&quot;&gt;&lt;br /&gt;
+[1]&lt;/a&gt;&amp;nbsp;Dallas Cowboys Cheerleaders, Inc. v. Pussycat Cinema, Ltd., 604 F.2d 200, 202-03 (2d Cir. 1979).&lt;br /&gt;
+&lt;a name=&quot;[2]&quot;&gt;[2]&lt;/a&gt;&amp;nbsp;L.L. Bean, Inc. v. Drake Publishers, Inc., 811 F.2d 26 (1st Cir. 1987).一個著名的戶外裝備及服飾製造商控告 High Society 雜誌的出版社，被告雜誌有兩頁的部分標記 “L.L. Beam&#039;s Back-to-School Sex Catalog”，以一種下流的幽默詮釋，描繪裸體模特兒以色情的姿勢使用產品。緬因州的簡易判決認為此舉可能削弱該著名商標的識別性，且已使消費大眾對 L.L. Bean 商標產生負面印象與評價， 導致商標本身之價值降低或減損，而有商標減損的淡化現象，但嗣後被推翻。&lt;br /&gt;
+&lt;a name=&quot;[3]&quot;&gt;[3]&lt;/a&gt;&amp;nbsp; Rogers v. Grimaldi, 875 F.2d 994, 997 (2d Cir. 1989).一部名為“Ginger and Fred”的義大利電影，由兩位夜總會舞者 Pippo 與 Amelia 演出，其模仿了 Fred Astaire 和 Ginger Rogers 的舞蹈演出， 此模仿使她們分別得到 Ginger 和 Fred 的綽號，而該綽號也成為電影的名稱。原告是 Ginger Rogers，主張錯誤標示與侵害她所擁有的形象權。&lt;br /&gt;
+&lt;a name=&quot;[4]&quot;&gt;[4]&lt;/a&gt;&amp;nbsp; Louis Vuitton Malletier S.A. v. Haute Diggity Dog, LLC, 507 F.3d 252 (4th Cir. 2007).&lt;br /&gt;
+&lt;a name=&quot;[5]&quot;&gt;[5]&lt;/a&gt;&amp;nbsp;Haute Diggity Dog 所從事的業務中，有部分是在嘲笑知名商標品牌，如尚有 CHEWNEL NO. 5, FURCEDES, JIMMY CHEW, DOG PERIGNONN, SNIFFANY &amp;amp; CO., and DOGIOR…等。 其在訴訟過程中積極爭論並沒有合理的證據顯示有混淆的可能性，因為其以模仿知名商標的方式來銷售其產品之行徑在市場上早已富有盛名。戲謔仿作賴以成功的要素之一，便是使人不誤認該仿作即為原作， 如此方得以傳達戲謔之訊息並達到預期之戲謔效果。故 Haute Diggity Dog 宣稱，其著名的商標模仿行徑，避免了消費者混淆的可能性，而成功達成戲謔仿作之效果。&lt;br /&gt;
+&lt;a name=&quot;[6]&quot;&gt;[6]&lt;/a&gt;&amp;nbsp; Mattel, Inc. v. Walking Mountain Prods., 353 F.3d 792, 796 (9th Cir. 2003).一位攝影家用各種荒誕且經常帶有性的觀點創造了一系列的照片(“Food Chain Barbie”)描繪 Barbie 洋娃娃： 他通常描繪一個或多個裸體的 Barbie 洋娃娃與古老的廚房設備並置在一起。例如“Fondue a la Barbie”描繪 Barbie 的頭放在一個火鍋裡。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 03 Aug 2012 03:43:02 +0000</pubDate>
+ <dc:creator>paolatang</dc:creator>
+ <guid isPermaLink="false">628 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/628#comments</comments>
+</item>
+<item>
+ <title>從Data-as-a-Service 角度看 Open Data</title>
+ <link>https://creativecommons.tw/in-depth/592</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;符立典/ 工研院服務系統科技中心&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Data-as-a-Service&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+提供資料的服務並不是新鮮事，圖書館提供的借閱服務正是其中的典型代表。專業年鑑、產業分析報告、甚至新聞、報章雜誌等傳媒也是都是以各種不同型態存在的 Data-as-a-Service (DaaS)」。這類服務的特性是：以資料或資訊為產品、以便利的資訊管道為服務手段。&lt;/p&gt;
+
+&lt;p&gt;DaaS的價值在於：&lt;/p&gt;
+
+&lt;p&gt;1. 資料的真確性(Integrity)：高品質的資料必須同時具備「真實、正確、完整、一致」四種特性。例如新聞報導的內容必須是真實的，而且不應該斷章取意、或是前後不一。&lt;br /&gt;
+2. 資料的珍貴性：珍貴或不易取得的資料，自然具有其特殊價值。&lt;br /&gt;
+3. 資料的再利用性：從人類的知識史來看，資料被再次利用所創造的價值遠大於資料的存在價值。那麼，愈容易再次被重新利用的資料，便合理的具有較高的價值。&lt;br /&gt;
+4. 取得管道的便利性：資訊的價值自然與管道的便利性、即時性有關。&lt;/p&gt;
+
+&lt;p&gt;承上，若服務提供者想要提升資料的價值，則應考量在現今良好數位化基礎的前提下，資料的&lt;strong&gt;再利用性&lt;/strong&gt;及其取得管道的&lt;strong&gt;便利性&lt;/strong&gt;，理應是這四個維度中較容易提高的兩個項目。的確，我們也可以發現世界各國的Open data推動者中，對於「開發者」這種使用者族群幾乎皆採用&lt;a href=&quot;http://en.wikipedia.org/wiki/Representational_state_transfer&quot; target=&quot;_blank&quot;&gt;REST&lt;/a&gt; + &lt;a href=&quot;http://en.wikipedia.org/wiki/JSON&quot; target=&quot;_blank&quot;&gt;JSON&lt;/a&gt;的套裝組合來提供資料服務。&lt;/p&gt;
+
+&lt;p&gt;REST (Representational state transfer) 原則上採用HTTP或是&lt;a href=&quot;http://en.wikipedia.org/wiki/SOAP&quot; target=&quot;_blank&quot;&gt;SOAP&lt;/a&gt; RPC (Remote Procedure Call )作為其通訊協定，故幾乎所有具網路連線能力的設備都可以存取。 JSON (JavaScript Object Notation) 則是一種極簡單的資料表達手段，適用於數位資料的序列化及反序列化(Serialization &amp;amp; Deserialization)。目前已有超過45種程式語言的API支援，當然包含主流的JAVA、C#、Object C、PHP、Python等常見的程式語言。 DaaS提供者應該考量採用這樣的模式提供資料給客戶或使用者。因為這模式至少是目前對於資料使用者而言，最便利的管道；也是最容易再被開發二次利用的格式。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DaaS 營運模式&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;不論是實體DaaS或是數位DaaS，其營運模式皆包括使用者免付費及使用者付費兩種模式，而其下又可再細分不同的營運模式。&lt;/p&gt;
+
+&lt;p&gt;1. 使用者免付費模式：&lt;/p&gt;
+
+&lt;p&gt;a. 政府支付營運費用或公益團體贊助：例如政府開放資料(open data)、圖書館的基本借閱服務或公共電視。這類型的DaaS基於社會福利。所以由政府或由公益團體贊助其營運成本。&lt;br /&gt;
+b. 廣告收入支付營運費用：例如爽報。&lt;/p&gt;
+
+&lt;p&gt;2. 使用者付費模式：&lt;/p&gt;
+
+&lt;p&gt;a. 依使用量收費：例如訂閱某一個時間區段的期刊、雜雜；或是依章節目錄購買的產業分析報告。API-based的DaaS也可以採用Pay-per-call的模式依照對API服務的呼叫次數做為收費標準。&lt;br /&gt;
+b. 依資料型態或類型收費：具有較高再利用性的資料收取較高的費用，而具較低再利用性者則可以免費提供。例如，比較PDF格式與JSON格式，JSON應較易被再次利用，故具有較高的價值。&lt;br /&gt;
+c. 依時效性收費：時效性代表的是資料的珍貴性，而且即時資料和過時資料在不同的場合下其價值也會有不同的判定標準。例如，即時的股市報價資訊的價值非常高，10年前的股價資訊大多可以免費取得。相反的，即時新聞取得的難度要比10年前的特定新聞低，所以10年前的「舊聞」反而可能需收費才能取得。&lt;/p&gt;
+
+&lt;p&gt;不論採用哪一種營運模式，DaaS都必需要取得一種能至少讓財務平衡的資態，才得以永續經營。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Open Data - 一種完全開放的 DaaS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;政府開放資料(open data)近年來在歐美盛行，但是對於相對較保守的華人文化而言，要完全仿效或是快速推動應該會產生很大的阻力。不論現階段政府對於open data的準備度多高，近期看見的頻頻動作都是個值得期待的開始。政府或法人的角色，應在於提供一個良好的環境，讓open data類型的平台或基於open data的應用得以培育發生，並產生可自給自足營運的可能性。 現階段，台灣中央或地方政府大多數(除了台北市及內政部)對open data都沒有發表相關方針。在公部門手中所擁有的資料有很大比例可能尚未正規化，或甚至尚未數位化。在公部門全面數位化的進行政府open data過程中，法人或民間團體可以扮演推手與技術協助的角色。&lt;/p&gt;
+
+&lt;p&gt;而&lt;a href=&quot;http://blog.accesstaiwan.org/&quot; target=&quot;_blank&quot;&gt;AccessTaiwan&lt;/a&gt;是近期一個工研院內部團隊自行發起的計劃，其目的是透過DaaS的手法把台灣的文化、美景和觀光的資訊推向全世界。期望世界各地的 App 開發者可以取得這些難以取得的內容後，自由地發展出多樣的應用。可能是為國外背包客設計的台灣大眾輸輪轉乘工具、&lt;a href=&quot;http://zh.wikipedia.org/wiki/LBS&quot; target=&quot;_blank&quot;&gt;LBS&lt;/a&gt; (Location-Based Service, 基於地理位置的服務)遊戲、民宿優惠收集、甚至是台灣文化教有的小工具。這些潛在應用的多元性，實維繫在資料來源有多「open」。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;軟體產業對DaaS和Open Data的期望&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;軟體本身與其內容的維護是應用服務產生價值的兩個來源。在軟體創業團隊有限的資源下，應將人力緊縮專注於軟體本身及服務流程的發展。若能從外部取得高品質、易整合的內容，對軟體創業團隊具有絕對性的綜效與價值。&lt;/p&gt;
+
+&lt;p&gt;在缺乏這類型的DaaS提供者的目前，政府可以將公部門開放資料做為一個重要的指標性資料提供平台。這個平台的價值不只在於將資料還給社會、或是公開各項應公告的施政資訊；更大的價值在於，&lt;strong&gt;這提供了台灣軟體產業一個前所未有的培育環境。&lt;/strong&gt;除了政府應具前瞻性的思維與環境建構者的使命外，民間團體和法人的協助也是不可或缺的助力。如此一來，在軟體產業鏈的分工與上下游關係亦將更加明確與專業化。如同台灣過去在電子業可以形成完整的產業鏈及產業聚落，軟體亦可以成為台灣下一個被世界注目的焦點。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;參考資料：&lt;/strong&gt;&lt;br /&gt;
+1. &lt;a href=&quot;http://about.me/lidienfu&quot; target=&quot;_blank&quot;&gt;作者：符立典/ 工研院服務系統科技中心&lt;/a&gt;&amp;nbsp;&lt;br /&gt;
+2. &lt;a href=&quot;http://en.wikipedia.org/&quot; target=&quot;_blank&quot;&gt;Wikipedia&lt;/a&gt;&lt;br /&gt;
+3. &lt;a href=&quot;http://json.org/&quot; target=&quot;_blank&quot;&gt;JSON&lt;/a&gt;&lt;br /&gt;
+4. &lt;a href=&quot;http://blog.accesstaiwan.org/&quot; target=&quot;_blank&quot;&gt;AccessTaiwan&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 06 Apr 2012 02:08:05 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">592 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/592#comments</comments>
+</item>
+<item>
+ <title>當「非商業性」遇上商業授權</title>
+ <link>https://creativecommons.tw/in-depth/510</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;張仰賢&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;數位典藏計畫執行了將近十年，從2007年開始，版權處理慢慢成為一個重要議題，應運而生的，是創用CC授權方式與盤點計畫的落實。在接觸創用CC推廣與盤點計畫落實的過程中，可以發現，有的典藏計畫本身並沒有制定授權規範， 而是直接採用創用CC授權條款，作為該計畫的授權機制。而最常用的，就是「姓名標示─非商業性─相同方式分享」與「姓名標示─非商業性─禁止改作」兩種授權條款。但是，這樣就可以處理所有授權的需求嗎？ 當「非商業性」遇上商業授權，要怎麼處理呢？&lt;/p&gt;
+
+&lt;p&gt;就這幾年輔導數位典藏處理授權使用的經驗，發現幾個使用創用CC授權的單位，並未積極的規劃授權業務；當接到商業使用的授權申請時，確又是非常需要專業的協助。在這裡分享一些我的經驗。 首先，必須先為典藏單位找到授權的法源依據，確認單位內是否訂定了智財權相關的管理辦法。在中央研究院，有的研究所已經制定了授權辦法與收費機制，有的則尚未有任何規劃， 所幸中央研究院總辦事處的公共事務組有長期處理科技移轉經驗，並且早已訂定了&lt;a href=&quot;http://otl.sinica.edu.tw/index.php?t=17&quot;&gt;相關辦法&lt;/a&gt;，例如：「中央研究院研究成果發展管理要點」、「中央研究院著作權處理要點」等。有了授權辦法當作後盾，典藏機構在授權業務上， 自然減少了可能觸法的疑慮。&lt;/p&gt;
+
+&lt;p&gt;其次，要搞清楚授權業務的行政程序，掌握簽約的流程，並了解簽約所需要的時間。商業授權時常伴隨著時效性，廠商常常有時間壓力，會儘量要求在最快時間內完成簽約。 所以需要努力瞭解簽約過程中，要經過哪些關卡，備齊哪些文件，這樣雙方才能確保授權工作的推展。&lt;/p&gt;
+
+&lt;p&gt;接著，授權單位最關心的，當然就是如何鑑定典藏品的價值，如何收取合理的授權經費。授權費用的收取，一般有「一次授權金」與「回饋金」兩種收費設計，這兩種收費方式可以同時使用，也可以只取其一。 有的單位沒有收費的機制，也不知道是否能收費，就以製作成的商品作為回饋，當作代替。通常，授權單位會希望參考國內外相關單位的收費標準，設定固定的費用。但是商業授權不是單面向的決定，而是單位與廠商之間的互動過程； 除了授權經費的收益之外，透過商品的推廣，對於典藏網站與授權單位，也有推廣效果。設定固定授權金額有方便、爭議少等優點，但是卻失去彈性，對於特定業態的廠商，等於關閉了授權的大門。 例如：一張影像收費1000元，出版廠商若規畫了300張圖片來製作經典圖冊，在授權費上就要立刻支付30萬元，對於廠商來說，是個不小的負擔。光就如何提供便利的授權服務的角度來看，如果建立了授權機制，就已經打開了授權利用的機會； 至於是不是每次都能順利跟廠商達成合作，未必是考量的重點。不過就推廣的角度來看，能了解廠商的需求，以有彈性的規劃授權方案促成合作，並增加各種收藏品的加值使用，回饋社會，也應是授權單位重要的考量面向。&lt;/p&gt;
+
+&lt;p&gt;採用創用CC方式釋出數位化的典藏品，是授權單位將收藏向公眾釋出的第一步，可以讓網路散布者、教育單位等，更放心的使用授權單位提供的素材，達到推廣與回饋社會的效果。但是「非商業性」的授權條件， 卻不是授權單位免於處理商業使用的保護傘。若是遇到商業授權的申請時，才發現單位本身並沒有相關設計，讓使用者抱怨，就表示既有的授權機制不夠完備。在數位典藏這個領域，因為聯合目錄與數位典藏與學習成果入口網的推廣， 大大增加了各單位典藏品的曝光機會。典藏品商業使用的機會越來越多，因為典藏單位無「法」可依循而使典藏品無法授權的狀況也時有所聞。希望這篇文章，對於初次面對商業授權的單，能提供些許幫助。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 29 Apr 2011 09:50:43 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">510 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/510#comments</comments>
+</item>
+<item>
+ <title>商業的開放心態．開放的商業型態</title>
+ <link>https://creativecommons.tw/in-depth/498</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Polley Wong&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;在全球 16 個國家中擁有 21 個據點的品牌設計公司 Landor Associates 的客戶群囊括 Coca-Cola、Levi&#039;s、FedEx、HP 以及 HSBC 等公司。Landor 從 1941 年開始在各種領域，輔佐各式大小的公司創立品牌，建立行銷與廣告形象。不單單熟知世界潮流，更引領潮流的 Landor，其執行創意總監 Paul Owen 於2010年底發表了篇對&lt;a class=&quot;external&quot; href=&quot;http://creativebits.org/opinion/trends_design&quot;&gt;2011年世界營銷的預告&lt;/a&gt;：&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;創新、影響力營銷和客戶體驗是2010年商界的時髦詞彙。消費者不再相信傳統營銷施展的虛假障眼法。要贏得消費者信任，企業必須每天、長期都要有良好的表現。而企業和消費者之間的公開合作程度是前所未有的。我們認識到，如果缺乏分享，那麼我們無法成為聰明的人，無法富有創意性和創新性。早在21世紀初，科技的爆炸性發展就已經優化了這種相互協作的關係。 …成功不再取決于遵照嚴謹的品牌指南並始終與之保持一致性，而是取決于品牌設計是否具有開放性、靈活性以及是否能帶來創新性的體驗，唯有如此才能讓品牌設計在不斷變化的市場環境中贏得消費者的心智。（以上譯文引自「&lt;a class=&quot;external&quot; href=&quot;http://big5.hdcmr.com/bgfree29734.html&quot;&gt;慧典市場研究報告網&lt;/a&gt;」）--&amp;nbsp;&lt;em&gt;Paul Owen&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;價值觀 (Value Recognition) 與生活型態 (Life Style) 認同才能長久聚眾&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;開放，意味著對學習與被學習抱持敞開的態度，意味著對於自身所擁有的創意與能力，能毫無私心並充滿虛心地分享努力的成果。開放的人，當然也讓他人學習的成果建築在自己的之上，因為今日自己的成果並非單靠自己努力，也倚賴了前人的智慧累積。&lt;/p&gt;
+
+&lt;p&gt;商業行為的歷史演進，從以物易物、商品買賣、以及體驗服務，進化成價值觀與生活型態的商業活動。開放的價值觀已深入各種領域中；政治上有美國歐巴馬總統，企業中有Google，藝術上有韓國的 JYP Entertainment 等，都看到獨排眾議，擁抱分享主義的身影。他們信任大眾 (The Crowd) ，也認為開放才能讓大眾信任；建立在信任關係下的使用者或支持者，才會深度參與並長期支持他們的工作。企業與消費者間的互動正以難以置信的速度趨向直接、真實並密切的合作模式，您的企業是否跟上了這種合作潮流呢？&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;分享行為激發新點子；新點子驅動新設計；新設計帶來新商機&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;協力合作 (Collaborative Working) 帶來的效果，以及給成員的滿足感，比孤軍奮鬥帶來的多。在企業內部如此，在企業外部亦然。我認為對創業作品持開放態度與商業利益完全不衝突。創意激勵新作品，分享新作品引發共鳴，所產生的共鳴具體化成另一個新作品，熱情與夢想就在這樣自給自足的情況下成長。創業家與商人具有市場靈敏且不畏改變的特質，他們擅長在既有環境下創造新價值，激發供需互動。攤販都知道要在遊樂園或馬戲團取得周邊效益，經由協力合作層層不斷產生的新作品潮與共鳴，與因受共鳴而來的人潮，難道無法產生商業效益嗎？&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;種子撒在對的地方，就會生出果園&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;除了市場需求驅動的商業模式改變，像&amp;nbsp;&lt;a class=&quot;external&quot; href=&quot;http://www.collaborativefund.com/&quot;&gt;Collaborative Fund&lt;/a&gt;&amp;nbsp;這樣的創投公司也跟上這波協力合作潮。&amp;nbsp;&lt;a class=&quot;external&quot; href=&quot;http://www.cnn.com/&quot;&gt;CNN&lt;/a&gt;和&amp;nbsp;&lt;a class=&quot;external&quot; href=&quot;http://www.ted.com/&quot;&gt;TED&lt;/a&gt;&amp;nbsp;等媒體也極其關注「社群創投」公司&amp;nbsp;&lt;a class=&quot;external&quot; href=&quot;http://www.kickstarter.com/&quot;&gt;Kickstarter&lt;/a&gt;&amp;nbsp;的成功。藉著「資訊共享」，讓社群「共同參與」，最終使「社會共利」。以下是知名共筆部落格&amp;nbsp;&lt;a class=&quot;external&quot; href=&quot;http://www.inside.com.tw/2010/11/30/kickstarter-funding-platform-for-creative-projects&quot;&gt;Inside&lt;/a&gt;&amp;nbsp;對 Kickstarter 的介紹。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Kickstarter 於2009年4月上線，網站本身的定位非常明確：創意專案的募資平台（Funding platform for creative projects）， Kickstarter 提供了媒合「有創意、有想法，但缺乏資金」與「有資金，也願意捐款支持好創意」的平台。 Kickstarter 相信，一個好的創意，透過適當的溝通，是可以快速地廣為流傳的；同時，集結眾人的力量來集結資金與精神上的鼓勵，可以讓你更實際也更有勇氣的實踐自己的好點子。-- Inside&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Collaborative Fund 像撒種的農夫，用對的方法（資訊分享），撒在對的地方（社群中），便會生出果子以提供更多的種子，形成自給自足的生態循環，供應更廣泛的人得利。真正的挑戰在於獨排眾議撒下第一顆種子。新一代的創業家要能夠跨越傳統的商業獲利模式，帶著長遠眼光，以社會共同得益為方向，導引無遠弗屆的網路社群進入互享互惠的情境，使建立資訊共享平台者、內容貢獻者，內容吸收者三方皆贏，持續共同成長。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 01 Apr 2011 15:14:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">498 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/498#comments</comments>
+</item>
+<item>
+ <title>什麼叫商業性？什麼叫非商業性？</title>
+ <link>https://creativecommons.tw/faq/22</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;一般對商業用途的認定是有直接的金錢或利益交換。 而創用 CC 授權對非商業用途的說明是：&lt;/p&gt;&lt;p&gt;「您不得以主要為獲取商業利益或私人金錢報酬的方式，行使依本授權條款第 3 條所授與之權利。以數位檔案分享或其他方式而以本著作交換其他受著作權保護之著作，若該著作物的交換並無涉及任何金錢報酬之給付，則不應被認為是為意圖獲取商業利益或私人金錢報酬。」&lt;/p&gt;&lt;p&gt;此外，在 CC 英文官方的常見問答也提到，若您不確定您使用方式是否符合他人的創作中非商業用途的條件，這部份 CC 組織無法幫您判定，您可以跟創作人聯繫以釐清問題。&lt;/p&gt;&lt;h4&gt;&lt;span&gt;參考資料&lt;/span&gt;&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://creativecommons.org/licenses/by-nc/3.0/tw/legalcode&quot;&gt;姓名標示─非商業性 3.0 台灣&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://wiki.creativecommons.org/FFAQ&quot;&gt;Is use X a violation of the Noncommercial clause of the licenses?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://wiki.creativecommons.org/Defining_Noncommercial&quot;&gt;Defining_Noncommercial&lt;/a&gt; (2009 年，CC 對使用者對於非商業使用的認知做調查。可下載完整報告的 PDF 檔)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 07 Mar 2011 07:36:36 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">317 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/faq/22#comments</comments>
+</item>
+<item>
+ <title>所以「非商業性」是指此作品無論如何都不得為商業目的之使用？</title>
+ <link>https://creativecommons.tw/faq/23</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;不是這樣的。「非商業性」授權要素的意思是，您將不會從「創用 CC 」授權條款中獲得商業性權利。若您需要進行商業用途，您隨時可以直接接觸授權人洽談授予您商業權利。&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 07 Mar 2011 07:36:35 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">312 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/faq/23#comments</comments>
+</item>
+<item>
+ <title>某網站需要註冊才能下載別人以創用 CC 授權的檔案，而我使用別的軟體繞過註冊限制、順利取得該檔案，這是否違反創用 CC 精神？</title>
+ <link>https://creativecommons.tw/faq/80</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;創用 CC 授權主要的目標是藉由創作人自願減少著作權的限制，讓使用者有更多的權利與使用上的彈性，與本問題的著眼點「取得方式」較不相關。若該網站沒有說明不得藉 由其他方式取得該檔案（例如試聽時，從自己電腦的暫存區找出這暫存檔等），便比較沒有爭議；但若該網站於使用者條款等處規定必須先行註冊才能取得檔案，那麼您採用軟體繞過限制 可能就違反此約定。又，即便創作人採創用 CC 授權其著作，真正的權利還是在創作人手中，該網站是否有權利限制他人的取得方式，仍需視個案情形而定。&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 07 Mar 2011 07:36:34 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">298 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/faq/80#comments</comments>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 地理</title>
+ <link>https://creativecommons.tw/category/tags/%E5%9C%B0%E7%90%86</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>2012.12.15 開放街圖研討會</title>
+ <link>https://creativecommons.tw/blog/20121126</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;台灣創用CC計畫&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;早期，我們透過紙本地圖，找出目的地的路徑，循線前往。但，總免不了，印出的道路資訊會隨著時間，逐漸失真。&lt;/p&gt;
+
+&lt;p&gt;現在，科技發達，導航成為許多駕駛人的必備輔助工具，似乎更為即時。但，你會發現GPS導航理的資訊有些錯誤，確也無法即時回報資料，只能痴痴等待廠商哪天可以發現修改，而，實際的路況，也無法即時更新。至於能不能開到目的地，就各憑運氣和直覺判斷了。&lt;br /&gt;
+&lt;br /&gt;
+近來生活中，也不乏出現因為相信導航，而上演迷航記，或者連人帶車開進河裡的新聞。這很多時後，是因為資訊不夠完整與即時更新所導致。單憑廠商的力量，是需要極高的成本。那麼倘若我們自己就能更新這些資料，並且把修改後的正確資料分享出來，大家不就可以在對的基礎上，再做其他的應用麼？&lt;/p&gt;
+
+&lt;p&gt;這就是「開放街圖」正在處理的事情：透過「開放授權」的方式，讓大眾可以一起參與地圖的編輯，藉由大家的力量，讓地圖內容更精確，修正也更即時。這樣大眾協作的概念，也恰恰呼應台灣創用CC計畫所推動的自由文化理念。&lt;/p&gt;
+
+&lt;p&gt;本次研討會邀請台灣創用CC計畫主持人莊庭瑞先生，開場主講「協同合作計畫的資料與策略」。此外，也邀請許多在此領域耕耘許久的朋友分享經驗。歡迎大家把握機會，撥冗前往交流。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;會議簡介：&lt;/strong&gt;&lt;br /&gt;
+開放街圖 (OpenStreetMap) 計畫已經在台灣進行多年，隨著開放街圖在全球知名度大開，台灣的製圖參與者 (mappers) 與日增多，台灣開放街圖雖然沒有政府部門開放資料與製圖相關的商業團體支持，在 mappers 一步一腳印地繪製，台灣地區資料量也日漸豐富，但相對於鄰近日本，以及歐美各國，台灣開放街圖仍然不足，亟需更多 mappers 的加入。&lt;/p&gt;
+
+&lt;p&gt;台灣開放街圖一年約舉辦二次製圖者聚會 (mapping party)，也極積參與各項活動與推廣，惟台灣 OSM 社群目前缺乏系統性互動討論，以及更深入地對於技術發展、應用推動、和交流的平台，因此舉辦台灣 OSM 研討會，冀期讓以社群為主的地圖成為產官學界共同討論的目標，達到概念性與技術性。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;會議時間：&lt;/strong&gt;2012.12.15&amp;nbsp; 8：30報到&lt;br /&gt;
+&lt;strong&gt;會議地點：&lt;/strong&gt;&lt;a href=&quot;http://www.openfoundry.org/tw/activities/venueevents/107-sinica-citi-122&quot;&gt;中央研究院資訊科技創新研究中心 122 演講廳&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;會議網頁：&lt;/strong&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://sotmtw12.openstreetmap.tw/&quot;&gt;http://sotmtw12.openstreetmap.tw/&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;報名網址：&lt;/strong&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://www.openfoundry.org/tw/activities/details/348-sotm&quot;&gt;http://www.openfoundry.org/tw/activities/details/348-sotm&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;議程：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table border=&quot;1&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;th&gt;時間&lt;/th&gt;
+			&lt;th&gt;議程&lt;/th&gt;
+			&lt;th&gt;講者&lt;/th&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;08:30~09:30&lt;/td&gt;
+			&lt;td&gt;報到&lt;/td&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;09:30~09:50&lt;/td&gt;
+			&lt;td&gt;開幕&lt;/td&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;09:50~10:30&lt;/td&gt;
+			&lt;td&gt;Keynote — 協同合作計畫的資料與策略&lt;/td&gt;
+			&lt;td&gt;莊庭瑞&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;10:30~11:00&lt;/td&gt;
+			&lt;td&gt;Coffee Break&lt;/td&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;11:00~11:30&lt;/td&gt;
+			&lt;td&gt;Open data 與 OSM 發展策略&lt;/td&gt;
+			&lt;td&gt;徐子涵&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;11:30~12:00&lt;/td&gt;
+			&lt;td&gt;應用 OSM 和 OpenGeoSMS 支援防救災訊息收集與管理&lt;/td&gt;
+			&lt;td&gt;莊國煜&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;12:00~13:30&lt;/td&gt;
+			&lt;td&gt;午餐&lt;/td&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;13:30~14:00&lt;/td&gt;
+			&lt;td&gt;融合 OSM 於服務學習課程之探討&lt;/td&gt;
+			&lt;td&gt;張智安&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;14:00~14:30&lt;/td&gt;
+			&lt;td&gt;利用開放街圖技術建立歷史地理資訊協作平台&lt;/td&gt;
+			&lt;td&gt;廖泫銘&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;14:30~15:00&lt;/td&gt;
+			&lt;td&gt;From Open Source To Open Data — 從 OpenStreetMap 的授權轉換看公開資料授權&lt;/td&gt;
+			&lt;td&gt;林誠夏&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;15:00~15:30&lt;/td&gt;
+			&lt;td&gt;Coffee Break&lt;/td&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;15:30~15:50&lt;/td&gt;
+			&lt;td&gt;以 OSM 開發高雄公車服務系統&lt;/td&gt;
+			&lt;td&gt;劉俊宏&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;15:50~16:05&lt;/td&gt;
+			&lt;td&gt;OSM 之郵筒計畫&lt;/td&gt;
+			&lt;td&gt;陳瑞霖&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;16:05~16:20&lt;/td&gt;
+			&lt;td&gt;Wheelmap 中文化與發展&lt;/td&gt;
+			&lt;td&gt;李昕迪&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;16:20~16:30&lt;/td&gt;
+			&lt;td&gt;OSM中的台灣原住民語&lt;/td&gt;
+			&lt;td&gt;高盛華&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;16:30~17:10&lt;/td&gt;
+			&lt;td&gt;Panel Discussion&lt;/td&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;17:10~18:40&lt;/td&gt;
+			&lt;td&gt;BoF (with Beverage and Food)&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 26 Nov 2012 04:11:16 +0000</pubDate>
+ <dc:creator>ccworker</dc:creator>
+ <guid isPermaLink="false">653 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20121126#comments</comments>
+</item>
+<item>
+ <title>台灣公部門地理資訊開放的障礙</title>
+ <link>https://creativecommons.tw/in-depth/650</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;鄧東波/文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;一、什麼是開放地理資料 (Open Geo-Data)?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;開放地理資料(Open Geo-Data)是指「沒有技術和法律上障礙的地理資料」，也就是說，一方面，開放的地理資料應該使用開放源碼(open source)和開放標準(open standards)來交換和存取資料， 不被任何特定資料格式或技術方法所限制，另一方面，開放地理資料應該是使用開放的授權方式釋出，使地理資料交換和存取不因法律或智慧財產權(intellectual property right)限制，而使資料可無償地被自由的散佈．再製和修改。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;二、台灣公部門地理資料開放現況與問題&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;台灣政府公部門的地理資料相當豐富不亞於先進的歐美國家，從中央到地方皆有圖資服務平台提供地理圖資服務，但這些地理資料仍不是開放資料(Open Data)。&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.1. 公開不等於開放&lt;/strong&gt;&lt;br /&gt;
+使用者可以透過公部門所建立的圖資服務平台瀏覽地理資料，多數公部門圖資服務平台依循地理資訊標準接口(portal)來交換地理資訊，如Web Map Service(WMS)，克服技術上資訊交換的問題，使這些圖資可與其它資訊混搭(mashup)，而有些平台則直接提供免費圖資。但這些圖資的供應單位仍然宣告自身對於地理資訊的所有權，再者， 基於圖資涉及許多法規和管理辦法，如國土測繪法和各種圖資流通辦法 無論付費或免費圖資， 其圖資供應單位並沒有切確地說明圖資本身是否可以修改、再製和散佈，即使拿到了地理資料，使用上仍然有許多違法的疑慮，無形中形成一道的牆，這些已經「公開的」地理資訊，若沒有完善的開放授權條款，終究是一個不「開放的」資料。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.2. 不正確的「開放」心態&lt;/strong&gt;&lt;br /&gt;
+由近來台灣政府對於開放資料的做法來看，台灣政府過於強調開放公部門資料的「加值」，而所謂的「加值」是一昧地將公開的公部門資料貼上價錢的標籤，而忽略了開放資料的首要是如何建立透明化的制度， 也就是如何讓資料使用者知道什麼條件下，什麼資料是可以開放？為什麼不能開放？ 開放的授權條款是什麼？是否可以保障資料使用者免於智慧財產權的限制？是否可以讓資訊釋出單位能免於釋出資料錯誤而責罰？ 開放所創造的利益，在於資料透明化，對於資料熟悉的人、有創意的人或有能力的人可以利用這些開放資料來開放出更有價值應用程式或服務而獲益，這些獲益最後又能回歸到人民或資料提供單位， 因此開放資料所創造的價值是在開放後，不是在開放前貼上價錢。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.3 缺乏地理資料開放的條款&lt;/strong&gt;&lt;br /&gt;
+政府在開放資料必須要有一套明確合理的授權條款，使得開放的資料可以被使用、修改、再製和散佈，如美國聯邦政府所產出的地理資料為公眾領域(Public Domain)， 英國政府在2010年即建立「開放政府條款」(Open Government License)，其授權方式與「開放資料共用姓名標示條款」(Open Data Commons Attribution License , ODC-By) 相似， 但對於資料提供者的角色宣告更為明確，且清楚指出那方面的資料不在授權條款中，更重要的是對於所釋放的資料若有錯誤的免責聲明。英國測繪局(ordnance survey)則是以此條款釋放他們的地理資料， 然而，台灣政府目前並沒有相關的法案明確地促使公部門的地理資料開放，就開放地理資料的發展而言，台灣政府應該參考國際間的做法，建立一套公部門的地理資料的開放授權條款。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;三、結語&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;公部門地理資料又被稱為「空間基礎設施」(Spatial Infrastructure)，如同橋樑道路，是政府應該提供建設以支撐民生經濟發展，開放地理資料如同造橋鋪路，然而，除了高速公路外，一般道路收錢嗎？同樣的道理，政府應該思考什麼原則的地理資料是應該開放，什麼地理資料經過加值處理應該收錢？ 目前台灣多數地理資料仍然需要申請付費，若未經加值處理的地理資料是基礎設施，用這些地理資料如同走在一般道路，難道有人收錢嗎？若有，那一定流氓地痞之人。&lt;/p&gt;
+
+&lt;p&gt;---&amp;nbsp;&lt;br /&gt;
+&lt;strong&gt;延伸閱讀：&lt;/strong&gt;&amp;nbsp;&lt;br /&gt;
+&lt;a href=&quot;http://www.slideshare.net/dongpo/the-road-to-opening-up-governmental-geospatial-data-in-taiwan&quot; target=&quot;_blank&quot;&gt;http://www.slideshare.net/dongpo/the-road-to-opening-up-governmental-geospatial-data-in-taiwan&lt;/a&gt;(投影片)&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 01 Nov 2012 16:00:00 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">650 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/650#comments</comments>
+</item>
+<item>
+ <title>網路時代下的智慧財產權與地理資訊</title>
+ <link>https://creativecommons.tw/blog/20101121</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Peitta Wang&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;由於著作權法「不保護概念，只保護表達｣，所以在網路上產生許多值得探索的議題，例如：地理資訊。當利用電腦與網路可以輕易地計算或統計出一定的地理資訊、或是集結網路力量(來源可以是個人、地區、州、聯邦、營利事業或非營利事業)，都可以對於某一個地理區域的資訊予以創造或重現時，如何結合這些地理資訊，再加以分享、使用或再使用時，就必須考量如何整合這些來自不同地方的資訊，尤其是當這些資訊的授權方式、契約義務都不同時，其互相間的相容性問題。&lt;/p&gt;
+
+&lt;p&gt;對於地理資訊之分享與建構有興趣的朋友，可以注意明年於美國所舉辦的網路時代下的智慧財產權與地理資訊研討會「Law and the GeoWeb｣，該研討會係由Creative Commons與美國地質勘探局(United States Geological Survey (USGS))聯合贊助，並於2011年4月11日在華盛頓州西雅圖Microsoft Research的園區中舉辦，他們也將會把研討會內容放在網路上與大家分享。&lt;/p&gt;
+
+&lt;p&gt;當天包括來自聯邦、州與地方政府、Creative Commons、草根團體與組織、智慧財產權律師、空間與資訊產業、研究與學術組織與團體的講者如下：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Ed Arabas, National States Geographic Information Council&lt;/li&gt;
+	&lt;li&gt;Greg Babinski, King County, State of Washington&lt;/li&gt;
+	&lt;li&gt;Michael Brick, Microsoft Legal, Bing Maps&lt;/li&gt;
+	&lt;li&gt;Steve Coast, Founder, Open Street Maps&lt;/li&gt;
+	&lt;li&gt;Kari Craun, Director, National Geospatial Technical Operations, USGS&lt;/li&gt;
+	&lt;li&gt;Ed Parsons, Chief Technologist, Google Maps, Google&lt;/li&gt;
+	&lt;li&gt;Diane Peters, General Counsel, Creative Commons&lt;/li&gt;
+	&lt;li&gt;Tim Trainor, Bureau Chief, Geography Division, US Census Bureau&lt;/li&gt;
+	&lt;li&gt;Paul Uhlir, Director, Board for Research, Data and Information, NRC&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;更多資訊，請參考&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;研討會 &lt;a class=&quot;newpage&quot; href=&quot;http//punkish.org/geoweb/index.html&quot;&gt;Law and the GeoWeb&lt;/a&gt; (連結失效)&lt;/li&gt;
+	&lt;li&gt;Jane Park, &lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog&quot;&gt;Law and the GeoWeb, a workshop on IP and geographic data in the internet era sponsored by Creative Commons and the United States Geological Survey&lt;/a&gt; ，2010年11月19日&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 21 Nov 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">231 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20101121#comments</comments>
+</item>
+<item>
+ <title>Data.gov: 資料公開釋出成多國政府要務</title>
+ <link>https://creativecommons.tw/blog/20100201</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;莊庭瑞(trc)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;美國歐巴馬總統就任後，推動各項「開放政府前瞻」 (Open Government Initiative) 作為，倡導參與式民主，其中 &lt;a class=&quot;newpage&quot; href=&quot;http://www.data.gov/&quot;&gt;data.gov&lt;/a&gt; 是重要的一環。 Data.gov 網站提供了眾多由美國聯邦政府行政部門所產出、高價值、可再資訊處理的資料集，方便公眾查詢利用。事實上，美國聯邦政府所屬機關所產出的著作與資料集，屬於公共領域，任何人都可以自由使用、不受限制。 Data.gov 作為一個政府資料集的大型集散網站，還同時收錄了關於這些資料集的後設資料、以及處理所需的軟體工具，眾人都可以自由下載使用。該網站並有明確易懂的 &lt;a class=&quot;newpage&quot; href=&quot;http://www.data.gov/datapolicy&quot;&gt;「資料政策聲明」 (Data Policy Statements)&lt;/a&gt;，值得參考。&lt;/p&gt;
+
+&lt;p&gt;舉例來說，經由 data.gov 可以方便找到美國人口普查局 (United States Census Bureau) 所釋出的地圖集 &lt;a class=&quot;newpage&quot; href=&quot;http://www.census.gov/geo/www/tiger/&quot;&gt;TIGER&lt;/a&gt; (Topologically Integrated Geographic Encoding and Referencing) 。該地圖集收錄了 164,593 份十萬分之一比例尺的的行政區地圖，每份地圖尚包括區內的道路、建物、水系、行政區界線等詳細資料。該地圖集因為是美國聯邦政府所產出，歸屬於公共領域，任何人都可以自由下載使用，不受限制。目前該地圖集已使用於 &lt;a class=&quot;newpage&quot; href=&quot;http://www.openstreetmap.org/&quot;&gt;openstreetmap.org&lt;/a&gt; 這個由使用者社群所建立地圖網站，作為美國部份的底圖。&lt;/p&gt;
+
+&lt;p&gt;除了美國政府，英國政府和澳洲政府也分別建置了 &lt;a class=&quot;newpage&quot; href=&quot;http://data.gov.uk/&quot;&gt;data.gov.uk&lt;/a&gt; 以及 &lt;a class=&quot;newpage&quot; href=&quot;http://data.australia.gov.au/&quot;&gt;data.australia.gov.au&lt;/a&gt; 網站。英國的網站是在 Tim Berners-Lee 爵士以及 Nigel Shadbolt 教授的指導下成立，強調「公部門資訊」 (Public Sector information) 的公開與再次使用，並與「語意網」 (Semantic Web) 資訊技術結合。澳洲的網站，特別指明歡迎大眾使用網站所提供的資料集，為新的應用（也就是 mash-up）。不過值得注意的是，英國政府與澳洲政府所提供的資料集，並不屬公共領域的性質，而是以簡明、開放的授權方式釋出，由政府提供給大眾使用。這部份的細節請參考英國網站政府的&lt;a class=&quot;newpage&quot; href=&quot;http://data.gov.uk/terms-conditions&quot;&gt;「使用條款與前提」 (Terms and Conditions)&lt;/a&gt;，以及澳洲政府網站的&lt;a class=&quot;newpage&quot; href=&quot;http://australia.gov.au/about/terms-of-use&quot;&gt;「使用條款」 (Terms of Use)&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+資料政策聲明(Data Policy Statements)、英國網站政府「使用條款與前提」(Terms and Conditions)連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 01 Feb 2010 04:00:00 +0000</pubDate>
+ <dc:creator>trc</dc:creator>
+ <guid isPermaLink="false">191 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20100201#comments</comments>
+</item>
+</channel>
+</rss>

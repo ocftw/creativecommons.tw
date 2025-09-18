@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - Open Government</title>
+ <link>https://creativecommons.tw/category/tags/open-government</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>為什麼美國政府要用 CC0 來拋棄其資料集與軟體專案的著作權利？ - 公眾授權討論系列（三）</title>
+ <link>https://creativecommons.tw/blog/2016112802</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/20161115.png?itok=HovCs6CK&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;New Trademark App Open Source Code on Github: &lt;a href=&quot;https://content.govdelivery.com/accounts/USPTO/bulletins/172b0eb&quot; target=&quot;_blank&quot;&gt;https://content.govdelivery.com/accounts/USPTO/bulletins/172b0eb&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;因應美國聯邦資訊長 Tony Scott 在 2016 年 8 月公布的「聯邦程式開源政策 (Federal Source Code Policy)」，及配合白宮開放政府促進專案 (Open Government Initiative) 的施政舉措，美國專利及商標局 (United States Patent and Trademark Office, USPTO)，近期將其提供民眾查詢商標及追蹤商標狀態的應用程式 APP 給開放源碼，並置於 GitHub 託管平台上供人下載，所使用的授權條款，嚴格來說並不是授權條款，因為已無任何授權行為產生，究其要理，是在法律容許最大限度內將著作財產權利拋棄的「CC0 公眾領域貢獻宣告 (CC0 Public Domain Dedication)」；其實，這並不是美國聯邦機關構首次採用 CC0 來拋棄素材的著作權利，早在 2014 年美國聯邦政府即公開表態，支持適用 CC0 於一些聯邦政府著作，例如美國開放資料行動計畫 (U.S. Open Data Action Plan) 的相關文件，皆以 CC0 的方式發布。&lt;/p&gt;
+
+&lt;p&gt;所謂 CC0，是讓科學家、教育工作者、藝術家、其他創作者及著作權人，或內容受資料庫特別權保護的權利人等，拋棄他們對各自著作的財產權利，並盡可能將這些著作釋出到公眾領域 (Public Domain)，讓其他人可以任何目的自由地以該著作為基礎，從事創作、提升或再使用等行為，而不再受到著作權或是資料庫相關法律的限制。故美國聯邦政府下個別機關構的這些舉措，也引發了相當的討論和疑惑，而究竟為什麼美國聯邦政府，要用 CC0 來拋棄其資料集與軟體專案的相關著作權利？&lt;/p&gt;
+
+&lt;p&gt;其實，美國聯邦政府的作品，依其著作權法第 105 條，必須適用一個獨特設計，該條規定美國聯邦政府產出之作品，並不能受到著作權利的保護，故能夠在最大容許範圍內，供不特定多數人皆可自由利用，包括重製、散布、改作、公開演播等面向。然而，同法亦規定，若該作品是透過委任或其他法律關係，之後再轉讓、贈予，而讓美國聯邦政府成為著作權利特有者，則已非此條規定的涵攝範圍。再者，基於智慧財產權領域的國際互惠原則，美國聯邦政府的作品對其國民不得主張著作權利的保護，不代表對其他國家的國民，也直接作一樣狀況的解讀，因其他國家的政府作品，並沒有拋棄其對自國國民著作權利的主張，也就是說，互惠原則沒辦法保障美國國民，亦可不受限制近用他國政府的作品，故基於互惠衡平的立場，美國聯邦政府的作品，並不直接能為他國國民自由使用。&lt;/p&gt;
+
+&lt;p&gt;Tony Scott 於 2016 年 8 月 8 日發布的「聯邦程式開源政策」時，便是採取上述觀點，認為聯邦政府產出的程式源碼，雖在國內已近於公眾領域，但此除外規定並不能直接全球適用，故個別專案的執事者，便依其偏好，主動選擇適合的自由開放源碼授權 (Free and Open Source Software Licenses)，將相關程式源碼釋出，以利這些程式源碼可以在不產生疑慮的狀況下全球流通。但這樣的處理方式，也就代表個別美國聯邦政府持有的開源專案，是以政府本身擁有著作權利的角度來自我看待，從而才有地位擇用自由開放源碼授權來散布軟體，這般的解讀方式，也引發部份論者的批評，因若程式專案本身確實是由美國聯邦政府直接聘僱人員所撰寫，則回到其著作權法第 105 條的原始規定，美國聯邦政府不得主張任何著作權利，從而亦無立場，將其添加使用限制之後，採自由開放源碼授權提供予自己國人。&lt;/p&gt;
+
+&lt;p&gt;故而部份專案的處理方式，就是類同 USPTO，將所釋出的程式源碼或其他素材，標示以 CC0 進行公眾領域貢獻的宣告，以消弭所有可能產生的爭議。雖然從嚴格法律分析來看，要將自身持有的素材以 CC0 貢獻，前提是宣告者必須先擁有著作財產權利，然而 CC0 已經是法律上最接近跨國跨界公眾領域狀態的宣告，故在許多的狀況下，其便成為多方意見爭議者，所能共同接受的權衡方案。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;「公眾領域貢獻宣告」（CC0）: &lt;a href=&quot;http://creativecommons.tw/cc0&quot; target=&quot;_blank&quot;&gt;http://creativecommons.tw/cc0&lt;/a&gt;。&lt;/li&gt;
+	&lt;li&gt;白宮支持運用CC0於聯邦政府資料集: &lt;a href=&quot;http://creativecommons.tw/blog/20141001&quot; target=&quot;_blank&quot;&gt;http://creativecommons.tw/blog/20141001&lt;/a&gt;，2014 劉芊影/編譯，CC BY-SA 3.0 TW。&lt;/li&gt;
+	&lt;li&gt;White House supports CC0 for federal government datasets: &lt;a href=&quot;https://creativecommons.org/2014/05/09/white-house-supports-cc0-for-federal-government-datasets/&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/2014/05/09/white-house-supports-cc0-for-federal-government-datasets/&lt;/a&gt;, 2014 Timothy Vollmer, CC BY 4.0.&lt;/li&gt;
+	&lt;li&gt;New Trademark App Open Source Code on Github: &lt;a href=&quot;https://content.govdelivery.com/accounts/USPTO/bulletins/172b0eb&quot; target=&quot;_blank&quot;&gt;https://content.govdelivery.com/accounts/USPTO/bulletins/172b0eb&lt;/a&gt;, 2016 United States Patent and Trademark Office.&lt;/li&gt;
+	&lt;li&gt;Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software: &lt;a href=&quot;https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf&quot; target=&quot;_blank&quot;&gt;https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf&lt;/a&gt;, 2016 United States Chief Information Officer.&lt;/li&gt;
+	&lt;li&gt;USPTO/TrademarkStatusApp: &lt;a href=&quot;https://github.com/USPTO/TrademarkStatusApp&quot; target=&quot;_blank&quot;&gt;https://github.com/USPTO/TrademarkStatusApp&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Open Government Initiative: &lt;a href=&quot;https://www.whitehouse.gov/open&quot; target=&quot;_blank&quot;&gt;https://www.whitehouse.gov/open&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Copyright Law of the United States of America, § 105. Subject matter of copyright: United States Government works: &lt;a href=&quot;http://www.copyright.gov/title17/92chap1.html#105&quot; target=&quot;_blank&quot;&gt;http://www.copyright.gov/title17/92chap1.html#105&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 27 Nov 2016 17:09:13 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1238 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/2016112802#comments</comments>
+</item>
+<item>
+ <title>何種權利吸納能轉以政府資料開放進行應用？ - 公眾授權討論系列（二）</title>
+ <link>https://creativecommons.tw/blog/20161127</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/Taiwan%20Open%20Government%20Data%20License-1.0.png?itok=uXpVpsE5&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;政府資料開放授權條款－第 1 版: &lt;a href=&quot;http://data.gov.tw/license&quot; target=&quot;_blank&quot;&gt;http://data.gov.tw/license&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;「&lt;a href=&quot;http://data.gov.tw/license&quot; target=&quot;_blank&quot;&gt;政府資料開放授權條款－第 1 版&lt;/a&gt;&amp;nbsp;(Open Government Data License version 1.0, OGDL-1.0)」，已於 2015 年 7 月 27 日訂定並公告生效，此一版本為行政院國家發展委員會邀集中央各部會集思廣益，並廣納民間建議進行討論後，取得共識的革新版本。OGDL-1.0 與過往「使用規範」在授權處理上，亦具有極大的差異，並提供使用者極高的應用空間與自由。整體而言，OGDL-1.0 的革新性有三大要點：1、明訂所提供之資料，在著作權領域的授權不會被撤回，且不限制使用時間、地域，與目的，讓使用者都能夠安心使用這些資料；2、使用者得以自己名義，對這些資料以再轉授權之模式進行利用，有助於開放資料被用於任何情境，包括商業目的之脈絡；3、於第 4 條第 2 項新增「創用CC 授權轉換條款」，讓原以 OGDL-1.0 提供的資料，必要時得轉以「創用CC 姓名標示 4.0 國際版本授權條款 (Creative Commons Attribution License 4.0 International, CC BY 4.0)」的方式進行利用。綜合上述三點，OGDL-1.0 是一個對使用者非常親善，且鼓勵再行衍生利用的授權模式。只不過，對於公務單位來說，要提供如此大範圍的授權利用，依傳統模式原則上僅有公務人員自行產製的編輯著作，或是採購契約上明定機關取得所有權利的素材，才適合採用 OGDL-1.0 進行公眾授權。&lt;/p&gt;
+
+&lt;p&gt;然而，若是在採購、補助之初，即可透過契約附款的方式，明確表示公務機關構，得採非專屬 (non-exclusive)、不可撤回 (irrevocable)、得再轉授權 (sublicensable) 之模式，取得專案相關著作財產權利之授權，且嗣後亦得進行任何目的之利用(for any purpose)，則即使在非專屬授權之基礎，亦不妨礙取得素材之機關構，嗣後將其轉以 OGDL-1.0 授權，並置於 data.gov.tw 平台上進行不限制對象之流通！在必要時，亦得以選擇任一組合的創用CC 授權條款，進行後續的公眾釋出。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【非專屬授權吸納卻不限制使用目的、期間之國際先例】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;從商用領域與社群發展的著例來看，Google Android 與全球擴散的「開放街圖專案 (OpenStreetMap)」，其用於著作權利吸納的貢獻條款，皆是以非專屬、不可撤回、不限制使用目的、時間、地域，得再轉授權方式取得貢獻後，再由被授權之統轄法人，以接續得允許再轉授權方式將這些成果以集合方式釋出予公眾使用。前者依此條件取得貢獻者授權後，是 Google 採自身名義，以 Apache-2.0 開源授權釋出軟體專案的集合成果，而後者則採「開放資料庫授權條款 1.0 (Open Database License, ODbL-1.0)」，由開放街圖基金會 (OpenStreetMap Foundation，OSMF) 為授權人，釋出所編撰的地圖資料庫。&lt;/p&gt;
+
+&lt;p&gt;此外，國外政府就公部門這端，亦開始靈活運用授權吸納與再轉授權機制，以較低廉的價金取得著作權利授權，嗣後亦得在必要時指定改採公眾授權模式來釋出相關素材。例如美國聯邦政府勞動部，透過補助契約要求 1 億 5000 萬美元的失業人口再就職輔導計畫成果，明示保留其「已償付、非專屬、不可撤回」的被授權地位；而美國國家地理資訊局 (National Geospatial-Intelligence Agency, NGA) 與民間廠商，透過圖資授權契約取得之被授權地位，原本僅得用於公務目的之使用，然註記一旦發生重大災難，其可援引附約規定，將國家地理資訊局本來取得的授權，轉予其他協助災難救助的州政府、地方政府、國際協助組織，或其他協力救災的相關機構進行使用。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【改採政府資料開放授權條款提供素材之吸納要點】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;可知國際上政府機構或大型機構，透過著作權指定或讓予取得權利，並非唯一方式，而以非專屬、不可撤回、得再轉授權、不限制目的；或在特殊狀況如急難救助的名義下，開啟得再轉授權與不限制目的之特殊地位，是一個更靈活與便利被授權者未來舉措的模式與趨勢。一般來說，要達到這樣的授權吸納，於最初的著作權及相關權利授權同意書，應具體述明下列的權利吸納要點：&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;茲將本人／公司提交之_XXXXX專案_之著作財產權，採非專屬 (non-exclusive)、不可撤回 (irrevocable)、得再轉授權 (sublicensable) 之模式，授權予「機關構名稱」嗣後進行任何目的之利用 (for any purpose)，包括但不限於以本人／公司名義、被授權人名義，或其他合法經被授權人依本同意書再授權者，採「政府資料開放授權條款-第 1 版 (http://data.gov.tw/license)」或其他開放授權條款向外釋出。&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;如未涉及著作人格之污衊，本人／公司同意不向被授權人及其後續授權對象，行使著作人格權。&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;設此，則被授權之公務機關構，即取得一個雖基於非專屬的基礎，但無礙將相關素材未來改以開放授權提供予公眾使用之地位，並且必要時，得逕以提交者本身名義，或公務機關構名義進行授權散布。從實而言，過去我國多數的公務機關，並未知曉是類契約的訂立方式，然隨著開放資料、開源軟體的逐年推廣與加深應用，未來勢必將有部份重要的資料、素材，應透此種吸納模式取得，一方面能夠讓原權利人繼續深度活化應用其創作或編輯成果，另一方面則亦可在必要時，將最符合公眾需求的素材，酌採開放授權的模式進行散布，以收權利保障與推展應用相合益彰之效果。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;政府資料開放授權條款－第1版：&lt;a href=&quot;http://data.gov.tw/license&quot; target=&quot;_blank&quot;&gt;http://data.gov.tw/license&lt;/a&gt;，2015 行政院國家發展委員會。&lt;/li&gt;
+	&lt;li&gt;Google Individual Contributor License Agreement: &lt;a href=&quot;https://cla.developers.google.com/clas/new?domain=DOMAIN_GOOGLE&amp;amp;kind=KIND_INDIVIDUAL&quot; target=&quot;_blank&quot;&gt;https://cla.developers.google.com/clas/new?domain=DOMAIN_GOOGLE&amp;amp;kind=KIND_INDIVIDUAL&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;OpenStreetMap Contributor Terms 1.2.4: &lt;a href=&quot;https://wiki.osmfoundation.org/w/index.php?title=Licence/Contributor_Terms&amp;amp;redirect=no&quot; target=&quot;_blank&quot;&gt;https://wiki.osmfoundation.org/w/index.php?title=Licence/Contributor_Terms&amp;amp;redirect=no&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;Notice of Availability of Funds and Solicitation for Grant Applications for H-1B Ready to Work Partnership Grants: &lt;a href=&quot;https://www.doleta.gov/grants/pdf/SGA_DFA_PY_13_07.pdf, 2014 U.S. DEPARTMENT OF LABOR&quot; target=&quot;_blank&quot;&gt;https://www.doleta.gov/grants/pdf/SGA_DFA_PY_13_07.pdf, 2014 U.S. DEPARTMENT OF LABOR&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;NextView Imagery End User License Agreement: &lt;a href=&quot;http://geocenterusaid.org/rswebpage/NextView.html&quot; target=&quot;_blank&quot;&gt;http://geocenterusaid.org/rswebpage/NextView.html&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Nov 2016 17:39:47 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1236 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20161127#comments</comments>
+</item>
+<item>
+ <title>美國總統歐巴馬發布行政命令支持開放資料</title>
+ <link>https://creativecommons.tw/blog/20130701-1</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;劉芊影 譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;日前美國總統歐巴馬發布了一則行政命令，要求聯邦政府的資訊應公開且是可供機器閱讀的，這項命令是自2009年開始一系列關於支持增加政府資訊的可接近性及透明度的最新行動。除了此一行政命令外，白宮也發布了一則備忘錄(&lt;a href=&quot;http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf&quot;&gt;Memorandum&lt;/a&gt;)解釋聯邦政府將如何作為以符合這項開放資料(open data)的新政策。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;此備忘錄要求政府機關收集或創建資料的方式包括對於所有新資料收集、創造的工作應使用機器可讀的、開放的格式、數據標準以及相同核心而可擴展的後設資料。它亦包括政府機關應該確保在資料管理的方面，透過使用開放授權以及審查資料的隱密性、機密性、安全性或其他相關限制來做釋出的動作。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;它在開放資料方面也提供了一套具遠見的指引。根據該備忘錄的目的，所謂的開放資料一詞，指涉的是公開可用的數據結構使終端使用者能完全發現並使用之。一般而言，開放資料會和下述原則一致：&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;公開(Public)&lt;/p&gt;
+
+&lt;p&gt;為符合美國政府預算及管理局(OMB)的開放政府指令(Open Government Directive)，各機關必須採取在法律允許的推定範圍內，有利於開放的程度，以及服從隱私、安全、機密性等等限制。&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;可近用性(Accessible)&lt;/p&gt;
+
+&lt;p&gt;開放資料提供了方便、修改、開放的格式，使其能夠被檢索、下載、指引及搜尋。該格式必須是可供機器閱讀者(例如：具合理數據結構能夠允許自動處理)。開放資料的數據結構不歧視任何人或任何族群的人，而且應該提供予最廣泛的使用者為了最廣泛的用途。此外，在法律允許的範圍內，這些格式必須是非私人的、公開的且在使用上沒有限制的。&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;充分說明(Described)&lt;/p&gt;
+
+&lt;p&gt;開放資料應被充分的說明，使這些資料的消費者有充足的資訊了解他們的優勢、劣勢、安全性的要以及如何運行、處理他們。這包括使用健全的、粒狀的後設資料(例如：描述資料的元素)，經由完整的資料元素文件、資料字典以及在可行範圍下增加描述收集的目的、人民的興趣度、樣本的特色以及資料收集的方法。&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;再使用性(Reusable)&lt;/p&gt;
+
+&lt;p&gt;開放資料應基於公開授權之下使其使用沒有限制。&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;完整性(Complete)&lt;/p&gt;
+
+&lt;p&gt;開放資料應公布主要的的型態，包含法律及他規定所允許以及可以實行的最好的粒度(granularity)水平。衍生或總和的公開資料亦應參照主資料而為公布。&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;即時性(Timely)&lt;/p&gt;
+
+&lt;p&gt;開放資料需盡可能的快速去保存資料的價值，而其釋出的頻率則應考量關鍵使用群及下游的需求。&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;管理點設置(Managed Post-Release)&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 應指定一個聯絡點用以協助資料的使用以及對於相關投訴的回應。&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;此外，這個備忘錄也提供了關於美國政府資訊可被再使用的說明，敘述如下：&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;「應確保在資訊管理方面使用開放授權(&lt;strong&gt;open licenses)&lt;/strong&gt;的方式，詳言之，各政府機關須使用開放授權，以在開放資料的計畫中尋得最好的實踐方法，使資料公開後，就這些資料不論是非商業性或商業性目的，在複製、出版、分發、傳輸或其他方式的使用上不會有所限制。」&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;根據這些確切的實施細節，這是一個非常好的行動，可以釐清在使用聯邦政府資料上面任何的法律困惑。藉由使用公開授權，聯邦政府將提供再使用者一項絕好的服務。且，若美國是真的希望使聯邦政府的資訊能夠沒有限制的使用，它能考慮使用公眾領域貢獻宣告(&lt;a href=&quot;http://creativecommons.org/publicdomain/zero/1.0/&quot;&gt;CC0 Public Domain Dedication&lt;/a&gt;，簡稱CCO)的方式，現在，有許多的資料提供者使用CC0以使開放資料能直接放置於公眾領域的範圍內。我們亦已建議使CC0成為分享聯邦政府資訊的其中一個選項。&lt;/p&gt;
+
+&lt;p&gt;而對於白宮在確保美國政府資料於法律、技術上面的可近用、再使用上面所採取的一個正面、積極的做法，是非常值得我們肯定的！&lt;/p&gt;
+
+&lt;p&gt;資料來源：&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/38269&quot;&gt;http://creativecommons.org/weblog/entry/38269&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 01 Jul 2013 08:12:28 +0000</pubDate>
+ <dc:creator>sunlight</dc:creator>
+ <guid isPermaLink="false">699 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20130701-1#comments</comments>
+</item>
+<item>
+ <title>來自南半球的政府資訊開放近況</title>
+ <link>https://creativecommons.tw/blog/20110829</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ChiuHao Chen&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/2179085559_e05218c5b4_o.jpg&quot; style=&quot;height:500px; vertical-align:top; width:385px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;2011年上半年，有關於” 政府資訊開放” 計畫，我們有幾個來自紐澳的進展，想與大家分享。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;紐西蘭 - NZGOAL：&lt;/strong&gt;&lt;br /&gt;
+時間倒轉至今年&lt;a href=&quot;http://www.creativecommons.org.nz/news_and_events/events/nzgoal_website_goes_live&quot;&gt;6月&lt;/a&gt;，紐西蘭與澳洲政府雙雙釋出了”開放存取與授權框架”(Open Access and Licensing Framework)。其中，由紐西蘭CC Aotearoa 所指導的 NZGOAL (New Zealand Government Open Aceess and Licensing Framework ) 提供了使用政府公開資訊的準則，此準則中建議釋出政府資訊予以他人再利用時能夠使用 &lt;a href=&quot;http://creativecommons.org/licenses/by/3.0/nz/&quot;&gt;創用CC- 姓名標示 （紐西蘭）&lt;/a&gt; 此款授權標章。 當然，還有更多使用NZGOAL成功的故事，都可以在&lt;a href=&quot;http://opendatastories.org/&quot;&gt;opendatastories.org&lt;/a&gt; 中挖寶。&lt;br /&gt;
+&lt;br /&gt;
+緊接著，在上星期，紐西蘭的財政與內政部 (Ministers of Finance and Internal Affairs) 為了更能形塑一個開放政府的樣貌，聲明通過了”開放與透明政府宣言” (Declaration on Open and Transparent Government)。由內閣(Cabinet) 通過的宣言，不但直接影響了各個公眾服務部門，例如：紐西蘭警察局、國防部、國會辦公室以及情報局，也依循著開放與透明宣言的原則與NZGOAL評論與釋出流程 (review and release process)，進而鼓勵了更多的公家單位能夠積極的釋出高品質的公眾資料予以重新利用。更多有關於此宣言的資訊，請看CC Aotearoa New Zealand &lt;a href=&quot;http://www.creativecommons.org.nz/news_and_events/news/declaration_on_open_and_transparent_government&quot;&gt;部落格&lt;/a&gt;。&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;澳洲 - AusGOL：&lt;/strong&gt;&lt;br /&gt;
+2011年&lt;a href=&quot;http://blog.ausgoal.gov.au/2011/07/07/launch-ausgoal-is-online/&quot;&gt;7月&lt;/a&gt;，澳洲則由跨組織的CIO (Chief Information Officer) 會議籌劃與推動 AusGOL (Australian Governments Open and Access and Licensing Framework)。此框架提供了政府或公部門對於善用與釋出公眾資訊的準則與支援。當然，關於授權，AusGOL除了預設使用了 ”&lt;a href=&quot;http://creativecommons.org/licenses/by/3.0/au/&quot;&gt;創用CC-姓名標示（澳洲）&lt;/a&gt;”，AusGOL也建議針對擁有版權的資料能夠善用創用CC授權組合，而沒有版權的資料則能使用公眾領域標章 (Public Domain Mark)。&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;還有更多國家... &lt;/strong&gt;&lt;br /&gt;
+除了澳洲與紐西蘭，更多關於國家的開放資訊也可以在CC主網站上面&lt;a href=&quot;http://wiki.creativecommons.org/Government_use_of_Creative_Commons&quot;&gt;找到&lt;/a&gt; 。這是一個 Wiki網頁，當然也歡迎大家上去加入自己與開放政府資訊的經驗。&lt;br /&gt;
+&lt;br /&gt;
+看過了澳洲與紐西蘭的例子，對於政府公開資訊還是摸不著頭緒嗎？它到底能夠帶給我們什麼呢？請看青平台OpenData計畫對於政府開放資訊的&lt;a href=&quot;http://www.opendata.tw/open-data/okfn-film/&quot;&gt;闡釋&lt;/a&gt;。另外，自詡為資訊大國的台灣，日前也針對政府開放資訊邁開了腳步，但從&lt;a href=&quot;http://creativecommons.tw/blog/20110701&quot;&gt;極速公車”拋錨事件&lt;/a&gt;， 我們警覺到政府公開資訊不僅在於資料釋出的動作而已，更重要的是相關的政策是否能夠配套產生，例如：學習歐巴馬政府推舉&lt;a href=&quot;http://www.whitehouse.gov/blog/2011/06/16/our-nation-s-first-federal-cio&quot;&gt;聯邦政府CIO&lt;/a&gt;，學習AusGOL由CIO領軍籌組跨組織會議，共同規劃與推動配套開放框架，或者也該學習紐西蘭從上而下的貫徹與宣導開放政策。&lt;/p&gt;
+
+&lt;p&gt;這些&quot;蹲馬步&quot; 是除了執行資訊開放之外，更值得我們深思的環節。未來，我們的政府與人民，對於資訊公開計畫能夠激盪出多少花火呢？且讓我們拭目以待。&lt;/p&gt;
+
+&lt;div&gt;----&lt;/div&gt;
+
+&lt;div&gt;本文參考：&lt;a href=&quot;https://creativecommons.org/weblog/entry/28813&quot;&gt;Open government policy developments in Australasia&lt;/a&gt;&lt;/div&gt;
+
+&lt;div&gt;圖片引用自：&lt;a class=&quot;newpage&quot; href=&quot;＿http://www.flickr.com/photos/library_of_congress/2179085559/&quot;&gt;&quot;United Nations Fight for Freedom&quot; by The Library of Congress/ Public Domain&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 29 Aug 2011 07:45:22 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">541 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20110829#comments</comments>
+</item>
+</channel>
+</rss>

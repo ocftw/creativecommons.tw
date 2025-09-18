@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 科學傳播</title>
+ <link>https://creativecommons.tw/category/tags/%E7%A7%91%E5%AD%B8%E5%82%B3%E6%92%AD</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>從公眾授權談科學教育和研究的普及</title>
+ <link>https://creativecommons.tw/in-depth/438</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;莊庭瑞、周文茵&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;（本文截錄自第八屆兩岸三院資訊技術交流與數位資源共享研討會會議論文集內容）&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4&gt;科學的普及傳播&lt;/h4&gt;
+
+&lt;p&gt;科學教育正從菁英教育轉向公眾教育，並逐漸受到各界的關注與肯定，也致使科學傳播的方式更加活潑多元。科學消息的傳播是科學知識普及的重要關鍵，科學傳播的意涵幾乎等同於科學普及。因此，如何正確、深入、廣泛、快速且有效地傳播，成為科普教育的重要議題。而科普不僅由傳統科學知識推廣，轉變成為全民科學素養的提升，也融入關懷與平等的教育意涵，將縮小城鄉差距納入規劃思考。&lt;/p&gt;
+
+&lt;p&gt;科普知識的傳播，除了在課堂教學的內容外，也或透過報章雜誌的科技新知、科普知識的翻譯、科學雜誌的出版、科普節目的製播，以及如科普研習營、科學特展、科普講座、科學競賽、科學季等科普活動等不同形式呈現。而在科學知識的傳佈上，教案素材、數據資料、實驗方法、以及軟硬體教具設計的廣泛流通使用，分外重要。&lt;/p&gt;
+
+&lt;p&gt;在網路基礎建設成熟的今日，科學研究與科學教育的資訊交換與累積，似乎變得更容易、迅速與多樣。然而現行著作權體制對於著作的散布使用，卻有嚴厲的限制：在未獲得著作權人的事先許可之前，除非確為合理使用，不得使用其著作。為求著作的廣泛流通，著作權人對公眾事先、明確的著作使用授權聲明，已逐漸普及。目前常見的公眾授權條款，在軟體程式碼方面有 「GNU一般公眾授權條款」(GNU General Public License, 簡稱GPL)，在一般著作方面則有「創用CC授權條款」(Creative Commons Licenses)。&lt;/p&gt;
+
+&lt;h4&gt;科普教育網站與公眾授權條款&lt;/h4&gt;
+
+&lt;p&gt;科學教育與數位資源網站使用公眾授權條款的趨勢，在台灣逐漸普見。例如「數位典藏與數位學習科技計畫」的聯合目錄，就將計畫中完成的魚、貝、植物等數位照片以創用 CC 授權釋出；而「&lt;a class=&quot;newpage&quot; href=&quot;http://learning.froghome.org/&quot;&gt;蛙蛙世界學習網&lt;/a&gt;」則提供許多青蛙的相關知識。教育部也透過&lt;a class=&quot;newpage&quot; href=&quot;http://isp.moe.edu.tw/&quot;&gt;教育部數位教學資源入口網&lt;/a&gt; ，方便教師們將教案置於平台上，彼此交流，而不用擔心侵權的問題。&lt;/p&gt;
+
+&lt;p&gt;在國外，&lt;a class=&quot;newpage&quot; href=&quot;http://phet.colorado.edu/&quot;&gt;PhET&lt;/a&gt; 則是美國的一個成功例子。這套軟體由諾貝爾獎得主 Carl Wieman 於2002年在美國科羅拉多大學物理系所發起的計畫逐步建立。這套互動式模擬教學軟體，對中學、大學教師們講解科學概念相當有幫助。教師們可以藉由這套軟體，講解如化學反應平衡或是量子力學等艱深的觀念，亦可以當作虛擬實驗，以取代危險或是昂貴的實驗器材（如雷射或核分裂的裝置）。這套軟體的特色之一，在於它整套都是採用公眾授權方式釋出。可以直接執行的模擬程式（執行檔）採用「創用 CC 授權條款」或是「GNU一般公眾授權條款」，而其原始碼採「GNU一般公眾授權條款」釋出。因其採用公眾授權，方便使用者複製、散布、轉譯，透過大眾的協力，目前已經有多種語言版本可以使用，&lt;a class=&quot;newpage&quot; href=&quot;http://phet.colorado.edu/en/simulations/translated/zh_TW&quot;&gt;華語版本&lt;/a&gt;在台灣則非常受到歡迎。&lt;/p&gt;
+
+&lt;h4&gt;大眾參與的科學教育與研究&lt;/h4&gt;
+
+&lt;p&gt;在研究的方法和程序上，科學的普及化，還可以探究大眾參與的層面。也就是以大眾共同參與某項研究所需特定工作的方式，加快研究工作的完成，或是讓研究工作更周延。這類大眾參與的研究項目，以美國加州大學柏克萊校區發起的 &lt;a class=&quot;newpage&quot; href=&quot;http://setiathome.berkeley.edu/&quot;&gt;SETI@HOME&lt;/a&gt; 為濫觴。這項工作號召網際網路上的參與者，提供他們個人電腦的計算資源，共同分析電波望遠鏡的觀測資料，以尋求可能的外太空智慧跡象。&lt;/p&gt;
+
+&lt;p&gt;除了提供各自的計算資源，以協助研究工作的進行，大眾自身也可投入研究資料的分類、分析工作。這方面的新近例子是 &lt;a class=&quot;newpage&quot; href=&quot;http://www.galaxyzoo.org/&quot;&gt;Galaxy Zoo&lt;/a&gt; （星系動物園）。這項研究使用 &lt;a class=&quot;newpage&quot; href=&quot;http://www.sdss.org/&quot;&gt;Sloan Digital Sky Survey&lt;/a&gt; （史隆數位天空觀測）的資料，請大眾就研究人員所整理出的巨量星系影像，在網站上一一進行分類。透過眾人的協助，讓星系相關的研究假設，得到進一步檢驗。在這同時，經由大眾的觀察辨別，也因而發現前所未見的天體類型。&lt;/p&gt;
+
+&lt;p&gt;另外，百科全書式的條目整理和解說，是散布科學知識的常見方法。以 Wiki （維基）共筆工具，眾人合力線上編寫眾人所需的知識性、事實性資訊，也是參與式的科普知識生產方式。這方面則屬維基媒體基金會所維運管理的 &lt;a class=&quot;newpage&quot; href=&quot;http://www.wikipedia.org/&quot;&gt;Wikipedia&lt;/a&gt; （維基百科）最為著名。前述星系動物園和維基百科都使用創用 CC 授權條款，來散布網站上眾人所創建的成果。&lt;/p&gt;
+
+&lt;p&gt;在高等教育的課程教案與教材分享上， &lt;a class=&quot;newpage&quot; href=&quot;http://ocw.mit.edu/index.htm&quot;&gt;MIT OpenCourseWare&lt;/a&gt;（麻省理工學院的「開放式課程網頁」）首開風氣之先，鼓勵該校教員將授課內容以創用 CC 授權方式，發佈于該校專屬網站，方便眾人轉載散布使用。同時 &lt;a class=&quot;newpage&quot; href=&quot;http://p2pu.org/&quot;&gt;Peer 2 Peer University&lt;/a&gt; （同儕對同儕大學）這項計畫，更是以草根的力量，進行大學科目的教材散布以及數位學習的學分認證。這項計畫同樣採用創用 CC 授權，以確保該網站的資料，可以持續被眾人使用和更新。&lt;/p&gt;
+
+&lt;p&gt;現代科學技術發展十分迅速，影響範疇廣達我們生活的各個層面；而整體科技創新能力的提升，將有賴公眾科學素質的提高。科學教育的普及，更深遠地來說，其實攸關國家競爭力。世界經濟論壇（WEF）的全球競爭力指標中，「效率增強」與「創新與成熟因素」都是與科學技術甚為相關的評比項目；而推動契合國家發展需要的科學教育工作，也儼然成為全球各國共同思維。如：美國科學促進會 (American Association for the Advancement of Science) 提出「2061計畫」，以改革中小學科學教育課程；英國政府也在2000年公布《國家科學教育課程標準》；澳洲則推動「全國中小學科學計畫」。大眾參與的科學教育與研究範例，以上僅列舉一二，其間各式樣態推陳出新，目不暇給，這方面台灣仍需要快步趕上。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 01 Oct 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">438 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/438#comments</comments>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 授權標章</title>
+ <link>https://creativecommons.tw/category/tags/%E6%8E%88%E6%AC%8A%E6%A8%99%E7%AB%A0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>客製創用CC ? 使用者自訂之創用CC附加條款的契約解釋</title>
+ <link>https://creativecommons.tw/in-depth/847</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;黃泰然，謝明均 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;創用CC授權的目的之一，在於藉由提供標準化的公眾授權條款，降低著作權人與利用人的締約成本，從而促進著作的流通與分享。 著作權人選擇特定的創用CC授權後，利用人只要能辨別該創用CC授權的標章，即可了解著作的授權範圍與條件為何。 然而，創用CC授權泛用於各種類型的著作，而不同的創作社群與使用者，對改作、非商業性、或者姓名標示的理解，並不盡相同。&lt;/p&gt;
+
+&lt;p&gt;因此，實務上不乏作者或者內容分享平台的網路業者，對採用創用CC授權的著作另行增添「附加條款」(Supplemental Clause)的作法。 這些「客製」的「創用CC授權」固然可能更貼近個別權利人的需求，但也與創用CC將公眾授權標準化的努力有所衝突。 如何解釋適用這些附加條款，才能在權利人的意願與公眾對創用CC授權的既有認知與信賴之間取得平衡， 不致架空Creative Commons提供標準化公眾授權條款的努力？&lt;/p&gt;
+
+&lt;p&gt;實務上，創用CC授權的附加條款，大致可以分成下列兩種類型，以下分別討論其實際案例與契約之解釋。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;一、附加條款與創用CC授權有明顯牴觸的類型：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;就此類型而言，台灣常見的例子是部落格雖然採用創用CC授權，但又另外註明「禁止轉載分享」[1]，或者同時加載部落客Jas9設計的&lt;a href=&quot;http://jas9.blogspot.tw/2007/07/blog-post_9075.html&quot;&gt;「網摘、引用、連結、不轉載」&lt;/a&gt;的著作權聲明。&lt;/p&gt;
+
+&lt;p&gt;這類的「附加條款」禁止非商業性重製，但是無論何種創用CC授權都允許非商業重製。 除了個別作者外，網路業者對創用CC授權的說明，也不乏矛盾的例子。 根據創用CC授權音樂分享平台Jamendo在&lt;a href=&quot;http://www.jamendo.com/en/faq&quot;&gt;常見問答集&lt;/a&gt;的 說明，平台的音樂若作為廣告、電影、電視、紀錄片、電視節目或其他多媒體的配樂，即屬商業使用，使用者必須付費取得Jamendo Pro的授權版本；但是，許多著作權人在上傳音樂到Jamendo時所選擇的創用CC授權，並沒有「非商業性」的授權條件，例如「姓名標示-相同方式分 享」。事實上，在Jamendo的&lt;a href=&quot;https://getsatisfaction.com/jamendo/topics/license_question-18esue&quot;&gt;社群論壇&lt;/a&gt;，即有使用者對為何未禁止商業性使用的創用CC授權音樂，仍需付費取得Jamendo Pro的授權版本感到疑問。&lt;/p&gt;
+
+&lt;p&gt;本文認為，在附加條款與創用CC授權有明顯牴觸的情況，應先探求當事人之真意，若屬當事人真意不明之情形，依著作權法第37條之規定，著作權授權內容、利&amp;nbsp;用方法或其他事項約定不明，該約定不明之部分推定為未授權。上述在「創用CC授權」 著作上另外註明禁止轉載的例子，因為已無從認定著作權人是否有授權的意思，屬當事人真意不明之情形。&lt;/p&gt;
+
+&lt;p&gt;在沒有反證下，應解釋為著作權人未為任何授權。但是，這並非意味任何與創用CC授權矛盾的附加條款，皆會導致未為任何授權的結果。例如，無論是哪一種的創&amp;nbsp;用CC授權，都有允許利用人使用著作於任何媒體和格式的條款，但是，如果採用「創用CC授權」的著作權人同時另外聲明其授權範圍不包括實體的出版，此時僅 有實體出版的授權的真意不明，其他部分的「創用CC授權」仍有效力。不過，此時著作權人採用的授權條款，因為已與標準的創用CC授權有別，並不能再稱作是&amp;nbsp;創用CC授權。事實上，著作權人此時若使用創用CC授權的圖樣，已不屬Creative Commons的商標權的授權範圍內，而這也是Creative Commons所持的立場。[2]&lt;/p&gt;
+
+&lt;p&gt;須注意的是，前述的討論必須以附加的說明構成授權契約的一部分為前提。在上述Jamendo的例子，該平台的音樂是由創作者上傳時，自行選擇特定的創用&amp;nbsp;CC授權釋出，而非由業者取得著作權後，再由業者以著作權人的身分釋出。申言之，創用CC授權的授權關係係存在於利用人於創作者之間，而非Jamendo 與利用人之間。Jamendo作為契約的第三人，其對創用CC條款的片面解釋，並不構成授權條款的一部分。退一步言之，即使將該說明認定為Jamendo 的網站使用者條款的一部分，因為契約的相對性，使用者至多是違反與Jamendo的契約約定，而這並不影響使用者和著作權人創用CC授權契約的成立。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;二、闡明創用CC授權要件的附加條款的類型：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;此類型的附加條款，常見的是創作者對於創用CC授權的條件，例如「非商業性」、「姓名標示」予以進一步界定或者舉例說明。以部落格&lt;a href=&quot;http://wetprogrammer.pixnet.net/blog/post/247996934-%E3%80%90%E5%85%AC%E5%91%8A%E3%80%91blog%E8%A6%8F%E5%89%87%EF%BC%882013.10.2%E6%9B%B4%E6%96%B0%EF%BC%89&quot;&gt;工程濕(x)筆記&lt;/a&gt;對非商業性的說明為例，「營利範圍」是指「正式出版之雜誌、書藉或任何會使第三者閱聽之範圍」，但是「部落格廣告、網站廣告若為全站式（非文章內嵌）則不在此限」。換言之，在該部落客的認知下，其他部落格如果轉載他的文章，並且將廣告是內嵌在文章中即屬商業使用。&lt;/p&gt;
+
+&lt;p&gt;授權人使用此類型的附加條款，雖然可以更明確表達其意思，而利用人也能清楚了解授權人對「姓名標示」、「非商業性」等授權要素的理解和要求，減少模糊空 間；但是不同授權人對這些授權要素的不同界定，如果僵化地適用，可能讓相同的創用CC授權條款，卻有不同的使用條件。比較合宜的作法，應是將此類的闡明條 款，在與創用CC條款未有明顯矛盾的前提下，將其理解為「例示」。&lt;/p&gt;
+
+&lt;p&gt;申言之，非屬授權人例示的使用情形和方式，如果在原本創用CC條款的文義範圍內，並且合於社會上使用創用CC著作的習慣，仍應盡量解釋為未違反授權條件。 另一方面，如果例示的情形，比起標準的創用CC授權寬鬆，而利用人知悉並信賴該聲明的情形下，依據禁反言原則，授權人應不得嗣後再主張利用人違反創用CC&amp;nbsp;條款，授權不成立。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;小結&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;使用者自訂的附加條款與創用CC授權顯有矛盾的類型，通常是緣於著作權人對創用CC授權的誤解。因此筆者始終認為推廣創用CC授權，應該是讓著作權人了解創用CC授權條款是否符合其需求，而非一味以增加創用CC授權的著作數量為目的，避免嗣後使用者和著作權人的糾紛。 至於旨在闡明授權要素的附加條款，雖然可以減少授權要件的模糊空間，但在解釋上仍應考量公眾對創用CC的授權條件的既有認知與使用習慣。&lt;/p&gt;
+
+&lt;p&gt;----&amp;nbsp;&lt;br /&gt;
+&lt;a name=&quot;1452c9dd20d842c1_145258fee984fc2b_145258f2eb22c897_1nt&quot;&gt;[1]&lt;/a&gt;&amp;nbsp;例如&lt;a href=&quot;http://anthony910096.pixnet.net/blog&quot;&gt;「私の日劇筆記」&lt;/a&gt;&amp;nbsp;雖然採用創用CC&amp;nbsp;姓名標示-非商業性-禁止改作 2.5 台灣 授權條款，但是其特別聲明：「若要引用本部落格文章，請以網址連結引用，禁貼全文」。&amp;nbsp;&lt;br /&gt;
+&lt;a name=&quot;1452c9dd20d842c1_145258fee984fc2b_145258f2eb22c897_2nt&quot;&gt;[2]&lt;/a&gt;&amp;nbsp;參見Creative Commons&lt;a href=&quot;http://wiki.creativecommons.org/Frequently_Asked_Questions#Can_I_insist_on_the_exact_placement_of_the_attribution_credit.3F&quot;&gt;常見問答&lt;/a&gt;中關於「我可以修改授權條件嗎？」與「我可以與我作品的使用者訂定附加條款嗎？」的說明。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 03 Apr 2014 16:00:00 +0000</pubDate>
+ <dc:creator>vilyak</dc:creator>
+ <guid isPermaLink="false">942 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/847#comments</comments>
+</item>
+<item>
+ <title>雷席格的CC每週通信（八）：談CC授權條款</title>
+ <link>https://creativecommons.tw/in-depth/71</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jedi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;前情提要：&lt;/p&gt;
+
+&lt;blockquote&gt;在接下來的兩封通信裡，我會介紹另項新發起的計劃，這兩個計劃將定義我們2006年度工作的內容。之後這個系列文章，將討論針對我們已完成或將要做之事的各種批評。請繼續收看！&lt;/blockquote&gt;
+
+&lt;p&gt;這一次的通信內容：&lt;/p&gt;
+
+&lt;p&gt;CC一開始的時候，口號很簡單：「保留部份權利」（Some Rights Reserved）。CC授權條款允許大家運用一些特定的權利，又同時讓作者或創作人得以將另一些特定權利留給自己。因此，所謂的「姓名標示─非商業性」（BY-NC; Attribution-NonCommercial）授權條款並不代表說，作者就絕不授與商業使用的權利。該條款的意思只是說，商業使用的權利並沒有在這份授權條款中授與，或是「預先開了路」（pre-cleared）。如果你要取得商業使用的權利，就必須先問過作者才行。&lt;/p&gt;
+
+&lt;p&gt;很多人一直不了解我們所提出的這一點。他們把「共享」（commons）與「共產」（communist）搞混在一起了。他們會說，我們認為創作人不用吃飯了。但我們的使命，從來就沒有去反對創作人從作品中獲取商業利益。事實上，我們從創立之初就一直認為，有一些創作及一些創作人，反而因為CC授權條款讓他們的能見度提高，而使他們得以作品中得到利益。&lt;/p&gt;
+
+&lt;p&gt;現在，我們發起了一個計劃，讓上面這樣的宣示能更加清晰。在2005年11月底開始的六個月裡，我們會針對幾種CC授權條款開發新功能，好讓創作人能在其內加入連結，讓使用者可以針對他們的作品從事商業使用。&lt;/p&gt;
+
+&lt;p&gt;我們將此計劃稱為「cc.com」；儘管還有一些細節仍需敲定，但基本概念是這樣子的：舉例來說，好比你是一位音樂創作者，你很樂意將你的音樂作品，以非商業的方式與人分享。但是，你跟大多數人一樣，你會希望，如果有人要從你作品中獲得商業利益，你也要分到其中一部份才好。所以雖然你使用了CC授權，讓公眾能在非商業的前提下使用你的作品，你仍保留了商業使用的權利未將之授權出去。但你也希望，能在設定一些條件的前提下，將商業使用的權利授權出去。&lt;/p&gt;
+
+&lt;p&gt;以下便是「cc.com」可能的運作方式。&lt;/p&gt;
+
+&lt;p&gt;你點進CC網站，選取你要用的CC授權條款。如果你選的條款內容裡有非商業使用（NonCommercial）一項，我們便提供你一些可挑選的合作對象，這些合作對象是可能有能力，將你的作品以商業方式提供出去的（除此之外，你也可以就只是提供一個連回你自己網站的連結，以便向你詢問關於商業授權的事宜）。&lt;/p&gt;
+
+&lt;p&gt;如果你選定了一個合作對象，系統便會帶你到合作對象的網站，讓你了解你的內容會在哪些商業利用的條款下被使用。這些資料又會以一個連至合作對象的連結，加進你的CC授權條款裡。你的授權標章（Commons Deed）便會看起來像這樣：&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;cc.com.mockup.gif;&quot; class=&quot;image&quot; src=&quot;http://lh3.ggpht.com/_a0muzrcaKwo/S-E9iirnZMI/AAAAAAAAAWo/2rjRdM_ZGtU/s800/cc.com.mockup.gif;&quot; style=&quot;display:block; margin-left:auto; margin-right:auto; width:400px&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;這樣，當有人閱讀你的授權標章時，他們就會知道說，你授予公眾哪些可以免費自由運用的權利。另一方面，他們也會有個連結，可以連到某個站台，在那個站台上購買到一些不只是可以免費自由運用的東西。那些東西可能是更多運用權利，也可能是一張張的CD。或者是任何你和你的合作對象認為可以透過授權標章連結提供的物品或服務。&lt;/p&gt;
+
+&lt;p&gt;CC並不負責營運這些商業站台。我們除了挑選我們信任的合作伙伴外，與任何商業活動都沒有關係。我們的目標單純就是為創作人和閱聽人之間提供一個連結，好讓創作人更能直接從其創意作品中獲得利益。&lt;/p&gt;
+
+&lt;p&gt;我們目前正在研究各種技術，好讓這個概念能夠實現。我們也開始和可能的合作對象洽談。還有很多要做的事。不過我相信，在未來六個月內，我們就會推出這個新的CC方案，我也有信心能得到許多創作人的支持。&lt;/p&gt;
+
+&lt;p&gt;下一次通信裡，我會說明我們於2006年將推出的另一個方案。這個方案不只對CC重要，對於創作環境的生態也將是不可或缺的。請繼續收看！&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 21 Feb 2006 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">71 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/71#comments</comments>
+</item>
+</channel>
+</rss>

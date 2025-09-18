@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - GPL</title>
+ <link>https://creativecommons.tw/category/tags/gpl</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>OPEN的力量：ARDUINO 開放硬體計畫</title>
+ <link>https://creativecommons.tw/blog/20120530</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ChiuHao Chen 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/ying_mu_kuai_zhao__2012-05-30_xia_wu_2.22.04.png&quot; style=&quot;height:319px; width:542px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;2005年，兩位來自義大利的互動設計師 Massimo Banzi 與 David Cuartielles決定展開一個新的嘗試，他們將硬體設計圖使用創用CC 姓名標示-相同方式分享 (CC BY-SA) 釋出。他們稱這個計畫為開源的實體運算(Physical Computing)平台 - Arduino。&lt;/p&gt;
+
+&lt;p&gt;Arduino其實就是一個電路板上面焊上簡單的微處理器，並且可以讓人們輕鬆的裝上開關與感測器。這樣的作法，可以讓人們從頭到尾創造自己的新應用，對於硬體DIY愛好者來說，簡直充滿的無限的想像。&lt;/p&gt;
+
+&lt;p&gt;過去幾年，Massimo從Arduino平台上看到了許多富有創意且成功的案子，像是合成器，吉他擴大器到網路電話(VoIP) 的路由器。Wired主編Chris Anderson也用Arduino做了一個&lt;a class=&quot;newpage&quot; href=&quot;http://diydrones.com/&quot;&gt;DIY Drone&lt;/a&gt;專案讓無人飛行器飛了起來！另一個開源的3D印表機專案Makerbot也以Arduino為基礎建立了更為耐用的設計。&lt;/p&gt;
+
+&lt;p&gt;正因為Arduino採用了創用CC 姓名標示-相同方式分享授權，也因而產生了許多衍生的專案。Banzi銷售了超過20萬套Arduino電路版且銷售量持續增加中。正因為Arduino開放原始碼，團隊也不需要提供大量的技術支援。Banzi說：人們反而傾向願意幫助我們而且原諒我們的缺失，這真是一個良性循環。 Banzi一開始選擇讓Arduino開放平台也是因為他所執教的設計學校無法繼續提供資金。面對這個窘境，Banzi決定上傳他的電路圖到Berlios (一個德國的網站，功能類似Google Code, Github 讓人放置開源專案），並且採用GPL授權釋出軟體，並用CC BY-SA釋出硬體設計。時至今日，這樣的舉動所產生的影響力，已經大大的超越了當初只是想要把設計圖讓人免費使用的簡單意圖。&lt;/p&gt;
+
+&lt;p&gt;Banzi最後這麼說：” 藉由將創用CC標章放在電路板與設計圖上，我們可以將單純的硬體設計轉化為一種文化(編案：自由開放的文化)讓人們可以盡情的在這個自由的園地上創造！而且，不管我們發生了什麼事情，這個Arduino專案將會一直存活下去。”&lt;/p&gt;
+
+&lt;p&gt;圖文出自 &lt;a class=&quot;newpage&quot; href=&quot;http://thepowerofopen.org/&quot;&gt;The Power of Open&lt;/a&gt;p37&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 30 May 2012 06:24:21 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">601 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120530#comments</comments>
+</item>
+<item>
+ <title>簡介創用 CC 授權之物理數位教材與淺談其元件釋出方式</title>
+ <link>https://creativecommons.tw/blog/20100725</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;江易原 I-Yuan Chiang&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;本文置於 public domain&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;A. 緣起&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;近年來網路上出現越來越多的物理數位教材，其版權聲明主要有三種：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;All Rights Reserved&lt;/li&gt;
+	&lt;li&gt;沒有聲明版權 (亦是有版權保護)&lt;/li&gt;
+	&lt;li&gt;創用 CC 授權&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;多數的物理自由軟體採 GPL 授權，不過本文暫不討論物理軟體。就內容來看，採創用 CC 授權的物理教材，可以是直接播放，但是不易變更內容的影片，或是帶有程式內容的互動式模擬 (如 Flash 或是 Java)。台師大物理系黃福坤教授將內容已經確定，劇本已經寫好的稱作 animation (動畫)，而與使用者有互動的叫做simulation (模擬)。他認為動畫與模擬都是教材，但是隨著教學目的不同，兩者可以搭配使用。&lt;/p&gt;
+
+&lt;p&gt;創用 CC 運動受到自由軟體及開放原始碼運動的影響，其自由與開放的精神相同，但是作法略有不同，而且普遍認為創用 CC 授權比較適合用在非電腦程式之創作。自由軟體或開原碼軟體必須公開原始碼，而部份公眾授權 (如 GPL) 要求使用者將修改後的程式碼公開，但是部份的授權 (如 BSD) 卻沒有要求使用者修改程式後必須公開原始碼。這兩種方式各有其優缺點，使用者可以挑選對自己有利的授權的軟體來使用，而當使用者不需要修改程式碼時，這兩種授權對使用者的並無差異。&lt;/p&gt;
+
+&lt;p&gt;相對的，創用 CC 授權條款並沒有要求創作人將其創作元件公開，就藝術創作來說，是不必要，因為作曲家、畫家或是攝影師無法將這些創作的「元件」如公開原始碼般的方式公開出來，因為這是藝術作品，不是電腦程式，他們的元件可能是靈感、天份。&lt;/p&gt;
+
+&lt;p&gt;從另一個角度來看，很多物理數位教材的製作過程中，除了靈感與創意，還用到很多看得見、摸得著的「元件」，例如介紹運動學的教材中常用的彈簧、汽車、大砲、炸彈等的圖形，這些元件是可以開放，讓使用者可以自行修改。而且在互動式模擬中，使用者可以設定不同條件 (如速度、加速度、角度等)，然後教材自動計算這樣條件下所造成的結果，透過輸入不同條件，數位教材會顯示不同結果，可以讓學生可以歸納、學習。這樣的題材卻是不折不扣的電腦程式。就內容來看，這樣帶有程式內容的物理教材，採 GPL 授權會比使用創用 CC 授權來的適當。但是事實上，無論創用 CC 授權是否適用這樣的教材，越來越多的物理數位教材採用創用 CC 授權，這是明顯的趨勢。本文將簡介國內外數個採創用 CC 授權的物理數位教材，同時探討他們是否公開製作教材的元件，與開原碼作個簡單的比較與探討。&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;B. 有關物理教材的例子&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://faraday.physics.utoronto.ca/GeneralInterest/Harrison/Flash/&quot;&gt;Flash Animations for Physics&lt;/a&gt; (Flash 物理動畫)&lt;br /&gt;
+	加拿大多倫多大學物理系的 Dr. David M. Harrison 所製作的 Flash 物理動畫，內容適合中學與大學的物理課程。2006 年，知名的 Science 的期刊上，在 NetWatch 單元曾有短文介紹 Dr. Harrison 的物理動畫，其授權方式為創用 CC 2.5-BY-NC-SA。若需要於原始檔，只要將每個動畫網址的最後一段去掉到最近的斜線，就可以到該主題之子目錄下載原始檔。&lt;br /&gt;
+	例如有關&lt;a class=&quot;newpage&quot; href=&quot;http://faraday.physics.utoronto.ca/PVB/Harrison/Flash/Reflection/Reflection.html&quot;&gt;光遇到的鏡子的反射的&lt;/a&gt;主題，其&lt;a class=&quot;newpage&quot; href=&quot;http://faraday.physics.utoronto.ca/PVB/Harrison/Flash/Reflection/&quot;&gt;原始檔的位置在此&lt;/a&gt;。&lt;/li&gt;
+	&lt;li&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://workbench.concord.org/&quot;&gt;PhET&lt;/a&gt;&lt;br /&gt;
+	由美國科羅拉多大學物理系所製作的互動式模擬，適合小學到大學的課程。其內容多數為 Java 執行，部份為 Flash。 其教材採用創用 CC 3.0-BY 與 GPL兩種授權，使用者可以兩種授權之中挑一個。而官網也提到，若牽涉到修改原始碼時，則只適用 GPL 授權。&lt;br /&gt;
+	原始碼下載&lt;a class=&quot;newpage&quot; href=&quot;http://phet.colorado.edu/about/source-code.php&quot;&gt;點這裡&lt;/a&gt;。按照網頁的說明，就可以下載個別主題或是所有主題的原始碼。&lt;/li&gt;
+	&lt;li&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://phys23p.sl.psu.edu/phys_anim/Phys_anim.htm&quot;&gt;Animations for Physics and Astronomy&lt;/a&gt; (物理與天文動畫)&lt;br /&gt;
+	美國賓州州立大學 Schuylkill 校區物理系 Dr. Michael R. Gallis 製作一系列物理與天文動畫，適合中小學及大學的物理與天文課程，動畫是 avi 影片格式，採用創用 CC 3.0-BY-NC 授權。&lt;/li&gt;
+	&lt;li&gt;以國內的例子來看，台北縣教育局製作了一系列的錄影課程，採 CC-BY-NC-SA 授權，而陳國全老師錄製了其中操作 PhET 輔助講解課程內容，&lt;a class=&quot;newpage&quot; href=&quot;http://163.20.82.155/tpc-icare2/phet/index.htm&quot;&gt;教材格式是 flash 影片檔&lt;/a&gt;。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3&gt;&lt;strong&gt;C. 分析&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;Dr. Harrison 的動畫有公開原始檔案，其授權中並未限制改作，因此使用者不但可以下載原始檔，也可以修改或是翻譯內容以符合自己的需要。&lt;/li&gt;
+	&lt;li&gt;PhET 的教學主題不但是採創用 CC 授權中限制較少的 CC-BY，官網也提供原始碼下載，相對來說很接近開放原始碼的風格，也因此適合使用者進行客製化。&lt;/li&gt;
+	&lt;li&gt;Dr. Gallis 的動畫是 avi 影音格式，雖然作者沒有限制改作，但是使用者無法取得原始製作題材的情況下，只能作配音、加字幕、剪接等修改，無法對內容進行變更。動畫可以線上播放，但是作者並沒有提供直接下載方式，使用者雖然可以在瀏覽器播放動畫時另存新檔，或是使用其他輔助小程式取得該動畫，卻可能讓不熟悉電腦操作的人不知道如何下載該影片。&lt;br /&gt;
+	相對於前方兩個例子有提供原始檔案的例子，Dr. Gallis 顯得不同，雖然他沒有主動提供下載方式或是檔案原始檔，但是並沒有違反 CC 條款。&lt;/li&gt;
+	&lt;li&gt;若以台北縣教育局製作的自由軟體的教學影片來說，是使用錄影軟體將操作錄製成 Flash 格式，因此沒有適合開放的元件。就授權來說，雖然該教材沒有限制改作，但是要修改內容的使用者可能會直接使用 PhET 自行操作與重新錄影，會比修改顯成影片來的方便。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3&gt;&lt;strong&gt;D. 討論&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;與其他的開放運動比較，在 2001 年，Open Access 運動的發起，是因為研究人員對出版社以版權方式控制期刊文章的散布，卻造成使用者取得成本升高，科學成果流動性低而不滿。而 Open Access 運動的訴求之一是確保使用者可以免費取得資料，可以修改、散布資料，特別是書籍與期刊文章，而多數 Open Access 的期刊採用 CC-BY 的授權。從這角度來看，Open Access 期刊的主張與創用 CC 運動略有不同，這些期刊採用創用 CC 授權是為了解決著作權方面的問題，以達到 Open Access 之理想。而 GPL 等開原碼授權，其條文中要求程式創作者及修改者必須公佈原始碼，以確保使用者的自由。相對的，其條款雖有高度理想性，卻也讓不少程式設計者卻步。&lt;/p&gt;
+
+&lt;p&gt;從採用自由授權必須開放原始碼的的角度來看創用 CC 授權，難免對採用創用 CC 授權中可以開放元件的物理教材卻沒有開放時不免有疑惑。雖然創用 CC 運動部份受到自由軟體運動的啟發，但是面對的「人」與「問題」不同，因此條款內容的細節也不同。自由軟體運動強調使用者的自由，而使用 GPL 等條款是為規範程式創作者與使用者能按要一定的作法以確保所主張的自由；Open Access 運動注重使用者可以取得期刊文章等學術研究成果，而多數 Open Access 期刊使用創用 CC 授權是為了解決學術文章在著作權方面的問題。而創用 CC 授權面對的可能不是程式設計師，可能不是科學研究人員，而是一般大眾。&lt;/p&gt;
+
+&lt;p&gt;就上述物理數位教材的例子來說，開放製作教材的元件與否，可以分為兩種情況來討論，教材來自使用者自願的創作與開放，或是經費贊助者的製作人之間的合約與規定。若創作者自願採用創用 CC 授權，對於是否開放製作元件時，會有幾個考量，包括創作人可能認為程式內容品質欠佳，不想開放；或是作者認為沒有必要，例如提供一段物力現象的影片即可傳達這樣的物理概念，至於是否開放影片的製作元件則與學習物理概念無關。另一方面，教材是否採公眾授權，元件是否也釋出，則以出資者與執行者之合約為準，例如近來國家典藏計畫的子計畫中，有一項是製作高中職的數位教材，其授權規定是：&lt;/p&gt;
+
+&lt;blockquote&gt;「本計畫所開發的數位教材，主要提供高中學科教師應用於課堂輔助教學。每一個教材單元均由教學元件組成，形式包含文字檔、投影片及動畫等，教師可引用完整單元或重點概念；所有元件同時符合創用 CC（Creative Commons）授權條款（姓名標示-非商業性-相同方式分享2.5台灣）對外分享」&lt;/blockquote&gt;
+
+&lt;p&gt;說明地很清楚，要把元件採相同的授權公開，因此廠商需要依據這樣的規定釋出數位教材的元件。例如已經完成的&lt;a class=&quot;newpage&quot; href=&quot;http://hsmaterial.moe.edu.tw/schema/bi/list.html&quot;&gt;生物教材有釋出元件&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;因此，若合約沒有提到要開放元件，那執行者沒有必要釋出元件。上述的國家典藏計畫的合約是很好的範例，若我國其他公家出資單位如國科會、中研院、教育部、國立大學、國立研究機構等，有這樣的規定，則不但讓使用者有教材可以使用，連製作教材的元件也哪也能方便取得。&lt;/p&gt;
+
+&lt;p&gt;雖然幾個開放運動對元件釋出的主張不同，作法也不同，適用的對象可能不同。在創用 CC 授權中雖沒有要求創作者公開元件，但是使用者也可以直接向作者聯繫，因為公眾授權雖省去創作者與使用者之間部份的聯繫，但是更多細節如取得元件，使用者是可以直接聯繫創作者。&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+Flash影片檔教材連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 25 Jul 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">216 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20100725#comments</comments>
+</item>
+<item>
+ <title>《淺談創用CC授權條款 — 一種現行著作權體制下的彈性授權模式 》</title>
+ <link>https://creativecommons.tw/in-depth/336</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林懿萱、莊庭瑞&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;為什麼需要創用CC授權條款？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;一件作品在歸入「公共領域」（public domain）與宣告「保留所有權利 」(all rights reserved) 之間，作者是否有其他行使權利的方式，不需透過律師、亦不會耗費過多的溝通成本，讓作品的創作者及利用者雙方都覺得便利且無損權益？創用CC（註1）為此提供了一種富彈性的授權模式。&lt;/p&gt;
+
+&lt;p&gt;一群來自網路法律、智慧財產權及資訊科技等不同領域的菁英，包括 James Boyle、Michael Carroll、和 Lawrence Lessig，MIT資訊科學教授 Hal Abelson，律師轉任紀錄片製作再轉而成為網路法律專家的 Eric Saltzman，及公共領域網路出版者 Eric Eldred 等皆肯定這種可能性，並熱情、積極的投入 Creative Commons（以下簡稱CC）催生過程。CC此一非營利組織因此得以在2001年創立。&lt;/p&gt;
+
+&lt;p&gt;美國著作權法規定，創作一旦「固著於有形物體之表達媒介」時，即自動受到著作權保護；台灣著作權法則規定，著作於「完成時」，便受到著作權保護。包括美國與台灣在內的許多國家，著作權的主張皆不需要著作權聲明。然而，許多人並不想完整地行使著作權法所賦予他們的權利，特別是那些在網路上從事創作的人，因為全面性的著作權法保護反而無助讓他們的創作獲得較高的曝光度，同時亦阻礙創作被廣泛地散布。為解決這個困境，CC在2002年發展出一套公眾授權條款，免費提供予全球著作人（或稱創作人）使用，協助他們向世人宣告，他們只要「保留部分權利」（Some rights reserved）。&lt;/p&gt;
+
+&lt;p&gt;創用CC授權條款（Creative Commons licenses）的設計靈感某種程度上來自於自由軟體基金會（Free Software Foundation）的GNU通用公共授權條款（GNU General Public License，簡稱GNU GPL）（註2），都是在現行著作權法的架構下，建立一套授權模式，使創作人得以就著作權法所賦予他的權利，讓他人在某些特定條件下，能夠自由利用其作品。然而，創用CC授權條款與GNU GPL最大的不同在於，GNU GPL適用於程式碼，而創用CC授權條款則是適用於程式碼之外其他形式的創作，如網站、學術、音樂、影片、攝影、文學、教材等。&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;何謂創用CC授權條款？&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;CC核心在於創用CC授權條款，透過這套授權條款的運作，創作人得以運用其私權利，讓創作更加便利流通。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;（一） 運作模式&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;為協助創作人方便擇定特定條件，並在此條件下授權全世界的使用者利用其作品，CC在2002年12月發佈其第一項計畫：一套著作權授權條款，讓創作人得依其作品屬性，在由「姓名標示」（Attribution）、「禁止改作」（No Derivative Works）、「非商業性」（Non-Commercial）與「相同方式分享」（Share Alike）這四個授權要素所搭配出的六種授權條款（註3）中，選擇最合其所用的一種授權模式，為其作品授權。&lt;br /&gt;
+&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.tw/betacc/license&quot;&gt;四種授權要素&lt;/a&gt;所分別代表的意義及說明如下：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;姓名標示：您允許他人對您受著作權保護的著作及衍生著作進行重製、散布、展出及演出等利用行為，但前提是對方必須保留您的姓名標示。&lt;/li&gt;
+	&lt;li&gt;非商業性：您允許他人對您的著作及衍生著作進行重製、散布、展出及演出等利用行為，但僅限於非商業性的目的。&lt;/li&gt;
+	&lt;li&gt;禁止改作：您允許他人對您的著作原封不動地進行重製、散布、 展出及演出等利用行為，但不得產出衍生著作。&lt;/li&gt;
+	&lt;li&gt;相同方式分享： 只有當他人將衍生著作採用與您的原著作相同之授權條款時，您方允許他人散布衍生著作。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;創用CC授權條款共有三種呈現的形式：「授權標章」（Commons Deed）、「法律條款」（Legal Code）與「數位標籤」（Digital Code）。&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;「授權標章」是為一般人所設計，對授權條款所做的簡易、白話摘要，並搭配相關授權要素的圖示。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;#「法律條款」是為法律人所設計的正式授權契約，是每一個授權標章實際代表的法律意涵，及確保授權條款在法庭上具有效力的完整版本。&lt;br /&gt;
+#「數位標籤」將授權條款轉譯為機器可辨讀的形式，協助搜尋引擎及其他應用程式，從著作中辨認出創作人所使用的授權條款。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;（二）創用CC授權條款的特色&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;每種創用CC授權條款皆能協助創作人：
+	&lt;ol&gt;
+		&lt;li&gt;保留其著作權；&lt;/li&gt;
+		&lt;li&gt;宣告他人的合理使用、第一次銷售及自由表達的權利，皆不受授權條款影響。&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;/li&gt;
+	&lt;li&gt;每種創用CC授權條款皆要求被授權人（或稱使用人、利用人）：
+	&lt;ol&gt;
+		&lt;li&gt;需取得創作人的許可後，才能進行創作人原本禁止的利用行為。例如，對創作人的著作進行商業利用，創作衍生著作；&lt;/li&gt;
+		&lt;li&gt;在創作人原著作所有的重製物中，完整地保留任何著作權聲明；&lt;/li&gt;
+		&lt;li&gt;使創作人著作的重製物，皆能連結到原著作的授權條款；&lt;/li&gt;
+		&lt;li&gt;不得改變授權條款；&lt;/li&gt;
+		&lt;li&gt;不得使用科技措施來限制其他被授權人對原著作的合法使用。&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;/li&gt;
+	&lt;li&gt;只要被授權人遵守創作人選擇的授權條款的條件，則每種創用CC授權條款皆允許被授權人：
+	&lt;ol&gt;
+		&lt;li&gt;重製原著作；&lt;/li&gt;
+		&lt;li&gt;散布原著作；&lt;/li&gt;
+		&lt;li&gt;公開口述及公開展示原著作；&lt;/li&gt;
+		&lt;li&gt;公開演出、公開上映、公開播送及公開傳輸原著作；&lt;/li&gt;
+		&lt;li&gt;將原著作原封不動地轉換成另一種格式之重製物。&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;/li&gt;
+	&lt;li&gt;每種創用CC授權條款：
+	&lt;ol&gt;
+		&lt;li&gt;皆適用於全世界；&lt;/li&gt;
+		&lt;li&gt;其有效期間持續至著作的著作權保護期間屆滿為止；&lt;/li&gt;
+		&lt;li&gt;皆不得撤銷。&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3&gt;&lt;strong&gt;結語&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;自2004年9月CC正式導入台灣以來，獲得各界許多先進與朋友（特別是藝術及音樂創作者）的支持與回響，可見在現行著作權法的規範之下，國內創作人與使用者對於具彈性的公眾授權模式的強烈需求。在不違背現行著作權法規範之下，CC提倡的簡便、免費且易懂的授權模式的適時出現，讓在逐漸僵化的著作權體制下的創作人與使用者，同時開啟了另一扇窗戶，透進一絲新鮮自由的空氣。著作採用創用CC授權，除可具體呈現對開放內容（open content）的支持，豐富台灣本地甚至全球的創作素材外，更可為全球文化的累積演進盡一份力。我們樂見創用CC的發展，能如同自由軟體一般，在全球掀起自由自助的協力合作風潮，益發成長茁壯。&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;註1：&quot;Creative Commons&quot;該怎麼翻譯？自Creative Commons Taiwan計畫成立以來，這問題一直困擾著我們。在2005年底，Creative Commons Taiwan邀請多個領域的專家，經歷審慎討論後，終於確定「創用CC」為&quot;Creative Commons&quot;的中譯名稱。&quot;Create&quot; 是創造、也可以是創作； &quot;Commons&quot; 是眾，強調的是透過眾人的使用及參與，才能讓創作的分享與使用成為可能。「創用CC」同時採用了 &quot;Creative Commons&quot; 的縮寫 &quot;CC&quot;，一定程度的保留英文原意，讓不懂英文的人看到「創用CC」能立即聯想到這和CC相關。&lt;/li&gt;
+	&lt;li&gt;註2：自由軟體基金會（簡稱FSF）創立於1985年；FSF致力於提升電腦使用者使用、研究、修改、以及複製修改後電腦程式的權利，及促進自由軟體（特別是GNU作業系統）的使用與發展；FSF創始人Richard Stallman因其遠見與執著，於1990年獲美國麥克阿瑟基金會獎項殊榮。&lt;/li&gt;
+	&lt;li&gt;註3：授權條款不能同時包含「禁止改作」與「相同方式分享」此二個授權要素，因為「禁止改作」是要求利用人不得產生衍生著作；而「相同方式分享」是針對衍生著作所做的規範。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 05 May 2006 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">336 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/336#comments</comments>
+</item>
+<item>
+ <title>雷席格的CC每週通信（十一）：介紹各種CC工具</title>
+ <link>https://creativecommons.tw/in-depth/74</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jedi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;勞倫斯．雷席格（Lawrence Lessig）著，2005年12月14日&lt;/p&gt;
+
+&lt;p&gt;CC提供各種「code」，以給予創作者一項能力──亦即能在創作內容上標註他們希望作品能帶有哪些自由。這裡英文的「code」有兩種意思──一種是法律性的條款（legal code，亦即授權條款，也就是license），以及技術性的程式碼（software）。我在前幾次通信中花了很多時間介紹法律性的條款。不過大多數人都不知道我們也寫程式，雖然呢，在我看來，那些程式其實是我們做得最棒的事情之一。&lt;/p&gt;
+
+&lt;p&gt;不過首先，我們得先弄清楚寫程式的目的。我們只是個規模不大的非營利組織（nonprofit）。我們不可能進入軟體業來建立並維護程式碼。所以我們的程式計劃乃是採取在此情況下最有可能的方式來進行──亦即我們將程式計劃用自由軟體授權方式散播（我們採用的是GPL），努力支持程式計劃，然後希望最終這些程式都能擁有自己的生命。至於要推動哪些程式計劃，則是看我們希望能公開提供哪些功能。如果我們播的種，能在別人那邊變成百萬美金的大事業，那我們可是再高興不過了。&lt;/p&gt;
+
+&lt;p&gt;我們寫的程式──都是一些工具，這些工具有的，舉例來說，讓&lt;a class=&quot;newpage&quot; href=&quot;http://www.flickr.com/&quot;&gt;flickr&lt;/a&gt; 這樣的相簿共享網站，可以把我們的授權條款引擎，整合進他們自家的平台上；&lt;a class=&quot;newpage&quot; href=&quot;http://yergler.net/projects/mozcc/&quot;&gt;有的則是像這個很厲害的Mozilla系列瀏覽器（包括FireFox）的外掛（plug-in）&lt;/a&gt;，讓你可以輕易瀏覽網頁的授權資訊，還會在瀏覽器視窗底下顯示一個小圖示。&lt;/p&gt;
+
+&lt;p&gt;另外呢，我們還寫了一些較不為人知的程式，這些是為了讓網路上的內容重混（remix）變得更容易而做的。&lt;/p&gt;
+
+&lt;p&gt;最簡單而且最容易明瞭的例子，當然要屬&lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/CcPublisher&quot;&gt;ccPublisher&lt;/a&gt; 了。ccPublisher是一個桌面應用程式，讓人們可以很容易地將他們的創作──在標上了CC授權條款之後──放到網路上。一旦你安裝好這個程式，你就可以輕鬆地把檔案拖到ccPublisher裡面。這個程式會帶出一道程序，首先會要你指定一個用在著作上的CC授權條款，然後程式便將檔案上傳到伺服器上。&lt;/p&gt;
+
+&lt;p&gt;目前程式所設定的伺服器是Internet Archive。網路英雄布魯斯特．卡利（Brewster Kahle）承諾為任何將著作內容以CC授權條款公開的人，永遠提供免費的儲存空間及頻寬。所以透過Internet Archive，你可以為你的著作找到一塊永遠的家，同時還有一個URL連結，可以告訴別人去哪下載你的作品。只要三個步驟，你的作品──不管多大、不管多難遞送──就可以讓所有人取用了，而且是永遠可以的。&lt;/p&gt;
+
+&lt;p&gt;我們還寫了一個&lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/CcLookup&quot;&gt;簡單的檢查程式&lt;/a&gt;（validator），讓大家可用來檢查標有CC授權的MP3檔案。一個MP3檔案裡所嵌入的授權，只有在檔案同時提供一個正確連回網站的連結時，才能被檢查程式認定是正確的。這個工具讓你可以驗證這個連回去的連結，好讓你真的可以相信說這個MP3檔案確實是照檔案上所說的方式授權的。&lt;/p&gt;
+
+&lt;p&gt;不過呢，到目前為止，我們寫過最酷的作品，是受到一群MIT大學部學生的啟發，並且是在傑出的音樂人兼程式設計者維克多．史東（Victor Stone）的協助下完成的。這程式叫作 ccMixter。&lt;/p&gt;
+
+&lt;p&gt;ccMixter 是某種類似「Friendster」那樣的交友網站，只是是以音樂作為交流的基礎（而且沒有像「Friendster」那樣是商業公司的服務）。你將你的音軌放上來，其他人重混（remix）你的音軌，而系統則記錄有哪些重混。所以你找ccMixter上的任何一首歌，都可以看到這首歌是由哪些其他曲子重混而成的（如果有使用重混的話），以及哪一首歌重混的那一首歌（如果有被重混的話）。使用者可以為歌曲評分、下載歌曲、使用串流播放（streaming），或是將作品用音樂訂閱播出（podcast）的方式散播。&lt;/p&gt;
+
+&lt;p&gt;這個服務的概念，是建立一個協同創作的技術平台，技術平台建立在協同合作的法律平台上（亦即CC的各種授權條款）。 ccMixter 最初放的是 Wired CD 的16首歌，包括了吉爾貝托．吉爾（Gilberto Gil）、野獸男孩（Beastie Boys）、大衛布爾恩（David Bryne）、Chukd D等人的創作。現在該網站上已經有超過1,600首曲子了。&lt;/p&gt;
+
+&lt;p&gt;我最喜歡的 ccMixter 故事，是一個代名「Minus Kelvin」的歌手。「Minus Kelvin」是一位高中物理老師。他於2005年二月加入了 ccMixter 。他在他的個人資料上寫說他想要找「一家唱片公司」。六月的時候，「Minus Kelvin」跟一家唱片公司簽了約，這家公司是透過 ccMixter 發現了他。雖然世界上只有一位「Minus Kelvin」，但是 ccMixter 上有越來越多像他這樣的經歷。&lt;/p&gt;
+
+&lt;p&gt;我們預期為 ccMixter 提供主機一陣子。我們未來會將該網站移植變為國際性的網站，以支持iCommons計劃，同時讓該服務能在教育領域起作用。不過我們的夢想呢，就是希望有人能將程式拿去，將之拿來營運一個有上萬創作者使用、彼此使用對方作品創作新東西的網站。在此同時，請參觀&lt;a class=&quot;newpage&quot; href=&quot;http://ccMixter.org&quot;&gt;http://ccMixter.org&lt;/a&gt;。並請&lt;a class=&quot;newpage&quot; href=&quot;https://support.creativecommons.org/&quot;&gt;支持我們的工作&lt;/a&gt;，好讓該網站能更加廣為流傳。&lt;/p&gt;
+
+&lt;p&gt;在下一次的通信裡，我將說明我們其他的新計劃。再下一次，就是這一系列的最後一篇了。&lt;/p&gt;
+
+&lt;p&gt;在本次通信結束前，我想要為前兩次通信的內容做個更正。從我收到的迴響看來，我想表達的意思並不是很清楚。&lt;/p&gt;
+
+&lt;p&gt;首先，在&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.tw/betacc/in-depth/73&quot;&gt;上一次通信&lt;/a&gt;裡，我提到了在「自由」軟體運動與「開放原始碼」軟體運動之間的爭鬥，我說，「對一些人來說，這是一場相信理念價值的陣營與相信現實原則（pragmatism）陣營的爭鬥」。至於到底誰是那「一些人」，則不是很清楚。就我的經驗，推動開放原始碼運動的人，是我所認識最有理念與原則的一群人。但是「有些人」認為那是一場爭鬥，而就我看來，真正爭的是兩種價值願景。&lt;/p&gt;
+
+&lt;p&gt;另外，在&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.tw/betacc/in-depth/65&quot;&gt;第二次通信&lt;/a&gt;裡，我提到了「我們認為，這樣的設計，會和自由軟體運動相似，讓創造力能有一塊空間，不致受到著作權的太多束縛。但我們和自由軟體運動不同的是，我們的目標並不在去除『私有財產的文化』，而在自由軟體運動裡，起碼有一部份的人是希望除去私有軟體的」。有些人將這段話解讀為，我認為自由軟體運動想要鏟除「私有財產的文化」。我的意思不是這樣。我單純只是想說，雖然自由軟體運動有很多推動人士，都希望能有一個沒有私有軟體的世界，自由文化運動的推動者們並不企求一個沒有私有財產文化的世界。&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+http://ccMixter.org連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 24 Feb 2006 05:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">74 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/74#comments</comments>
+</item>
+<item>
+ <title>ccHost 與新的 CC 網站服務</title>
+ <link>https://creativecommons.tw/blog/20050902</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jedi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;就在不久前，有一套叫&lt;a href=&quot;http://wiki.creativecommons.org/Wiki/CcHost&quot;&gt;ccHost&lt;/a&gt;的程式採 GPL 釋出了第一個&lt;a href=&quot;http://sourceforge.net/projects/cctools/files/ccHost/&quot;&gt;穩定版本&lt;/a&gt;。這套系統相當有意思，他其實是一個架站的套件，可以讓你在自己的伺服器上架設一個「音樂藝廊」（就跟相簿很像，只不過陳列的是音樂而不是圖片），而這個音樂藝廊不僅支援 Creative Commons 授權機制，更棒的是，他還可以追蹤重混作品 (Remix) 所採用的原始著作。這部份的機制大致上是這樣運作的：&lt;/p&gt;
+
+&lt;p&gt;假設在音樂藝廊上有一首採用取樣授權條款的音樂叫 Music A ，有人將這首音樂下載並重新取樣混出另一首音樂 Music B ，並且把 Music B 上傳回音樂藝廊，那麼經過妥善的標示後，其他人在音樂藝廊中，就可以看到 Music B 乃是由 Music A 改作而來的。&lt;/p&gt;
+
+&lt;p&gt;CC Taiwan 的技術組同仁正在檢視這套系統，評估看看我們需不需要或能不能對他做點甚麼，不過有興趣的人現在就可以先下載回去玩玩看了。&lt;/p&gt;
+
+&lt;p&gt;目前已經採用這套 ccHost 架設的站台有：&lt;a href=&quot;http://ccmixter.org/&quot;&gt;ccMixter&lt;/a&gt;和&lt;a href=&quot;http://www.opensourcecinema.com/cchost&quot;&gt;Open Source Cinema&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;另外，也是蠻新的消息，就是&lt;a href=&quot;http://api.creativecommons.org/docs/&quot;&gt;CC 網站服務&lt;/a&gt;最近&lt;a href=&quot;http://api.creativecommons.org/docs/readme_15.html&quot;&gt;推出了 1.5 版&lt;/a&gt;，這一版主要的差異是加強了各種語言的在地化能力。&lt;/p&gt;
+
+&lt;p&gt;同樣地， CC Taiwan 的技術組同仁也已經在審視這項新釋出的服務了，我們應該在近期內就會釋出新版的&lt;a href=&quot;http://wiki.creativecommons.org/Wiki/Developer/AjaxChooser&quot;&gt;AjaxChooser&lt;/a&gt;(連結失效)，讓它能正確處理 CC 網站服務所傳回的中文字串。&lt;/p&gt;
+
+&lt;p&gt;當然，如果您已經摸過上述這些系統，而有了一些心得的話，也很歡迎來跟我們討論。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 02 Sep 2005 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">60 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20050902#comments</comments>
+</item>
+</channel>
+</rss>

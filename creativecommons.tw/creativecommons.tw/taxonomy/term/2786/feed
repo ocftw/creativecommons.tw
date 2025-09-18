@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 搜尋工具</title>
+ <link>https://creativecommons.tw/category/tags/%E6%90%9C%E5%B0%8B%E5%B7%A5%E5%85%B7</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>體驗Vimeo的新威力</title>
+ <link>https://creativecommons.tw/blog/20120301</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;周文茵 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.org/wp-content/uploads/2012/01/vimeo_cc_landing_page.jpg&quot; style=&quot;height:536px; width:500px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;說到影音網站，除了大家耳熟能詳的&lt;a href=&quot;http://www.youtube.com/t/creative_commons&quot;&gt;Youtube&lt;/a&gt;，&lt;a href=&quot;http://vimeo.com/new&quot;&gt;Vimeo&lt;/a&gt;則是另一個值得造訪的平台，不但提供更多的影片格式支援（如：asf, asx, avi, divx, dv, dvx, m4v, mov, mp4, mpeg, mpg, qt, wmv, 3ivx等），還提供了 HD 高畫質影片&lt;a href=&quot;http://www.freegroup.org/2009/04/free-video-hosting-vimeo/&quot;&gt;功能&lt;/a&gt;。&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;除此之外，在影片授權功能上，Vimeo也順應趨勢，在2010年7月踏出第一步，&lt;a href=&quot;../../../../../../../../blog/20100708&quot;&gt;納入創用CC授權功能&lt;/a&gt;，供上傳者選擇。Vimeo發現使用者熱愛使用創用CC授權的影音來進行重製、混搭的活動。因此，最近更增添創用CC授權瀏覽與搜尋功能，以協助使用者透過授權篩選出想利用的著作。&lt;/p&gt;
+
+&lt;p&gt;這樣更強大、更完備的功能，將協助增加以創用CC授權釋出的影片的能見度，也有助於改善整個網路環境裡創用CC授權作品的度量指標，並且評估其影響。&lt;/p&gt;
+
+&lt;p&gt;資訊參考：&lt;a href=&quot;http://creativecommons.org/weblog/entry/31415&quot;&gt;http://creativecommons.org/weblog/entry/31415&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 01 Mar 2012 06:36:59 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">587 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120301#comments</comments>
+</item>
+<item>
+ <title>尋寶去！如何在網路上尋找有趣的公眾領域作品？</title>
+ <link>https://creativecommons.tw/blog/20120224</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ChiuHao Chen /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/Bibliotheca_Buloviana_%28Ausschnitt%29.jpg&quot; style=&quot;height:362px; width:516px&quot; /&gt;&lt;br /&gt;
+&lt;a href=&quot;http://commons.wikimedia.org/wiki/File:Bibliotheca_Buloviana_%28Ausschnitt%29.jpg&quot; rel=&quot;cc:attributionURL&quot; style=&quot;border-color: initial; font-size: 12px; line-height: 11px;&quot;&gt;Bibliotheca Buloviana (Ausschnitt)&lt;/a&gt;Georg Daniel Heumann&lt;a href=&quot;http://creativecommons.org/publicdomain/mark/1.0/&quot; style=&quot;color: #4374b7; border-style: initial; border-color: initial; font-size: 12px; line-height: 11px;&quot;&gt;Public Domain&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;寫在前頭&lt;/h2&gt;
+
+&lt;p&gt;農曆年間，隨手翻閱了書架上堆滿灰塵的歷史書，其中，關於周朝的「井田制度」，有這麼一段話：「...八家農戶各耕耘外圍的八塊方地，並共同耕種當中一塊「公地」，亦即公侯所領之地。...顯然當日農民認為在中央地區無代價的工作，有如一種公眾的義務。流傳所及，今日中文字裡公眾之「公」也與公侯之「公」無別。」[1]&lt;/p&gt;
+
+&lt;p&gt;於是，對於「公侯權利」與「公眾義務」，我有種想像：早在西元前700多年的周朝制度裡，「公侯伯子男」的世襲權利（擁有公地）已經隱隱約約的與公眾義務（耕作公有地）做了一定的認同與連結。如果稍微去除封建制度的軍事政治意義，當時，人們除了各自耕種外，仍願意共同耕耘「公侯之地」之行為，若把農耕之舉比擬當今人們的筆耕文創，個人的創作行為就好比一種權利，適當的將自己的耕耘成果回饋大眾更恰如義務一般理所當然，權利的賦予與義務的釋出彼此產生良性循環，這樣的社會共識，似乎是老祖宗就有的先見。有趣的是，兩千七百多年後的我們，反而針對公眾領域(public domain)[2]之下的資產如何使用與界定充滿歧見，不同的國家對於公眾領域創作版權的使用限制有著不一樣的解釋。但，唯一可以確定的是，經過時間的遞嬗，世世代代的創作積累絕對是人類無價的資產，這些創作如果不能開放的且自由的與全人類一起分享共用，那也太可惜了吧！&lt;/p&gt;
+
+&lt;p&gt;因此，在這裡我們將參考&lt;a href=&quot;http://publicdomainreview.org/guide-to-finding-interesting-public-domain-works-online&quot;&gt;公眾領域評論網站上的指南&lt;/a&gt;，協助對於公眾領域創作有興趣的人們，尋找與探索那些已經進入公眾領域的作品。&lt;/p&gt;
+
+&lt;h2&gt;尋寶的線索是？&lt;/h2&gt;
+
+&lt;p&gt;公眾領域作品的訊息可能來自四面八方，從展覽、博物館、音樂會、電視、廣播、書籍、報紙，甚至來自與朋友的交談中。 當然，網際網路一定是一個非常好的訊息來源。像是很讚的部落格 &lt;a href=&quot;http://bibliodyssey.blogspot.com/&quot;&gt;Biblioddysey&lt;/a&gt; 和&lt;a href=&quot;http://resobscura.blogspot.com/&quot;&gt; Res Obscura&lt;/a&gt;都定期刊登有趣的公眾領域作品（雖然讀者常常還是需要眯着眼睛搜尋著來自各單位的小小版權宣告，藉此確定作品是否來自公眾領域）。&lt;/p&gt;
+
+&lt;p&gt;另外，社群媒體也不斷的提供搜尋公眾領域素材的新方法。在網路社群裡正存在對於各式典藏檔/歷史集充滿高度興趣的tweeters，如果你是一個Twitter用戶，你可以試著建立#publicdomain這個feed，透過訂閱這個標籤，越來越多的人們討論着公眾領域中的有趣作品。&lt;/p&gt;
+
+&lt;p&gt;除此之外，也有郵件群組(mailing list)專門討論有關公眾領域。在群組裡，人們時常留言討論著有關於最近剛進入公眾領域的作品。開放知識基金會(The Open Knowledge Foundation) 主持了這樣一個郵件群組，可以在此訂閱&lt;a href=&quot;http://lists.okfn.org/mailman/listinfo/pd-discuss&quot;&gt;PD 討論訊息頁&lt;/a&gt;。 如果在部落格、tweets上面的連結常常因為使用限制讓你傷透腦筋，千萬不要太沮喪​​，因為網路上通常可以取得多個作品分身，而且，它門還有可能是開放授權(Open Licensing) 呢！&lt;/p&gt;
+
+&lt;p&gt;所以呢，請輕鬆的隨意瀏覽網頁，試圖尋找在廣播上聽到的奇妙作品，在展覽上面看到的，或是在部落格上展示的。這些都是尋找線上收藏的好方法。下一節，我們將快速的導覽網路上幾個稍具規模的公眾領域收藏。&lt;/p&gt;
+
+&lt;h2&gt;寶藏就在網路上&lt;/h2&gt;
+
+&lt;p&gt;在我們尋找作品前，我們還是需要注意，雖然作品可能已經在很久以前已經進入公眾領域範疇，但這可不表示它們也有線上的數位版本。而且，他們往往會用CC BY-NC這樣具有部分限制性的許可於網上公佈 （意味著使用時不能有商業用途且需標示姓名）。&lt;/p&gt;
+
+&lt;p&gt;正因如此，當你要上傳公眾領域的材料時，能夠使用各種常用的創用CC (Creative Commons)授權是非常用重要的（請參考&lt;a href=&quot;http://creativecommons.tw/&quot;&gt;台灣創用CC的網頁&lt;/a&gt;），若能先瞭解這些授權方式，能讓你瀏覽以下公眾領域資源更加得心應手....&lt;/p&gt;
+
+&lt;h3&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm8.staticflickr.com/7016/6714918585_c9fe4d9a1c_m.jpg&quot; style=&quot;float:left; height:73px; width:60px&quot; /&gt;&lt;a href=&quot;http://europeana.eu/portal/&quot;&gt;Europeana Europeana&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;這是一個探索歐洲文化珍藏的入口網站。目前，它正大量收集來自歐洲各地文化遺產機構所擁有的數據。當然，從Europeana可以發現某些作品並不保證是在公眾領域裡，因此，在搜尋功能中你可以加入篩選(filter)選項。一旦你進行了初步的搜尋，您接著可以使用左邊的“By copyright” 來依據授權方式篩選搜尋的結果 (目前網站沒有中文版）。例如，點選CC0 (免費用於任何用途) 的選項就會篩選出在開放授權下無任何權利的項目; 點選CC BY-NC則會顯示所有在&quot;姓名標示 - 非商業性&quot; 授權下的作品。覺得麻煩嗎？另一個替代方案就是直接使用我們給你的連結，例如： &lt;a href=&quot;http://www.europeana.eu/portal/search.html?query=europeana_rights:*public*&quot;&gt;公眾領域/CC0的作品&lt;/a&gt;或是&lt;a href=&quot;http://www.europeana.eu/portal/search.html?query=europeana_rights:*creative*&quot;&gt;創用CC授權的作品&lt;/a&gt; （當然，你還是可以透過網頁左邊的篩選選項尋找你指定的其他授權方式）。&lt;/p&gt;
+
+&lt;h3&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6022/5929814872_158e1bb716_o.jpg&quot; style=&quot;height:49px; width:60px&quot; /&gt;[[http://www.archive.org/|網際網路檔案館]] (Internet Archive)&lt;/h3&gt;
+
+&lt;p&gt;這是一個收藏了大量的文化作品與大量對於公眾領域作品的連結，包括電影、音樂和文字（但照片方面還不夠好）。&lt;/p&gt;
+
+&lt;p&gt;網站的亮點包括了Prelinger Archives。Prelinger Archives的收藏包含各種主題的應時(ephemeral)與公共服務影片，範疇從如何成為受歡迎的核子攻擊倖存者到一大堆的78轉唱盤錄音收藏[3]。網際網路檔案館最近還針對了網站上的大量收藏推出了&quot;策展人精選&quot; (Curator&#039;s Choice) 。&lt;/p&gt;
+
+&lt;p&gt;這裡當然也是個非常好的起點，讓人可以在網路檔案館的大海中撈到有趣的資源。但是，有些東西只以CC BY-NC授權釋出，但你還是可以在搜尋功能中篩選出公眾領域或是CC BY和CC BY-SA釋出的材料。例如說，我們要使用關鍵字“dog”作搜尋要找到公眾領域類型的東西，可以在搜尋框找到進階搜尋(Advanced Search)，將你要搜尋的條件與關鍵字填入，最重要的是，在&quot;Custom Field&quot;中選擇&quot;license&quot;，然後在條件欄位上填&quot;publicdomain&quot;，最後，按下搜尋按鈕就對了。&lt;/p&gt;
+
+&lt;p&gt;如果你只要搜尋CC BY的東西，那就把“publicdomain”換成“by”就可以了。依此類推，CC BY-SA就用&quot;by-sa&quot;，CC BY-ND就用&quot;by-nd&quot;當作搜尋條件。（如果你習慣自己寫參數，參數是這樣的：“ (dog) AND license:(publicdomain)” 或是你想要從metadata中尋找，也可以這樣寫：&quot;(dog) AND /metadata/licenseurl:http*publicdomain/* &quot;。&lt;/p&gt;
+
+&lt;p&gt;我知道，這可能對一般人來說有點小複雜，但是熟能生巧，請試試看吧！另一件重要的事情要注意的是，你會發現許多文字已被Google掃描，而且不幸的是他們已經將這些文字以非商業性授權條款發佈了。另外，大部分的授權都是使用者在上傳時所指定的，請謹慎使用，避免錯誤地標示！&lt;/p&gt;
+
+&lt;h3&gt;[[http://commons.wikimedia.org/wiki/Main_Page|&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6121/5929814880_ee53597044_o.jpg&quot; style=&quot;height:79px; width:60px&quot; /&gt;維基共享資源]] (Wikimedia Commons)&lt;/h3&gt;
+
+&lt;p&gt;這是一個可以用來尋找圖片的維基百科(Wikipedia) 媒體庫 ，裡面的圖片從[[http://commons.wikimedia.org/wiki/File:Anatomical_theatre_Leiden.jpg|17世紀的解剖學版畫]]到任何用戶隨意上傳的購物中心照片都有。他們做了非常大的努力嘗試把內容組織成”目錄”(category)，使用這樣的目錄操作可以讓來來回回檢索更加容易，但它有時需要一點點時間來習慣點擊目錄。&lt;/p&gt;
+
+&lt;p&gt;舉例來說，在搜索結果中你會看到 Category:XX（XX是您的搜索關鍵字），有時候如果你搜尋的關鍵字是相對簡單的，你也有可能直接進入那個分類，例如Category: dogs。他們也與不同的機構合作開放內容，像是地圖經銷商Geographicus從他們2011的收藏中捐贈了超過2000張高解析度照片，所有的內容都已進入公眾領域中，因此，不是擁有公眾領域標章(PD Mark)就會以CC BY-SA授權釋出。&lt;/p&gt;
+
+&lt;h3&gt;[[http://www.loc.gov/library/libarch-digital.html|&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6133/5929814874_c65bbbd522_o.jpg&quot; /&gt;美國國會圖書館]]&lt;/h3&gt;
+
+&lt;p&gt;所有有關於美國的資源，裡面有大量地印刷品、圖集、影音材料。大部分的材料都是公眾領域的，但仍不是全部，所以使用者還是需要逐一確認。使用右上角的搜尋欄或是透過他們非常有趣的&quot;[[http://www.loc.gov/index.html|典藏精選]]&quot;(Collection Highlights) 區瀏覽。&lt;/p&gt;
+
+&lt;h3&gt;[[http://www.flickr.com/commons|&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6132/5929814868_fa1b3b26e1_o.jpg&quot; style=&quot;height:53px; width:60px&quot; /&gt;Flickr的：The Commons]]&lt;/h3&gt;
+
+&lt;p&gt;一個找老照片的好所在。這裡的收藏，就好像在跳蚤市場找到一個老盒子，一打開，裡面擺滿了老照片，只是，這裡是線上版的老盒子。Flickr也與各機構合作把數以千計的照片上線，如史密森博物館(Smithsonian Museum)，國會圖書館 (Library of Congress)等。&lt;/p&gt;
+
+&lt;p&gt;但其中Flickr定義了&quot;[[http://www.flickr.com/commons/usage/|無已知版權限制]]&quot; 的授權狀態有點尷尬。依據網站說明，這意味者幾種狀態：&lt;/p&gt;
+
+&lt;p&gt;(1) 由於版權已過期，因此已屬於公共領域；&lt;br /&gt;
+(2) 版權由於其他原因流入公共領域，例如無法遵循所需的正式手續或條件；&lt;br /&gt;
+(3) 機構擁有版權，但不想對其進行控制；&lt;br /&gt;
+(4) 或者某些機構擁有足夠的合法權利，可以授權他人不受限制地使用作品。如果還是覺得不清楚，點選照片旁邊的&quot;無已知版權限制&quot;連結，你將會被導引到各單位有關於版權的說明頁。&lt;/p&gt;
+
+&lt;h3&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6003/5929814886_d21df3cffb_o.jpg&quot; style=&quot;height:75px; width:60px&quot; /&gt;[[http://zh.wikisource.org/|維基文庫]] (Wikisource)&lt;/h3&gt;
+
+&lt;p&gt;尋找純文字或是HTML版本文庫的好網站。由維基百科/維基社區所收集維護的線上出版品圖書館。他們擁有超過273,000英文文本，以及其他語言版本的網站，當然，也有中文版的維基文庫收藏，還沒看過紅樓夢嗎？也可以在這裡找到。除非網頁下方另有說明，例如，紅樓夢就已經屬於公眾領域，所有貢獻於維基文庫的用戶都以CC BY-SA授權。&lt;/p&gt;
+
+&lt;h3&gt;[[http://www.gutenberg.org/|&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6141/5929814878_7e157fb46f_o.jpg&quot; style=&quot;height:50px; width:60px&quot; /&gt;古騰堡計劃]](Project Gutenburg)&lt;/h3&gt;
+
+&lt;p&gt;另一個很好的純文字/ HTML文本庫。它提供了超過38,000本免費的電子書，你可以取得開放格式的電子書檔案(ePub)下載到電腦上或是Kindle、Andr​​oid、iOS等等行動裝置。它的特點是提供在美國已經是公眾領域的文本，因此，其他司法管轄區的用戶應該確認書中的授權方式後再進行適當的使用。&lt;/p&gt;
+
+&lt;h3&gt;[[http://www.openimages.eu/|&lt;img alt=&quot;&quot; src=&quot;http://farm8.staticflickr.com/7021/6724883099_495d8ce081_o.jpg&quot; style=&quot;height:75px; width:70px&quot; /&gt;開放圖片]] (OpenImages)&lt;/h3&gt;
+
+&lt;p&gt;新的影音檔案庫，雖然很新但成長快速。這是一個找到老荷蘭新聞影片的好地方，目前提供了超過70萬小時的電視、廣播、電影等的聲像記錄。由[[http://en.wikipedia.org/wiki/Netherlands_Institute_for_Sound_and_Vision|荷蘭聲像研究院]](Netherlands Institute for Sound and Vision)與[[http://www.kennisland.nl/|Knowledgeland]]合作的新創公司。&lt;/p&gt;
+
+&lt;h3&gt;[[http://www.biodiversitylibrary.org/Default.aspx|&lt;img alt=&quot;&quot; src=&quot;http://farm8.staticflickr.com/7163/6724910991_c213b7c12c_o.jpg&quot; style=&quot;height:52px; width:109px&quot; /&gt;生物多樣性歷史文獻圖書館]] (Biodiversity Heritage Library)&lt;/h3&gt;
+
+&lt;p&gt;從收集自然歷史與植物收藏的大量生物庫而來的計畫。依據開放的原則，也就是說，原來在公眾領域的素材仍處於公眾領域。他們也與Internet Archive合作製作特輯。&lt;/p&gt;
+
+&lt;h3&gt;[[http://publicdomainreview.org/|&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6142/6023444441_a9e77717eb_t.jpg&quot; style=&quot;height:92px; width:100px&quot; /&gt;公眾領域評論]] (The Public Domain Review)&lt;/h3&gt;
+
+&lt;p&gt;這裡有很多關於公眾領域的有趣評論（本文就是編譯這個網站的文章），它是人們進入公眾領域且能一窺大堂之奧的最佳入口。&lt;/p&gt;
+
+&lt;h3&gt;[[http://en.wikipedia.org/wiki/List_of_digital_library_projects|&lt;img alt=&quot;&quot; src=&quot;http://farm7.static.flickr.com/6135/6008873671_dafe292357_t.jpg&quot; style=&quot;height:54px; width:100px&quot; /&gt;其實還有很多...]]&lt;/h3&gt;
+
+&lt;p&gt;也有不少專案免費提供數位媒材（很多是來自大學裡），雖然有時候仍需要小心的在版權宣告中判別他們是否利用開放授權來釋出公眾領域作品。但還是很可惜，很多都沒有這樣做。但有些單位是有的，例如[[http://www.nlm.nih.gov/onlineexhibitions.html|美國國家醫學圖書館]] (U.S. National Library of Medicine) ，或由[[http://www.archive.org/details/cornell|康奈爾大學圖書館]](Cornell University Library)與網際網路檔案館(Internet Archive)攜手合作展示的數位圖書館，這裡不僅可以找到1915年出版的[[http://www.archive.org/stream/sketchesfromtaiw00camprich|關於福爾摩沙的老書]] ，更有[[http://www.archive.org/stream/taiwanrestaurant00sf|台菜餐廳菜單]]，有趣吧！。&lt;/p&gt;
+
+&lt;p&gt;另外，CC的搜尋工具也可以讓你方便的在Google圖片裡面搜尋公眾領域的收藏....&lt;/p&gt;
+
+&lt;h3&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm8.staticflickr.com/7172/6724777047_724d949017_o.jpg&quot; style=&quot;height:44px; width:150px&quot; /&gt;[[http://search.creativecommons.org/?betaActive=1&amp;amp;q|創用CC搜尋工具]]&lt;/h3&gt;
+
+&lt;p&gt;透過創用CC搜尋工具也可以方便得搜尋公眾領域素材。這裡依據CC授權透過Europeane, Flickr, Google Image等資料庫提供搜尋素材。（你也可以試試[[http://creativecommons.tw/search|台灣創用CC的搜尋工具]]）但必須注意的是，由用戶所授與的CC授權沒有被驗證過，因此仍有出錯的風險。我們的建議是：&quot;如果你有任何的懷疑，你應該直接與著作權擁有者聯絡，或試著與提供素材的網站聯絡&quot;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h2&gt;關於法律&lt;/h2&gt;
+
+&lt;h3&gt;授權方法&lt;/h3&gt;
+
+&lt;p&gt;很多放在網路上的素材，想要做到開放授權，許多人會選擇創用CC授權，其中，包括了無已知的著作權的公眾領域標章1.0 (PD Mark)，無著作權 (CC0)，姓名標示 (CC BY)，姓名標示-相同方式分享 (CC BY-SA)，姓名標示-禁止改作 (CC BY-ND)，姓名標示-非商業性-相同方式分享 (CC BY-NC )，詳細的說明，可以到[[http://creativecommons.tw/explore|台灣創用CC]]的網站看看。&lt;/p&gt;
+
+&lt;h3&gt;作品何時才會進入公眾領域？&lt;/h3&gt;
+
+&lt;p&gt;比較安全的說法是：在1850年前出版的作品(也就是超過150年前），全球幾乎都可以認可這些作品已經進入了公眾領域！所以，這段時間已經累積出了大量可讓大家無限制使用的作品。就如先前所說的，可惜的是，許多機構都宣稱他們擁有掃描或是上傳之後的檔案版權，因而，這些公眾領域的作品反而在掃描或上傳之後，另外又受到了著作權限制。 針對較為近代的作品，你必須更熟悉關於法律上的限制。&lt;/p&gt;
+
+&lt;p&gt;無奈的是，因為每個國家都有關於何時作品進入公眾領域的不同法律規定，這些法律一般來說會針對作品的種類而有所不同。有些國家依據作者過世的時間，有的國家依據出版日起算一段時間。對於文學，戲劇，音樂或藝術作品，在大多數的歐洲或其他世界各國家，針對一個作品是否進入公眾領域，則是從最後一位作者去世之當年底後的70年（這裡也包括電影的導演，編劇和任何作曲者）。又例如，大西洋上的島國巴貝多(Barbados)是50年，墨西哥則是100年。另外，因為採用&quot;截止日模式“ (cut off date model)，加上基於著作權何時更新或是否完全更新等因素，在美國則又是另外一個完全不同的故事。&lt;/p&gt;
+
+&lt;p&gt;以下提供一些連結，希望能幫助你在晦暗的法條中（我希望大部分的時候是光明的）找到一盞明燈！&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;[[http://publicdomain.okfn.org/calculators/|公眾領域計算機]] ：針對在歐洲的作品，提供一個[[http://outofcopyright.eu/calculator.html|簡單的工具]] ，它利用幾個按鈕問答，幫你確定在你的司法管轄區中是否該作品已經進入公眾領域。&lt;/li&gt;
+	&lt;li&gt;[[http://www.copyrightservice.co.uk/copyright/p01_uk_copyright_law|英國版權服務]] ：一個明確解釋英國法律的地方。&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;[[http://fairuse.stanford.edu/Copyright_and_Fair_Use_Overview/chapter8/|史丹佛大學解釋美國著作權的網站]]：非常明確的解釋美國的著作權系統，包括[[http://fairuse.stanford.edu/charts_tools/|大量的工具]]來確認公眾領域狀態。&lt;/li&gt;
+	&lt;li&gt;[[http://en.wikipedia.org/wiki/List_of_countries%27_copyright_length|維基裡不同國家的著作權清單]]：在wiki搜尋中打上國家的名稱與關鍵字&quot;copyright law&quot;，你應該可以看到一些正式的解釋。但需要注意，用Wikipedia來尋找一些概括的論述是可以的，但千萬不要把它當作是最精確的來源。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;有種情況是常發生的，就是當你想要使用的作品在原來的國家已經是公眾領域的作品了，但卻無法適用於你的國家。某些國家會使用“[[http://en.wikipedia.org/wiki/Rule_of_the_shorter_term|較短時間法則]]”，這意味著：當面臨國外的著作權狀態疑義時，這個原則允許著作權保護期間較長之會員國，得拒絕給予著作權保護期間較短之會員國之國民，與自己國民享有相同較長之著作權保護期間[4]。但仍需要注意，許多國家雖然聲稱遵守&quot;最短時間法則&quot;，但他們還是另外訂立了凌駕於此原則之外的雙邊協定。&lt;/p&gt;
+
+&lt;p&gt;==================================================================&lt;/p&gt;
+
+&lt;p&gt;[1] &quot;亞聖與史皇&quot;, 中國大歷史, 王仁宇&lt;br /&gt;
+[2] [[http://creativecommons.tw/in-depth/539|&quot;The Public Domain&quot; 怎麼說？]]&amp;nbsp;&lt;br /&gt;
+[3] [[http://en.wikipedia.org/wiki/Prelinger_Archives|Prelinger Archive]]&lt;br /&gt;
+[4] &quot;[[http://www.copyrightnote.org/crnote/bbs.php?board=2&amp;amp;act=read&amp;amp;id=155http://www.copyrightnote.org/crnote/bbs.php?board=2&amp;amp;act=read&amp;amp;|甚麼時候才算真正的公共所有?]]&quot;, 章忠信&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 24 Feb 2012 12:06:39 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">583 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120224#comments</comments>
+</item>
+<item>
+ <title>如何尋找「開放授權」的圖片檔案？</title>
+ <link>https://creativecommons.tw/blog/20120110</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;盧美慈&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;筆者在參與台灣創用CC計畫以及教育部創用CC計畫歷程中，最常碰到的問題就是「請問我用XXX的圖片放在教材或文章裡合法嗎？」、「請問我這樣標示圖片來源檔案是正確的嗎？」、「請問要去哪邊尋找用了不會侵犯著作權法的圖片檔案呢？」而這些問題也是目前教師教學、參加教案比賽、學生撰寫期末報告、民眾舉辦小型活動時所容易碰到的問題。本次專欄將以筆者自己的經驗，簡介如何尋找採取創用CC授權或已進入公共領域的圖片檔案，並概要說明使用這些檔案時應注意的標示問題，希望藉此可以使網路使用者更加願意使用開放授權的檔案，以及注意如何合法地使用這些檔案。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;一、如何尋找創用CC授權圖片？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;創用CC授權為一種開放的授權條款，當作者將其作品（圖文、音樂影像）採取創用CC授權，並選擇授權條款（例如：姓名標示—非商業性）後&lt;a href=&quot;#_ftn1&quot;&gt;[1]&lt;/a&gt;，使用者在使用其作品時，只要達到作品授權條款的條件，使用者就不用擔心著作權侵權問題。目前台灣創用CC網站的檔案搜尋介面，已整合了各種採取創用CC授權的圖像、音樂、影像、研究資料庫網站。由於本次主題以圖片為主，以採取創用CC授權的圖片網站Flickr為例：&lt;/p&gt;
+
+&lt;p&gt;（一）先進入台灣創用CC網站的檔案搜尋介面：&lt;a href=&quot;http://creativecommons.tw/search&quot;&gt;http://creativecommons.tw/search&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://lh6.googleusercontent.com/-tfrbkXaOIPw/TwU6GJ9wBUI/AAAAAAAABg4/b17D2FsYEuI/s640/01.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（二）在搜尋處輸入想搜尋的圖片名稱（例如：蒹葭），並勾選搜尋來源為Flickr&lt;a href=&quot;#_ftn2&quot;&gt;[2]&lt;/a&gt; &lt;img alt=&quot;&quot; src=&quot;https://lh5.googleusercontent.com/-DDAmsOgDn3Y/TwU6GFQDTXI/AAAAAAAABg0/-ZPi_FJRAec/s640/02.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（三）按下搜尋，將直接進入Flickr的搜尋結果頁面&lt;img alt=&quot;&quot; src=&quot;https://lh4.googleusercontent.com/-YOcokoRNcxc/TwU6GOZmbtI/AAAAAAAABhE/HtI5LLNwqW0/s640/03.jpg&quot; style=&quot;border-color:initial; border-style:initial; font-size:13px; line-height:20px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（四）點選想使用的圖片，確認授權資訊及作者&amp;nbsp;&lt;img alt=&quot;&quot; src=&quot;https://lh4.googleusercontent.com/-2l49yOjzXhs/TwVV7IOqAXI/AAAAAAAABis/keqrv2r6F4A/s640/04.jpg&quot; style=&quot;border-color:initial; border-style:initial; font-size:13px; line-height:20px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（五）下載檔案步驟1：先點擊圖片，在頁面中選擇「檢視全部尺寸」&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://lh6.googleusercontent.com/-lzLA9cUMAWY/TwU6HCfss5I/AAAAAAAABhM/eTzluavfpQs/s640/05.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（六）下載檔案步驟2：選擇想下載的尺寸，並點擊下載 &lt;img alt=&quot;&quot; src=&quot;https://lh4.googleusercontent.com/-FX7alXxNmK8/TwU6HatNpRI/AAAAAAAABhU/U0HJcLbBB_w/s640/06.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;二、如何尋找已入公共領域的圖片？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;進入公共領域的圖片，有可能是作者創作時就選擇將該圖片公開給大眾使用，或是該圖片因為著作權保護期限屆滿，而進入公共領域。進入公共領域之著作，任何人都可以自由利用，即使將其作品商業化，也沒有違反著作權法的疑慮。&lt;/p&gt;
+
+&lt;p&gt;目前較可信的公共領域圖片搜尋資源，以維基共享資源網 Wikimedia Commons為大宗。&lt;/p&gt;
+
+&lt;p&gt;（一）先進入維基共享資源網：&lt;a href=&quot;http://commons.wikimedia.org/wiki/&quot;&gt;http://commons.wikimedia.org/wiki/&lt;/a&gt; &lt;img alt=&quot;&quot; src=&quot;https://lh5.googleusercontent.com/-vwZvs930cp8/TwU6Ha3G6CI/AAAAAAAABhQ/sBO_Aaob830/s640/07.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（二）在Search部分輸入想查詢的關鍵字:在這部份要注意，維基共享資元的圖片來源大部份為英文，故在查詢時以英文作為關鍵字比較容易找到正確圖片 &lt;img alt=&quot;&quot; src=&quot;https://lh3.googleusercontent.com/-xsmWi5Nft4k/TwU6Hzse4_I/AAAAAAAABhc/IxFgpW-1YjE/s640/08.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（三）按下搜尋，觀看結果&lt;/p&gt;
+
+&lt;p&gt;（四）點選Reeds, Reeds, Reeds圖片，進入圖片資訊頁面&amp;nbsp;&lt;img alt=&quot;&quot; src=&quot;https://lh4.googleusercontent.com/-LB21e6jdayE/TwU6IbmRlvI/AAAAAAAABho/H9dE0vKDtoo/s640/09.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（五）點選download或是右鍵，另存新檔即可取得圖片檔案&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://lh4.googleusercontent.com/-Ry7yTcaD0kI/TwU6IYvBBeI/AAAAAAAABh0/sLHHo56Rx2I/s640/10.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;三、使用開放授權圖片資源時的常見問題：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;（一）利用創用CC素材不要忘記姓名標示創用CC授權2.0版以後的所有條款都有「姓名標示」的要求。在創作者有提供相關資訊的情況下，利用人必須標示創作者的名稱（或筆名）、著作名稱、出處或網址、原有的授權方式。&lt;/p&gt;
+
+&lt;p&gt;（二）標示方式：不限於圖片正中間或是其他大而明顯的標示，使用者可以為了配合版面美觀等需求，將作品來源資訊以及姓名標示放在不影響版面、但他人可以明確看到引用著作的來源以及原作姓名標示之處所。&lt;/p&gt;
+
+&lt;p&gt;（三）未依照授權條款的方式使用或標示的法律效果：由於創用CC授權條款是一種「開放式」授權，具有契約性質，使用者若未依照該條款使用著作，則如同未獲授權，法律效果則回歸到一般著作權法上「未獲他人授權而使用他人作品、改作他人作品」的情況，而有侵害作者著作權的風險。&lt;/p&gt;
+
+&lt;div&gt;&amp;nbsp;
+&lt;hr /&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;a href=&quot;#_ftnref1&quot;&gt;[1]&lt;/a&gt;&amp;nbsp;依據創用CC「姓名標示」、「非商業性」、「禁止改作」以及「相同方式分享」四個要素，共組成六種條款，包含姓名標示、姓名標示─非商業性、姓名標示─非商業性─相同方式分享、姓名標示─禁止改作、姓名標示─非商業性─禁止改作、姓名標示─相同方式分享。詳細內容請參照台灣創用CC授權介紹網站，&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org.tw/betacc/license&quot;&gt;http://creativecommons.org.tw/betacc/license&lt;/a&gt;，最後瀏覽日2012/1/3。&lt;br /&gt;
+&lt;a href=&quot;#_ftnref2&quot;&gt;[2]&lt;/a&gt;&amp;nbsp;雖然整合頁面中有google圖片與google網站可以選擇搜尋，但該二網站的授權條款標示可能非原作者所為，故較不推薦以google尋找創用CC授權資源。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 10 Jan 2012 09:33:47 +0000</pubDate>
+ <dc:creator>bonjovilll</dc:creator>
+ <guid isPermaLink="false">575 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120110#comments</comments>
+</item>
+<item>
+ <title>SoundCloud: 充分支援創用CC授權的音樂交流平台</title>
+ <link>https://creativecommons.tw/blog/20100817</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Polley Wong&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;&lt;a href=&quot;http://soundcloud.com/&quot;&gt;&lt;img alt=&quot;soundcloud.jpg;&quot; class=&quot;image&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/soundcloud.jpg&quot; style=&quot;height:285px; width:500px&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://soundcloud.com/&quot;&gt;SoundCloud&lt;/a&gt; 是個媒體分享平台。它允許使用者透過網路介面輕易且快速地傳遞、發表及下載藝術家、唱片製作公司及專業音樂家的音樂。&lt;a class=&quot;newpage&quot; href=&quot;http://soundcloud.com/&quot;&gt;SoundCloud&lt;/a&gt; 靠著它社群導向的分享介面、點閱與討論的統計機制、允許發表音樂者使用創用CC授權標示其作品，及即陸續出爐的各種好用功能於2010年約五月達到一百萬名註冊用戶。&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://soundcloud.com/&quot;&gt;SoundCloud&lt;/a&gt; 於今年八月中發表了一篇&lt;a class=&quot;newpage&quot; href=&quot;http://blog.soundcloud.com/2010/08/19/reuse-soundcloud-style/&quot;&gt;文章 ( Find, Remix and Reuse–SoundCloud Style )&lt;/a&gt; 提到他們進階搜尋中，開放了可讓使用者以創用CC授權作為搜尋條件。&lt;/p&gt;
+
+&lt;div&gt;&lt;a href=&quot;http://soundcloud.com/search&quot;&gt;&lt;img alt=&quot;Adv-search.jpg;&quot; class=&quot;image&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/adv-search.jpg&quot; style=&quot;width:700px&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://soundcloud.com/creativecommons&quot;&gt;SoundCloud 中介紹創用CC的網頁&lt;/a&gt;中(雖然是英文但)非常清楚地介紹者創用CC授權標章及其所代表的涵義，引導使用者發掘多一個發佈作品授權選項。&lt;/p&gt;
+
+&lt;div&gt;&lt;a href=&quot;http://soundcloud.com/creativecommons&quot;&gt;&lt;img alt=&quot;CC.jpg;&quot; class=&quot;image&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/cc.jpg&quot; style=&quot;width:700px&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;上傳音樂時，SoundCloud提供了音樂發佈者一個相當簡單好懂的選取創用CC授權介面：&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;Dashboard-SoundCloud.jpg&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/dashboard-soundcloud.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;除了搜尋和音樂上傳的介面上增加了創用CC的選項之外，聆聽音樂的介面也加入了小小的創用CC授權的標章圖示：&lt;/p&gt;
+
+&lt;div&gt;&lt;a href=&quot;http://soundcloud.com/twistedtools/sets&quot;&gt;&lt;img alt=&quot;twistedtools-Sets-SoundCloud.jpg;&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/twistedtools-sets-soundcloud.jpg&quot; style=&quot;width:350px&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;SoundCloud 技術上，深度使用了Dropbox來當成音樂傳遞的媒介，筆者使用起來蠻順的。但道德上可猜想其中也或許會一些盜版疑慮，延續早幾年的P2P檔案分享議題。但SoundCloud似乎搭上了確定的趨勢，即這個資訊共享和個人發佈的潮流，讓各種地上地下的藝術家齊聚ㄧ堂，連嘻哈音樂大佬Snoop Dogg都大力擁抱SoundCloud，成為它們的註冊者。再加上SoundCloud把藝術創作自由的理念鮮明呈現在眾人面前，讓許多愛好自由的年輕藝術創作者將其與Flickr和Vimeo齊名為多媒體發佈的完美平台。不知這樣的平台，是否能在台灣的使用者中有同等的需求與受歡迎程度。你們覺得呢？寄信來 wt.gro.snommocevitaerctcatnoc#wt.gro.snommocevitaerctcatnoc 表達你的看法吧！&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 17 Aug 2010 04:00:00 +0000</pubDate>
+ <dc:creator>polley</dc:creator>
+ <guid isPermaLink="false">219 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20100817#comments</comments>
+</item>
+<item>
+ <title>文建會「創意媒合王」導入創用CC授權之應用與問題</title>
+ <link>https://creativecommons.tw/in-depth/412</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;楊雅蘭&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;3年前(2006年)台灣創意設計中心正式導入「台灣智慧財產管理制度」(簡稱TIPS)，當年智財權部分我們上了超過20堂課，其中也探討了創用CC授權。&lt;/p&gt;
+
+&lt;p&gt;當時許多顧問皆反對使用創用CC授權，並說明創用CC授權仍存在著很多陷阱，是一般人不容易理解的，顧問覺得一般授權即可辦到商業及非營利模式，所以不需要採用創用CC授權，。&lt;/p&gt;
+
+&lt;p&gt;值得一提的是，創用CC授權電子報，有篇報導講的是澳洲小女生誤用創用CC授權的報導，因此身心受創，小女生的父母也對創用CC推廣單位提告。因此我們寫信給創用CC的台灣推廣單位詢問，該單位的回信也讓我們相當吃驚，例如：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;一旦宣示採用創用CC，終身不能取消。&lt;/li&gt;
+	&lt;li&gt;創用CC沒有統一的全球資料庫，雖然可以搜尋到加入創用CC的資料，卻無法查詢到哪些素材曾經採用創用CC，後來又取消 [編按]，未來有可能無法舉證所使用的素材是創用CC素材。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;如果使用創用CC授權，卻不知道如何舉證所使用的素材確實為創用CC授權的，那將身受官司纏身的困擾，於是我們更加反對使用創用CC授權了，因為這可能是個美麗的陷阱。&lt;/p&gt;
+
+&lt;p&gt;我們一直覺得應該充分了解創用CC授權的缺點，才能放心使用創用CC授權，否則使用創用CC授權就像不定時炸彈，一旦爆發時，還不知道自己錯在哪裡？無奈的是，法律是不管您懂或不懂創用CC授權，而是認為您應該要很懂，到法庭上可不能說：「我不知道原來創用CC要這麼使用？原來使用創用CC有這些風險？」說這些話並不能減輕犯罪行為！&lt;/p&gt;
+
+&lt;p&gt;接著的幾年間，我們承辦了文建會「創意媒合王」(&lt;a class=&quot;newpage&quot; href=&quot;http://beyondcreative.tw&quot;&gt;http://beyondcreative.tw&lt;/a&gt;)網站(今年將整併進「文化消費園區」(&lt;a class=&quot;newpage&quot; href=&quot;http://eshop.culture.tw&quot;&gt;網站&lt;/a&gt;)，其中獨創當時國內唯一的Web 2.0 素材圖像授權與媒合，除了提供一般授權以外，也提供了創用CC授權模式。&lt;/p&gt;
+
+&lt;p&gt;最初導入授權時，我們對創用CC還是非常存疑，尤其是當國科會要求將所有申請之計畫的產出都要採用創用CC釋出時，我們真的很擔心國家財產會被賤賣，也認為很多不懂得著作權的計畫工作人員會因此觸法，誤將別人的智財權採用創用CC授權出去。&lt;/p&gt;
+
+&lt;p&gt;一直到文建會大力推廣創用CC授權，促成文建會「創意媒合王」網站跟創用CC輔導團隊合作之後，我們慢慢對創用CC授權有所改觀。&lt;/p&gt;
+
+&lt;p&gt;因為合作關係，我們跟創用CC輔導團隊共同參與了一些活動，也辦理了幾場研討會，也因此意外多聽了很多創用CC的新案例，我們發現台灣創用CC輔導團隊開始不一樣了，不再只強調優點跟全球佈局，而開始說明如何查詢創用CC素材、如何正確標示創用CC授權、哪些作品適合創用CC釋出、採用了創用CC授權應該如何舉證來保護自己…等等相當務實且實用的課程，並且也將這些課程及相關說明放上網，讓網友可以進一步認識創用CC授權模式。&lt;/p&gt;
+
+&lt;p&gt;文建會「創意媒合王」網站導入創用CC授權模式，為充分讓使用者了解創用CC的注意事項，特別加強了以下服務功能：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;於本平台首頁查詢功能裡可以輸入關鍵字〝創用CC〞或下拉〝授權方式〞，亦可以同時使用以上兩種方式來交叉查詢創用CC素材。&lt;/li&gt;
+	&lt;li&gt;本平台所查詢出來的創用CC素材，有別於一般創用CC的搜尋引擎，資訊更為齊備：
+	&lt;ol&gt;
+		&lt;li&gt;正確將創用CC的各類授權圖示帶出。&lt;/li&gt;
+		&lt;li&gt;清楚顯示原創作者及權利所屬。&lt;/li&gt;
+		&lt;li&gt;帶出典藏單位及素材識別碼(OID)。&lt;/li&gt;
+		&lt;li&gt;顯示最後修改日期。&lt;/li&gt;
+		&lt;li&gt;可進階詳讀參考資訊及素材說明。&lt;/li&gt;
+		&lt;li&gt;權利人並可提供自己的網址讓USER瀏覽更多作品。&lt;/li&gt;
+		&lt;li&gt;如果小圖不清楚，並可以選擇將圖放大。&lt;/li&gt;
+		&lt;li&gt;如果想要更進一步與權利人聯繫其他授權事宜，還可點選〝媒合資訊〞聯繫權利人。&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;雖然文建會「創意媒合王」網站的創用CC授權模式很完備，並有豐富的授權諮詢資訊，加上本專案也辦過很多場說明研討會來推廣創用CC授權，但是礙於一般人對於創用CC授權的了解與認同還不足，因此本平台的創用CC授權素材非常有限，期望今年與文建會「文化消費園區」網站(&lt;a class=&quot;newpage&quot; href=&quot;http://eshop.culture.tw&quot;&gt;http://eshop.culture.tw&lt;/a&gt;) 整併後，提供了影音上傳的新功能後，可激勵更多的使用創用CC授權的族群來此網站共享盛舉。&lt;/p&gt;
+
+&lt;p&gt;編按：任何素材一經創用CC授權則無法取消，此處作者的文意為將以創用CC授權的素材放在網路上，後來又從網路上將其撤下，導致使用該素材者未來有舉證的難；而非指可以撤銷或是取消該素材的創用CC授權。&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+文化消費園區連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 04 Sep 2009 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">412 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/412#comments</comments>
+</item>
+<item>
+ <title>創用 CC 網頁多媒體編撰套件（下）</title>
+ <link>https://creativecommons.tw/in-depth/394</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林克寰&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;前面這些都是運用素材時要注意的事項，那麼流程中最後一個階段 ── 實際編輯網頁時呢？&lt;/p&gt;
+
+&lt;p&gt;其實現在有很多的套件，能夠輕易製作出內容採創用 CC 授權的網頁，在網頁上加入超鏈結及標示，並且嵌入授權相關的詮釋資料──他們是各種部落格系統與圍紀系統，例如 Movable Type（*22）、MediaWiki（*23），以及各種部落格服務、圍紀服務、線上藝廊服務，像是 TypePad（*24）、Wikia（*25）、Flickr。有一些用來把整個圖檔資料夾做成相簿網頁的程式，例如 snapGallery（*26），也可以在操作流程當中，讓你選擇創用 CC 授權，並根據這項設定來調整製作出來的網頁。&lt;/p&gt;
+
+&lt;p&gt;不過對於真正要設計網頁的人來說，大概會嫌上述這些辦法都太過僵硬，做不出想要的東西來。如果你也是想要自己親手做網頁的人，那麼目前你祇能一切自己來 ── 各種 WYSIWYG 網頁設計套件如Dreamweaver、GoLive!、Expression Web 等，都還沒有內建跟創用 CC 授權有關的功能，所以你得徒手拿文字編輯軟體（或文字型網頁設計套件）來把有關的原始碼加進去。除了由創用 CC 所提供的 RDF 格式數位標籤外，你還可以用微格當中的 rel-license（*27）來標記授權文字、圖片說明，讓網頁更具語意。&lt;/p&gt;
+
+&lt;p&gt;當你做了這些事後，可以用創用 CC 提供的 MozCC 擴充套件（*28）來確認是否標記正確，也可以用 BlueOrganiser（*29）、Operator（*30）、Tails Export（*31）等擴充套件，來確認用微格標記的授權資訊是否能被加以利用。這些擴充套件通通都是用於 Firefox（*32）的 ── Firefox 仍舊是網頁設計的首選，有各種領先潮流的擴充套件，能夠彌補Firefox 的不足之處，讓 Firefox 有機會跟其他瀏覽器一較上下。（MozCC 也可以用於 Songbird（*33））&lt;/p&gt;
+
+&lt;p&gt;要讓網頁邁入 Web 2.0，上述這種 RDF 格式授權數位標籤以及微格都是少不了的，另外網站還得提供 RSS 或 Atom 源料，以便跟其他網站或服務交流內容。因為源料的目的使然，在源料上標記授權資訊又更為重要。處理源料最簡單的方法之一，就是交給 FeedBurner 來做，這個網頁服務有著諸多功能，包括統計訂閱數、修正源料瑕疵等，同時也能夠加入創用 CC 授權資訊，讓你的源料更能充分表達網頁內容，也讓網頁設計師可以把心力集中在實際的網頁上。&lt;/p&gt;
+
+&lt;p&gt;設計網頁時，有些設計師會採用以創用 CC 授權釋出的框架，例如Mollio（*35），這種時候要如何標示作者及授權資訊呢？使用網頁設計框架時，標記這些資訊也有兩種辦法：第一是跟圖片一樣，在「版權宣告」之類的網頁中，說明你所使用的框架資訊；第二則是把相關的資訊保留在網頁原始碼內──有些網站開發套件會在最後的最佳化程序中，刪除所有的原始碼註解、空格、換列，這時請務必確認這些授權資訊有保留下來。這兩種辦法並不互斥，如果能都做到，更是理想。&lt;/p&gt;
+
+&lt;p&gt;除了 Mollio 外，近年來越來越多人用的 YUI（*36）也是採取開放的授權方式；雖然 YUI 並不是用創用 CC 授權，而是 BSD 授權條款，但是創用 CC 計畫也有試著納入 BSD 授權（*37），並也致力於未來要與BSD 授權有更好的可互通性，因此使用 YUI 或其他框架時，要注意的地方、標示的方式，其實也是跟 Mollio 一樣：附在網頁上，並在原始碼中保留相關資訊。&lt;/p&gt;
+
+&lt;p&gt;歸納一下，我們在本文當中學到了：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;用 flickrCC、Behold、Flickr Color Selectr、Compfight 來搜尋 Flickr 上採創用 CC 授權的圖片&lt;/li&gt;
+	&lt;li&gt;用 ImageStamper 來存證圖片授權資訊&lt;/li&gt;
+	&lt;li&gt;用 Inkscape 將圖片包裝成 SVG，並嵌入創用 CC 授權數位標籤&lt;/li&gt;
+	&lt;li&gt;到 ccMixter、Revver、StreetVoice、Internet Archive 尋找採創用 CC 授權的其他影音素材&lt;/li&gt;
+	&lt;li&gt;用 SMIL 來整合多媒體素材並標記授權資訊&lt;/li&gt;
+	&lt;li&gt;用 OOXML 或 XMP 來幫文件檔案標記授權資訊&lt;/li&gt;
+	&lt;li&gt;使用採創用 CC 授權的素材來設計原型及最終的網頁&lt;/li&gt;
+	&lt;li&gt;善用現成的網頁服務來製作使用創用 CC 素材的網站&lt;/li&gt;
+	&lt;li&gt;使用微格與 RDF 格式來標記網頁上的創用 CC 資訊&lt;/li&gt;
+	&lt;li&gt;使用專門的頁面來說明各素材的授權資訊&lt;/li&gt;
+	&lt;li&gt;利用 FeedBurner 在網頁源料中加入創用 CC 授權資訊&lt;/li&gt;
+	&lt;li&gt;使用採創用 CC 授權的網頁設計框架來製作網頁&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;由此我們可以看出，創用 CC 已經悄悄地進入網頁設計的各個環節，從素材、框架到內容交換格式，處處都有創用 CC；但是目前對媒體素材的利用上，祇有圖片的部分較為成熟，其他媒體素材則不論是要搜尋還是要存證授權資訊，能利用的資源都較少，文件檔案格式所採用的 OOXML 或 XMP 等則更是少為普羅民眾所知。更重要的是，我們目前仍然缺少便於蒐集、整理各種素材的工具。&lt;/p&gt;
+
+&lt;p&gt;至於要在網頁上標示內容或素材的授權資訊，則有多種方法：在原始碼中標示、使用 RDF 格式數位標籤、運用微格、另做專用網頁等，這些方法並不互斥，甚至適於搭配混用；但另一方面也顯示了網頁編輯工具對此還沒有足夠的重視，這也是未來軟體開發者所應該使力的地方。&lt;/p&gt;
+
+&lt;p&gt;拉拉雜雜地講了一大堆東西，希望對於終日與網頁設計奮鬥的朋友們有所幫助，也更希望未來能有更強大好用的套件來處理這些細節，讓人們不用再辛苦地東拼西湊。&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;/p&gt;
+
+&lt;p&gt;*22 Movable Type: &lt;a class=&quot;newpage&quot; href=&quot;http://movabletype.org/&quot;&gt;http://movabletype.org/&lt;/a&gt;&lt;br /&gt;
+*23 MediaWiki: &lt;a class=&quot;newpage&quot; href=&quot;http://www.mediawiki.org/&quot;&gt;http://www.mediawiki.org&lt;/a&gt;&lt;br /&gt;
+*24 TypePad: &lt;a class=&quot;newpage&quot; href=&quot;http://typepad.com/&quot;&gt;http://typepad.com/&lt;/a&gt;&lt;br /&gt;
+*25 Wikia: &lt;a class=&quot;newpage&quot; href=&quot;http://wikia.com/&quot;&gt;http://wikia.com/&lt;/a&gt;&lt;br /&gt;
+*26 snapGallery: &lt;a class=&quot;newpage&quot; href=&quot;http://www.onfocus.com/snap/&quot;&gt;http://www.onfocus.com/snap/&lt;/a&gt;&lt;br /&gt;
+*27 Microformats rel-license: &lt;a class=&quot;newpage&quot; href=&quot;http://microformats.org/wiki/rel-license&quot;&gt;http://microformats.org/wiki/rel-license&lt;/a&gt;&lt;br /&gt;
+*28 MozCC: &lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/MozCC&quot;&gt;http://wiki.creativecommons.org/MozCC&lt;/a&gt;&lt;br /&gt;
+*29 BlueOrganiser: &lt;a class=&quot;newpage&quot; href=&quot;http://www.adaptiveblue.com/&quot;&gt;http://www.adaptiveblue.com/&lt;/a&gt;&lt;br /&gt;
+*30 Operator: &lt;a class=&quot;newpage&quot; href=&quot;https://addons.mozilla.org/firefox/4106/&quot;&gt;https://addons.mozilla.org/firefox/4106/&lt;/a&gt;(連結失效)&lt;br /&gt;
+*31 Tails Export: &lt;a class=&quot;newpage&quot; href=&quot;https://addons.mozilla.org/firefox/2240/&quot;&gt;https://addons.mozilla.org/firefox/2240/&lt;/a&gt;(連結失效)&lt;br /&gt;
+*32 Firefox: &lt;a class=&quot;newpage&quot; href=&quot;http://moztw.org/firefox/&quot;&gt;http://moztw.org/firefox/&lt;/a&gt;&lt;br /&gt;
+*33 Songbird: &lt;a class=&quot;newpage&quot; href=&quot;http://songbird.com/&quot;&gt;http://songbird.com/&lt;/a&gt;&lt;br /&gt;
+*34 FeedBurner: &lt;a class=&quot;newpage&quot; href=&quot;http://www.feedburner.com/&quot;&gt;http://www.feedburner.com/&lt;/a&gt;&lt;br /&gt;
+*35 Mollio: &lt;a class=&quot;newpage&quot; href=&quot;http://www.mollio.org/&quot;&gt;http://www.mollio.org/&lt;/a&gt;&lt;br /&gt;
+*36 YUI: &lt;a class=&quot;newpage&quot; href=&quot;http://developer.yahoo.com/yui/&quot;&gt;http://developer.yahoo.com/yui/&lt;/a&gt;&lt;br /&gt;
+*37 創用 CC BSD 授權: &lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/BSD/deed.zh_TW&quot;&gt;http://creativecommons.org/licenses/BSD/deed.zh_TW&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 05 Dec 2008 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">394 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/394#comments</comments>
+</item>
+<item>
+ <title>創用 CC 網頁多媒體編撰套件（中）</title>
+ <link>https://creativecommons.tw/in-depth/392</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林克寰&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;許多人在網頁上要使用採 CC 授權的圖片時，會因為不知道如何標示姓名而感到困惑──這裡說的不是「按作者指定的方式來標示姓名」的那個問題，而是用了一堆圖片時，這些標示要放在哪裡的問題。如果執著於一定要標示在圖片旁邊，很容易會破壞畫面美觀，讓許多設計師卻步；事實上可以比照一般編排書籍的辦法，另外做一個網頁（或併入「版權宣告」之類的網頁中），詳載網站內各網頁所有使用過的圖片縮圖、作者、原始出處網址、授權方式等資訊，然後祇要確保每一個網頁都能清楚容易地連到這個清單網頁即可。&lt;/p&gt;
+
+&lt;p&gt;除了這種方式之外，另外還有一種進階的標記方式：把點陣圖檔包進 SVG（*9）格式的圖檔中再使用。因為 SVG 是一種運用 XML 的圖形格式，而且可以在詮釋資料中嵌入創用 CC 授權的數位標籤，所以這麼一來就能夠在不動到原始檔案、不需要另外在網頁上標記的前提下，表達圖片的授權資訊、作者資訊等。如果你打算這麼做，那麼務必要試試看 Inkscape（*10）這套 SVG 編輯工具，它內建了創用 CC 授權的詮釋資料選項，而且還是一套在各平台、各語系都有得用的自由軟體。&lt;/p&gt;
+
+&lt;p&gt;網頁上往往不會祇有圖片，還會有其他的多媒體內容，例如聲音、音樂、動畫、影像等，這些媒體也會有其匯聚之處，像是 Revver（*11）上所有的影片，都是採用創用 CC 姓名標示─非商業性─禁止改作 2.5 版授權條款釋出，ccMixter（*12）上有大量採創用 CC 授權釋出的音樂、樂段、取樣，StreetVoice（*13）也有許多華文的影音串流採創用 CC 授權釋出，Internet Archive（*14）更是匯集了許多採公眾授權（也包括了創用 CC 授權）釋出的多媒體素材。&lt;/p&gt;
+
+&lt;p&gt;這些媒體內容都比圖片來得複雜，包括牽涉到的技術、使用方式、作者姓名與授權方式的標示等皆然。要在網頁上使用這些採創用 CC 授權的內容時，可以如圖片般另外表列這些素材的作者及授權資訊，也可以在編輯這些素材時加入聲音或畫面來說明（如果原本的作者並未加上這些標記，或者僅取用部分內容），另外也可以用 SMIL（*15）來標記 ── SMIL 也是一種 XML 檔案，也一樣可以嵌入創用 CC 的數位標籤。用 SVG 或 SMIL 的手法，好處是不會動到原始的數位檔案，保留日後再行邊修的彈性；但是缺點則是並非所有的瀏覽器都能 100％支援所有的功能，所以採用這個解決方案前，得要先評估考量一番。&lt;/p&gt;
+
+&lt;p&gt;這些多媒體素材併用時，還要考慮不同授權方式之間是否相容。授權條款之間的相容性及可互通性，一直都是創用 CC 努力的方向之一；除了創用 CC 本身提供的授權條款皆具有可互通性外，創用 CC 也致力於跟其他常見的授權方式如 GPL、GFDL、BSD 等的可互通性。使用創用 CC 授權條款的好處之一，即是未來將可望與更多採不同授權方式的內容互通（雖然此刻還沒有實現這個夢想）。&lt;/p&gt;
+
+&lt;p&gt;台灣創用 CC 計畫提供了一個授權相容性精靈（*16），能夠幫你檢查各種授權之間是否相容，以及用這些素材製做出來的網頁還可以採用哪些授權方式釋出。創用 CC 把「授權」這件事與一般人拉近了，因此我們更應該要正視「授權」這件事；也許未來哪一天，編輯網頁的開發環境，可以把搜尋、管理多媒體素材的功能也納入其中，而且還能依據預期的授權方式，來篩選可用的素材。&lt;/p&gt;
+
+&lt;p&gt;近來有些網頁還有一種做法，就是直接提供文件檔案（例如微軟 Word 的 .doc 格式、Adobe 的 PDF 格式等）讓使用者下載，這些檔案因此成了網頁的延伸。網頁本身可以嵌入創用 CC 授權的數位標籤，那麼這些檔案可以嗎？&lt;/p&gt;
+
+&lt;p&gt;微軟自己替 Office 2003 及 Office 2007 分別提供了一個叫「Creative Commons Add-in for Microsoft Office（*17）」的外掛模組，標示授權資訊時，同時也會用 OOXML（*18）嵌入相對應的數位標籤。Adobe 則是採用 XMP（*19）來處理這些詮釋資料，也可以用創用 CC 網站上提供的 XMP 模版，加入相對應的創用 CC 授權數位標籤。&lt;/p&gt;
+
+&lt;p&gt;與 XMP 的處理工具都還不多，不過還是有像 Proud Hill MetaGrove（*20）這種商業的 XMP 輔佐編撰管理工具；另外 Adobe 自己也釋出了 XMP 開發套件（*21），所以未來也應該會出現更多 XMP 處理工具。&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;/p&gt;
+
+&lt;p&gt;*8 ccMixter &lt;a class=&quot;newpage&quot; href=&quot;http://ccmixter.org/&quot;&gt;http://ccmixter.org/&lt;/a&gt;&lt;br /&gt;
+*9 SVG: &lt;a class=&quot;newpage&quot; href=&quot;http://www.w3.org/Graphics/SVG/&quot;&gt;http://www.w3.org/Graphics/SVG/&lt;/a&gt;&lt;br /&gt;
+*10 Inkscape: &lt;a class=&quot;newpage&quot; href=&quot;http://inkscape.org/&quot;&gt;http://inkscape.org/&lt;/a&gt;&lt;br /&gt;
+*11 Revver: &lt;a class=&quot;newpage&quot; href=&quot;http://revver.com/&quot;&gt;http://revver.com/&lt;/a&gt;&lt;br /&gt;
+*12 ccMixter: &lt;a class=&quot;newpage&quot; href=&quot;http://ccmixter.org/&quot;&gt;http://ccmixter.org/&lt;/a&gt;&lt;br /&gt;
+*13 StreetVoice: &lt;a class=&quot;newpage&quot; href=&quot;http;//streetvoice.com/&quot;&gt;http;//streetvoice.com/&lt;/a&gt;&lt;br /&gt;
+*14 Internet Archive: &lt;a class=&quot;newpage&quot; href=&quot;http://archive.org/&quot;&gt;http://archive.org/&lt;/a&gt;&lt;br /&gt;
+*15 SMIL: &lt;a class=&quot;newpage&quot; href=&quot;http://www.w3.org/AudioVideo/&quot;&gt;http://www.w3.org/AudioVideo/&lt;/a&gt;&lt;br /&gt;
+*16 創用 CC 授權相容精靈: &lt;a href=&quot;http://creativecommons.org.tw/licwiz/&quot;&gt;http://creativecommons.org.tw/licwiz/&lt;/a&gt;(連結失效)&lt;br /&gt;
+*17 Creative Commons Add-in for Microsoft Office 2007:&lt;br /&gt;
+&lt;a class=&quot;newpage&quot; href=&quot;http://www.microsoft.com/downloads/details.aspx?FamilyId=D1DDBDC8-627F&quot;&gt;http://www.microsoft.com/downloads/details.aspx?FamilyId=D1DDBDC8-627F&lt;/a&gt;&lt;br /&gt;
+*18 Office Open XML: &lt;a class=&quot;newpage&quot; href=&quot;http://msdn.microsoft.com/en-us/library/aa338205.aspx&quot;&gt;http://msdn.microsoft.com/en-us/library/aa338205.aspx&lt;/a&gt;&lt;br /&gt;
+*19 XMP: &lt;a class=&quot;newpage&quot; href=&quot;http://www.adobe.com/products/xmp/&quot;&gt;http://www.adobe.com/products/xmp/&lt;/a&gt;&lt;br /&gt;
+*20 Proud Hill MetaGrove: &lt;a class=&quot;newpage&quot; href=&quot;http://www.poundhillsoftware.net/&quot;&gt;http://www.poundhillsoftware.net/&lt;/a&gt;&lt;br /&gt;
+*21 Adobe XMP Toolkit: &lt;a class=&quot;newpage&quot; href=&quot;http://www.adobe.com/devnet/xmp/&quot;&gt;http://www.adobe.com/devnet/xmp/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 07 Nov 2008 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">392 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/392#comments</comments>
+</item>
+<item>
+ <title>創用 CC 網頁多媒體編撰套件（上）</title>
+ <link>https://creativecommons.tw/in-depth/390</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林克寰&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;相信本報的讀者，對於創用 CC 的特性已經有了基本的了解，知道創用 CC 要在僵化的智慧財產權市場上添加彈性，給予創作者更多的選擇，同時要讓各種複雜的授權方式變得簡單易懂、可彼此搭配混用，因此以現行的著作權法為基礎，規劃了一系列的授權方式，每一種授權方式同時提供法律條款、授權標章、數位標籤，讓任何法院、任何人、各種應用程式都能輕易明白數位內容所採用的授權方式。&lt;/p&gt;
+
+&lt;p&gt;上面這段文字，背後的理念與細節絕非三言兩語可以講完；台灣創用 CC 計畫多年推動下來，累積了不少文件教學，想更深入了解這些理論背景，可以多加利用。然而，對於實務工作的朋友們來說，或許更關心的是要如何把「創用 CC」放進自己的設計流程或工作流程當中 ── 確實創用 CC 的網站上提供了許多的工具與資源，但是這些東西零零散散的，要怎麼整合在一起呢？&lt;/p&gt;
+
+&lt;p&gt;許多設計領域當中，都有不少開發套件或整合開發環境，協助開發者或設計者在同一個環境中，完成所有（或主要）的工作；創用 CC 在這個領域當中還相當年輕，並沒有任何一個完整的開發套件，能夠兼顧設計流程與創用 CC 的需求。但是把創用 CC 帶進設計流程確實可行，本文即要以「網頁設計」為例，試圖拼湊各種既有的資源，讓從事網頁設計的讀者們看看這件事可以怎麼來達成，也提供有志之士未來開發工具軟體的參考。&lt;/p&gt;
+
+&lt;p&gt;做一個網頁，尤其是做一個多媒體網頁，通常會有幾個階段：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;設計原型：設計整個網頁的原型（Prototype）與框架，包括了概念、質感、整體風格等。&lt;/li&gt;
+	&lt;li&gt;取用素材：挑選可能適用的現成多媒體素材，這部份還包括了素材的管理。&lt;/li&gt;
+	&lt;li&gt;創作內容：製作原創的多媒體內容，以及修改、混搭適用的現成多媒體素材。&lt;/li&gt;
+	&lt;li&gt;製作成品：利用素材（不論是現成的或是自創的），按照原型的發展，製作出最後的網頁。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;這四個階段並不是切得一乾二淨，而是彼此間會有重疊、往返，不過大致上還是可以這樣來區分。在設計原型的階段當中，主要產出的都會是內部文件，不會公開出來，照理說幾乎可以不用考慮智慧財產權的問題；不過在這個階段中，你很有可能會用氛圍板（Mood Board）來說明網站的預期質感與風格，而氛圍板上的素材，也有可能沿用到後期的設計流程當中，或者是你的案主／關係人會很在意網站原型上的各種視覺元素，認為這些視覺元素會出現在最終的網站成品上……在這些情況下，一開始就處理好素材的智慧財產權，會比事後再來釐清要更事半功倍。&lt;/p&gt;
+
+&lt;p&gt;取用素材則是設計師的必修課了。每個設計師手上都一定有個網站清單，這些網站會提供預先經過授權的各種圖片，讓設計師可以拿去用於商業用途，例如做網頁。有些圖庫網站要繳費纔能使用（月費或以圖片張數計算），好處是圖片素質跟風格會比較一致，另外有些免費的圖庫網站，良莠則不大一定。&lt;/p&gt;
+
+&lt;p&gt;近年來隨著 Flickr等相簿網站的興起，也有很多商業圖形應用，會從這些相簿網站尋找；不論是做書、做廣告宣傳文案、做網頁，都已經有不少使用 Flickr 的實例。你可能已經知道 Flickr 內建了創用 CC 授權機制，讓圖片作者能夠選擇圖片的授權方式，也讓你能夠從進階搜尋指定某些創用 CC 授權方式，篩選出更能自由運用的圖片；但是你可能不知道，除了 Flickr 本身以外，還有許多網站，能夠幫助你尋覓 Flickr 上的圖片。&lt;/p&gt;
+
+&lt;p&gt;flickrCC是個專門搜尋採創用 CC 授權的 Flickr 圖片的網站，省下了每次要按「進階搜尋」的麻煩，另外還直接內建簡單的圖片編輯工具，讓你可以線上處理圖片，單鍵加入姓名標示，或把圖片傳進 Picnik這個線上圖片編修服務。&lt;/p&gt;
+
+&lt;p&gt;由於多數採創用 CC 授權的圖片都要求姓名標示，意味著你得記得每一張圖片的出處網址、作者姓名字號、授權方式等資訊。想像一下你有一個資料夾，裝著幾百張 Flickr 抓下來的圖檔，你要怎麼知道某一張圖片的作者、出處、授權方式？以前你可能得要另外弄個資料庫、試算表或文字檔，來紀錄每一個圖檔（檔名）跟他的對應資訊；現在 flickrCC 讓你可以單鍵把這些資訊放進圖檔，做成圖片的一部分（附加在原本的圖片外圍，所以不會有字蓋到圖），從此再也不會有這種煩惱了。&lt;/p&gt;
+
+&lt;p&gt;有個叫 Behold的網站，也能搜尋採創用 CC 授權的 Flickr 圖片。但是這個搜尋網站跟其他 Flickr 圖片搜尋方式最大的不同之處，在於它實做了 Alexei Yavlinsky 博士論文中的「自動圖片註記」技術，亦即 Behold 能夠辨識出圖片的內容，而不用仰賴 Flickr 的標籤（tag）系統。藉由這樣的技術，Behold 可以更精確地找出你所需要的圖片。&lt;/p&gt;
+
+&lt;p&gt;Behold 也搭配了 ImageStamper，來增強創用 CC 的使用。ImageStamper 是一個「公正第三方」的網頁服務，當有人貼上一個 Flickr （或其他線上藝廊的）網址時，它就會紀錄那張圖片的縮圖、作者、原始網址、（創用 CC）授權方式，並加上這筆紀錄的時間戳印，如此一來就可證明你使用這張圖片的時候，確實是採用何種授權方式；這個網站還可以用來讓圖片作者證明，自己是最早把圖片發表到網路上的人，以證實自己是原始作者，並且可以紀錄每次的授權方式變更。&lt;/p&gt;
+
+&lt;p&gt;除了用圖片實際內容來搜尋外，Flickr Color Selectr還提供了一種很不一樣的搜尋方式：用色彩。這個搜尋引擎一樣是鎖定 Flickr 上面採創用 CC 授權的圖片，但是搜尋圖片時並不輸入任何關鍵字、詞，而是從色盤當中挑選一個色彩，接著 Flickr Color Selectr 就會找出色調與指定色彩相符的圖片。色調往往左右著氛圍，因此這種搜尋方式，對於網頁的視覺設計來說，著實好用。&lt;/p&gt;
+
+&lt;p&gt;還有一個叫 Compfight的搜尋網站，也是用來搜尋 Flickr 圖片的。這個網站當中，除了一樣可以搜尋採創用 CC 授權的圖片外，也可以標示出有提供「原始尺寸」的圖片；如果你需要高解析度的圖片，這項功能將會非常有用。&lt;/p&gt;
+
+&lt;p&gt;這些 Flickr 搜尋引擎各有特色，Behold 與 Flickr Color Selectr 的獨特搜尋方式、Compfight 標示出提供「原始尺寸」的圖片、flickrCC 的線上編輯圖片功能、ImageStamper 的授權紀錄公正第三方服務，如果能夠整合在一起，然後搭配本機檔案管理，通通做進網頁編輯套件當中，那就太好了；目前這個夢想還沒有實現，技術上卻是可能的。（待續）&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 03 Oct 2008 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">390 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/390#comments</comments>
+</item>
+<item>
+ <title>創用 CC 搜尋中文介面</title>
+ <link>https://creativecommons.tw/blog/20080407-1</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;趙柏強 Po-chiang Chao&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;快報：&lt;a class=&quot;newpage&quot; href=&quot;http://search.creativecommons.org/&quot;&gt;CC 搜尋&lt;/a&gt; 現在已經有正體中文介面了，大家也可以發現創用 CC 首頁開始有了些變動，接下來的幾週內我將逐步調整網站結構以反應眾人曰「找不到資料」的狀況。目前變動的一些大原則是&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;授權標章的三個面向將整合在一個選單中&lt;/li&gt;
+	&lt;li&gt;調整「選擇授權」與「搜尋素材」的項目 (方式還在想)&lt;/li&gt;
+	&lt;li&gt;整合「關於CC」及其他新聞相關資料&lt;/li&gt;
+	&lt;li&gt;邊欄樣式調整&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;我就一步步慢慢做了，如果您有什麼想法，也歡迎提供&lt;a class=&quot;newpage&quot; href=&quot;creativecommons.tw/betacc/contact&quot;&gt;建議&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 07 Apr 2008 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">105 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20080407-1#comments</comments>
+</item>
+<item>
+ <title>Google 的 CC 搜尋服務</title>
+ <link>https://creativecommons.tw/blog/20051105</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jedi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;除了先前我們介紹過的&lt;a href=&quot;http://search.yahoo.com/cc&quot;&gt;Yahoo! CC 搜尋&lt;/a&gt;之外，現在&lt;a href=&quot;http://www.google.com.tw/&quot;&gt;Google&lt;/a&gt;也開始支援 CC 了！&lt;/p&gt;
+
+&lt;p&gt;昨天 (2005/11/04) 位於美國的&lt;a href=&quot;http://creativecommons.org/&quot;&gt;Creative Commons&lt;/a&gt;發佈了一份&lt;a href=&quot;http://creativecommons.org/press-releases/entry/5692&quot;&gt;新聞稿&lt;/a&gt;，同時&lt;a href=&quot;http://joi.ito.com/&quot;&gt;Joi Ito&lt;/a&gt;也在他自己的部落格上發表了一篇 &quot;&lt;a href=&quot;http://joi.ito.com/weblog/2005/11/04/google-cc-good.html&quot;&gt;Google + CC = Good&lt;/a&gt;&quot; ，介紹了這個新功能。不過，此刻根據我們的測試，祇有在英文版的 Google 進階搜尋中，纔能看到這個關於使用權利 (Usage Rights) 的選項。&lt;/p&gt;
+
+&lt;p&gt;在&lt;a href=&quot;http://www.google.com/advanced_search?hl=en&quot;&gt;英文版的 Google 進階搜尋&lt;/a&gt;中，使用者可以選擇全部的結果 (aren&#039;t filtered by license) 、允許某些再使用的結果 (allow some forms of re-use, 也就是把搜尋結果限定在有採用 CC 授權條款的部分) 以及允許改作的結果 (can be freely modified, adapted or built upon, 也就是把搜尋結果限定在有採用 CC 授權的部分，並排除具有「禁止改作」授權要素的內容) ，各位不妨試試看。&lt;/p&gt;
+
+&lt;div&gt;&lt;a href=&quot;http://www.google.com/advanced_search?hl=en&quot;&gt;&lt;img alt=&quot;CC%20advanced%20search-en.JPG;&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/cc_advanced_search-en.jpg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;至於中文版的 Google 甚麼時候纔會有這樣的功能呢？這大概就要問 Google 了。按照慣例，應該不會太久纔是；如果中文版遲遲沒有這樣的功能， CC Taiwan 也會努力為各位爭取的。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;備註：&lt;/strong&gt;&lt;br /&gt;
+重新編排此頁時，&lt;a href=&quot;http://www.google.com/advanced_search&quot;&gt;中文版 Google 進階搜尋&lt;/a&gt;已經推出囉。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 05 Nov 2005 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">62 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20051105#comments</comments>
+</item>
+</channel>
+</rss>

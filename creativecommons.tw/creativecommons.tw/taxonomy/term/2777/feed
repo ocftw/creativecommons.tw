@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 攝影</title>
+ <link>https://creativecommons.tw/category/tags/%E6%94%9D%E5%BD%B1</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>為什麼他們想使用公眾領域貢獻宣告(CC0)？</title>
+ <link>https://creativecommons.tw/blog/20151217</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;公眾領域貢獻宣告的英文是CC0，也就是比創用CC姓名標示的條款更進一步，移除掉所有使用限制，讓以CC0授權的作品可以任意使用於各種用途，而且連作者姓名都不用標示，讓作品提早進入公眾領域。&lt;/p&gt;
+
+&lt;p&gt;想像一下辛辛苦苦創作出來的作品，可能會被其他人輕鬆用在他們的作品中，就好像作業被抄襲一樣的感覺，怎麼會有人願意以CC0授權釋出自己的作品呢？&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;首先，有些人發現在網路上可用的數位公眾領域越來越少，希望能以CC0是出一些作品來彌補這個缺陷。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Thomas Bonte和同學Nicolas Froment、Werner Schweer是開放資源樂譜計畫&lt;a href=&quot;http://musescore.org/&quot; target=&quot;_blank&quot;&gt;MuseScore&lt;/a&gt;的人員，MuseScore讓人們可以上傳自己的演奏影片，讓他人能搭配樂譜一起觀看，許多演奏影片都採用創用CC授權。&lt;/p&gt;
+
+&lt;p&gt;多數古典音樂都是公眾領域，但是高品質的當代錄音並不是。因此，他們在Kickstarter發起一個&lt;a href=&quot;http://www.kickstarter.com/projects/293573191/open-goldberg-variations-setting-bach-free&quot; target=&quot;_blank&quot;&gt;募資計畫&lt;/a&gt;，會將朋友Kimiko Ishizaka演奏的郭德堡變奏曲錄製下來以CC0釋出。希望能讓這個演奏版本就像是原本進入公眾領域的原曲一樣，不限制任何使用方式，使作品能盡可能地被使用。&lt;/p&gt;
+
+&lt;p&gt;Thomas總是鼓勵合作的音樂人能想想開放授權的力量。他說：「你不只透過你的藝術作品與觀眾溝通，你也藉由允許他們使用你的藝術作品來與他們溝通，而且這件事就和藝術本身同等重要。」Kimiko接下來錄製&lt;a href=&quot;https://www.kickstarter.com/projects/opengoldberg/open-well-tempered-clavier-bah-to-bach&quot; target=&quot;_blank&quot;&gt;巴哈的平均律鋼琴曲&lt;/a&gt;也將會以CC0授權釋出，而且他們這次還會製作盲人音樂家在braille可用的樂譜。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;其次，以CC0授權作品可能會帶來意想不到的知名度及流傳度。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;知名的照片網站&lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;每10天會分享10張以CC0釋出的高品質照片，現在已經有越來越多網站都使用他們的照片作為素材。&lt;/p&gt;
+
+&lt;p&gt;Unsplash是Crew公司的分項計畫，其實並非公司業務的重點。Crew公司的Mikael Cho在受訪時表示，當時他們正在建立公司網站，由於不滿於網路上低品質的照片，就聘請一個攝影師拍攝一組咖啡店的照片。最後，他們只挑選其中一張使用，便把剩下的照片上傳到tumblr讓他人免費下載，供其他也找不到好照片的人使用。沒想到，他們將網站連結貼到設計師、工程師和創業者的社群網站Hacker News後，立刻成為Hacker News排名第一的網站，而且有超過1千萬次的照片下載次數。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/bag-and-hands.jpg?itok=-VKQ2CMc&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;br /&gt;
+(這是Unplash最初以CC0釋出的十張照片中最受喜愛的一張，攝影師是Alejandro Escamilla，他也因為Unplash增加知名度。)&lt;/p&gt;
+
+&lt;p&gt;由於很多人好奇是誰提供這些照片，就會點連結到Crew的官方網頁，使他們在短短幾天內獲得前所未有的知名度，他們從來沒想到上傳照片所花費的19元美金與3小時可以帶來這樣的宣傳成效。甚至，後來他們也從Unsplash的使用者中招募到他們需要的優秀員工。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;第三，以CC0授權的資料可以在無任何阻礙的情況下傳播得更快更廣。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;2011年，日本311大地震帶來了嚴重災害，福島核電廠周圍地區的放射物質對於居民十分不利。一個月後，Sean Bonner與Joi Ito展開了Safecast計畫，透過志工以集體力量蒐集到的資料，建立日本輻射地區的即時資訊系統。他們採用CC0授權，確保他人在使用這些資料時絕對不會有任何阻礙。發布計畫後，資料貢獻者與使用者確實都大幅成長，也在媒體及政府以外，成為正確度與完整度較高的資訊來源。&lt;/p&gt;
+
+&lt;p&gt;最後，選擇CC0授權釋出作品也可以是一個人生目標。Toper Domingo不是專業攝影師，他知道自己的照片品質比不上專業，所以他不打算販售照片，而是讓人們可以盡量使用。Toper為自己設定了一個目標，計畫要每天捐獻100張照片進入公眾領域，這樣30年累積下來將會有一百萬左右的照片。而他的網站名稱就是&lt;a href=&quot;http://www.1millionfreepictures.com/&quot; target=&quot;_blank&quot;&gt;1 Million Free Pictures&lt;/a&gt;，目前仍持續朝他的目標邁進中。&lt;/p&gt;
+
+&lt;p&gt;相關連結：&lt;a href=&quot;http://pd4pd.org/zh-hant/blog/86&quot; target=&quot;_blank&quot;&gt;為什麼他們願意在網路上提供公眾領域素材？&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;參考資料&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.1millionfreepictures.com/&quot; target=&quot;_blank&quot;&gt;http://www.1millionfreepictures.com/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.wpclipart.com/about.html&quot; target=&quot;_blank&quot;&gt;http://www.wpclipart.com/about.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://teamopen.cc/thomas/&quot; target=&quot;_blank&quot;&gt;http://teamopen.cc/thomas/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://teamopen.cc/sean/&quot; target=&quot;_blank&quot;&gt;http://teamopen.cc/sean/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://naomihattaway.com/2014/06/mikael-cho-from-unsplash/&quot; target=&quot;_blank&quot;&gt;http://naomihattaway.com/2014/06/mikael-cho-from-unsplash/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://blog.crew.co/how-side-projects-saved-our-startup/&quot; target=&quot;_blank&quot;&gt;http://blog.crew.co/how-side-projects-saved-our-startup/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 17 Dec 2015 01:13:37 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1180 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151217#comments</comments>
+</item>
+<item>
+ <title>營造讓點子成真的創意世界...</title>
+ <link>https://creativecommons.tw/blog/20130517</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;劉芊影 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;這裡跟大家介紹&amp;nbsp;&lt;a href=&quot;http://www.behance.net/&quot;&gt;The Behance Network&lt;/a&gt;，它是一個陳列、發掘創意作品的平台，透過此平台提高創作的曝光度、創作者的知名度，以及合作的媒合機會。此網站的宗旨即是在不同範圍得作品和物體間，使設計師和消費者有直接性得連結。&lt;a href=&quot;http://www.behance.net/&quot;&gt;The Behance Network&lt;/a&gt;是免費加入，透過徵才刊登以及販售週邊產品來獲利。在這裡，有許多不同類性的藝術家和創作者以創用CC的授權方式分享了許多特別的作品喔!&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/1209491251457812.jpg&quot; style=&quot;display:block; height:400px; margin-left:auto; margin-right:auto; vertical-align:middle; width:700px&quot; /&gt;圖/授權資訊 &lt;a class=&quot;newpage&quot; href=&quot;http://www.behance.net/IainCrawford&quot;&gt;Iain Crawford&lt;/a&gt;，&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by-nc/3.0/&quot;&gt;姓名標示-非商業性3.0&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;像是Levi van Veluw在&lt;a href=&quot;http://www.behance.net/Gallery/Levi-van-Veluw-Landscapes/41274&quot;&gt;人體畫布上展示了縮小型的景觀&lt;/a&gt;，並採用創用CC條款中之姓名標示─非商業性─禁止改作條款(&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-nd/3.0/&quot;&gt;BY-NC-ND&lt;/a&gt;)；Glenn Jones則提供了&lt;a href=&quot;http://www.behance.net/Gallery/Glennz-Tee-Concepts-2008/157662&quot;&gt;未來T恤上的構想&lt;/a&gt;，採用的條款為姓名標示─非商業性使用(&lt;a href=&quot;http://creativecommons.org/licenses/by-nc/3.0/&quot;&gt;BY-NC&lt;/a&gt;)；L Filipe dos Santos在其系列名為&lt;a href=&quot;http://www.behance.net/Gallery/See-_-Saw/56191&quot;&gt;&lt;em&gt;See. Saw&lt;/em&gt;&lt;/a&gt;上的各種插圖，採用的條款為姓名標示─非商業性─禁止改作條款(&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-nd/3.0/&quot;&gt;BY-NC-ND&lt;/a&gt;)；Si Sott提供名為&lt;a href=&quot;http://www.behance.net/Gallery/Silent-Records/125085&quot;&gt;Silent Records&lt;/a&gt;的作品系列中之作品，所採用的條款為姓名標示─非商業性使用(&lt;a href=&quot;http://creativecommons.org/licenses/by-nc/3.0/&quot;&gt;BY-NC&lt;/a&gt;)；而Iain Crawford則以姓名標示─非商業性使用(&lt;a href=&quot;http://creativecommons.org/licenses/by-nc/3.0/&quot;&gt;BY-NC&lt;/a&gt;)之條款分享了他那令人驚嘆的&lt;a href=&quot;http://www.behance.net/Gallery/Portfolio/293875&quot;&gt;靜態攝影&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;非常令人開心，有這麼多採用創用CC條款的創作，這樣的授權方式也能幫助增加更多的分享和再利用。大家是不是覺得這些作品都很特別呢?在這個網站中還有許多新奇的作品，等待大家的探索喔!&lt;/p&gt;
+
+&lt;p&gt;參考來源：&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/18706&quot;&gt;http://creativecommen.org/weblog/entry/18706&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 17 May 2013 09:13:09 +0000</pubDate>
+ <dc:creator>sunlight</dc:creator>
+ <guid isPermaLink="false">683 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20130517#comments</comments>
+</item>
+<item>
+ <title>OPEN的力量：勾勒專業攝影師的新模式</title>
+ <link>https://creativecommons.tw/blog/20120716</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Jonathan WORTH / 倫敦（ 更多資訊：&lt;a class=&quot;newpage&quot; href=&quot;http://www.jonathanworth.com&quot;&gt;http://www.jonathanworth.com&lt;/a&gt; ）&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/zan_shi_.jpg&quot; style=&quot;height:360px; width:360px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;英國攝影家 Jonathan Worth 的作品吊掛在倫敦的國家肖像美術館中。他在英國 Coventry University 教授攝影。他拍攝過柯林弗斯、瑞秋杭特、裘德洛、希斯萊傑等演員。他和許多新興攝影家，正為了數位時代中專業影像創作者具可持續性的工作實踐進行實驗。&lt;/p&gt;
+
+&lt;p&gt;Worth 就像其他專業人士，總是會花上數小時時間瀏覽網路以保護他的作品不被盜用，但為此而浪費的時間令他不悅。「後來我遇到了科幻小說作家 Cory Doctorow，他靠著把書贈送出去而賺錢。」 Worth 說，「有一次為他拍照時，他提議在合約上進行一項實驗。」&lt;/p&gt;
+
+&lt;p&gt;他們在該影像上用了創用 CC 姓名標示授權 (BY license)，在線上免費分享高解析度的版本，同時以各種價格與格式獨家地販售簽過名的印刷版本。「最貴的反而賣得最好，」 Worth 表示，「沒有人聽說過我，但是他們卻會付錢買我的作品。」&lt;/p&gt;
+
+&lt;p&gt;Doctorow 給 Worth 上了一堂關於數位新世界和人們數位習性的課。「現在我知道我可以借助免費用戶的力量。就像是在瓶子裡留了紙條，讓潮汐將其散佈到各個地方，你可以運用這股力量。」&lt;/p&gt;
+
+&lt;p&gt;「創用 CC 讓我能夠平穩地在現有架構下，接軌數位住民的社群媒體習性。」 Worth 說，「雖然資訊模式是相同的，但散佈模式卻改變了。我們沒有全部的答案，但創用 CC 讓我選擇我喜愛的方式，協助我轉而運用迎面而來的浪潮。」&lt;/p&gt;
+
+&lt;p&gt;圖文出自 &lt;a class=&quot;external&quot; href=&quot;http://thepowerofopen.org/&quot;&gt;The Power of Open&lt;/a&gt; P11&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 16 Jul 2012 03:56:49 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">619 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120716#comments</comments>
+</item>
+<item>
+ <title>尋寶去！如何在網路上尋找有趣的公眾領域作品？</title>
+ <link>https://creativecommons.tw/blog/20120224</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ChiuHao Chen /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/Bibliotheca_Buloviana_%28Ausschnitt%29.jpg&quot; style=&quot;height:362px; width:516px&quot; /&gt;&lt;br /&gt;
+&lt;a href=&quot;http://commons.wikimedia.org/wiki/File:Bibliotheca_Buloviana_%28Ausschnitt%29.jpg&quot; rel=&quot;cc:attributionURL&quot; style=&quot;border-color: initial; font-size: 12px; line-height: 11px;&quot;&gt;Bibliotheca Buloviana (Ausschnitt)&lt;/a&gt;Georg Daniel Heumann&lt;a href=&quot;http://creativecommons.org/publicdomain/mark/1.0/&quot; style=&quot;color: #4374b7; border-style: initial; border-color: initial; font-size: 12px; line-height: 11px;&quot;&gt;Public Domain&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;寫在前頭&lt;/h2&gt;
+
+&lt;p&gt;農曆年間，隨手翻閱了書架上堆滿灰塵的歷史書，其中，關於周朝的「井田制度」，有這麼一段話：「...八家農戶各耕耘外圍的八塊方地，並共同耕種當中一塊「公地」，亦即公侯所領之地。...顯然當日農民認為在中央地區無代價的工作，有如一種公眾的義務。流傳所及，今日中文字裡公眾之「公」也與公侯之「公」無別。」[1]&lt;/p&gt;
+
+&lt;p&gt;於是，對於「公侯權利」與「公眾義務」，我有種想像：早在西元前700多年的周朝制度裡，「公侯伯子男」的世襲權利（擁有公地）已經隱隱約約的與公眾義務（耕作公有地）做了一定的認同與連結。如果稍微去除封建制度的軍事政治意義，當時，人們除了各自耕種外，仍願意共同耕耘「公侯之地」之行為，若把農耕之舉比擬當今人們的筆耕文創，個人的創作行為就好比一種權利，適當的將自己的耕耘成果回饋大眾更恰如義務一般理所當然，權利的賦予與義務的釋出彼此產生良性循環，這樣的社會共識，似乎是老祖宗就有的先見。有趣的是，兩千七百多年後的我們，反而針對公眾領域(public domain)[2]之下的資產如何使用與界定充滿歧見，不同的國家對於公眾領域創作版權的使用限制有著不一樣的解釋。但，唯一可以確定的是，經過時間的遞嬗，世世代代的創作積累絕對是人類無價的資產，這些創作如果不能開放的且自由的與全人類一起分享共用，那也太可惜了吧！&lt;/p&gt;
+
+&lt;p&gt;因此，在這裡我們將參考&lt;a href=&quot;http://publicdomainreview.org/guide-to-finding-interesting-public-domain-works-online&quot;&gt;公眾領域評論網站上的指南&lt;/a&gt;，協助對於公眾領域創作有興趣的人們，尋找與探索那些已經進入公眾領域的作品。&lt;/p&gt;
+
+&lt;h2&gt;尋寶的線索是？&lt;/h2&gt;
+
+&lt;p&gt;公眾領域作品的訊息可能來自四面八方，從展覽、博物館、音樂會、電視、廣播、書籍、報紙，甚至來自與朋友的交談中。 當然，網際網路一定是一個非常好的訊息來源。像是很讚的部落格 &lt;a href=&quot;http://bibliodyssey.blogspot.com/&quot;&gt;Biblioddysey&lt;/a&gt; 和&lt;a href=&quot;http://resobscura.blogspot.com/&quot;&gt; Res Obscura&lt;/a&gt;都定期刊登有趣的公眾領域作品（雖然讀者常常還是需要眯着眼睛搜尋著來自各單位的小小版權宣告，藉此確定作品是否來自公眾領域）。&lt;/p&gt;
+
+&lt;p&gt;另外，社群媒體也不斷的提供搜尋公眾領域素材的新方法。在網路社群裡正存在對於各式典藏檔/歷史集充滿高度興趣的tweeters，如果你是一個Twitter用戶，你可以試著建立#publicdomain這個feed，透過訂閱這個標籤，越來越多的人們討論着公眾領域中的有趣作品。&lt;/p&gt;
+
+&lt;p&gt;除此之外，也有郵件群組(mailing list)專門討論有關公眾領域。在群組裡，人們時常留言討論著有關於最近剛進入公眾領域的作品。開放知識基金會(The Open Knowledge Foundation) 主持了這樣一個郵件群組，可以在此訂閱&lt;a href=&quot;http://lists.okfn.org/mailman/listinfo/pd-discuss&quot;&gt;PD 討論訊息頁&lt;/a&gt;。 如果在部落格、tweets上面的連結常常因為使用限制讓你傷透腦筋，千萬不要太沮喪​​，因為網路上通常可以取得多個作品分身，而且，它門還有可能是開放授權(Open Licensing) 呢！&lt;/p&gt;
+
+&lt;p&gt;所以呢，請輕鬆的隨意瀏覽網頁，試圖尋找在廣播上聽到的奇妙作品，在展覽上面看到的，或是在部落格上展示的。這些都是尋找線上收藏的好方法。下一節，我們將快速的導覽網路上幾個稍具規模的公眾領域收藏。&lt;/p&gt;
+
+&lt;h2&gt;寶藏就在網路上&lt;/h2&gt;
+
+&lt;p&gt;在我們尋找作品前，我們還是需要注意，雖然作品可能已經在很久以前已經進入公眾領域範疇，但這可不表示它們也有線上的數位版本。而且，他們往往會用CC BY-NC這樣具有部分限制性的許可於網上公佈 （意味著使用時不能有商業用途且需標示姓名）。&lt;/p&gt;
+
+&lt;p&gt;正因如此，當你要上傳公眾領域的材料時，能夠使用各種常用的創用CC (Creative Commons)授權是非常用重要的（請參考&lt;a href=&quot;http://creativecommons.tw/&quot;&gt;台灣創用CC的網頁&lt;/a&gt;），若能先瞭解這些授權方式，能讓你瀏覽以下公眾領域資源更加得心應手....&lt;/p&gt;
+
+&lt;h3&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm8.staticflickr.com/7016/6714918585_c9fe4d9a1c_m.jpg&quot; style=&quot;float:left; height:73px; width:60px&quot; /&gt;&lt;a href=&quot;http://europeana.eu/portal/&quot;&gt;Europeana Europeana&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;這是一個探索歐洲文化珍藏的入口網站。目前，它正大量收集來自歐洲各地文化遺產機構所擁有的數據。當然，從Europeana可以發現某些作品並不保證是在公眾領域裡，因此，在搜尋功能中你可以加入篩選(filter)選項。一旦你進行了初步的搜尋，您接著可以使用左邊的“By copyright” 來依據授權方式篩選搜尋的結果 (目前網站沒有中文版）。例如，點選CC0 (免費用於任何用途) 的選項就會篩選出在開放授權下無任何權利的項目; 點選CC BY-NC則會顯示所有在&quot;姓名標示 - 非商業性&quot; 授權下的作品。覺得麻煩嗎？另一個替代方案就是直接使用我們給你的連結，例如： &lt;a href=&quot;http://www.europeana.eu/portal/search.html?query=europeana_rights:*public*&quot;&gt;公眾領域/CC0的作品&lt;/a&gt;或是&lt;a href=&quot;http://www.europeana.eu/portal/search.html?query=europeana_rights:*creative*&quot;&gt;創用CC授權的作品&lt;/a&gt; （當然，你還是可以透過網頁左邊的篩選選項尋找你指定的其他授權方式）。&lt;/p&gt;
+
+&lt;h3&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6022/5929814872_158e1bb716_o.jpg&quot; style=&quot;height:49px; width:60px&quot; /&gt;[[http://www.archive.org/|網際網路檔案館]] (Internet Archive)&lt;/h3&gt;
+
+&lt;p&gt;這是一個收藏了大量的文化作品與大量對於公眾領域作品的連結，包括電影、音樂和文字（但照片方面還不夠好）。&lt;/p&gt;
+
+&lt;p&gt;網站的亮點包括了Prelinger Archives。Prelinger Archives的收藏包含各種主題的應時(ephemeral)與公共服務影片，範疇從如何成為受歡迎的核子攻擊倖存者到一大堆的78轉唱盤錄音收藏[3]。網際網路檔案館最近還針對了網站上的大量收藏推出了&quot;策展人精選&quot; (Curator&#039;s Choice) 。&lt;/p&gt;
+
+&lt;p&gt;這裡當然也是個非常好的起點，讓人可以在網路檔案館的大海中撈到有趣的資源。但是，有些東西只以CC BY-NC授權釋出，但你還是可以在搜尋功能中篩選出公眾領域或是CC BY和CC BY-SA釋出的材料。例如說，我們要使用關鍵字“dog”作搜尋要找到公眾領域類型的東西，可以在搜尋框找到進階搜尋(Advanced Search)，將你要搜尋的條件與關鍵字填入，最重要的是，在&quot;Custom Field&quot;中選擇&quot;license&quot;，然後在條件欄位上填&quot;publicdomain&quot;，最後，按下搜尋按鈕就對了。&lt;/p&gt;
+
+&lt;p&gt;如果你只要搜尋CC BY的東西，那就把“publicdomain”換成“by”就可以了。依此類推，CC BY-SA就用&quot;by-sa&quot;，CC BY-ND就用&quot;by-nd&quot;當作搜尋條件。（如果你習慣自己寫參數，參數是這樣的：“ (dog) AND license:(publicdomain)” 或是你想要從metadata中尋找，也可以這樣寫：&quot;(dog) AND /metadata/licenseurl:http*publicdomain/* &quot;。&lt;/p&gt;
+
+&lt;p&gt;我知道，這可能對一般人來說有點小複雜，但是熟能生巧，請試試看吧！另一件重要的事情要注意的是，你會發現許多文字已被Google掃描，而且不幸的是他們已經將這些文字以非商業性授權條款發佈了。另外，大部分的授權都是使用者在上傳時所指定的，請謹慎使用，避免錯誤地標示！&lt;/p&gt;
+
+&lt;h3&gt;[[http://commons.wikimedia.org/wiki/Main_Page|&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6121/5929814880_ee53597044_o.jpg&quot; style=&quot;height:79px; width:60px&quot; /&gt;維基共享資源]] (Wikimedia Commons)&lt;/h3&gt;
+
+&lt;p&gt;這是一個可以用來尋找圖片的維基百科(Wikipedia) 媒體庫 ，裡面的圖片從[[http://commons.wikimedia.org/wiki/File:Anatomical_theatre_Leiden.jpg|17世紀的解剖學版畫]]到任何用戶隨意上傳的購物中心照片都有。他們做了非常大的努力嘗試把內容組織成”目錄”(category)，使用這樣的目錄操作可以讓來來回回檢索更加容易，但它有時需要一點點時間來習慣點擊目錄。&lt;/p&gt;
+
+&lt;p&gt;舉例來說，在搜索結果中你會看到 Category:XX（XX是您的搜索關鍵字），有時候如果你搜尋的關鍵字是相對簡單的，你也有可能直接進入那個分類，例如Category: dogs。他們也與不同的機構合作開放內容，像是地圖經銷商Geographicus從他們2011的收藏中捐贈了超過2000張高解析度照片，所有的內容都已進入公眾領域中，因此，不是擁有公眾領域標章(PD Mark)就會以CC BY-SA授權釋出。&lt;/p&gt;
+
+&lt;h3&gt;[[http://www.loc.gov/library/libarch-digital.html|&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6133/5929814874_c65bbbd522_o.jpg&quot; /&gt;美國國會圖書館]]&lt;/h3&gt;
+
+&lt;p&gt;所有有關於美國的資源，裡面有大量地印刷品、圖集、影音材料。大部分的材料都是公眾領域的，但仍不是全部，所以使用者還是需要逐一確認。使用右上角的搜尋欄或是透過他們非常有趣的&quot;[[http://www.loc.gov/index.html|典藏精選]]&quot;(Collection Highlights) 區瀏覽。&lt;/p&gt;
+
+&lt;h3&gt;[[http://www.flickr.com/commons|&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6132/5929814868_fa1b3b26e1_o.jpg&quot; style=&quot;height:53px; width:60px&quot; /&gt;Flickr的：The Commons]]&lt;/h3&gt;
+
+&lt;p&gt;一個找老照片的好所在。這裡的收藏，就好像在跳蚤市場找到一個老盒子，一打開，裡面擺滿了老照片，只是，這裡是線上版的老盒子。Flickr也與各機構合作把數以千計的照片上線，如史密森博物館(Smithsonian Museum)，國會圖書館 (Library of Congress)等。&lt;/p&gt;
+
+&lt;p&gt;但其中Flickr定義了&quot;[[http://www.flickr.com/commons/usage/|無已知版權限制]]&quot; 的授權狀態有點尷尬。依據網站說明，這意味者幾種狀態：&lt;/p&gt;
+
+&lt;p&gt;(1) 由於版權已過期，因此已屬於公共領域；&lt;br /&gt;
+(2) 版權由於其他原因流入公共領域，例如無法遵循所需的正式手續或條件；&lt;br /&gt;
+(3) 機構擁有版權，但不想對其進行控制；&lt;br /&gt;
+(4) 或者某些機構擁有足夠的合法權利，可以授權他人不受限制地使用作品。如果還是覺得不清楚，點選照片旁邊的&quot;無已知版權限制&quot;連結，你將會被導引到各單位有關於版權的說明頁。&lt;/p&gt;
+
+&lt;h3&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6003/5929814886_d21df3cffb_o.jpg&quot; style=&quot;height:75px; width:60px&quot; /&gt;[[http://zh.wikisource.org/|維基文庫]] (Wikisource)&lt;/h3&gt;
+
+&lt;p&gt;尋找純文字或是HTML版本文庫的好網站。由維基百科/維基社區所收集維護的線上出版品圖書館。他們擁有超過273,000英文文本，以及其他語言版本的網站，當然，也有中文版的維基文庫收藏，還沒看過紅樓夢嗎？也可以在這裡找到。除非網頁下方另有說明，例如，紅樓夢就已經屬於公眾領域，所有貢獻於維基文庫的用戶都以CC BY-SA授權。&lt;/p&gt;
+
+&lt;h3&gt;[[http://www.gutenberg.org/|&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6141/5929814878_7e157fb46f_o.jpg&quot; style=&quot;height:50px; width:60px&quot; /&gt;古騰堡計劃]](Project Gutenburg)&lt;/h3&gt;
+
+&lt;p&gt;另一個很好的純文字/ HTML文本庫。它提供了超過38,000本免費的電子書，你可以取得開放格式的電子書檔案(ePub)下載到電腦上或是Kindle、Andr​​oid、iOS等等行動裝置。它的特點是提供在美國已經是公眾領域的文本，因此，其他司法管轄區的用戶應該確認書中的授權方式後再進行適當的使用。&lt;/p&gt;
+
+&lt;h3&gt;[[http://www.openimages.eu/|&lt;img alt=&quot;&quot; src=&quot;http://farm8.staticflickr.com/7021/6724883099_495d8ce081_o.jpg&quot; style=&quot;height:75px; width:70px&quot; /&gt;開放圖片]] (OpenImages)&lt;/h3&gt;
+
+&lt;p&gt;新的影音檔案庫，雖然很新但成長快速。這是一個找到老荷蘭新聞影片的好地方，目前提供了超過70萬小時的電視、廣播、電影等的聲像記錄。由[[http://en.wikipedia.org/wiki/Netherlands_Institute_for_Sound_and_Vision|荷蘭聲像研究院]](Netherlands Institute for Sound and Vision)與[[http://www.kennisland.nl/|Knowledgeland]]合作的新創公司。&lt;/p&gt;
+
+&lt;h3&gt;[[http://www.biodiversitylibrary.org/Default.aspx|&lt;img alt=&quot;&quot; src=&quot;http://farm8.staticflickr.com/7163/6724910991_c213b7c12c_o.jpg&quot; style=&quot;height:52px; width:109px&quot; /&gt;生物多樣性歷史文獻圖書館]] (Biodiversity Heritage Library)&lt;/h3&gt;
+
+&lt;p&gt;從收集自然歷史與植物收藏的大量生物庫而來的計畫。依據開放的原則，也就是說，原來在公眾領域的素材仍處於公眾領域。他們也與Internet Archive合作製作特輯。&lt;/p&gt;
+
+&lt;h3&gt;[[http://publicdomainreview.org/|&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6142/6023444441_a9e77717eb_t.jpg&quot; style=&quot;height:92px; width:100px&quot; /&gt;公眾領域評論]] (The Public Domain Review)&lt;/h3&gt;
+
+&lt;p&gt;這裡有很多關於公眾領域的有趣評論（本文就是編譯這個網站的文章），它是人們進入公眾領域且能一窺大堂之奧的最佳入口。&lt;/p&gt;
+
+&lt;h3&gt;[[http://en.wikipedia.org/wiki/List_of_digital_library_projects|&lt;img alt=&quot;&quot; src=&quot;http://farm7.static.flickr.com/6135/6008873671_dafe292357_t.jpg&quot; style=&quot;height:54px; width:100px&quot; /&gt;其實還有很多...]]&lt;/h3&gt;
+
+&lt;p&gt;也有不少專案免費提供數位媒材（很多是來自大學裡），雖然有時候仍需要小心的在版權宣告中判別他們是否利用開放授權來釋出公眾領域作品。但還是很可惜，很多都沒有這樣做。但有些單位是有的，例如[[http://www.nlm.nih.gov/onlineexhibitions.html|美國國家醫學圖書館]] (U.S. National Library of Medicine) ，或由[[http://www.archive.org/details/cornell|康奈爾大學圖書館]](Cornell University Library)與網際網路檔案館(Internet Archive)攜手合作展示的數位圖書館，這裡不僅可以找到1915年出版的[[http://www.archive.org/stream/sketchesfromtaiw00camprich|關於福爾摩沙的老書]] ，更有[[http://www.archive.org/stream/taiwanrestaurant00sf|台菜餐廳菜單]]，有趣吧！。&lt;/p&gt;
+
+&lt;p&gt;另外，CC的搜尋工具也可以讓你方便的在Google圖片裡面搜尋公眾領域的收藏....&lt;/p&gt;
+
+&lt;h3&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm8.staticflickr.com/7172/6724777047_724d949017_o.jpg&quot; style=&quot;height:44px; width:150px&quot; /&gt;[[http://search.creativecommons.org/?betaActive=1&amp;amp;q|創用CC搜尋工具]]&lt;/h3&gt;
+
+&lt;p&gt;透過創用CC搜尋工具也可以方便得搜尋公眾領域素材。這裡依據CC授權透過Europeane, Flickr, Google Image等資料庫提供搜尋素材。（你也可以試試[[http://creativecommons.tw/search|台灣創用CC的搜尋工具]]）但必須注意的是，由用戶所授與的CC授權沒有被驗證過，因此仍有出錯的風險。我們的建議是：&quot;如果你有任何的懷疑，你應該直接與著作權擁有者聯絡，或試著與提供素材的網站聯絡&quot;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h2&gt;關於法律&lt;/h2&gt;
+
+&lt;h3&gt;授權方法&lt;/h3&gt;
+
+&lt;p&gt;很多放在網路上的素材，想要做到開放授權，許多人會選擇創用CC授權，其中，包括了無已知的著作權的公眾領域標章1.0 (PD Mark)，無著作權 (CC0)，姓名標示 (CC BY)，姓名標示-相同方式分享 (CC BY-SA)，姓名標示-禁止改作 (CC BY-ND)，姓名標示-非商業性-相同方式分享 (CC BY-NC )，詳細的說明，可以到[[http://creativecommons.tw/explore|台灣創用CC]]的網站看看。&lt;/p&gt;
+
+&lt;h3&gt;作品何時才會進入公眾領域？&lt;/h3&gt;
+
+&lt;p&gt;比較安全的說法是：在1850年前出版的作品(也就是超過150年前），全球幾乎都可以認可這些作品已經進入了公眾領域！所以，這段時間已經累積出了大量可讓大家無限制使用的作品。就如先前所說的，可惜的是，許多機構都宣稱他們擁有掃描或是上傳之後的檔案版權，因而，這些公眾領域的作品反而在掃描或上傳之後，另外又受到了著作權限制。 針對較為近代的作品，你必須更熟悉關於法律上的限制。&lt;/p&gt;
+
+&lt;p&gt;無奈的是，因為每個國家都有關於何時作品進入公眾領域的不同法律規定，這些法律一般來說會針對作品的種類而有所不同。有些國家依據作者過世的時間，有的國家依據出版日起算一段時間。對於文學，戲劇，音樂或藝術作品，在大多數的歐洲或其他世界各國家，針對一個作品是否進入公眾領域，則是從最後一位作者去世之當年底後的70年（這裡也包括電影的導演，編劇和任何作曲者）。又例如，大西洋上的島國巴貝多(Barbados)是50年，墨西哥則是100年。另外，因為採用&quot;截止日模式“ (cut off date model)，加上基於著作權何時更新或是否完全更新等因素，在美國則又是另外一個完全不同的故事。&lt;/p&gt;
+
+&lt;p&gt;以下提供一些連結，希望能幫助你在晦暗的法條中（我希望大部分的時候是光明的）找到一盞明燈！&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;[[http://publicdomain.okfn.org/calculators/|公眾領域計算機]] ：針對在歐洲的作品，提供一個[[http://outofcopyright.eu/calculator.html|簡單的工具]] ，它利用幾個按鈕問答，幫你確定在你的司法管轄區中是否該作品已經進入公眾領域。&lt;/li&gt;
+	&lt;li&gt;[[http://www.copyrightservice.co.uk/copyright/p01_uk_copyright_law|英國版權服務]] ：一個明確解釋英國法律的地方。&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;[[http://fairuse.stanford.edu/Copyright_and_Fair_Use_Overview/chapter8/|史丹佛大學解釋美國著作權的網站]]：非常明確的解釋美國的著作權系統，包括[[http://fairuse.stanford.edu/charts_tools/|大量的工具]]來確認公眾領域狀態。&lt;/li&gt;
+	&lt;li&gt;[[http://en.wikipedia.org/wiki/List_of_countries%27_copyright_length|維基裡不同國家的著作權清單]]：在wiki搜尋中打上國家的名稱與關鍵字&quot;copyright law&quot;，你應該可以看到一些正式的解釋。但需要注意，用Wikipedia來尋找一些概括的論述是可以的，但千萬不要把它當作是最精確的來源。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;有種情況是常發生的，就是當你想要使用的作品在原來的國家已經是公眾領域的作品了，但卻無法適用於你的國家。某些國家會使用“[[http://en.wikipedia.org/wiki/Rule_of_the_shorter_term|較短時間法則]]”，這意味著：當面臨國外的著作權狀態疑義時，這個原則允許著作權保護期間較長之會員國，得拒絕給予著作權保護期間較短之會員國之國民，與自己國民享有相同較長之著作權保護期間[4]。但仍需要注意，許多國家雖然聲稱遵守&quot;最短時間法則&quot;，但他們還是另外訂立了凌駕於此原則之外的雙邊協定。&lt;/p&gt;
+
+&lt;p&gt;==================================================================&lt;/p&gt;
+
+&lt;p&gt;[1] &quot;亞聖與史皇&quot;, 中國大歷史, 王仁宇&lt;br /&gt;
+[2] [[http://creativecommons.tw/in-depth/539|&quot;The Public Domain&quot; 怎麼說？]]&amp;nbsp;&lt;br /&gt;
+[3] [[http://en.wikipedia.org/wiki/Prelinger_Archives|Prelinger Archive]]&lt;br /&gt;
+[4] &quot;[[http://www.copyrightnote.org/crnote/bbs.php?board=2&amp;amp;act=read&amp;amp;id=155http://www.copyrightnote.org/crnote/bbs.php?board=2&amp;amp;act=read&amp;amp;|甚麼時候才算真正的公共所有?]]&quot;, 章忠信&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 24 Feb 2012 12:06:39 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">583 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120224#comments</comments>
+</item>
+<item>
+ <title>如何尋找「開放授權」的圖片檔案？</title>
+ <link>https://creativecommons.tw/blog/20120110</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;盧美慈&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;筆者在參與台灣創用CC計畫以及教育部創用CC計畫歷程中，最常碰到的問題就是「請問我用XXX的圖片放在教材或文章裡合法嗎？」、「請問我這樣標示圖片來源檔案是正確的嗎？」、「請問要去哪邊尋找用了不會侵犯著作權法的圖片檔案呢？」而這些問題也是目前教師教學、參加教案比賽、學生撰寫期末報告、民眾舉辦小型活動時所容易碰到的問題。本次專欄將以筆者自己的經驗，簡介如何尋找採取創用CC授權或已進入公共領域的圖片檔案，並概要說明使用這些檔案時應注意的標示問題，希望藉此可以使網路使用者更加願意使用開放授權的檔案，以及注意如何合法地使用這些檔案。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;一、如何尋找創用CC授權圖片？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;創用CC授權為一種開放的授權條款，當作者將其作品（圖文、音樂影像）採取創用CC授權，並選擇授權條款（例如：姓名標示—非商業性）後&lt;a href=&quot;#_ftn1&quot;&gt;[1]&lt;/a&gt;，使用者在使用其作品時，只要達到作品授權條款的條件，使用者就不用擔心著作權侵權問題。目前台灣創用CC網站的檔案搜尋介面，已整合了各種採取創用CC授權的圖像、音樂、影像、研究資料庫網站。由於本次主題以圖片為主，以採取創用CC授權的圖片網站Flickr為例：&lt;/p&gt;
+
+&lt;p&gt;（一）先進入台灣創用CC網站的檔案搜尋介面：&lt;a href=&quot;http://creativecommons.tw/search&quot;&gt;http://creativecommons.tw/search&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://lh6.googleusercontent.com/-tfrbkXaOIPw/TwU6GJ9wBUI/AAAAAAAABg4/b17D2FsYEuI/s640/01.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（二）在搜尋處輸入想搜尋的圖片名稱（例如：蒹葭），並勾選搜尋來源為Flickr&lt;a href=&quot;#_ftn2&quot;&gt;[2]&lt;/a&gt; &lt;img alt=&quot;&quot; src=&quot;https://lh5.googleusercontent.com/-DDAmsOgDn3Y/TwU6GFQDTXI/AAAAAAAABg0/-ZPi_FJRAec/s640/02.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（三）按下搜尋，將直接進入Flickr的搜尋結果頁面&lt;img alt=&quot;&quot; src=&quot;https://lh4.googleusercontent.com/-YOcokoRNcxc/TwU6GOZmbtI/AAAAAAAABhE/HtI5LLNwqW0/s640/03.jpg&quot; style=&quot;border-color:initial; border-style:initial; font-size:13px; line-height:20px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（四）點選想使用的圖片，確認授權資訊及作者&amp;nbsp;&lt;img alt=&quot;&quot; src=&quot;https://lh4.googleusercontent.com/-2l49yOjzXhs/TwVV7IOqAXI/AAAAAAAABis/keqrv2r6F4A/s640/04.jpg&quot; style=&quot;border-color:initial; border-style:initial; font-size:13px; line-height:20px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（五）下載檔案步驟1：先點擊圖片，在頁面中選擇「檢視全部尺寸」&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://lh6.googleusercontent.com/-lzLA9cUMAWY/TwU6HCfss5I/AAAAAAAABhM/eTzluavfpQs/s640/05.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（六）下載檔案步驟2：選擇想下載的尺寸，並點擊下載 &lt;img alt=&quot;&quot; src=&quot;https://lh4.googleusercontent.com/-FX7alXxNmK8/TwU6HatNpRI/AAAAAAAABhU/U0HJcLbBB_w/s640/06.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;二、如何尋找已入公共領域的圖片？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;進入公共領域的圖片，有可能是作者創作時就選擇將該圖片公開給大眾使用，或是該圖片因為著作權保護期限屆滿，而進入公共領域。進入公共領域之著作，任何人都可以自由利用，即使將其作品商業化，也沒有違反著作權法的疑慮。&lt;/p&gt;
+
+&lt;p&gt;目前較可信的公共領域圖片搜尋資源，以維基共享資源網 Wikimedia Commons為大宗。&lt;/p&gt;
+
+&lt;p&gt;（一）先進入維基共享資源網：&lt;a href=&quot;http://commons.wikimedia.org/wiki/&quot;&gt;http://commons.wikimedia.org/wiki/&lt;/a&gt; &lt;img alt=&quot;&quot; src=&quot;https://lh5.googleusercontent.com/-vwZvs930cp8/TwU6Ha3G6CI/AAAAAAAABhQ/sBO_Aaob830/s640/07.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（二）在Search部分輸入想查詢的關鍵字:在這部份要注意，維基共享資元的圖片來源大部份為英文，故在查詢時以英文作為關鍵字比較容易找到正確圖片 &lt;img alt=&quot;&quot; src=&quot;https://lh3.googleusercontent.com/-xsmWi5Nft4k/TwU6Hzse4_I/AAAAAAAABhc/IxFgpW-1YjE/s640/08.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（三）按下搜尋，觀看結果&lt;/p&gt;
+
+&lt;p&gt;（四）點選Reeds, Reeds, Reeds圖片，進入圖片資訊頁面&amp;nbsp;&lt;img alt=&quot;&quot; src=&quot;https://lh4.googleusercontent.com/-LB21e6jdayE/TwU6IbmRlvI/AAAAAAAABho/H9dE0vKDtoo/s640/09.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（五）點選download或是右鍵，另存新檔即可取得圖片檔案&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://lh4.googleusercontent.com/-Ry7yTcaD0kI/TwU6IYvBBeI/AAAAAAAABh0/sLHHo56Rx2I/s640/10.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;三、使用開放授權圖片資源時的常見問題：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;（一）利用創用CC素材不要忘記姓名標示創用CC授權2.0版以後的所有條款都有「姓名標示」的要求。在創作者有提供相關資訊的情況下，利用人必須標示創作者的名稱（或筆名）、著作名稱、出處或網址、原有的授權方式。&lt;/p&gt;
+
+&lt;p&gt;（二）標示方式：不限於圖片正中間或是其他大而明顯的標示，使用者可以為了配合版面美觀等需求，將作品來源資訊以及姓名標示放在不影響版面、但他人可以明確看到引用著作的來源以及原作姓名標示之處所。&lt;/p&gt;
+
+&lt;p&gt;（三）未依照授權條款的方式使用或標示的法律效果：由於創用CC授權條款是一種「開放式」授權，具有契約性質，使用者若未依照該條款使用著作，則如同未獲授權，法律效果則回歸到一般著作權法上「未獲他人授權而使用他人作品、改作他人作品」的情況，而有侵害作者著作權的風險。&lt;/p&gt;
+
+&lt;div&gt;&amp;nbsp;
+&lt;hr /&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;a href=&quot;#_ftnref1&quot;&gt;[1]&lt;/a&gt;&amp;nbsp;依據創用CC「姓名標示」、「非商業性」、「禁止改作」以及「相同方式分享」四個要素，共組成六種條款，包含姓名標示、姓名標示─非商業性、姓名標示─非商業性─相同方式分享、姓名標示─禁止改作、姓名標示─非商業性─禁止改作、姓名標示─相同方式分享。詳細內容請參照台灣創用CC授權介紹網站，&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org.tw/betacc/license&quot;&gt;http://creativecommons.org.tw/betacc/license&lt;/a&gt;，最後瀏覽日2012/1/3。&lt;br /&gt;
+&lt;a href=&quot;#_ftnref2&quot;&gt;[2]&lt;/a&gt;&amp;nbsp;雖然整合頁面中有google圖片與google網站可以選擇搜尋，但該二網站的授權條款標示可能非原作者所為，故較不推薦以google尋找創用CC授權資源。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 10 Jan 2012 09:33:47 +0000</pubDate>
+ <dc:creator>bonjovilll</dc:creator>
+ <guid isPermaLink="false">575 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120110#comments</comments>
+</item>
+<item>
+ <title>Creative Commons 在俄國的發展</title>
+ <link>https://creativecommons.tw/blog/20110715</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;盧美慈 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div&gt;自從去年三月俄國發起CC計畫後， 俄國CC團隊人員致力於將創用CC授權條款能相容於俄國法系統中．在此，本文將回顧CC在俄國之歷程，僅以此張俄新社（RIA NOVOSTI，俄國新聞社）享於維基危機共享資源之戰爭圖片，慶祝俄新社所設立之「永恆價值計劃（Eternal Values Project）」。&lt;/div&gt;
+
+&lt;div&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/rian_archive_662733_recruits_leave_for_front_during_mobilization.jpg&quot; style=&quot;display:block; height:450px; margin-left:auto; margin-right:auto; width:610px&quot; /&gt;&lt;a href=&quot;http://en.wikinews.org/w/index.php?title=File:RIAN_archive_%2B662733_Recruits_leave_for_front_during_mobilization.jpg&amp;amp;filetimestamp=20110623095734&quot;&gt;Recruits leaving for the front during mobilization, Moscow.&lt;/a&gt;&amp;nbsp;by&amp;nbsp;RIA Novosti archive, image&amp;nbsp;&amp;nbsp; #662733 / Anatoliy Garanin&amp;nbsp;/&amp;nbsp;&lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;CC BY-SA 3.0&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;目前俄羅斯聯邦民法第四部分許多條文仍不允許作者自行開放授權。有鑑於俄羅斯CC團隊的努力，直屬於俄羅斯聯邦總統之下負責編纂和促進民事立法之政務例會表示，將考慮修改俄羅斯聯邦民法第四部分之條文，使創用CC授權在俄羅斯可以順利推廣使用。&lt;/p&gt;
+
+&lt;p&gt;俄羅斯CC團隊認為，透過創用CC授權將對當地的社會經濟以及創新發展帶來正向影響 ，並可以刺激開放內容、促使社會大眾得接近使用該開放資源。俄羅斯總統Dmitry Medvedev也大力支持前述所提之民法修正案，他從去年開始就要求立法機關針對此修正案進行立法程序。Medvedev希望藉著修法適應創用CC授權的現有架構，使作品創作者和作品需求者都可從中獲益。&lt;/p&gt;
+
+&lt;p&gt;然而，該注意的是，當俄國作品著作者想將作品權利授權給俄國以外之民眾時，反而比授權給俄羅斯國內國民還要來得方便。針對這個情形，曾經擔任俄羅斯CC成員之Syb Groeneveld提到「每一種創用CC授權之設計，都是希望該授權可以有效地移植到各國家之司法領域中。創用CC授權聲明條款使用的文字皆來自於伯恩公約(保障文學以及藝術作品)和其他與著作權相關之公約，由此亦可看出創用CC授權之目的。若身為一個特定作品作者及著作權利人，採用創用CC授權條款是十分安全的選擇。也因此，許多俄國音樂家，例如Timur Izhbulatov 和 Melnar Tilromen早就在&lt;a class=&quot;newpage&quot; href=&quot;http://www.Jamendo.com&quot;&gt;www.Jamendo.com&lt;/a&gt; 上將其音樂以創用CC方式分享出去。」&lt;/p&gt;
+
+&lt;p&gt;俄羅斯最早將作品分享到大眾之作者，或許就是俄羅斯聯邦的總統本人。他在他自己的網站 &lt;a class=&quot;newpage&quot; href=&quot;http://www.krelin.ru/&quot;&gt;www.krelin.ru&lt;/a&gt; 就採用創用CC3.0版本授權條款，同時與維基百科進行連結。而為了「永恆價值計劃」，Medvedev總統上傳了一百張以上的照片給維基共享資源中，並選用「姓名標示──相同方式分享」之授權條款。「永恆價值計劃」是俄新社透過釋出許多該社最具價值之照片給公眾之方式，慶祝俄新社成立70周年。&lt;/p&gt;
+
+&lt;div&gt;
+&lt;hr /&gt;
+&lt;div&gt;
+&lt;p&gt;本文譯自Support for Creative Commons grows in Russia，Jane Park, &lt;a href=&quot;https://creativecommons.org/weblog/entry/28133&quot;&gt;https://creativecommons.org/weblog/entry/28133&lt;/a&gt;（最後流覽日：2011/07/14）&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+www.krelin.ru 連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 15 Jul 2011 02:15:34 +0000</pubDate>
+ <dc:creator>bonjovilll</dc:creator>
+ <guid isPermaLink="false">532 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20110715#comments</comments>
+</item>
+<item>
+ <title>Fotopedia 與聯合國教科文組織共同發表「Fotopedia 世界遺產程式」</title>
+ <link>https://creativecommons.tw/blog/20100919-1</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Peitta Wang&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;&lt;img alt=&quot;fotopedia-borobudur.png;&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/fotopedia-borobudur.png&quot; style=&quot;width:400px&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://www.fotopedia.com&quot;&gt;Fotopedia&lt;/a&gt; 與&lt;a class=&quot;newpage&quot; href=&quot;http://whc.unesco.org/&quot;&gt;聯合國教科文組織世界遺產中心&lt;/a&gt;共同合作，開發了一個突破性的[[http://www.fotopedia.com/heritage|程式]]，透過「Fotopedia 世界遺產計畫 ( Fotopedia Heritage project )」，讓 iPhone 與 iPad 使用者可以輕易地接觸這些對於人類有極高價值的世界遺產照片。&lt;/p&gt;
+
+&lt;p&gt;聯合國教科文組織世界遺產中心提到，其目前所收錄的全球世界遺產總數已增至911處，包括704處世界自然遺產、180處世界文化遺產、27處自然與文化雙遺產，而 Fotopedia 遺產計畫則是第一次將「Fotopedia 世界遺產百科全書 ( Fotopedia Heritage book) 」 中的18,000張以創用 CC 授權條款釋出的高畫質照片，呈現給大家。而這本照片書將會持續以社群貢獻的方式繼續收錄照片。&lt;/p&gt;
+
+&lt;p&gt;參考資料:Jane Park, August 10th, 2010, &lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/22882&quot;&gt;Fotopedia and UNESCO Launch World Heritage Application&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 19 Sep 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">223 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20100919-1#comments</comments>
+</item>
+<item>
+ <title>狂賀 Flickr 創用CC授權釋出照片量 突破100,000,000（一億）</title>
+ <link>https://creativecommons.tw/blog/20090401</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;周文茵&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;&lt;img alt=&quot;flickr100m.jpg&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/flickr100m.jpg&quot; style=&quot;width:250px&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;我想大家最近登錄上 Creative Commons 官網，一定不難發現首頁上方有了最新的&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/12540&quot;&gt;頭版頭&lt;/a&gt;了。那就是在2009年3月21日（週六），大概是晚上吧，在 Flickr 上面採用創用CC釋出的照片，正式突破100,000,000（一億）筆囉。&lt;/p&gt;
+
+&lt;p&gt;這真是值得慶祝的好消息，Flickr 一直以來都相當支持創用CC授權，也是創用CC授權圖片領域很重要的來源指標。Flickr 在&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/4287&quot;&gt;2004年年中&lt;/a&gt;，已率先將創用CC授權整合至平台，而且很早就提供每張照片均可獨立選取想要的創用CC授權方式。並且提供強大的&lt;a class=&quot;newpage&quot; href=&quot;http://www.flickr.com/creativecommons&quot;&gt;創用CC授權搜尋&lt;/a&gt;頁面，除了以授權方式作分類，也提供最熱門標籤，所以你可以在想要的授權方式下尋找想要的作品。而且，更因為 Flickr 將創用CC授權資訊建立的相當完整與細緻，讓之後一些平台可以依此加入創新想法，進而產生更好的使用介面服務，&lt;a class=&quot;newpage&quot; href=&quot;http://flickrcc.bluemountains.net/&quot;&gt;FlickrCC&lt;/a&gt; 就是一例。&lt;/p&gt;
+
+&lt;p&gt;而為了慶祝這個里程碑，Creative Commons 特別提供12本現任執行長Joi Ito所拍攝製作的人物影像集&lt;a class=&quot;newpage&quot; href=&quot;http://www.freesouls.cc/&quot;&gt;《Free Souls》-限量版&lt;/a&gt;，只要捐款支持Creative Commons推動達&lt;a class=&quot;newpage&quot; href=&quot;https://support.creativecommons.org/donate?utm_source=join&quot;&gt;100美元級&lt;/a&gt;的朋友，即可另外加贈，數量有限，送完為止。《Free Souls》蒐羅的人物影像，都是長期玩攝影的Joi 所拍攝記錄的，這些作品也同時放在&lt;a class=&quot;newpage&quot; href=&quot;http://www.flickr.com/photos/joi/tags/freesoulsbook/&quot;&gt;Joi 的Flickr相簿&lt;/a&gt;裡，以姓名標示的方式釋出，大家可以直接上網站欣賞，或下載利用他的作品。&lt;/p&gt;
+
+&lt;p&gt;這裡另外提供各位一篇 [[http://metawelle.net/2009/03/22/100-millionen-freie-bilder-bei-flickr/|Flickr一億筆影像資料採用創用CC授權狀況的分析]]，有興趣的話，不妨先參考看看。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 01 Apr 2009 04:00:00 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">146 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20090401#comments</comments>
+</item>
+</channel>
+</rss>

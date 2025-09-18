@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 北歐</title>
+ <link>https://creativecommons.tw/taxonomy/term/3046</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>瑞典LSH經驗談：基於開放使命看待授權方式</title>
+ <link>https://creativecommons.tw/blog/20151110</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;瑞典的Livrustkammaren och Skoklosters slot med Stiftelsen Hallwylska museet (LSH)由三個博物館聯合組成：皇家兵器博物館(Livrustkammaren)、Skokloster城堡(Skoklosters Slott)與Hallwyl博物館(Hallwylska museet)，館藏十分多元。&lt;/p&gt;
+
+&lt;p&gt;皇家兵器博物館是瑞典最老的博物館，由國王Gustav二世Adolph於1628年建立，最初是想保存他在波蘭行軍路程中所穿的衣服，館藏包含16世紀以來的武器、盔甲、皇家服飾及配件，見證了軍事史的發展。Skokloster城堡是北歐最大型的巴洛克式建築之一，由Carl Gustaf Wrangel於1654-1676年建立，館藏主要來自城堡主人蒐藏的藝術品。Hallwyl博物館則於1893-1898年間建立，原本是Wilhelmina von Hallwyl與Walther von Hallwyl的冬季行館，累積了Hallwyl 家族旅行的照片及大量藝術品。&lt;/p&gt;
+
+&lt;p&gt;LSH博物館自2005年開始進行館藏數位化，當時他們販售高畫質圖像以支付尋找圖像、燒成光碟、寄送等行政費用。2012年，在瑞典創新資金Vinnova約31000歐元的贊助下，他們開始進行「&lt;a href=&quot;http://lsh.se/sv/openimagearchive&quot; target=&quot;_blank&quot;&gt;開放圖像典藏計畫(project Open Image Archive)&lt;/a&gt;」，目標是能讓大眾免費使用博物館的圖像。&lt;img alt=&quot;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Portr%C3%A4tt._Rudolph_II_som_Vertumnus._Guiseppe_Arcimboldo_-_Skoklosters_slott_-_39253.tif/lossy-page1-800px-Portr%C3%A4tt._Rudolph_II_som_Vertumnus._Guiseppe_Arcimboldo_-_Skoklosters_slott_-_39253.tif.jpg&quot; style=&quot;height:738px; width:600px&quot; /&gt;&lt;br /&gt;
+&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Portr%C3%A4tt,_Rudolf_II_som_Vertumnus._Guiseppe_Arcimboldo_-_Skoklosters_slott_-_87582.tif&quot; target=&quot;_blank&quot;&gt;圖片來源：wikimedia commons，公眾領域(PD)。 &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;計畫展開後，LSH開始討論智慧財產權的問題。由於歐盟正提出&lt;a href=&quot;http://ec.europa.eu/digital-agenda/en/europeanlegislation-reuse-public-sector-information&quot; target=&quot;_blank&quot;&gt;公部門資訊修正法案提案&lt;/a&gt;，鼓勵歐洲各國盡可能讓由公部門控制及贊助的資訊能被重複使用，文化記憶機構也包含在內。加上數位館藏部門及三館館長都認同他們的核心使命為「保存館藏，以及貢獻持續發展且可以取用的的文化資產，讓人們能提升對於過往及當下的認識」，因此他們很迅速達成共識，認定「開放」是正確道路。&lt;/p&gt;
+
+&lt;p&gt;LSH的「開放」展現在費用收取及授權兩個方面。&lt;/p&gt;
+
+&lt;p&gt;首先，LSH的數位圖像是完全無須支付費用的。館方認為既然機構已經獲得來自民眾支付的稅金，就應該免費提供圖像回饋大眾。現在只有在申請使用尚未數位化的圖像時才會收取費用，而且如果使用者願意等待三個月再使用，還是可以免費取用。&lt;/p&gt;
+
+&lt;p&gt;LSH數位化後的作品分成三類：已超過著作權保障期限、仍在著作權保障期限內且博物館乃權利人、仍在著作權保障期限內且第三方乃權利人。其中，超過著作權保障期限的作品數量最多，LSH便以「公眾領域標章(PDM)」進行標示，讓使用者清楚知道他們可以任意使用這類作品。&lt;/p&gt;
+
+&lt;p&gt;不過，即便實體作品是公眾領域，然而負責替這些平面或立體作品照相的人是否擁有著作權呢？&lt;/p&gt;
+
+&lt;p&gt;Thomas Margoni在他的研究中將數位化分成三個類型：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;缺乏人為干涉的自動數位化，如Google自動掃描書籍。&lt;/li&gt;
+	&lt;li&gt;由為了產生高品質產出特別雇用的專家進行數位化，如攝影師在不同光影下拍出最好的照片。&lt;/li&gt;
+	&lt;li&gt;由某執行者進行的自動數位化，如為了清點、分類而手動拍照、複製。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;他認為第一種狀況不會產生新的著作權；第二種狀況下因為攝影師會調燈光、挑角度，多少有一些創意的展現，而會產生新的權利；第三種則是最難判斷的狀況。&lt;/p&gt;
+
+&lt;p&gt;瑞典的著作權法保障後兩種狀況，因此LSH其實可以針對這兩類數位化作品主張著作權。然而，館方認為應該先思考到底希望透過館藏達成何種目標，再考量著作權對於目標的阻礙與否。最終他們最後決定要採納&lt;a href=&quot;http://pd4pd.org/zh-hant/blog/82&quot; target=&quot;_blank&quot;&gt;Europeana公眾領域憲章&lt;/a&gt;的觀點，讓所有數位化後的作品維持公眾領域的狀態，以達成他們盡可能開放的目標。因此，除了對自動數位化的作品採用「&lt;a href=&quot;https://creativecommons.org/publicdomain/mark/1.0/&quot; target=&quot;_blank&quot;&gt;公眾領域標章(PDM)&lt;/a&gt;」，攝影師也以「創用CC 姓名標示」授權其拍攝的作品。&lt;/p&gt;
+
+&lt;p&gt;LSH在提出開放圖像典藏計畫時設定了幾點目標：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;改善現有網站介面與功能，以便能展示及下載高畫質圖像。&lt;/li&gt;
+	&lt;li&gt;增加關鍵字、授權方式、攝影師資訊等詮釋資料。&lt;/li&gt;
+	&lt;li&gt;設定伺服器，使其可以被瑞典開放文化機構(Swedish Open Cultural Heritage , SOCH)聚合器(aggregators)所存取。&lt;/li&gt;
+	&lt;li&gt;替所有圖像加上版權聲明。&lt;/li&gt;
+	&lt;li&gt;在著作權允許的範圍內，將高畫質圖像貢獻給&lt;a href=&quot;https://commons.wikimedia.org/wiki/Category:Images_from_Livrustkammaren_och_Skoklosters_slott_med_Stiftelsen_Hallwylska_museet&quot; target=&quot;_blank&quot;&gt;維基共享資源&lt;/a&gt;，並於維基共享資源頁面設定連結回到博物館的資料庫。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;最終，他們達成所有計畫目標。LSH於2013年3月發布網站並以開放授權釋出40000張圖像，其中三分之一為高解析度畫質。網站的功能及詮釋資料品質皆如當初的設定，並與瑞典SOCH聚合器連結。2013年10月LSH將12000張高解析度圖像和7000張負片檔案貢獻給維基共享資源，並於2014年6月與11月先後又上傳了500張與6500張圖像。2014年5月美國博物館聯盟(American Alliance of Museums)首次創立媒體與科技MUSE獎的開放類別獎項，就將金牌獎頒給他們。&lt;/p&gt;
+
+&lt;p&gt;在進行計畫之前，瑞典以外的地區沒有太多人有看過LSH的館藏。開放之後，這些圖片迅速的被用在維基百科裡，散佈到英語、日語、俄語、荷蘭語、越南語、泰語的維基百科，而且至2015年2月為止這些圖像已經被瀏覽過將進五百萬次。館方對於他們的館藏被看到感到既驕傲又滿足，他們節省了一筆行銷金費就能成功在瑞典外拓展可見度。&lt;/p&gt;
+
+&lt;p&gt;LSH於其&lt;a href=&quot;http://lsh.se/en/about-us/vision-2014&quot; target=&quot;_blank&quot;&gt;2014年的願景&lt;/a&gt;中仍提到了「開放」，希望透過開放鼓勵參與，讓博物館成為社會裡知識發展的重要角色。透過建構發展數位博物館，將讓大眾有更多接觸博物館的新管道。&lt;/p&gt;
+
+&lt;p&gt;參考資料：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://pro.europeana.eu/files/Europeana_Professional/Publications/Making%20Impact%20on%20a%20Small%20Budget%20-%20LSH%20Case%20Study.pdf&quot; target=&quot;_blank&quot;&gt;Making a big impact on a small budget: How the Livrustkammaren och Skoklosters slott med Stiftelsen Hallwylska museet (LSH) shared their collection with the world Joris Pekel, Europeana Foundation&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://lsh.se/en/about-us/vision-2014&quot; target=&quot;_blank&quot;&gt;http://lsh.se/en/about-us/vision-2014&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/Commons:Livrustkammaren_och_Skoklosters_slott_med_Stiftelsen_Hallwylska_museet&quot; target=&quot;_blank&quot;&gt;https://commons.wikimedia.org/wiki/Commons:Livrustkammaren_och_Skoklosters_slott_med_Stiftelsen_Hallwylska_museet&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/Category:Images_from_Livrustkammaren_och_Skoklosters_slott_med_Stiftelsen_Hallwylska_museet&quot; target=&quot;_blank&quot;&gt;https://commons.wikimedia.org/wiki/Category:Images_from_Livrustkammaren_och_Skoklosters_slott_med_Stiftelsen_Hallwylska_museet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 10 Nov 2015 10:58:51 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1144 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151110#comments</comments>
+</item>
+</channel>
+</rss>

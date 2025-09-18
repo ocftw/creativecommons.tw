@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 台灣</title>
+ <link>https://creativecommons.tw/category/tags/%E5%8F%B0%E7%81%A3</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>政府資訊再利用—從Speed Bus事件談起</title>
+ <link>https://creativecommons.tw/blog/20110701</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;周文茵&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/speed_bus.jpg&quot; style=&quot;float:left; height:178px; width:178px&quot; /&gt;是否曾經眼睜睜地看著公車從眼前開走，心中嘟嚷錯過這班公車，不知道下班還得等多久？是否愈是要搭乘的公車，愈是讓你有種等到天荒地老的感覺？枯等，著實叫人難耐…...所以，這款0.99美元軟體-- &lt;a href=&quot;http://itunes.apple.com/tw/app/id364246327?mt=8&quot;&gt;Speed Bus/大台北極速公車&lt;/a&gt;，在Apple Store賣的火紅，穩居公車類排行榜的「熱搜冠軍」。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;「公車進站0&lt;/strong&gt;&lt;strong&gt;分鐘」--Speed Bus&lt;/strong&gt;&lt;strong&gt;事件&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;這個應用軟體設計便於使用的UI介面，透過程式直接耙梳台北市政府的公車動態系統內的資料，除了提供用戶最即時的公車到站訊息，客制化的[我的最愛]功能，也讓許多使用者傾心，一試成主顧。因此，許多人撇開現成的免費版軟體不用，願意多負擔些許費用，以圖個便利。而這個軟體的實用、親民的口碑，也為軟體作者帶來不可小覷的實質商業收益。&lt;/p&gt;
+
+&lt;p&gt;但，最近卻因為無預警的當機失靈，惹的用戶觀感不佳，罵聲連連，更有部份使用者發出怒吼，要作者「踹共」，還因而上了&lt;a href=&quot;http://www.tvbs.com.tw/news/news_list.asp?no=jimmyliu220110612191728&amp;amp;dd=2011612212254&quot;&gt;新聞版面&lt;/a&gt;。根據記者瞭解，真正失靈的原因，原來是軟體作者「非法」使用公車動態資訊，遭抓包而切斷系統。&lt;/p&gt;
+
+&lt;p&gt;北市府公運處科長黃惠如：「他是沒有來合法跟我們申請『資訊介接』，所以我們把整個資訊端切斷，北市府決定他無法銜接到我們的公車動態系統。」&lt;/p&gt;
+
+&lt;p&gt;這個事件，網友持正反意見有&lt;a href=&quot;http://www.mobile01.com/topicdetail.php?f=627&amp;amp;t=2201941&amp;amp;m=f&amp;amp;r=5&amp;amp;p=1&quot;&gt;一小串論戰&lt;/a&gt;。爭執的焦點不外乎是退費、不值的情緒發洩，或是對錯各執立場的表象爭辯。截至目前，似乎已經告一段落，而軟體作者也以理性的態度來進行&lt;a href=&quot;https://www.facebook.com/pages/Speed-Bus/106770822711259&quot;&gt;相關的補救處理&lt;/a&gt;。然而，這個看似簡單的消費糾紛，其實隱藏著政府資訊公開、取得與再利用的政策層次省思。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;欠缺整體規劃&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;政府資訊再利用的國際趨勢，台灣已有些政府部門(的人員)開始著眼思考與重視。不過，似乎尚欠缺整體的規劃，與單位內部的共識凝聚。以台北市公共運輸處為例，竟於一個月內，對外做出截然不同的兩樣態度。&lt;/p&gt;
+
+&lt;p&gt;「…（市政府交通局的回應）其實也不知道為什麼原本會這樣訂，但是最近也有發現這個問題，將會在最近改正這個條文；意思就是說，不能夠把API呼叫出來的Raw Data拿去賣，但是可以加值（比如說，開發App使其介面使用體驗更棒）就可以收費。」（&lt;a href=&quot;http://www.inside.com.tw/2011/05/12/about-taipei-traffic-breu&quot;&gt;〈台北市交通局相關資料開放座談會心得〉&lt;/a&gt;（2011.5.12））&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;「…北市府公運處科長黃惠如：「他是沒有來合法跟我們申請『資訊介接』，所以我們把整個資訊端切斷，北市府決定他無法銜接到我們的公車動態系統。」（&lt;a href=&quot;http://www.tvbs.com.tw/news/news_list.asp?no=jimmyliu220110612191728&amp;amp;dd=2011612212254&quot;&gt;〈獨家〉「公車進站0分鐘」 非法APP遭斷源&lt;/a&gt; （2011.6.12））&lt;/p&gt;
+
+&lt;p&gt;除了呈現出紊亂的政策思維，讓民眾無所適從之外；散落一地的資訊，也讓利用人在尋求合法依歸時，倍感艱辛。筆者實際查訪此事件的主管機關&lt;a href=&quot;http://www.pto.taipei.gov.tw/sitemap.asp?mp=117041&quot;&gt;台北市公共運輸處&lt;/a&gt;網站，無法找到關於資訊「介接」的相關規定；而透過Google搜尋找到的法規資料，原來放置於交通部運輸研究所-&lt;a href=&quot;http://road.iot.gov.tw/e-iot_apply.htm&quot;&gt;交通服務E通網&lt;/a&gt;之下。&lt;/p&gt;
+
+&lt;p&gt;開啟此份&lt;a href=&quot;http://www.dot.taipei.gov.tw/public/Data/11410355771.pdf&quot;&gt;申請介接臺北市即時交通資訊作業說明&lt;/a&gt;，在注意事項中表示：「申請單位針對交通資訊之內容或於加值處理後不得對外收費」，根本欠缺民間加值誘因。而看完層層的規定，在投身加值之初，似乎就足以打消申請念頭。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;國家層次的策略思考&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;政府資訊涉及單位層面廣泛，也具有資訊產業發展促進，與填補政府財政收入的價值。因此，政府資訊取得與再利用的規劃，理應提升到國家政策層次的策略考量，由國家主導加以整合規劃，才不會出現前述的兩樣情。而如同網友&lt;a href=&quot;http://ilyagram.org/blog/archives/2768.html&quot;&gt;ilya&lt;/a&gt;所提到：&lt;/p&gt;
+
+&lt;p&gt;「政府受限於它的資源分配方式、它的業務執行者的資格限制，制式化的遊戲規則，沒有辦法吸引到具有創新能力的創作者與彈性的作法；因此無法跟這樣的中間人競爭。但是它可以藉由訂定具有開放原則的競爭方式，鼓勵中間人彼此公平競爭，最終帶來政府公共資訊服務的效能與效率的最佳化。信任是很困難的事情。政府應該鼓勵中間人更積極地維繫良好的信任關係。而不是摧毀它們。」&lt;/p&gt;
+
+&lt;p&gt;政府人力資源有限，而且也不應該與民爭利，透過訂定清楚、公平、透明、合理的遊戲規則，才能讓民間業者多元的創意能量有所發揮。而為了讓政府資訊有效地在數位環境下利用、流通，並且降低流通時的成本，納入與資訊時代流通本質呼應的公眾授權概念是相當重要的環節。目前國際上許多國家也都將之納入政策思考，以降低政府行政成本，並讓利用人易於瞭解與遵從。&lt;/p&gt;
+
+&lt;p&gt;公眾並非天生就知道如何消化吸收政府資料，這些資料是需要透過更多的加值應用者投身加入創意轉化後，才能重現其豐富、多元的面貌。政府手邊的資訊，如果能有效的釋出再利用，將讓生活更加便捷。&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+交通服務E通網連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 01 Jul 2011 02:42:47 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">528 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20110701#comments</comments>
+</item>
+<item>
+ <title>北京舉行「混合與分享」CC綜合藝術展</title>
+ <link>https://creativecommons.tw/blog/20091229</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;莊庭瑞&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;&lt;img alt=&quot;remix%20and%20share.jpg&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/remix_and_share.jpg&quot; style=&quot;width:250px&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;今年12月13日到7日之間，在北京798藝術區的&lt;a class=&quot;newpage&quot; href=&quot;http://www.intergallery.cn/&quot;&gt;映藝術中心&lt;/a&gt;舉辦了一場由&lt;a class=&quot;newpage&quot; href=&quot;http://cn.creativecommons.org/&quot;&gt;知識共享中國大陸項目（Creative Commons China Mainland）&lt;/a&gt;和&lt;a class=&quot;newpage&quot; href=&quot;http://artintern.net/&quot;&gt;藝術國際&lt;/a&gt;所共同主辦的「混合與分享」CC綜合藝術展。該藝術展的核心理念為合法的分享、混合與再使用，意旨於實現創作與傳播的良性互動。該藝術展以公開徵求的方式，收到了200多位藝術者的作品，作品涵蓋了新媒體、裝置、影像、繪畫等類型，皆以CC授權條款釋出。&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;creativecommons.tw/betacc&quot;&gt;台灣創用CC計畫 (Creative Commons Taiwan)&lt;/a&gt;應知識共享中國大陸項目主持人、中國人民大學法學院王春燕教授之邀，參加了這次藝術展於13日的開幕式。於同日的「混合與分享」跨界交流論壇，莊庭瑞以&lt;a class=&quot;newpage&quot; href=&quot;http://www.slideshare.net/trc/collaborative-works-public-licenses&quot;&gt;〈協同創作與公眾授權〉&lt;/a&gt;為題，就數位時代的資訊技術、文化傳承、法律限制等議題，和與會者進行交流。&lt;/p&gt;
+
+&lt;p&gt;台灣新媒體藝術家、藝術策展人蔡宏賢先生也應邀參加，以〈CC歷程〉為題分享他的經驗，介紹才剛在台北結束、為期五天的&lt;a class=&quot;newpage&quot; href=&quot;https://sites.google.com/site/playaroundcc/&quot;&gt;「科技游民」&lt;/a&gt;工作坊，引發了熱烈討論。論壇講者尚包括香港大學法學院李亞虹教授，她同時也是&lt;a class=&quot;newpage&quot; href=&quot;http://hk.creativecommons.org/&quot;&gt;香港共享創意（Creative Commons Hong Kong）&lt;/a&gt;的法律部門主持人，和來自CC澳大利亞的侍孝祥先生，以及知識共享中國大陸項目成員和曉琳小姐。孔伯華國醫學堂創辦人孔令謙先生，以及參展藝術家沈怡小姐，也分別就中藥知識的共享以及創作理念的散布，提出看法。&lt;/p&gt;
+
+&lt;p&gt;「混合與分享」CC當代藝術作品展的策展人為吳鴻先生與朱捍東先生。參展的藝術創作者及作品資訊，可以由&lt;a class=&quot;newpage&quot; href=&quot;http://show.artintern.net/html.php?id=2582&quot;&gt;藝術國際的網頁&lt;/a&gt;取得。關於此次活動的詳細報導，請參閱&lt;a class=&quot;newpage&quot; href=&quot;http://cn.creativecommons.org/2009/12/18/ccremixshow/&quot;&gt;CC中國大陸的網站&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 29 Dec 2009 04:00:00 +0000</pubDate>
+ <dc:creator>trc</dc:creator>
+ <guid isPermaLink="false">188 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20091229#comments</comments>
+</item>
+<item>
+ <title>「新聞學研究」百期學術文章，以創用CC授權釋出</title>
+ <link>https://creativecommons.tw/blog/20090914</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;辜雅蕾&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;記得以前在寫論文的時候，「&lt;a class=&quot;newpage&quot; href=&quot;http://mcr.nccu.edu.tw/&quot;&gt;新聞學研究&lt;/a&gt;」是屬於必看的學術期刊之一，這是由政大新聞系所負責出版的期刊，其收錄的學術文章範圍不僅限新聞領域，還包含傳播法律、政策等，而所有與傳播領域相關研究者都可以投稿。雖然「新聞學研究」約三個月才出版一期，但是對於台灣念傳播相關學系的師生都很有影響性。&lt;/p&gt;
+
+&lt;p&gt;今年（2009）七月「新聞學研究」出版第一百期，他們將過去一百期的文章數位化後放在網路上供大眾自由下載，其採用創用CC「&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by-nc-nd/3.0/tw/&quot;&gt;姓名標示-非商業性-禁止改作&lt;/a&gt;」授權釋出。我想，一本具有影響力的學術期刊，決定以創用CC授權釋出這些研究結果，對於未來的研究者絕對是正面的影響居多。&lt;/p&gt;
+
+&lt;p&gt;另一方面，過去只有在特定書局、圖書館或是校園才能找到這本期刊，一旦可以上網被下載使用，對於知識的擴散也有相當的幫助；不論是對其他領域的研究者或是其他一般大眾。隨著台灣受高等教育的人日眾，高等教育的研究結果也越來越多，相對國家也投注更多的資源在高等教育上，然而這些學術研究結果卻往往無法被容易的取得，這些資源等同被浪費，學術研究也跟大眾生活越離越遠。所以或許在「新聞學期刊」採用創用CC授權釋出之後，其他的學術期刊也可以考慮相同的作法。&lt;/p&gt;
+
+&lt;p&gt;新聞學期刊&lt;a class=&quot;newpage&quot; href=&quot;http://mcr.nccu.edu.tw/data100.html&quot;&gt;100期光碟下載&lt;/a&gt;(連結失效)。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 14 Sep 2009 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">172 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20090914#comments</comments>
+</item>
+<item>
+ <title>《鯤島起義》以創用CC授權釋出</title>
+ <link>https://creativecommons.tw/blog/20090805-6</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;莊庭瑞(trc)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;&lt;img alt=&quot;%E9%AF%A4%E5%B3%B6%E8%B5%B7%E7%BE%A9.jpg;&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/x3.jpg&quot; style=&quot;width:250px&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;偶然的機會接觸到這張音樂專輯，叫做&lt;a class=&quot;newpage&quot; href=&quot;http://www.indievox.com/disc/1514&quot;&gt;《鯤島起義之人權宣言》&lt;/a&gt;&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-1&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-1&#039;)&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;。牽引我眼睛的不是CD包裝盒側邊的冷冽文案：&lt;/p&gt;
+
+&lt;blockquote&gt;2008的冬天，鯤島幫的青年首次集結發聲。以素樸的熱情，與對平等正義的信仰創作，搖滾對社會的關懷！思索 — 在媒體政治操作的紛擾矯情謊言喧鬧洪流中，要怎麼看穿表面，回溯本質？心疼 — 人們盲目追尋徬徨迷惘，被扭曲的體制規訓束縛，孤寂空洞中看不到自己。看見 — 人權價值被忽略與輕蔑，導致社會問題叢生及資源分配的不公不義。&lt;/blockquote&gt;
+
+&lt;p&gt;而是近乎「職業性」本能所瞄到、不起眼的創用CC授權標示。這張由&lt;a class=&quot;newpage&quot; href=&quot;http://www.gamaamusic.com/&quot;&gt;迦鎷文化音樂國際有限公司&lt;/a&gt;發行的專輯，以「姓名標示 — 非商業性」方式釋出。&lt;/p&gt;
+
+&lt;p&gt;CD包裝盒上卻也同時標示了&lt;a class=&quot;newpage&quot; href=&quot;http://www.amnesty.tw/&quot;&gt;國際特赦組織台灣總會&lt;/a&gt;以及&lt;a class=&quot;newpage&quot; href=&quot;http://www.amnesty.tw/?p=630&quot;&gt;「小地方音樂季」&lt;/a&gt; (Small Place Tour) 的網址。著作權與人權有關嗎？&lt;/p&gt;
+
+&lt;p&gt;原來這是去年底由中南部十所大專院校社團、以及台灣十多組獨立樂團發起，共同為人權發聲，巡迴演出十數場的紀念專輯。去年為了紀念世界人權宣言60週年，國際特赦組織以多場次、持續舉行、小型演唱會的方式，來呼喚普世大眾關注人權議題。這項全球的在地活動就稱為「小地方音樂季」。&lt;/p&gt;
+
+&lt;p&gt;這些演唱會、唱片不是由國際特赦組織出資舉辦或發行，而是由音樂人主動將他們的演出、作品與人權議題結合，以求能將觸角伸得更遠更深。而台灣的這張紀念專輯能以創用CC方式釋出，也就分外令人感念了。&lt;/p&gt;
+
+&lt;h3&gt;«Whale Island Uprising» CC-licensed&lt;/h3&gt;
+
+&lt;p&gt;By chance I encountered this CD album titled &lt;strong&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://www.indievox.com/disc/1514&quot;&gt;«Whale Island Uprising: Declaration of Human Rights»&lt;/a&gt;&lt;/strong&gt;. What caught my eyes actually is not the reflective words on the cover of album package (my apology for the following inadequate translation):&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;em&gt;&lt;strong&gt;In the Winter of 2008, the youth of the Whale Island gang first put together their voices. With their plain and pure passion, and their believe in equity and justice, they brought out these works to show they care!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Think — of all the lies in the media and politics, how would you look through the superficies and get to the truth?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Feel — in your wandering and loss, and the rigidity and constraints of the system, do you see yourself?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Watch — human rights ignored and by-passed, can you endure the inequities and the consequences?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Rather, it is the small CC BY-NC mark at the back of the album cover that I recognize by instinct. On the cover, there are also links to &lt;strong&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://www.amnesty.tw&quot;&gt;Amnesty International Taiwan&lt;/a&gt;&lt;/strong&gt; and the &lt;strong&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://www.amnesty.tw/?p=630&quot;&gt;Small Place Tour events&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;How would human rights and copyright rights connect in this CC-licensed CD produced by &lt;strong&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://www.gamaamusic.com&quot;&gt;Gamaa Music&lt;/a&gt;&lt;/strong&gt;?&lt;/p&gt;
+
+&lt;p&gt;The connection is that music societies in ten colleges in central and southern Taiwan, as well as many indie bands, collaborated in organizing more than 10 Small Place Tour concerts last year. Year 2008 is the 60th anniversary of the universal declaration of human rights. Amnesty International had been working with artists and musicians everywhere in giving small concerts, so as to reach out to people to care for worldwide human rights issues. This global campaign was called the Small Place Tour.&lt;/p&gt;
+
+&lt;p&gt;These concerts and the albums were not funded by Amnesty International; they were voluntary efforts by the participating artists and musicians. By using music to promote human rights, it was hoped that the message would touch upon more people. It is by this connection that I feel especially thankful that the «Whale Island Uprising» album is released under a CC license.&lt;/p&gt;
+
+&lt;div&gt;
+&lt;div&gt;Footnotes&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-1&#039;)&quot;&gt;1&lt;/a&gt;. 圖片來源: &lt;a class=&quot;newpage&quot; href=&quot;http://www.gamaamusic.com/&quot;&gt;Gamaa Music&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 05 Aug 2009 04:00:00 +0000</pubDate>
+ <dc:creator>trc</dc:creator>
+ <guid isPermaLink="false">166 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20090805-6#comments</comments>
+</item>
+<item>
+ <title>金曲20 聽見「交心」</title>
+ <link>https://creativecommons.tw/blog/20090601</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;周文茵&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;&lt;img alt=&quot;cabaca.jpg;&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/cabaca.jpg&quot; style=&quot;margin-bottom:10px; margin-right:15px&quot; /&gt;&lt;/div&gt;
+
+&lt;h4&gt;&lt;strong&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://goldenmelody.im.tv/fashion.html&quot;&gt;2009年，第20屆金曲獎--流行類音樂《最佳單曲製作人獎》入圍的有：林強/交心(Bosom)《卡巴卡 CABACA》/朱頭皮音樂有限公司……&lt;/a&gt;&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://zh.wikipedia.org/wiki/%E6%9E%97%E5%BC%B7&quot;&gt;林強&lt;/a&gt;，以「向前行」打破台語歌唱市場長期以來的悲情曲風而轟動歌壇，目前轉身投入電子音樂與電影配樂，並在國際間頗具盛名，長期以來亦相當支持創用CC授權的分享理念。&lt;/p&gt;
+
+&lt;p&gt;這首「交心」是林強於2007年所演唱錄製的。難得開嗓的他，主要是為了響應大塊文化董事長郝明義發起的「&lt;a class=&quot;newpage&quot; href=&quot;http://www.ucareicare.net/showthread.php?t=183&quot;&gt;ucareicare--讓好病人遇上好醫生&lt;/a&gt;」公益行動，所義務創作的主題曲。此公益行動以改善醫病關係為目標，期待協助眾人學習如何與醫生溝通，以提高就醫品質，減少醫療糾紛。林強透過民謠式的曲風，用溫暖的唱腔娓娓地唱出一種觀看事情的態度：多一份交心，多一分疼惜，人生許多事都終將釋懷。旋律輕鬆平和，好似初夏午後輕風徐徐，帶來恰到好處的清新。&lt;/p&gt;
+
+&lt;p&gt;林強於2008年將此單曲納入&lt;a class=&quot;newpage&quot; href=&quot;http://tw.streetvoice.com/profile/home.asp?sd=531047&quot;&gt;《卡巴卡 CABACA》&lt;/a&gt;專輯中正式實體發行，並於今年獲得第20屆金曲獎提名。《卡巴卡 CABACA》專輯囊括台灣、香港、日本、韓國、馬來西亞、菲律賓等跨亞洲區域支持創用CC授權理念音樂創作人的作品，整張專輯採用創用CC授權「姓名標示-非商業性-相同方式分享」方式釋出。您可以至此參考購買(&lt;a class=&quot;newpage&quot; href=&quot;http://www.taiouan.com.tw/catalog/product_info.php?products_id=3279&quot;&gt;台灣e店&lt;/a&gt;、&lt;a class=&quot;newpage&quot; href=&quot;http://www.cdbaby.com/cd/ccasiaband&quot;&gt;CD BABY&lt;/a&gt;、&lt;a class=&quot;newpage&quot; href=&quot;http://www.books.com.tw/exep/cdfile.php?item=0020127142&quot;&gt;博客來&lt;/a&gt;、&lt;a class=&quot;newpage&quot; href=&quot;http://www.eslite.com/product.aspx?pgid=1004120241793333&quot;&gt;誠品&lt;/a&gt;)，支持這些音樂人實踐創用CC的分享理念；或者您也可以&lt;a class=&quot;newpage&quot; href=&quot;http://tw.streetvoice.com/profile/home.asp?sd=531047&quot;&gt;上網試聽&lt;/a&gt;，並且按照授權要求加以利用這些難得的作品。&lt;/p&gt;
+
+&lt;p&gt;因此，關於「交心」這首歌，您可自由地分享(重製、散布、展示及演出本著作)、重混(創作衍生著作)，&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by-nc-sa/2.5/tw/&quot;&gt;只需遵守下列條件&lt;/a&gt;：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;非商業性. 您不得為商業目的而使用本著作。&lt;/li&gt;
+	&lt;li&gt;姓名標示. 您必須按照作者或授權人所指定的方式，保留其姓名標示；但不得誤導使用者或讀者，使其誤以為作者或授權人為您或您對其著作之使用背書。&lt;/li&gt;
+	&lt;li&gt;相同方式分享. 若您改變、轉變或改作本著作，當散布該衍生著作時，您需採用與本著作相同或類似的授權條款。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;〈交心〉 詞曲：林強 編曲／吉他:董運昌 bass: 金木義則&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;交心 不用講出嘴 關心別人 疼惜自己&lt;br /&gt;
+面對日頭 向前去 勇敢體驗 生活滋味&lt;br /&gt;
+人生 難得結緣 愛別人 親像愛自己&lt;br /&gt;
+陰暗烏影不如意 像露水遇到日頭 會化無去&lt;/p&gt;
+
+&lt;p&gt;雖然外頭風雨不止 雖然心頭猶然怨氣&lt;br /&gt;
+凡事看得開 順其自然歡歡喜喜&lt;br /&gt;
+保佑咱身邊所有的人都平安順遂&lt;/p&gt;
+
+&lt;p&gt;人生親像一齣戲 愛心滿天邊&lt;br /&gt;
+敬愛自然心善意 宇宙萬物同慈悲&lt;br /&gt;
+You care I care&lt;br /&gt;
+生.老.病痛 好心善報終有時……&lt;a class=&quot;newpage&quot; href=&quot;http://tw.beta.streetvoice.com/music/CABACA/song/44756/&quot;&gt;(英文歌詞)&lt;/a&gt;&lt;/p&gt;
+&amp;nbsp;
+
+&lt;p&gt;備註：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;2009年，第20屆金曲獎--流行類音樂《最佳單曲製作人獎》入圍的有：林強/交心(Bosom)《卡巴卡 CABACA》/朱頭皮音樂有限公司……&lt;/li&gt;
+	&lt;li&gt;《卡巴卡 CABACA》專輯&lt;/li&gt;
+	&lt;li&gt;台灣e店、博客來購買頁面&lt;/li&gt;
+	&lt;li&gt;上網試聽頁面&lt;/li&gt;
+&lt;/ol&gt;
+以上連結失效&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 01 Jun 2009 04:00:00 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">152 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20090601#comments</comments>
+</item>
+<item>
+ <title>〈汝介名，叫做台灣人〉 本尊分身七種版本</title>
+ <link>https://creativecommons.tw/blog/20090201</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;莊庭瑞(trc)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;從&lt;a class=&quot;newpage&quot; href=&quot;http://blog.roodo.com/kou/archives/7750897.html&quot;&gt;拷秋勤部格格&lt;/a&gt;捎來的消息：法國電音創作者 &lt;a class=&quot;newpage&quot; href=&quot;http://www.volfoniq.com/info_gb.html&quot;&gt;Volfoniq&lt;/a&gt; 新近出版 &lt;a class=&quot;newpage&quot; href=&quot;http://www.lclweb.org/audio_ep_lcl11.htm&quot;&gt;«DUB&#039;IN TAIWAN»&lt;/a&gt; 網路專輯，只收錄〈汝介名，叫做台灣人〉一曲的三款法國風混音版。該專輯的樂風獨特，並且以創用CC「姓名標示-非商業性-禁止改作 3.0」授權方式釋出，不僅值得仔細品嚐，還可以自由收藏、轉寄給朋友！&lt;/p&gt;
+
+&lt;p&gt;耳朵尖的讀者也許已發現， «DUB&#039;IN TAIWAN» 專輯中的第三首 ‹My dub is Taïwan: LCL edit› ，其實已收錄於拷秋勤金曲獎入圍專輯《拷!!出來了!!!》，是&lt;a class=&quot;newpage&quot; href=&quot;http://www.indievox.com/disc/253/&quot;&gt;第二片 CD （友情混音版）&lt;/a&gt;中的第十二首。 Volfonig 這次的專輯，另外邀請了 &lt;a class=&quot;newpage&quot; href=&quot;http://www.myspace.com/tribuman&quot;&gt;Tribuman&lt;/a&gt; 和 &lt;a class=&quot;newpage&quot; href=&quot;http://www.myspace.com/pierzik&quot;&gt;Pier&lt;/a&gt; 兩位音樂人，分別再混音創作成 ‹Panique sur le dancefloor› 以及 ‹Tsunamix› 兩曲。&lt;/p&gt;
+
+&lt;p&gt;發行這張專輯的網路音樂品牌 &lt;a class=&quot;newpage&quot; href=&quot;http://www.lclweb.org/news.htm&quot;&gt;Les Cristaux Liquident (LCL)&lt;/a&gt; 也是開放文化的倡議者與實踐者，&lt;a class=&quot;newpage&quot; href=&quot;http://www.lclweb.org/LCL.htm&quot;&gt;他們的網頁上寫著：&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;『Les Cristaux Liquident 認為藝術作品是素材，可以被再次使用，原件的形式可以被沿用與更改。這種使用藝術的方式，以及所伴隨的開放文化精神，催生了新的、原創的的作品，而可以再演化、轉變、繁衍…。所有在 LCL 發行的藝術家，都選擇「創用CC」授權條款：這是種避免遭到濫用和藝術品商業化的可靠方式，而且創作者也不會自外於分享的實務。』&lt;/blockquote&gt;
+
+&lt;p&gt;《拷!!出來了!!!》的第二片 CD 中，還另外收錄了三曲〈汝介名，叫做台灣人〉的混音版，分別由 Viba （第二首）、 DJ 小四 （第七首）、以及濁水溪公社（第十七首）所作。算一算，〈汝介名，叫做台灣人〉，本尊分身，共有七種版本呢！&lt;/p&gt;
+
+&lt;p&gt;(其實&lt;a class=&quot;newpage&quot; href=&quot;http://www.indievox.com/disc/252&quot;&gt;本尊&lt;/a&gt;也是混得很兇啊，一開始就用了陳秋霖先生創作的〈月夜嘆〉。沒聽過?就七種版本一起聽聽看吧！)&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;LCL-DubinTaiwan.jpg&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/lcl-dubintaiwan.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;h3&gt;Volfoniq Remix Kou Chou Ching&lt;/h3&gt;
+
+&lt;p&gt;Here is an interesting news from &lt;a class=&quot;newpage&quot; href=&quot;http://blog.roodo.com/kou/archives/7750897.html&quot;&gt;Kou Chou Ching&lt;/a&gt;, the hippest Taiwan traditional Hip Hop joint: The French artist &lt;a class=&quot;newpage&quot; href=&quot;http://www.volfoniq.com/info_gb.html&quot;&gt;Volfoniq&lt;/a&gt; has just released an EP &lt;a class=&quot;newpage&quot; href=&quot;http://www.lclweb.org/audio_ep_lcl11.htm&quot;&gt;«DUB&#039;IN TAIWAN»&lt;/a&gt; collecting three mixes of their track ‹Your name is TAIWAN›. The album is released by the net label Les Cristaux Liquident (LCL) under the Creative Commons BY-NC-ND 3.0 license.&lt;/p&gt;
+
+&lt;p&gt;If you are a fan of Kou Chou Ching (like myself), you might notice that the third track in «DUB&#039;IN TAIWAN» — ‹My dub is Taïwan: LCL edit› — is in Kou Chou Ching&#039;s double-CD album «KOU!! It&#039;s Coming Out!!!». It is the 12th track in the &lt;a class=&quot;newpage&quot; href=&quot;http://www.indievox.com/disc/253/&quot;&gt;2nd CD&lt;/a&gt;, which itself consists entirely of remixes made by friends of Kou Chou Ching based on their originals in the &lt;a class=&quot;newpage&quot; href=&quot;http://www.indievox.com/disc/252/&quot;&gt;1st CD&lt;/a&gt;. In «DUB&#039;IN TAIWAN», however, Volfonig collaborated with &lt;a class=&quot;newpage&quot; href=&quot;http://www.myspace.com/tribuman&quot;&gt;Tribuman&lt;/a&gt; and &lt;a class=&quot;newpage&quot; href=&quot;http://www.myspace.com/pierzik&quot;&gt;Pier&lt;/a&gt; and made two new tracks: ‹Panique sur le dancefloor› and ‹Tsunamix›.&lt;/p&gt;
+
+&lt;p&gt;The net label Les Cristaux Liquident (LCL) is an artist collective based in Montpellier, France. &lt;a class=&quot;newpage&quot; href=&quot;http://www.lclweb.org/LCL.htm&quot;&gt;From their website&lt;/a&gt;, they stated:&lt;/p&gt;
+
+&lt;blockquote&gt;&quot; Les Cristaux Liquident considers the artistic creation as a raw material that can be reworked and whose original form can be adapted and changed.This way of apprehending art, alongside the open culture spirit, can give birth to new original creations that might be brought to evolve, transform, multiply…All the artists releasing on LCL, have chosen the &#039;Creative Commons&#039; licence, a reliable way of avoiding abuses and attempts of artwork commercialization, without closing themselves to sharing practice. &quot;&lt;/blockquote&gt;
+
+&lt;p&gt;Fearless open culture advocates and practitioners, indeed they are!&lt;/p&gt;
+
+&lt;p&gt;If you wish to enjoy more remixes of ‹Your name is TAIWAN›, you can listen to the mixes of Viba, DJ Jay Szu, and LTK Commune, which are collected as the 2nd, the 7th, and the 17th tracks in the 2nd CD of «KOU!! It&#039;s Coming Out!!!».&lt;/p&gt;
+
+&lt;p&gt;(Kou Chou Ching&#039;s original ‹Your name is TAIWAN› actually is also a mix: Their track mixed the legendary Chen Chou-Lin&#039;s ‹Moonlight Sighs› from the beginning!)&lt;br /&gt;
+&lt;br /&gt;
+備註：&lt;br /&gt;
+拷秋勤部格格、Volfoniq、第二片 CD （友情混音版）連結失效&lt;br /&gt;
+links of &quot;Kou Chou Ching&quot;, &quot;Volfoniq&quot; and &quot;the 2nd CD&quot; are abandoned.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 01 Feb 2009 04:00:00 +0000</pubDate>
+ <dc:creator>trc</dc:creator>
+ <guid isPermaLink="false">131 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20090201#comments</comments>
+</item>
+<item>
+ <title>上網去聽聽CABACA吧～～</title>
+ <link>https://creativecommons.tw/blog/20081031</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;辜雅蕾&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;由亞洲各音樂人跨國協力合作，以創用CC授權釋出的音樂專輯「CABACA」已於月前實體發行了。說起來，這張專輯的誕生是從2008年初的「資訊時代之亞洲與公眾創用研討會」其中一項活動「嘻嘻亞洲大車拼」開始的，當時集合了許多亞洲各國對音樂有興趣的朋友前往參加同樂，也因此，相談甚歡以及理念相同的幾位音樂人就這麼決定要來合作一張具代表性的音樂專輯。&lt;/p&gt;
+
+&lt;p&gt;妙的是，在合作的過程中，這些音樂工作者並沒有機會再次見面討論。一切都有賴數位科技的發達，讓大家的檔案傳輸更為便利，同時成功達到跨海合作音樂。那些無數夜晚的通信和混音工作，終於催生了這張專輯。這不僅要仰賴音樂人對音樂的熱情，還有驚人的數位科技。&lt;/p&gt;
+
+&lt;p&gt;這張專輯共有八首音樂作品，除了是跨越國籍的合作，更是跨越音樂類型的合作；從流行歌曲、電音、爵士、搖滾、hip-hop到R&amp;amp;B，應有盡有。如果你聽膩了目前主流的歌曲，那就試著換換口味吧；如果你厭倦了思考什麼音樂該怎麼使用才是合法的話，那就不要想了吧～來聽聽卡巴卡，然後如果你喜歡，就拿去重混吧！&lt;/p&gt;
+
+&lt;p&gt;想沒有負擔的聽完整張專輯嗎？快來&lt;a class=&quot;newpage&quot; href=&quot;http://tw.streetvoice.com/profile/home.asp?sd=531047&quot;&gt;這裡&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;如果你想要購買實體CD，目前&lt;a class=&quot;newpage&quot; href=&quot;http://eslitemusic.blogspot.com/2008/07/blog-post.html&quot;&gt;誠品信義音樂館&lt;/a&gt;、&lt;a class=&quot;newpage&quot; href=&quot;http://74.125.153.132/search?q=cache:Xyyj7RN51j4J:www.taiouan.com.tw/+%E5%8F%B0%E7%81%A3e%E5%BA%97&amp;amp;cd=1&amp;amp;hl=zh-TW&amp;amp;ct=clnk&amp;amp;gl=tw&quot;&gt;台灣e店&lt;/a&gt;均有販售或是上網站 &lt;a class=&quot;newpage&quot; href=&quot;http://www.cdbaby.com/cd/ccasiaband/&quot;&gt;CD Baby&lt;/a&gt; 訂購。&lt;br /&gt;
+&lt;br /&gt;
+備註：&lt;br /&gt;
+台灣e店連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 31 Oct 2008 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">114 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20081031#comments</comments>
+</item>
+<item>
+ <title>南國哀歌</title>
+ <link>https://creativecommons.tw/blog/20080926</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;趙柏強 Po-chiang Chao&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;辦公室裡的「河」堆了那麼久，粗人一個的我也沒有去問「賴和」是誰。最近把 CABACA 專輯傳入手機中，連同其他一些音樂混著聽，好幾次之後才發現這首我一直沒有留心的歌曲是這麼有感覺。&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;我補了&lt;a class=&quot;newpage&quot; href=&quot;http://zh.wikisource.org/w/index.php?title=%E5%8D%97%E5%9C%8B%E5%93%80%E6%AD%8C&amp;amp;variant=zh-tw&quot;&gt;賴和的原作&lt;/a&gt;上維基文庫 (格式我不太熟，讓別人補完吧)，也轉一下這首歌的歌詞：&lt;/p&gt;
+
+&lt;blockquote&gt;所有的戰士已經死去，只賰婦女佮子兒。誰講這只是天大的奇變喔，誰講是起於一時，人上珍重的就是性命，從來毋捌有人來將伊看輕，這一擺會使咱的種族來滅亡，佇怹的心內早就已經看明明。佮怹仝款的遭遇，仝款生存佇不幸，遐的驚死偷生的煞佇這屆血祭壇上，意外得著生存，誰敢相信這來來去去，就找袂出別款的原因？「咱攏是歹命人！較緊走落山去！」這是啥物語言？這是如何的決意！是怨是讎？雖然不知，是妄是愚？哪著議論！鬥陣戰到最後，敢是野蠻的血塊流？是按怎的生不如死？突然間有這呼聲！兄弟啊！來！來佮怹一拚！憑咱的一身，憑咱的雙手！免驚伊毒氣、機關鎗免驚伊飛行機、炸彈兄弟啊！憑咱的一身，憑咱的雙手！所有的戰士攏覺悟來死去，敢說怹真正野蠻無知？看著鮮紅的血啊，就袂記一切的歡喜，兄弟啊！咱到這個時候，閣有啥物生的快活？勞動總是神聖的代誌，牛嘛只有按呢拖，咱的婦女竟然是消遣品，咱的生活煞比狗較輸？ta一個囝仔無天真可愛，鴨霸的怹煞來創治虐待，算看覓咱所受痛苦，誰攏會感覺無限悲哀。兄弟啊！咱著來佮怹一拚！憑咱的一身，憑咱的雙手啊！徛佇即馬的環境，只是偷生有啥物路用？眼前的幸福雖然享袂到，嘛著為子孫來鬥爭！兄弟啊！咱著來佮怹一拚！憑咱的一身，憑咱的雙手啊！&lt;/blockquote&gt;
+
+&lt;p&gt;如果你也喜歡，可以&lt;a class=&quot;newpage&quot; href=&quot;http://www.indievox.com/disc/881&quot;&gt;到 indievox 上下載&lt;/a&gt;。這些歌曲都是「隨你付」，如果真的不想花錢的話、填個 0 元也是可以下載的；CABACA 的歌曲都是「&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by-nc-sa/2.5/tw/&quot;&gt;姓名標示—非商業性—相同方式分享&lt;/a&gt;」的創用 CC 授權方式，從 indievox 上下載的歌也沒有 DRM，愛轉到哪裡聽就轉到哪裡聽吧 :)&lt;/p&gt;
+
+&lt;p&gt;我是創用 CC 團隊的一員、也協助 CABACA 在 indievox 的上架事宜，不過以上推薦是出自我個人行為。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 26 Sep 2008 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">112 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20080926#comments</comments>
+</item>
+<item>
+ <title>立法院已通過P2P相關立法</title>
+ <link>https://creativecommons.tw/blog/20070706-1</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;辜雅蕾&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;立法院於2007年6月14日已經三讀通過有關P2P的相關立法，未來在台灣只要是未經合法授權的音樂、影音或其他檔案，在網路上提供電腦程式或是技術工往有交換等違法侵害著作權之檔案，並向網友收取費用或作收利益之行為，都將面臨刑事責任與民事賠償。&lt;/p&gt;
+
+&lt;p&gt;這個條文將對如ezpeer與KKBox等點對點線上傳輸的音樂產業產生影響，另外，像是一些喜歡側錄電視節目的朋友，未經授權將該檔案放在得以公開傳輸的平台上，除了進行側錄的人以及提供其傳輸的技術的平台，都可能同時有侵害他人著作權的問題。&lt;/p&gt;
+
+&lt;p&gt;但 該條文修法亦特別強調，這些網路平台業者，是以「符合提供公眾可公開傳輸或重製著作之電腦程式或其他技術、意圖透過該電腦程式或其他技術侵害他人著作財產 權，且因此受有利益之要件時」。也就是說，「意圖」是成立犯罪的要件，倘若提供軟體或技術之人非意圖提供網友為違法侵權利用者如MSN、 YAHOO即時通，則不是本法規範的對象。相關詳細資訊請參閱&lt;a class=&quot;external&quot; href=&quot;http://www.tipo.gov.tw/service/news/ShowNewsContent.asp?wantDate=false&amp;amp;otype=1&amp;amp;postnum=14125&amp;amp;from=board&quot;&gt;這裡&lt;/a&gt;。&lt;br /&gt;
+&lt;br /&gt;
+備註：&lt;br /&gt;
+參閱連結已失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 05 Jul 2007 16:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">843 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20070706-1#comments</comments>
+</item>
+<item>
+ <title>讓好病人遇上好醫生</title>
+ <link>https://creativecommons.tw/blog/20070424</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;趙柏強 Po-chiang Chao&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;「&lt;a class=&quot;newpage&quot; href=&quot;http://ucareicare.net/index.php&quot;&gt;ucareicare&lt;/a&gt;」是以改善醫病關係為目的的行動。這個行動相信：每一位病人都該得到其應得的照顧與治療。每一位醫護人員都該得到其應有之專業尊嚴與待遇。每一個人都有責任與能力來維護、改善自己的健康。&lt;/p&gt;
+
+&lt;p&gt;這個活動的義工林強與他的夥伴們寫了首主題曲「交心」，以&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by-nc-sa/2.5/tw/&quot;&gt;創用 CC 姓名標示-非商業性-共同方式分享&lt;/a&gt;釋出，歡迎大夥&lt;a class=&quot;newpage&quot; href=&quot;http://tw.beta.streetvoice.com/music/CABACA/song/44756/&quot;&gt;聽聽看&lt;/a&gt;：&lt;/p&gt;
+
+&lt;p&gt;交心&lt;/p&gt;
+
+&lt;p&gt;詞曲：林強 編曲:董運昌 吉他: 董運昌 bass: 金木義則&lt;/p&gt;
+
+&lt;p&gt;交心 不用講出嘴 關心別人 疼惜自己&lt;br /&gt;
+面對日頭 向前去 勇敢體驗 生活滋味&lt;br /&gt;
+人生 難得結緣 愛別人 親像愛自己&lt;br /&gt;
+陰暗烏影不如意 像露水遇到日頭 會化無去&lt;/p&gt;
+
+&lt;p&gt;雖然外頭風雨不止 雖然心頭猶然怨氣&lt;br /&gt;
+凡事看得開 順其自然歡歡喜喜&lt;br /&gt;
+保佑咱身邊所有的人都平安順遂&lt;/p&gt;
+
+&lt;p&gt;人生親像一齣戲 愛心滿天邊&lt;br /&gt;
+敬愛自然心善意 宇宙萬物同慈悲&lt;br /&gt;
+You care I care&lt;br /&gt;
+生.老.病痛 好心善報終有時&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 24 Apr 2007 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">85 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20070424#comments</comments>
+</item>
+</channel>
+</rss>

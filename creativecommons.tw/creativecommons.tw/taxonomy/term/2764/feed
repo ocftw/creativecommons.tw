@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 圖書館</title>
+ <link>https://creativecommons.tw/category/tags/%E5%9C%96%E6%9B%B8%E9%A4%A8</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>公眾領域貢獻宣告(CC0)在資料上的應用</title>
+ <link>https://creativecommons.tw/blog/20131022</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;公眾領域貢獻宣告，CC0，讀作CC Zero，可用來永久放棄作品的著作權與資料庫保護權(database rights)，從而將其盡可能地置於公眾領域。CC0這項法律工具改善了過去以美國為中心的公眾領域貢獻與認證中的貢獻功能。CC0具有普遍形式，不需為不同司法管轄區的法律作出更改，即可在全球各地應用於各種內容上。正如我們的授權條款，CC0可以用三種不同形式表達：授權條款、一般人看的授權標章、給電腦看的數位標籤。&lt;/p&gt;
+
+&lt;p&gt;CC0對於資料和資料庫分享尤其重要，那是因為著作權與其他權利，並沒有明確地限制高度事實性資料與資料庫。資料庫可能會包含不受著作權法保護的事實資料，但是許多司法管轄區的著作權法，卻涵蓋了經過創造性選擇或排列彙編的事實資料，以及創造性的資料庫設計與結構，許多司法權區，例如歐盟，便制定了額外的專門法(sui generis laws)，對資料庫的使用加以限制。CC0用來涵蓋所有著作權與資料庫權利，因此儘管資料與資料庫受到著作權等的限制，這些權利全都會被放棄。CC0和科學資料特別相關，Nature一篇觀點文章 「Post-publication sharing of data and tools」明確地建議開放分享，並使用CC0將資料置於公眾領域：「公開資料以供免費存取使用，這是主要的公共資料庫一貫的做法，但對其使用加諸的任何限制，都應該堅決抵制，我們支持對開放分享表示明確鼓勵，例如創用CC新的CC0公眾領域棄權宣告。」&lt;/p&gt;
+
+&lt;p&gt;公眾領域貢獻宣告(CC0)使用案例：以下是CC0在資料與資料庫上的使用案例。至於創用CC授權的案例，請見資料與創用CC授權一文。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;大英圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;大英圖書館利用CC0公眾領域貢獻，在公眾領域中釋出了大量的書目資料。這些書目資料來自於英國國家書目(British National Bibliography)，其中包含英國以及愛爾蘭共和國自1950年起的出版活動資料，佔整個大英圖書館目錄的20%。這個資料集目前有3百萬筆各別紀錄。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;歐洲核子研究中心圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;歐洲核子研究中心(CERN)，大型強子對撞機與全球資訊網的起源地，運用CC0公眾領域貢獻向公眾領域釋出他們的書目資料。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;位於科隆的圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;位於科隆的圖書館的所有書目資料，未加以著作權限制，公開給大眾使用。位於科隆的圖書館使用CC0公眾領域捐獻，放棄他們的著作權，這些圖書館包括：科隆大學與公共圖書館(University and Public Library of Cologne)、科隆媒體藝術學院(Academy of Media Arts Cologne)等。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Digg&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;社群新聞網站Digg上的所有內容，預設採用CC0，表示Digg放棄對其內容的所有著作權。這些內容包括讀者的評論、文章表題、文章描述，以及Digg網站上所有用戶貢獻的內容。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;美國數位公共圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;DPLA對於從各個資料提供夥伴所彙集的後設資料，承諾不主張新的權利，同時他們也承諾要將這些後設資料，免費以CC0公眾領域捐獻加以釋出。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Dryad&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Dryad是針對學術論文與科學出版品中資料的線上資料儲存庫。國家演化綜合研究中心(National Evolutionary Synthesis Center)與北卡羅萊納大學後設資料研究中心(University of North Carolina Metadata Research Center)，與各個期刊和研究社群合作，推動Dryad資料集的發展，所有資料透過CC0公眾領域捐獻釋出。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Europeana&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;歐洲數位圖書館、博物館與典藏機構Europeana，也是公共領域標誌第一批主要採用者，通過了新的資料交換協議，將數以百萬計的文化作品的後設資料，利用CC0公眾領域捐獻釋出至公眾領域。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;FigShare&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;研究人員可以在FigShare上，以可引述、搜尋、共享的方式，發表他們的資料。根據FigShare的常見問題集，所有圖片、媒體、多重檔案上傳，全都以創用CC姓名標示(CC BY)授權釋出，所有資料集則以CC0發佈。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;德國國家圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;德國國家圖書館已經開始使用CC0公眾領域貢獻，將他們的標準資料發佈至公眾領域。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;德國維基百科&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;德國維基百科使用CC0將資料貢獻至公眾領域，更具體地說，他們的PND-BEACON檔案可供下載。由於維基百科連接到數量相當多的外部資源，有許多文章都連接至相同的外部資源，德國維基百科使用PND-BEACON;檔案來組織各種資料。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;美國哈佛大學圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;依據其開放後設資料政策(Open Metadata Policy)，美國哈佛大學圖書館使用CC0在公眾領域中釋出1200萬則目錄記錄。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;義大利皮埃蒙特大區政府&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;義大利皮埃蒙特大區政府(Piemonte Regional Government)為其開放資料入口網站(dati.piemonte.it)，採用CC0公眾領域貢獻。在政府層面上，皮埃蒙特大區在義大利的開放資料運動扮演領導地位，是唯一不加限制開放所有資料的地區政府。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;MichiganView&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;MichiganView使用CC0，放棄在Landsat 5號與7號衛星，以及NAIP共多達93GB以上影像數據的所有著作權。MichiganView聯盟在網路上，免費公開美國密西根州的航拍和衛星圖像給大眾使用。作為AmericaView聯盟成員之一，MichiganView支持透過教育、勞動力開發、研究，存取並使用這些影像資料集。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;開放臨床創新網路&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;透過CC0公眾領域貢獻，開放臨床創新網路(Open Clinical Innovation Network)尋求開放分享臨床工具與資料，以改造臨床研究與發展，從而實現開放式創新。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;開放圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Internet Archive計劃之一的開放圖書館(Open Library)是一個線上目錄資料，目標是為出版的每一本書提供網頁。得力於全球現有的圖書館目錄，以及使用者貢獻，開放圖書館目前已經擁有2千萬筆紀錄，提供170萬本掃瞄書籍。開放圖書館資料的所有權利都透過CC0加以放棄。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;參考來源：&lt;a href=&quot;http://wiki.creativecommons.org/CC0_use_for_data&quot;&gt;http://wiki.creativecommons.org/CC0_use_for_data&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 21 Oct 2013 16:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">904 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20131022#comments</comments>
+</item>
+<item>
+ <title>公眾領域貢獻宣告(CC0)在資料上的應用</title>
+ <link>https://creativecommons.tw/blog/20130701</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;公眾領域貢獻宣告，CC0， 讀作 CC Zero，可用來永久放棄作品的著作權與資料庫保護權 (database rights)，從而將其盡可能地置於公眾領域。CC0 這項法律工具改善了過去以美國為中心的公眾領域貢獻與認證中的貢獻功能。CC0 具有普遍形式，不需為不同司法管轄區的法律作出更改，即可在全球各地應用於各種內容上。正如我們的授權條款，CC0 可以用三種不同形式表達：授權條款、一般人看的授權標章、給電腦看的數位標籤。&lt;/p&gt;
+
+&lt;p&gt;CC0 對於資料和資料庫分享尤其重要，那是因為著作權與其他權利，並沒有明確地限制高度事實性資料與資料庫。資料庫可能會包含不受著作權法保護的事實資料，但是許多司法管轄區的著作權法，卻涵蓋了經過創造性選擇或排列彙編的事實資料，以及創造性的資料庫設計與結構，許多司法權區，例如歐盟，便制定了額外的專門法 (sui generis laws)，對資料庫的使用加以限制。CC0 用來涵蓋所有著作權與資料庫權利，因此儘管資料與資料庫受到著作權等的限制，這些權利全都會被放棄。CC0 和科學資料特別相關，Nature 一篇觀點文章 「Post-publication sharing of data and tools」明確地建議開放分享，並使用 CC0 將資料置於公眾領域：「公開資料以供免費存取使用，這是主要的公共資料庫一貫的做法，但對其使用加諸的任何限制，都應該堅決抵制，我們支持對開放分享表示明確鼓勵，例如創用 CC 新的 CC0 公眾領域棄權宣告。」&lt;/p&gt;
+
+&lt;p&gt;公眾領域貢獻宣告(CC0) 使用案例：以下是 CC0 在資料與資料庫上的使用案例。至於創用 CC 授權的案例，請見資料與創用 CC 授權一文。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;大英圖書館 &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;大英圖書館利用 CC0 公眾領域貢獻，在公眾領域中釋出了大量的書目資料。這些書目資料來自於英國國家書目 (British National Bibliography)，其中包含英國以及愛爾蘭共和國自 1950 年起的出版活動資料，佔整個大英圖書館目錄的 20%。這個資料集目前有 3 百萬筆各別紀錄。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;歐洲核子研究中心圖書館 &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;歐洲核子研究中心 (CERN)，大型強子對撞機與全球資訊網的起源地，運用 CC0 公眾領域貢獻向公眾領域釋出他們的書目資料。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;位於科隆的圖書館 &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;位於科隆的圖書館的所有書目資料，未加以著作權限制，公開給大眾使用。位於科隆的圖書館使用 CC0 公眾領域捐獻，放棄他們的著作權，這些圖書館包括：科隆大學與公共圖書館 (University and Public Library of Cologne)、科隆媒體藝術學院 (Academy of Media Arts Cologne) 等。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Digg&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;社群新聞網站 Digg 上的所有內容，預設採用 CC0，表示 Digg 放棄對其內容的所有著作權。這些內容包括讀者的評論、文章表題、文章描述，以及 Digg 網站上所有用戶貢獻的內容。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;美國數位公共圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;DPLA 對於從各個資料提供夥伴所彙集的後設資料，承諾不主張新的權利，同時他們也承諾要將這些後設資料，免費以 CC0 公眾領域捐獻加以釋出。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dryad&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Dryad 是針對學術論文與科學出版品中資料的線上資料儲存庫。國家演化綜合研究中心 (National Evolutionary Synthesis Center) 與北卡羅萊納大學後設資料研究中心 (University of North Carolina Metadata Research Center)，與各個期刊和研究社群合作，推動 Dryad 資料集的發展，所有資料透過 CC0 公眾領域捐獻釋出。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Europeana&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;歐洲數位圖書館、博物館與典藏機構 Europeana，也是公共領域標誌第一批主要採用者，通過了新的資料交換協議，將數以百萬計的文化作品的後設資料，利用 CC0 公眾領域捐獻釋出至公眾領域。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;FigShare&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;研究人員可以在 FigShare 上，以可引述、搜尋、共享的方式，發表他們的資料。根據 FigShare 的常見問題集，所有圖片、媒體、多重檔案上傳，全都以創用 CC 姓名標示 (CC BY) 授權釋出，所有資料集則以 CC0 發佈。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;德國國家圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;德國國家圖書館已經開始使用 CC0 公眾領域貢獻，將他們的標準資料發佈至公眾領域。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;德國維基百科&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;德國維基百科使用 CC0 將資料貢獻至公眾領域，更具體地說，他們的 PND-BEACON 檔案可供下載。由於維基百科連接到數量相當多的外部資源，有許多文章都連接至相同的外部資源，德國維基百科使用 PND-BEACON 檔案來組織各種資料。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;美國哈佛大學圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;依據其開放後設資料政策 (Open Metadata Policy)，美國哈佛大學圖書館使用 CC0 在公眾領域中釋出 1200 萬則目錄記錄。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;義大利皮埃蒙特大區政府&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;義大利皮埃蒙特大區政府 (Piemonte Regional Government) 為其開放資料入口網站 (dati.piemonte.it)，採用 CC0 公眾領域貢獻。在政府層面上，皮埃蒙特大區在義大利的開放資料運動扮演領導地位，是唯一不加限制開放所有資料的地區政府。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;MichiganView&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;MichiganView 使用 CC0，放棄在 Landsat 5 號與 7 號衛星，以及 NAIP 共多達 93GB 以上影像數據的所有著作權。MichiganView 聯盟在網路上，免費公開美國密西根州的航拍和衛星圖像給大眾使用。作為 AmericaView 聯盟成員之一，MichiganView 支持透過教育、勞動力開發、研究，存取並使用這些影像資料集。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;開放臨床創新網路&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;透過 CC0 公眾領域貢獻，開放臨床創新網路 (Open Clinical Innovation Network) 尋求開放分享臨床工具與資料，以改造臨床研究與發展，從而實現開放式創新。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;開放圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Internet Archive 計劃之一的開放圖書館 (Open Library) 是一個線上目錄資料，目標是為出版的每一本書提供網頁。得力於全球現有的圖書館目錄，以及使用者貢獻，開放圖書館目前已經擁有 2 千萬筆紀錄，提供 170 萬本掃瞄書籍。開放圖書館資料的所有權利都透過 CC0 加以放棄。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 01 Jul 2013 01:58:01 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">698 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20130701#comments</comments>
+</item>
+<item>
+ <title>美國數位圖書館(DPLA)將所有後設資料以公眾領域宣言(CC0)釋出公眾領域</title>
+ <link>https://creativecommons.tw/blog/20130424</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;劉芊影 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;美國於2013年4月18日正式成立了數位圖書館(&lt;a class=&quot;newpage&quot; href=&quot;http://dp.la/&quot;&gt;The Digital Public Library of America，簡稱DPLA&lt;/a&gt;)。成立DPLA的計畫於2010年時開始準備，它從眾多的圖書館、資料庫及博物館收集了數以百萬的數位資源。&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/wei_ming_ming__0.jpg&quot; style=&quot;display:block; height:400px; margin-left:auto; margin-right:auto; vertical-align:middle; width:700px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;以下是來自DPLA的消息：「DPLA將於該日的美東中午時設立一個入口及開放一個平台，用以傳輸他們在美國圖書館、資料庫、博物館及文化遺產機構所收集的素材給學生、老師、學者及社會大眾們。而這將遠超過一般的搜尋引擎，對於他們統一收集的上述資源將提供一個創新的搜索及掃描方式。他的幾項特色包括動態地圖、時間軸的部分，使其使用者關於自己一年年的使用上有視覺化的瀏覽，此外亦有圖書館App的提供等。」&lt;br /&gt;
+&lt;br /&gt;
+在今年一月時，DPLA宣布他們將會把所有的後設資料(metadata)在CC0公眾領域宣言( CC0, Public Domain Declaration)下使之成為公眾領域的範疇。開放知識基金會的Joris Pekel則讚揚了DPLA的此項宣布，他表示：對於DPLA選擇採用CC0的方式釋出其後設資料，將能大幅提高和Europeana(此在歐洲即相當於DPLA)的互相操作性。&lt;/p&gt;
+
+&lt;p&gt;現在有越來越多不同的創作者開始出版數位化的文化遺產及其後設資料，也因此，互相操作性將變得越來越重要用以在文化遺產的資料間創造出相互連接的網絡。而同樣都選擇採用CC0的DPLA和Europeana將為達成此目標邁出一個成功的步伐。&lt;br /&gt;
+&lt;br /&gt;
+最後，我們將再次讚揚DPLA所作開放資料的承諾，並且同感高興看到其推出此一重要的資源！&lt;/p&gt;
+
+&lt;p&gt;參考來源：&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/37866&quot;&gt;http://creativecommons.org/weblog/entry/37866&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 24 Apr 2013 09:04:32 +0000</pubDate>
+ <dc:creator>sunlight</dc:creator>
+ <guid isPermaLink="false">675 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20130424#comments</comments>
+</item>
+<item>
+ <title>歐洲數位圖書館使用 CC0 在公眾領域釋出 2 千萬筆記錄</title>
+ <link>https://creativecommons.tw/blog/20120925</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/34017&quot;&gt;Timothy Vollmer，2012 年 9 月 12 日。&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;歐洲數位圖書館 (Europeana) 使用公眾領域貢獻宣告 (CC0) 在公眾領域釋出 2 千萬筆記錄，可說是本週一大盛事，這次釋出是使用 CC0 在公眾領域中最大規模的一次性文化資料貢獻。該歐洲數位圖書館資料集包含了來自龐大數位文化與藝術作品寶庫的描述性資訊。&lt;/p&gt;
+
+&lt;p&gt;根據歐洲數位資料庫使用條款，「網站上發佈的所有後設資料 (數位化文化遺產的文本資訊) 其重用無任何限制。」該公眾領域資料可用於文化機構、研究人員、應用軟體開發者。藉由移除該資料上的所有著作權限制，歐洲數位圖書館協助推動創新與經濟活動。其新聞稿：「重要的是，這個改變對歐盟委員會藉由數位創新推動經濟成長的議題，作出了寶貴貢獻。線上開放資料是一項核心資源，可浥注企業並為歐洲文創產業的數百萬工作人口創造機會。該產業佔歐盟 3.3% GDP，出口總值超過 1500 億歐元。」&lt;/p&gt;
+
+&lt;p&gt;歐盟委員會副主席 Neelie Kroes 對歐洲數位圖書館的宣布表示讚揚，她說：「開放資料的理念是如此強大，歐洲數位圖書館作為一項文化資產，兩者的結合不消多說只會帶來好的結果。許多人大談消弭數位落差以及開闢新的文化觀眾，但是只有少數能作出像歐洲數位圖書館轉向創用 CC 這樣的巨大貢獻。」&lt;/p&gt;
+
+&lt;p&gt;位於荷蘭和盧森堡的創用 CC 聯盟團隊，在此一過程中透過合作組織 Institute for Information Law (IViR)、Kennisland、盧森堡國家圖書館 (Bibliothèque nationale de Luxembourg) 為歐洲數位圖書館提供專家支援。歐洲數位圖書館一直站在探索如何分享歐洲文化記錄的最前線。他們是創用 CC 公眾領域標章 (Public Domain Mark) 最早的採用者之一，並持續地為活躍且穩健的公眾領域提供支持。&lt;/p&gt;
+
+&lt;p&gt;原文出處：&lt;a href=&quot;http://creativecommons.org/weblog/entry/34017&quot; target=&quot;_blank&quot;&gt;http://creativecommons.org/weblog/entry/34017&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 25 Sep 2012 01:09:38 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">644 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120925#comments</comments>
+</item>
+<item>
+ <title>圖書館目錄後設資料：公眾授權或公眾領域宣告？</title>
+ <link>https://creativecommons.tw/blog/20120914</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/33768&quot;&gt;Timothy Vollmer，2012 年 8 月 14 日。&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/metadata.jpeg&quot; style=&quot;display:block; height:340px; margin-left:auto; margin-right:auto; width:686px&quot; /&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://www.flickr.com/photos/polaroidia/4301528813/&quot;&gt;catalogue / elise.y / CC BY&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;據報數週前 OCLC 建議其成員圖書館，在線上分享圖書館目錄資料時，採用&lt;a class=&quot;newpage&quot; href=&quot;http://opendatacommons.org/licenses/by/1.0/&quot;&gt;開放資料公用姓名標示授權&lt;/a&gt;(ODC-BY) 。相較於以公眾領域 (如 CC0 公眾領域貢獻) 釋出書目之後設資料，OCLC 採取授權路線的決定值得商榷。&lt;/p&gt;
+
+&lt;p&gt;雖然 OCLC 認為以 ODC-BY 等開放授權釋出其資料，符合其社群常規。但除此之外仍有其他兼容選項。例如哈佛圖書館年初就曾與 OCLC 協議，在 CC0 公眾領域貢獻下釋出後設資料，同時，哈佛一方面仍建議用戶最好能標示資料出處(但不強制)，非將出處標示列為具有法律拘束力的授權前提。&lt;/p&gt;
+
+&lt;p&gt;對於經常被組合混用，加上出處眾多授權又不一的資料，並不適宜用 ODC-BY 等授權方式要求標示出處。例如 OCLC 釋出的百萬筆 WorldCat 記錄就包含了 8 千萬筆 RDF 鏈結資料，在此將姓名標示當作是授權條件所帶來的複雜度，恐怕令使用者在技術上難以遵循。&lt;/p&gt;
+
+&lt;p&gt;ODC-BY 授權範疇還涉及到歐洲資料庫權利。資料庫權利並不適用美國，且涵蓋資料庫整體而非內容， 不確定該授權能否應用於單一檔案的書目資料。儘管 ODC-BY 授權可能適合 OCLC&amp;nbsp; 應用在 WorldCat，但對於希望以檔案下載形式，分享部分目錄資料的美國圖書館來說，是否選擇該授權，仍值得商榷。&lt;/p&gt;
+
+&lt;p&gt;再者，由於歐盟以外的大多數國家，包括美國在內，並不為非創造性資料庫給予保護，ODC-BY 授權的功能最多只是當作從授權者網站直接下載檔案的合約限制，無法約束間接取得資料的重用戶。這種授權在許多情況下無法對分享資料的圖書館或 OCLC，提供他們預期的保障。&lt;/p&gt;
+
+&lt;p&gt;基於上述理由，包括大英圖書館在內的文化機構，都採用 CC0 公眾領域貢獻作為線上發佈目錄資料之用。採用像 CC0 這樣的公眾領域貢獻，加上盡可能標示出處的要求，這種方式能在目錄資料上發揮最大實驗性與創新，又能保留圖書館界的使命與價值觀，同時尊重 OCLC 與圖書館界在這寶貴資源上的投資。&lt;/p&gt;
+
+&lt;p&gt;原文出處：&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/33768&quot;&gt;http://creativecommons.org/weblog/entry/33768&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 14 Sep 2012 07:22:49 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">642 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120914#comments</comments>
+</item>
+<item>
+ <title>政府與圖書館使用創用CC授權工具進行資料開放</title>
+ <link>https://creativecommons.tw/blog/20120503</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;吳佩凌 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;在過去幾個月中，資料開放的情況已出現顯著增長，尤其是政府部門與圖書館。而最近採用開放資料政策的有奧地利政府、義大利教育大學研究部、義大利眾議院、與哈佛大學圖書館。&lt;/p&gt;
+
+&lt;p&gt;奧地利政府已推出一個&lt;a href=&quot;http://data.gv.at/&quot;&gt;開放數據資料門戶&lt;/a&gt;，以創用CC之&lt;a href=&quot;http://creativecommons.org/licenses/by/3.0/at/&quot;&gt;CC BY&lt;/a&gt;授權條款釋出大量關於其本身之數據資料。該入口網站之&lt;a href=&quot;http://data.gv.at/nutzungsbedingungen/&quot;&gt;使用條款&lt;/a&gt;指明，開放資料建議使用&lt;a href=&quot;http://creativecommons.org/licenses/by/3.0/&quot;&gt;CC BY&lt;/a&gt;授權條款，如此一來，此種資料在數據資料的說明處便會被標明為依照CC BY授權條款釋出。&lt;/p&gt;
+
+&lt;p&gt;義大利教育大學研究部以CC BY授權方式推出其開放資料門戶，公布義大利之學校資料(例如地址、電話、網站、行政代碼)、學生資料(學號、性別、成績表現)、以及教師資料(編號、性別、退休等)。該部門旨在使其所有的資料能全面開放與利用並達到重複使用的終級目標，而為了提高透明度，其致力於理解義大利的學校體制、推動建立新的工具與服務供學生、教師與家庭使用。&lt;/p&gt;
+
+&lt;p&gt;此外，&lt;a href=&quot;http://data.camera.it/data/en/&quot;&gt;義大利眾議院&lt;/a&gt;還發展了一個平台，以創用CC授權條款中之&lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;CC BY-SA&lt;/a&gt;的授權方式，公布開放資料的連結。&lt;/p&gt;
+
+&lt;p&gt;而美國哈佛大學圖書館已經以&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/publicdomain/zero/1.0/deed.zh_TW&quot;&gt;CC0（公眾領域貢獻宣告）&lt;/a&gt;工具&lt;a href=&quot;http://isites.harvard.edu/icb/icb.do?keyword=k77982&amp;amp;pageid=icb.page498373&quot;&gt;釋出了一千兩百萬筆目錄清單&lt;/a&gt;至公眾領域當中。此舉是根據哈佛大學圖書館的&lt;a href=&quot;http://openmetadata.lib.harvard.edu/&quot;&gt;開放元數據政策&lt;/a&gt;。該政策的&lt;a href=&quot;http://openmetadata.lib.harvard.edu/public_faq&quot;&gt;常見問題&lt;/a&gt;指出：「隨著冠上CC0的公眾領域貢獻宣告標章，哈佛放棄對於元數據所持有的任何著作權或其他相關權利。我們相信這有助於促進廣泛使用以及產出的發展，而這將有益於圖書館界以及所有大眾。」&lt;/p&gt;
+
+&lt;p&gt;哈佛的對外&lt;a href=&quot;http://isites.harvard.edu/icb/icb.do?keyword=k77982&amp;amp;pageid=icb.page498373&quot;&gt;新聞稿&lt;/a&gt;中則指出其開放資料的另一項動機：「DPLA 的主席John Palfrey說道，『有了這個重大的貢獻，開發者將能藉由使用重要的國家資源，包含本地的公共研究圖書館、博物館、檔案資料庫、與文化收藏，開始試著進行創新的發展。』並補充道，他希望這能因此鼓勵其他機構也將所擁有的元數據資料公開供大眾使用。」&lt;/p&gt;
+
+&lt;p&gt;我們十分高興創用CC的授權工具被使用在開放資料上。與創用CC及資料有關的問題，可參考&lt;a href=&quot;http://wiki.creativecommons.org/Data&quot;&gt;關於資料的常見問題&lt;/a&gt;，在那裡亦可連結至越來越多加入開放資料行列之政府、圖書館以及機構組織。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;原文出處: &lt;/strong&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/31884&quot;&gt;http://creativecommons.org/weblog/entry/31884&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 03 May 2012 09:07:01 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">596 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120503#comments</comments>
+</item>
+<item>
+ <title>從Data-as-a-Service 角度看 Open Data</title>
+ <link>https://creativecommons.tw/in-depth/592</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;符立典/ 工研院服務系統科技中心&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Data-as-a-Service&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+提供資料的服務並不是新鮮事，圖書館提供的借閱服務正是其中的典型代表。專業年鑑、產業分析報告、甚至新聞、報章雜誌等傳媒也是都是以各種不同型態存在的 Data-as-a-Service (DaaS)」。這類服務的特性是：以資料或資訊為產品、以便利的資訊管道為服務手段。&lt;/p&gt;
+
+&lt;p&gt;DaaS的價值在於：&lt;/p&gt;
+
+&lt;p&gt;1. 資料的真確性(Integrity)：高品質的資料必須同時具備「真實、正確、完整、一致」四種特性。例如新聞報導的內容必須是真實的，而且不應該斷章取意、或是前後不一。&lt;br /&gt;
+2. 資料的珍貴性：珍貴或不易取得的資料，自然具有其特殊價值。&lt;br /&gt;
+3. 資料的再利用性：從人類的知識史來看，資料被再次利用所創造的價值遠大於資料的存在價值。那麼，愈容易再次被重新利用的資料，便合理的具有較高的價值。&lt;br /&gt;
+4. 取得管道的便利性：資訊的價值自然與管道的便利性、即時性有關。&lt;/p&gt;
+
+&lt;p&gt;承上，若服務提供者想要提升資料的價值，則應考量在現今良好數位化基礎的前提下，資料的&lt;strong&gt;再利用性&lt;/strong&gt;及其取得管道的&lt;strong&gt;便利性&lt;/strong&gt;，理應是這四個維度中較容易提高的兩個項目。的確，我們也可以發現世界各國的Open data推動者中，對於「開發者」這種使用者族群幾乎皆採用&lt;a href=&quot;http://en.wikipedia.org/wiki/Representational_state_transfer&quot; target=&quot;_blank&quot;&gt;REST&lt;/a&gt; + &lt;a href=&quot;http://en.wikipedia.org/wiki/JSON&quot; target=&quot;_blank&quot;&gt;JSON&lt;/a&gt;的套裝組合來提供資料服務。&lt;/p&gt;
+
+&lt;p&gt;REST (Representational state transfer) 原則上採用HTTP或是&lt;a href=&quot;http://en.wikipedia.org/wiki/SOAP&quot; target=&quot;_blank&quot;&gt;SOAP&lt;/a&gt; RPC (Remote Procedure Call )作為其通訊協定，故幾乎所有具網路連線能力的設備都可以存取。 JSON (JavaScript Object Notation) 則是一種極簡單的資料表達手段，適用於數位資料的序列化及反序列化(Serialization &amp;amp; Deserialization)。目前已有超過45種程式語言的API支援，當然包含主流的JAVA、C#、Object C、PHP、Python等常見的程式語言。 DaaS提供者應該考量採用這樣的模式提供資料給客戶或使用者。因為這模式至少是目前對於資料使用者而言，最便利的管道；也是最容易再被開發二次利用的格式。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DaaS 營運模式&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;不論是實體DaaS或是數位DaaS，其營運模式皆包括使用者免付費及使用者付費兩種模式，而其下又可再細分不同的營運模式。&lt;/p&gt;
+
+&lt;p&gt;1. 使用者免付費模式：&lt;/p&gt;
+
+&lt;p&gt;a. 政府支付營運費用或公益團體贊助：例如政府開放資料(open data)、圖書館的基本借閱服務或公共電視。這類型的DaaS基於社會福利。所以由政府或由公益團體贊助其營運成本。&lt;br /&gt;
+b. 廣告收入支付營運費用：例如爽報。&lt;/p&gt;
+
+&lt;p&gt;2. 使用者付費模式：&lt;/p&gt;
+
+&lt;p&gt;a. 依使用量收費：例如訂閱某一個時間區段的期刊、雜雜；或是依章節目錄購買的產業分析報告。API-based的DaaS也可以採用Pay-per-call的模式依照對API服務的呼叫次數做為收費標準。&lt;br /&gt;
+b. 依資料型態或類型收費：具有較高再利用性的資料收取較高的費用，而具較低再利用性者則可以免費提供。例如，比較PDF格式與JSON格式，JSON應較易被再次利用，故具有較高的價值。&lt;br /&gt;
+c. 依時效性收費：時效性代表的是資料的珍貴性，而且即時資料和過時資料在不同的場合下其價值也會有不同的判定標準。例如，即時的股市報價資訊的價值非常高，10年前的股價資訊大多可以免費取得。相反的，即時新聞取得的難度要比10年前的特定新聞低，所以10年前的「舊聞」反而可能需收費才能取得。&lt;/p&gt;
+
+&lt;p&gt;不論採用哪一種營運模式，DaaS都必需要取得一種能至少讓財務平衡的資態，才得以永續經營。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Open Data - 一種完全開放的 DaaS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;政府開放資料(open data)近年來在歐美盛行，但是對於相對較保守的華人文化而言，要完全仿效或是快速推動應該會產生很大的阻力。不論現階段政府對於open data的準備度多高，近期看見的頻頻動作都是個值得期待的開始。政府或法人的角色，應在於提供一個良好的環境，讓open data類型的平台或基於open data的應用得以培育發生，並產生可自給自足營運的可能性。 現階段，台灣中央或地方政府大多數(除了台北市及內政部)對open data都沒有發表相關方針。在公部門手中所擁有的資料有很大比例可能尚未正規化，或甚至尚未數位化。在公部門全面數位化的進行政府open data過程中，法人或民間團體可以扮演推手與技術協助的角色。&lt;/p&gt;
+
+&lt;p&gt;而&lt;a href=&quot;http://blog.accesstaiwan.org/&quot; target=&quot;_blank&quot;&gt;AccessTaiwan&lt;/a&gt;是近期一個工研院內部團隊自行發起的計劃，其目的是透過DaaS的手法把台灣的文化、美景和觀光的資訊推向全世界。期望世界各地的 App 開發者可以取得這些難以取得的內容後，自由地發展出多樣的應用。可能是為國外背包客設計的台灣大眾輸輪轉乘工具、&lt;a href=&quot;http://zh.wikipedia.org/wiki/LBS&quot; target=&quot;_blank&quot;&gt;LBS&lt;/a&gt; (Location-Based Service, 基於地理位置的服務)遊戲、民宿優惠收集、甚至是台灣文化教有的小工具。這些潛在應用的多元性，實維繫在資料來源有多「open」。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;軟體產業對DaaS和Open Data的期望&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;軟體本身與其內容的維護是應用服務產生價值的兩個來源。在軟體創業團隊有限的資源下，應將人力緊縮專注於軟體本身及服務流程的發展。若能從外部取得高品質、易整合的內容，對軟體創業團隊具有絕對性的綜效與價值。&lt;/p&gt;
+
+&lt;p&gt;在缺乏這類型的DaaS提供者的目前，政府可以將公部門開放資料做為一個重要的指標性資料提供平台。這個平台的價值不只在於將資料還給社會、或是公開各項應公告的施政資訊；更大的價值在於，&lt;strong&gt;這提供了台灣軟體產業一個前所未有的培育環境。&lt;/strong&gt;除了政府應具前瞻性的思維與環境建構者的使命外，民間團體和法人的協助也是不可或缺的助力。如此一來，在軟體產業鏈的分工與上下游關係亦將更加明確與專業化。如同台灣過去在電子業可以形成完整的產業鏈及產業聚落，軟體亦可以成為台灣下一個被世界注目的焦點。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;參考資料：&lt;/strong&gt;&lt;br /&gt;
+1. &lt;a href=&quot;http://about.me/lidienfu&quot; target=&quot;_blank&quot;&gt;作者：符立典/ 工研院服務系統科技中心&lt;/a&gt;&amp;nbsp;&lt;br /&gt;
+2. &lt;a href=&quot;http://en.wikipedia.org/&quot; target=&quot;_blank&quot;&gt;Wikipedia&lt;/a&gt;&lt;br /&gt;
+3. &lt;a href=&quot;http://json.org/&quot; target=&quot;_blank&quot;&gt;JSON&lt;/a&gt;&lt;br /&gt;
+4. &lt;a href=&quot;http://blog.accesstaiwan.org/&quot; target=&quot;_blank&quot;&gt;AccessTaiwan&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 06 Apr 2012 02:08:05 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">592 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/592#comments</comments>
+</item>
+<item>
+ <title>許多國家的圖書館與博物館採用CC0</title>
+ <link>https://creativecommons.tw/blog/20120315</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;吳佩凌 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.tw/blog/20090611&quot;&gt;CC0（公眾領域貢獻宣告）&lt;/a&gt;在過去幾個月已深獲數據資料界的喜愛，尤其是GLAM方面的資料(GLAM即Galleries, Libraries, Archives, Museums)。西班牙以及德國的國家圖書館已經以CC0釋出了他們的書目資料。這代表這些圖書館在其司法管轄範圍下，已經盡可能地完全放棄他們的著作權，使這些數據能進入公眾領域做更有效率的使用。更重要的是，這些資料就像&lt;a href=&quot;http://en.wikipedia.org/wiki/Linked_data#Linking_open-data_community_project&quot;&gt;linked open data&lt;/a&gt;一樣，意味這些資料群組如同&lt;a href=&quot;http://www.w3.org/RDF/&quot;&gt;RDF&lt;/a&gt;(Resource Description Framework)一樣在網路上可自由利用，這使得這些資料可與其他不同來源的資料相互連結。&lt;/p&gt;
+
+&lt;p&gt;西班牙圖書館與Ontology Engineering Group (OEG)合作創建了資料門戶: &lt;a href=&quot;http://www.bne.es/es/Catalogos/DatosEnlazados/index.html&quot;&gt;datos.bne.es&lt;/a&gt;。此資料庫可直接在&lt;a href=&quot;http://www.bne.es/es/Catalogos/DatosEnlazados/DescargaFicheros&quot;&gt;http://www.bne.es/es/Catalogos/DatosEnlazados/DescargaFicheros&lt;/a&gt; 上找到。此外還有德國國家圖書館aka Deutsche Nationalbibliothek (DNB)，在&lt;a href=&quot;https://wiki.dnb.de/display/LDS/Dokumentation+des+Linked+Data+Services+der+DNB&quot;&gt;這裡&lt;/a&gt;有他使用CC0連結開放資料的相關說明。德國CC亦曾針對此舉加以報導，英語版本可在&lt;a href=&quot;http://openglam.org/2012/02/09/191/&quot;&gt;Open GLAM&lt;/a&gt;找到。&lt;/p&gt;
+
+&lt;p&gt;與此相關的，尚有Smithsonian Cooper-Hewitt博物館，其為紐約重要的設計博物館，已經釋出60%其所收集的資料至公眾領域，同樣也是以CC0的方式。這些資料可在&lt;a href=&quot;https://github.com/cooperhewitt/collection&quot;&gt;Github&lt;/a&gt;網站上取得。如果要了解更多詳情，也可至&lt;a href=&quot;http://www.cooperhewitt.org/collections/data&quot;&gt;http://www.cooperhewitt.org/collections/data&lt;/a&gt; 。若想知道更多有關CC以及資料庫的資訊，包括最近更新的常見問題FAQ，可瀏覽&lt;a href=&quot;http://wiki.creativecommons.org/Data&quot;&gt;http://wiki.creativecommons.org/Data&lt;/a&gt; 。&lt;/p&gt;
+
+&lt;p&gt;消息來源：&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/31853&quot;&gt;http://creativecommons.org/weblog/entry/31853&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 15 Mar 2012 07:21:15 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">588 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120315#comments</comments>
+</item>
+<item>
+ <title>尋寶去！如何在網路上尋找有趣的公眾領域作品？</title>
+ <link>https://creativecommons.tw/blog/20120224</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ChiuHao Chen /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/Bibliotheca_Buloviana_%28Ausschnitt%29.jpg&quot; style=&quot;height:362px; width:516px&quot; /&gt;&lt;br /&gt;
+&lt;a href=&quot;http://commons.wikimedia.org/wiki/File:Bibliotheca_Buloviana_%28Ausschnitt%29.jpg&quot; rel=&quot;cc:attributionURL&quot; style=&quot;border-color: initial; font-size: 12px; line-height: 11px;&quot;&gt;Bibliotheca Buloviana (Ausschnitt)&lt;/a&gt;Georg Daniel Heumann&lt;a href=&quot;http://creativecommons.org/publicdomain/mark/1.0/&quot; style=&quot;color: #4374b7; border-style: initial; border-color: initial; font-size: 12px; line-height: 11px;&quot;&gt;Public Domain&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;寫在前頭&lt;/h2&gt;
+
+&lt;p&gt;農曆年間，隨手翻閱了書架上堆滿灰塵的歷史書，其中，關於周朝的「井田制度」，有這麼一段話：「...八家農戶各耕耘外圍的八塊方地，並共同耕種當中一塊「公地」，亦即公侯所領之地。...顯然當日農民認為在中央地區無代價的工作，有如一種公眾的義務。流傳所及，今日中文字裡公眾之「公」也與公侯之「公」無別。」[1]&lt;/p&gt;
+
+&lt;p&gt;於是，對於「公侯權利」與「公眾義務」，我有種想像：早在西元前700多年的周朝制度裡，「公侯伯子男」的世襲權利（擁有公地）已經隱隱約約的與公眾義務（耕作公有地）做了一定的認同與連結。如果稍微去除封建制度的軍事政治意義，當時，人們除了各自耕種外，仍願意共同耕耘「公侯之地」之行為，若把農耕之舉比擬當今人們的筆耕文創，個人的創作行為就好比一種權利，適當的將自己的耕耘成果回饋大眾更恰如義務一般理所當然，權利的賦予與義務的釋出彼此產生良性循環，這樣的社會共識，似乎是老祖宗就有的先見。有趣的是，兩千七百多年後的我們，反而針對公眾領域(public domain)[2]之下的資產如何使用與界定充滿歧見，不同的國家對於公眾領域創作版權的使用限制有著不一樣的解釋。但，唯一可以確定的是，經過時間的遞嬗，世世代代的創作積累絕對是人類無價的資產，這些創作如果不能開放的且自由的與全人類一起分享共用，那也太可惜了吧！&lt;/p&gt;
+
+&lt;p&gt;因此，在這裡我們將參考&lt;a href=&quot;http://publicdomainreview.org/guide-to-finding-interesting-public-domain-works-online&quot;&gt;公眾領域評論網站上的指南&lt;/a&gt;，協助對於公眾領域創作有興趣的人們，尋找與探索那些已經進入公眾領域的作品。&lt;/p&gt;
+
+&lt;h2&gt;尋寶的線索是？&lt;/h2&gt;
+
+&lt;p&gt;公眾領域作品的訊息可能來自四面八方，從展覽、博物館、音樂會、電視、廣播、書籍、報紙，甚至來自與朋友的交談中。 當然，網際網路一定是一個非常好的訊息來源。像是很讚的部落格 &lt;a href=&quot;http://bibliodyssey.blogspot.com/&quot;&gt;Biblioddysey&lt;/a&gt; 和&lt;a href=&quot;http://resobscura.blogspot.com/&quot;&gt; Res Obscura&lt;/a&gt;都定期刊登有趣的公眾領域作品（雖然讀者常常還是需要眯着眼睛搜尋著來自各單位的小小版權宣告，藉此確定作品是否來自公眾領域）。&lt;/p&gt;
+
+&lt;p&gt;另外，社群媒體也不斷的提供搜尋公眾領域素材的新方法。在網路社群裡正存在對於各式典藏檔/歷史集充滿高度興趣的tweeters，如果你是一個Twitter用戶，你可以試著建立#publicdomain這個feed，透過訂閱這個標籤，越來越多的人們討論着公眾領域中的有趣作品。&lt;/p&gt;
+
+&lt;p&gt;除此之外，也有郵件群組(mailing list)專門討論有關公眾領域。在群組裡，人們時常留言討論著有關於最近剛進入公眾領域的作品。開放知識基金會(The Open Knowledge Foundation) 主持了這樣一個郵件群組，可以在此訂閱&lt;a href=&quot;http://lists.okfn.org/mailman/listinfo/pd-discuss&quot;&gt;PD 討論訊息頁&lt;/a&gt;。 如果在部落格、tweets上面的連結常常因為使用限制讓你傷透腦筋，千萬不要太沮喪​​，因為網路上通常可以取得多個作品分身，而且，它門還有可能是開放授權(Open Licensing) 呢！&lt;/p&gt;
+
+&lt;p&gt;所以呢，請輕鬆的隨意瀏覽網頁，試圖尋找在廣播上聽到的奇妙作品，在展覽上面看到的，或是在部落格上展示的。這些都是尋找線上收藏的好方法。下一節，我們將快速的導覽網路上幾個稍具規模的公眾領域收藏。&lt;/p&gt;
+
+&lt;h2&gt;寶藏就在網路上&lt;/h2&gt;
+
+&lt;p&gt;在我們尋找作品前，我們還是需要注意，雖然作品可能已經在很久以前已經進入公眾領域範疇，但這可不表示它們也有線上的數位版本。而且，他們往往會用CC BY-NC這樣具有部分限制性的許可於網上公佈 （意味著使用時不能有商業用途且需標示姓名）。&lt;/p&gt;
+
+&lt;p&gt;正因如此，當你要上傳公眾領域的材料時，能夠使用各種常用的創用CC (Creative Commons)授權是非常用重要的（請參考&lt;a href=&quot;http://creativecommons.tw/&quot;&gt;台灣創用CC的網頁&lt;/a&gt;），若能先瞭解這些授權方式，能讓你瀏覽以下公眾領域資源更加得心應手....&lt;/p&gt;
+
+&lt;h3&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm8.staticflickr.com/7016/6714918585_c9fe4d9a1c_m.jpg&quot; style=&quot;float:left; height:73px; width:60px&quot; /&gt;&lt;a href=&quot;http://europeana.eu/portal/&quot;&gt;Europeana Europeana&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;這是一個探索歐洲文化珍藏的入口網站。目前，它正大量收集來自歐洲各地文化遺產機構所擁有的數據。當然，從Europeana可以發現某些作品並不保證是在公眾領域裡，因此，在搜尋功能中你可以加入篩選(filter)選項。一旦你進行了初步的搜尋，您接著可以使用左邊的“By copyright” 來依據授權方式篩選搜尋的結果 (目前網站沒有中文版）。例如，點選CC0 (免費用於任何用途) 的選項就會篩選出在開放授權下無任何權利的項目; 點選CC BY-NC則會顯示所有在&quot;姓名標示 - 非商業性&quot; 授權下的作品。覺得麻煩嗎？另一個替代方案就是直接使用我們給你的連結，例如： &lt;a href=&quot;http://www.europeana.eu/portal/search.html?query=europeana_rights:*public*&quot;&gt;公眾領域/CC0的作品&lt;/a&gt;或是&lt;a href=&quot;http://www.europeana.eu/portal/search.html?query=europeana_rights:*creative*&quot;&gt;創用CC授權的作品&lt;/a&gt; （當然，你還是可以透過網頁左邊的篩選選項尋找你指定的其他授權方式）。&lt;/p&gt;
+
+&lt;h3&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6022/5929814872_158e1bb716_o.jpg&quot; style=&quot;height:49px; width:60px&quot; /&gt;[[http://www.archive.org/|網際網路檔案館]] (Internet Archive)&lt;/h3&gt;
+
+&lt;p&gt;這是一個收藏了大量的文化作品與大量對於公眾領域作品的連結，包括電影、音樂和文字（但照片方面還不夠好）。&lt;/p&gt;
+
+&lt;p&gt;網站的亮點包括了Prelinger Archives。Prelinger Archives的收藏包含各種主題的應時(ephemeral)與公共服務影片，範疇從如何成為受歡迎的核子攻擊倖存者到一大堆的78轉唱盤錄音收藏[3]。網際網路檔案館最近還針對了網站上的大量收藏推出了&quot;策展人精選&quot; (Curator&#039;s Choice) 。&lt;/p&gt;
+
+&lt;p&gt;這裡當然也是個非常好的起點，讓人可以在網路檔案館的大海中撈到有趣的資源。但是，有些東西只以CC BY-NC授權釋出，但你還是可以在搜尋功能中篩選出公眾領域或是CC BY和CC BY-SA釋出的材料。例如說，我們要使用關鍵字“dog”作搜尋要找到公眾領域類型的東西，可以在搜尋框找到進階搜尋(Advanced Search)，將你要搜尋的條件與關鍵字填入，最重要的是，在&quot;Custom Field&quot;中選擇&quot;license&quot;，然後在條件欄位上填&quot;publicdomain&quot;，最後，按下搜尋按鈕就對了。&lt;/p&gt;
+
+&lt;p&gt;如果你只要搜尋CC BY的東西，那就把“publicdomain”換成“by”就可以了。依此類推，CC BY-SA就用&quot;by-sa&quot;，CC BY-ND就用&quot;by-nd&quot;當作搜尋條件。（如果你習慣自己寫參數，參數是這樣的：“ (dog) AND license:(publicdomain)” 或是你想要從metadata中尋找，也可以這樣寫：&quot;(dog) AND /metadata/licenseurl:http*publicdomain/* &quot;。&lt;/p&gt;
+
+&lt;p&gt;我知道，這可能對一般人來說有點小複雜，但是熟能生巧，請試試看吧！另一件重要的事情要注意的是，你會發現許多文字已被Google掃描，而且不幸的是他們已經將這些文字以非商業性授權條款發佈了。另外，大部分的授權都是使用者在上傳時所指定的，請謹慎使用，避免錯誤地標示！&lt;/p&gt;
+
+&lt;h3&gt;[[http://commons.wikimedia.org/wiki/Main_Page|&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6121/5929814880_ee53597044_o.jpg&quot; style=&quot;height:79px; width:60px&quot; /&gt;維基共享資源]] (Wikimedia Commons)&lt;/h3&gt;
+
+&lt;p&gt;這是一個可以用來尋找圖片的維基百科(Wikipedia) 媒體庫 ，裡面的圖片從[[http://commons.wikimedia.org/wiki/File:Anatomical_theatre_Leiden.jpg|17世紀的解剖學版畫]]到任何用戶隨意上傳的購物中心照片都有。他們做了非常大的努力嘗試把內容組織成”目錄”(category)，使用這樣的目錄操作可以讓來來回回檢索更加容易，但它有時需要一點點時間來習慣點擊目錄。&lt;/p&gt;
+
+&lt;p&gt;舉例來說，在搜索結果中你會看到 Category:XX（XX是您的搜索關鍵字），有時候如果你搜尋的關鍵字是相對簡單的，你也有可能直接進入那個分類，例如Category: dogs。他們也與不同的機構合作開放內容，像是地圖經銷商Geographicus從他們2011的收藏中捐贈了超過2000張高解析度照片，所有的內容都已進入公眾領域中，因此，不是擁有公眾領域標章(PD Mark)就會以CC BY-SA授權釋出。&lt;/p&gt;
+
+&lt;h3&gt;[[http://www.loc.gov/library/libarch-digital.html|&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6133/5929814874_c65bbbd522_o.jpg&quot; /&gt;美國國會圖書館]]&lt;/h3&gt;
+
+&lt;p&gt;所有有關於美國的資源，裡面有大量地印刷品、圖集、影音材料。大部分的材料都是公眾領域的，但仍不是全部，所以使用者還是需要逐一確認。使用右上角的搜尋欄或是透過他們非常有趣的&quot;[[http://www.loc.gov/index.html|典藏精選]]&quot;(Collection Highlights) 區瀏覽。&lt;/p&gt;
+
+&lt;h3&gt;[[http://www.flickr.com/commons|&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6132/5929814868_fa1b3b26e1_o.jpg&quot; style=&quot;height:53px; width:60px&quot; /&gt;Flickr的：The Commons]]&lt;/h3&gt;
+
+&lt;p&gt;一個找老照片的好所在。這裡的收藏，就好像在跳蚤市場找到一個老盒子，一打開，裡面擺滿了老照片，只是，這裡是線上版的老盒子。Flickr也與各機構合作把數以千計的照片上線，如史密森博物館(Smithsonian Museum)，國會圖書館 (Library of Congress)等。&lt;/p&gt;
+
+&lt;p&gt;但其中Flickr定義了&quot;[[http://www.flickr.com/commons/usage/|無已知版權限制]]&quot; 的授權狀態有點尷尬。依據網站說明，這意味者幾種狀態：&lt;/p&gt;
+
+&lt;p&gt;(1) 由於版權已過期，因此已屬於公共領域；&lt;br /&gt;
+(2) 版權由於其他原因流入公共領域，例如無法遵循所需的正式手續或條件；&lt;br /&gt;
+(3) 機構擁有版權，但不想對其進行控制；&lt;br /&gt;
+(4) 或者某些機構擁有足夠的合法權利，可以授權他人不受限制地使用作品。如果還是覺得不清楚，點選照片旁邊的&quot;無已知版權限制&quot;連結，你將會被導引到各單位有關於版權的說明頁。&lt;/p&gt;
+
+&lt;h3&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6003/5929814886_d21df3cffb_o.jpg&quot; style=&quot;height:75px; width:60px&quot; /&gt;[[http://zh.wikisource.org/|維基文庫]] (Wikisource)&lt;/h3&gt;
+
+&lt;p&gt;尋找純文字或是HTML版本文庫的好網站。由維基百科/維基社區所收集維護的線上出版品圖書館。他們擁有超過273,000英文文本，以及其他語言版本的網站，當然，也有中文版的維基文庫收藏，還沒看過紅樓夢嗎？也可以在這裡找到。除非網頁下方另有說明，例如，紅樓夢就已經屬於公眾領域，所有貢獻於維基文庫的用戶都以CC BY-SA授權。&lt;/p&gt;
+
+&lt;h3&gt;[[http://www.gutenberg.org/|&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6141/5929814878_7e157fb46f_o.jpg&quot; style=&quot;height:50px; width:60px&quot; /&gt;古騰堡計劃]](Project Gutenburg)&lt;/h3&gt;
+
+&lt;p&gt;另一個很好的純文字/ HTML文本庫。它提供了超過38,000本免費的電子書，你可以取得開放格式的電子書檔案(ePub)下載到電腦上或是Kindle、Andr​​oid、iOS等等行動裝置。它的特點是提供在美國已經是公眾領域的文本，因此，其他司法管轄區的用戶應該確認書中的授權方式後再進行適當的使用。&lt;/p&gt;
+
+&lt;h3&gt;[[http://www.openimages.eu/|&lt;img alt=&quot;&quot; src=&quot;http://farm8.staticflickr.com/7021/6724883099_495d8ce081_o.jpg&quot; style=&quot;height:75px; width:70px&quot; /&gt;開放圖片]] (OpenImages)&lt;/h3&gt;
+
+&lt;p&gt;新的影音檔案庫，雖然很新但成長快速。這是一個找到老荷蘭新聞影片的好地方，目前提供了超過70萬小時的電視、廣播、電影等的聲像記錄。由[[http://en.wikipedia.org/wiki/Netherlands_Institute_for_Sound_and_Vision|荷蘭聲像研究院]](Netherlands Institute for Sound and Vision)與[[http://www.kennisland.nl/|Knowledgeland]]合作的新創公司。&lt;/p&gt;
+
+&lt;h3&gt;[[http://www.biodiversitylibrary.org/Default.aspx|&lt;img alt=&quot;&quot; src=&quot;http://farm8.staticflickr.com/7163/6724910991_c213b7c12c_o.jpg&quot; style=&quot;height:52px; width:109px&quot; /&gt;生物多樣性歷史文獻圖書館]] (Biodiversity Heritage Library)&lt;/h3&gt;
+
+&lt;p&gt;從收集自然歷史與植物收藏的大量生物庫而來的計畫。依據開放的原則，也就是說，原來在公眾領域的素材仍處於公眾領域。他們也與Internet Archive合作製作特輯。&lt;/p&gt;
+
+&lt;h3&gt;[[http://publicdomainreview.org/|&lt;img alt=&quot;&quot; src=&quot;http://farm7.staticflickr.com/6142/6023444441_a9e77717eb_t.jpg&quot; style=&quot;height:92px; width:100px&quot; /&gt;公眾領域評論]] (The Public Domain Review)&lt;/h3&gt;
+
+&lt;p&gt;這裡有很多關於公眾領域的有趣評論（本文就是編譯這個網站的文章），它是人們進入公眾領域且能一窺大堂之奧的最佳入口。&lt;/p&gt;
+
+&lt;h3&gt;[[http://en.wikipedia.org/wiki/List_of_digital_library_projects|&lt;img alt=&quot;&quot; src=&quot;http://farm7.static.flickr.com/6135/6008873671_dafe292357_t.jpg&quot; style=&quot;height:54px; width:100px&quot; /&gt;其實還有很多...]]&lt;/h3&gt;
+
+&lt;p&gt;也有不少專案免費提供數位媒材（很多是來自大學裡），雖然有時候仍需要小心的在版權宣告中判別他們是否利用開放授權來釋出公眾領域作品。但還是很可惜，很多都沒有這樣做。但有些單位是有的，例如[[http://www.nlm.nih.gov/onlineexhibitions.html|美國國家醫學圖書館]] (U.S. National Library of Medicine) ，或由[[http://www.archive.org/details/cornell|康奈爾大學圖書館]](Cornell University Library)與網際網路檔案館(Internet Archive)攜手合作展示的數位圖書館，這裡不僅可以找到1915年出版的[[http://www.archive.org/stream/sketchesfromtaiw00camprich|關於福爾摩沙的老書]] ，更有[[http://www.archive.org/stream/taiwanrestaurant00sf|台菜餐廳菜單]]，有趣吧！。&lt;/p&gt;
+
+&lt;p&gt;另外，CC的搜尋工具也可以讓你方便的在Google圖片裡面搜尋公眾領域的收藏....&lt;/p&gt;
+
+&lt;h3&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm8.staticflickr.com/7172/6724777047_724d949017_o.jpg&quot; style=&quot;height:44px; width:150px&quot; /&gt;[[http://search.creativecommons.org/?betaActive=1&amp;amp;q|創用CC搜尋工具]]&lt;/h3&gt;
+
+&lt;p&gt;透過創用CC搜尋工具也可以方便得搜尋公眾領域素材。這裡依據CC授權透過Europeane, Flickr, Google Image等資料庫提供搜尋素材。（你也可以試試[[http://creativecommons.tw/search|台灣創用CC的搜尋工具]]）但必須注意的是，由用戶所授與的CC授權沒有被驗證過，因此仍有出錯的風險。我們的建議是：&quot;如果你有任何的懷疑，你應該直接與著作權擁有者聯絡，或試著與提供素材的網站聯絡&quot;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h2&gt;關於法律&lt;/h2&gt;
+
+&lt;h3&gt;授權方法&lt;/h3&gt;
+
+&lt;p&gt;很多放在網路上的素材，想要做到開放授權，許多人會選擇創用CC授權，其中，包括了無已知的著作權的公眾領域標章1.0 (PD Mark)，無著作權 (CC0)，姓名標示 (CC BY)，姓名標示-相同方式分享 (CC BY-SA)，姓名標示-禁止改作 (CC BY-ND)，姓名標示-非商業性-相同方式分享 (CC BY-NC )，詳細的說明，可以到[[http://creativecommons.tw/explore|台灣創用CC]]的網站看看。&lt;/p&gt;
+
+&lt;h3&gt;作品何時才會進入公眾領域？&lt;/h3&gt;
+
+&lt;p&gt;比較安全的說法是：在1850年前出版的作品(也就是超過150年前），全球幾乎都可以認可這些作品已經進入了公眾領域！所以，這段時間已經累積出了大量可讓大家無限制使用的作品。就如先前所說的，可惜的是，許多機構都宣稱他們擁有掃描或是上傳之後的檔案版權，因而，這些公眾領域的作品反而在掃描或上傳之後，另外又受到了著作權限制。 針對較為近代的作品，你必須更熟悉關於法律上的限制。&lt;/p&gt;
+
+&lt;p&gt;無奈的是，因為每個國家都有關於何時作品進入公眾領域的不同法律規定，這些法律一般來說會針對作品的種類而有所不同。有些國家依據作者過世的時間，有的國家依據出版日起算一段時間。對於文學，戲劇，音樂或藝術作品，在大多數的歐洲或其他世界各國家，針對一個作品是否進入公眾領域，則是從最後一位作者去世之當年底後的70年（這裡也包括電影的導演，編劇和任何作曲者）。又例如，大西洋上的島國巴貝多(Barbados)是50年，墨西哥則是100年。另外，因為採用&quot;截止日模式“ (cut off date model)，加上基於著作權何時更新或是否完全更新等因素，在美國則又是另外一個完全不同的故事。&lt;/p&gt;
+
+&lt;p&gt;以下提供一些連結，希望能幫助你在晦暗的法條中（我希望大部分的時候是光明的）找到一盞明燈！&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;[[http://publicdomain.okfn.org/calculators/|公眾領域計算機]] ：針對在歐洲的作品，提供一個[[http://outofcopyright.eu/calculator.html|簡單的工具]] ，它利用幾個按鈕問答，幫你確定在你的司法管轄區中是否該作品已經進入公眾領域。&lt;/li&gt;
+	&lt;li&gt;[[http://www.copyrightservice.co.uk/copyright/p01_uk_copyright_law|英國版權服務]] ：一個明確解釋英國法律的地方。&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;[[http://fairuse.stanford.edu/Copyright_and_Fair_Use_Overview/chapter8/|史丹佛大學解釋美國著作權的網站]]：非常明確的解釋美國的著作權系統，包括[[http://fairuse.stanford.edu/charts_tools/|大量的工具]]來確認公眾領域狀態。&lt;/li&gt;
+	&lt;li&gt;[[http://en.wikipedia.org/wiki/List_of_countries%27_copyright_length|維基裡不同國家的著作權清單]]：在wiki搜尋中打上國家的名稱與關鍵字&quot;copyright law&quot;，你應該可以看到一些正式的解釋。但需要注意，用Wikipedia來尋找一些概括的論述是可以的，但千萬不要把它當作是最精確的來源。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;有種情況是常發生的，就是當你想要使用的作品在原來的國家已經是公眾領域的作品了，但卻無法適用於你的國家。某些國家會使用“[[http://en.wikipedia.org/wiki/Rule_of_the_shorter_term|較短時間法則]]”，這意味著：當面臨國外的著作權狀態疑義時，這個原則允許著作權保護期間較長之會員國，得拒絕給予著作權保護期間較短之會員國之國民，與自己國民享有相同較長之著作權保護期間[4]。但仍需要注意，許多國家雖然聲稱遵守&quot;最短時間法則&quot;，但他們還是另外訂立了凌駕於此原則之外的雙邊協定。&lt;/p&gt;
+
+&lt;p&gt;==================================================================&lt;/p&gt;
+
+&lt;p&gt;[1] &quot;亞聖與史皇&quot;, 中國大歷史, 王仁宇&lt;br /&gt;
+[2] [[http://creativecommons.tw/in-depth/539|&quot;The Public Domain&quot; 怎麼說？]]&amp;nbsp;&lt;br /&gt;
+[3] [[http://en.wikipedia.org/wiki/Prelinger_Archives|Prelinger Archive]]&lt;br /&gt;
+[4] &quot;[[http://www.copyrightnote.org/crnote/bbs.php?board=2&amp;amp;act=read&amp;amp;id=155http://www.copyrightnote.org/crnote/bbs.php?board=2&amp;amp;act=read&amp;amp;|甚麼時候才算真正的公共所有?]]&quot;, 章忠信&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 24 Feb 2012 12:06:39 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">583 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120224#comments</comments>
+</item>
+<item>
+ <title>﻿數位時代的知識生產模式與學術資源開放近用運動</title>
+ <link>https://creativecommons.tw/in-depth/576</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;劉靜怡&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;（本文擷取自&amp;lt;數位時代的知識生產模式與學術資源開放近用運動--以美國法學期刊為例&amp;gt;，《政大法學評論》，第123期，頁193-252，2011年10月）&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+分享式、開放式的學術研究以及資源分享模式，之所以成為近年來備受重視的議題，和智慧財產權法與新興科技發展兩者之間的衝突日趨緊繃， 導致資訊公有財（information commons）的圈地運動（enclosure movement）&lt;a href=&quot;#_ftn1&quot;&gt;[1]&lt;/a&gt;日益嚴重有關&lt;a href=&quot;#_ftn2&quot;&gt;[2]&lt;/a&gt;。 在這樣的背景脈絡下發展出來的學術資源開放近用運動，主要可以區分成開放近用期刊與開放典藏（open access archive）兩大型態&lt;a href=&quot;#_ftn3&quot;&gt;[3]&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;一、開放近用期刊的發展&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;開放近用期刊的興起是學術資源分享運動的重要里程碑之一。2001年的「布達佩斯開放近用提議」（Budapest Open Access Initiative），可說是最早提出公開近用原則， 其後「柏林宣言」（Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities）和聯合國「資訊社會高峰會宣言」（World Summit on the Information Society, Declaration of Principles） 相繼呼應知識與資訊應該共享的基本原則。另外，Creative Commons這強調透過開放授權模式達成內容分享目的的運動，也在學術資源開放分享運動中扮演了一定程度的角色。&lt;/p&gt;
+
+&lt;p&gt;開放近用運動倡議者所持的主要立場是考量到，從成本面而言，期刊出版最大的成本應該是出現在研究過程和寫作過程，而研究過程和寫作過程的成本，其實都已經由研究者的任職機構或資助機構承擔， 而傳遞成本在網路發達的今天，則已經趨近於零。但整體而言，實際擁抱開放模式的學術期刊，所佔比例依舊不高。不過，即使如此，在目前多數學術期刊出版公司仍採取付費經營模式的環境下，何以開放近用型期刊願意免費提供期刊論文服務並能維持生存，則是我們在討論學術期刊所扮演的知識生產和傳播角色時，不能不探究的現象。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;二、圖書館角色變遷與自我典藏運動&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;長久以來學術領域的知識生產和傳播活動，必須仰賴的資訊和知識的設施主要是圖書館。但在數位時代裡，掌握資訊和知識的重心逐漸轉移到商業出版公司，圖書館本身轉而成為是商業出版公司授權後的資訊和知識的使用者。 購買實體書籍的支出，極可能不再是佔據學術機構圖書館支出中的最高比例，相對地，商業出版公司以「包裹授權」（bundling license or package licensing）的方式將其資料庫授權給圖書館， 並保留隨時可以調整授權資料庫內期刊名單的權利，成為目前圖書館提供學術資訊和知識的主流。而數位科技發展使得重製（copy）和近用（access）兩者之間的界限越來越模糊，導致過去全面禁止重製的法律， 適用在今天的學術資訊和知識近用脈絡下，便可能成為阻礙學術資訊和知識近用可能性的障礙，也使圖書館保存和傳遞數位化內容的角色受到限制。&lt;/p&gt;
+
+&lt;p&gt;圖書館在這個變遷過程中面臨角色混淆的錯亂局面，也必須經歷重新定位的痛苦。從學術資源開放分享運動的觀點來看，大學和研究機構圖書館的典藏政策，是決定學術資源是否能夠開放分享的關鍵。 再者，由於開放近用類型的期刊事實上遭遇到不少執行面的困難，因此，導致不少支持學術資源開放分享運動者，轉而支持自我典藏（self-archiving）或機構典藏，近年來不僅逐漸成為歐美各主要大學圖書館的主流作法之一，目前我國的臺灣大學、政治大學、交通大學、清華大學等校圖書館－－儘管作法和成效不一──亦加入機構典藏的行列。這類自我典藏運動最有趣之處，在於作者社群開始嘗試獨立於政府與市場兩者之外， 自主地提供標準互通、規格相容的資訊，期待藉此共同打造一個全球性的學術資源圖書館，宗旨在追求全球共享的知識公有財&lt;a href=&quot;#_ftn4&quot;&gt;[4]&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;三、學術資源開放近用的挑戰與前景&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;傳統學術出版制度的著作權歸屬設計模式，是大學自我典藏制度的最大障礙之一。絕大多數學術期刊的作者，基於能夠使論文刊登於專業期刊上的考量，通常願意以無償方式將著作權授權給期刊和出版商， 而出版商則是善用近年來快速進入商業化應用領域的數位權利管理科技和包裹授權模式，逐漸強化對於期刊論文的控制力&lt;a href=&quot;#_ftn5&quot;&gt;[5]&lt;/a&gt;。在法律層面，例如美國的「1998 年數位千禧年著作權法」第1201條及我國著作權法第80-2條， 均禁止使用者破解、破壞或以其他方法規避著作權人所採取禁止或限制他人擅自進入著作之防盜拷措施，促使著作權法所賦予的控制力更是從「內容保護」延伸到「技術保護」，反映出網路科技雖然有效降低期刊的傳遞成本， 但卻也同時做為控制資訊近用的工具，提高使用者的近用成本的殘酷現象。&lt;/p&gt;
+
+&lt;p&gt;開放近用模式的成功與否，取決於我們思考數位時代的學術期刊運作模式應該如何設計時，是否能夠充分理解並善用著作權法、授權契約、學術社群規範和網路技術標準。本文認為自我典藏困境的解套方向，或許可考慮由大學或研究機構主張其聘僱的教授和研究人員的學術論文公開發表甚或授權給期刊和商業公司後，大學對該學術論著取得有非專屬性的數位散布授權，以利自我典藏的執行。 最後，若能在學術資源近用運動的趨勢下，輔以適當的機構典藏或自我典藏機制，徵集大學研究者已經被學術期刊接受發表的作品（post-print），並且盡其所能地提供開放近用的管道，在此一架構下，「圖書館做為非市場導向的知識與資訊典藏者」的角色，在數位時代裡自然能夠扮演更為積極的角色。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href=&quot;#_ftnref1&quot;&gt;[1]&lt;/a&gt;&amp;nbsp;援用英國圈地運動的歷史經驗，比喻當代知識生產活動的智慧財產權化，可以說是「第二次圈地運動」的學者，以目前任教於美國Duke Law School的法律學者James Boyle最為知名， &lt;em&gt;see generally&lt;/em&gt; James Boyle, &lt;em&gt;The Second Enclosure Movement and the Construction of the Public Domain&lt;/em&gt;, 66 LAW &amp;amp; CONTEMP. PROBS. 33 (2003).&lt;br /&gt;
+&lt;a href=&quot;#_ftnref2&quot;&gt;[2]&lt;/a&gt;&amp;nbsp;Yochai Benkler, &lt;em&gt;Overcoming Agoraphobia: Building the Commons of the Digitally Networked Environment&lt;/em&gt;, 11 HARV. J. L. &amp;amp; TECH 287, 287-400 (1998)；Jane C. Ginsburg, &lt;em&gt;Copyright and Control of New Technologies of Dissemination&lt;/em&gt;, 101 COLUM. L. REV. 1613, 1613-1647.&lt;br /&gt;
+&lt;a href=&quot;#_ftnref3&quot;&gt;[3]&lt;/a&gt;&amp;nbsp;Peter Suber, &lt;em&gt;Open Access Overview&lt;/em&gt;, revised November 6, 2010, &lt;em&gt;available at&lt;/em&gt; &lt;a href=&quot;http://www.earlham.edu/%7Epeters/fos/overview.htm&quot;&gt;http://www.earlham.edu/~peters/fos/overview.htm&lt;/a&gt; (last visited Nov. 10, 2010). 國內關於開放近用期刊所遭遇的問題之分析，可參見李治安、林懿萱，從傳統到開放的學術期刊出版：開放近用出版相關問題初探，圖書館學與資訊科學，33卷1期，頁47-48，2007年4月。&lt;br /&gt;
+&lt;a href=&quot;#_ftnref4&quot;&gt;[4]&lt;/a&gt;&amp;nbsp;Charlotte Hess &amp;amp; Elinor Ostrom, &lt;em&gt;Introduction: An Overview of the Knowledge Commons&lt;/em&gt;, in UNDERSTANDING KNOWLEDGE AS A COMMONS: FROM THEORY TO PRACTICE 3-26 (CHARLOTTE HESS &amp;amp; ELINOR OSTROM Ed., 2007).&lt;br /&gt;
+&lt;a href=&quot;#_ftnref5&quot;&gt;[5]&lt;/a&gt;&amp;nbsp;包裹授權此一商業模式，是數位時代的期刊出版商毋須降低價格、甚至可以獲取暴利的主要護身符之一，然而，從法律觀點仔細檢視包裹授權的交易模式，其實不無反托拉斯法上的違法疑慮， &lt;em&gt;see, e.g.&lt;/em&gt;, Aaron S. Edlin &amp;amp; Daniel L. Rubinfeld, &lt;em&gt;Exclusive or Efficient Pricing: Big Deal Bundling of Academic Journals&lt;/em&gt;, 72 ANTITRUST L. J. 119 (2004).&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 06 Jan 2012 08:24:11 +0000</pubDate>
+ <dc:creator>paolatang</dc:creator>
+ <guid isPermaLink="false">576 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/576#comments</comments>
+</item>
+</channel>
+</rss>

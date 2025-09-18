@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 大英圖書館</title>
+ <link>https://creativecommons.tw/taxonomy/term/3076</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>詮釋資料以CC0宣告進入公眾領域</title>
+ <link>https://creativecommons.tw/blog/20151214</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;文化機構除了分享數位化後的公共領域館藏，其實也可以將他們描述館藏的詮釋資料(metadata)以CC0釋出。書目上的書名、作者姓名、出版社、出版年、所屬類別等，就是一種詮釋資料。開放眾人任意使用的詮釋資料將有利於「連結開放資料(Linked Open Data)」的發展，讓網路上各種相關的資源得以互相串連。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://farm6.staticflickr.com/5637/20846726543_45950ce277_b.jpg&quot; style=&quot;height:587px; width:700px&quot; /&gt;&lt;br /&gt;
+此為大英圖書館的中文館藏目錄，&lt;a href=&quot;https://www.flickr.com/photos/132066275@N04/20732986155/in/photostream/&quot; target=&quot;_blank&quot;&gt;以CC0授權釋出&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;想像一下，未來只要在網站上搜尋梵谷的星空，你就可以得到由文化機構專業館員提供的創作年代、地點、典藏館等資料，甚至是關於星空的各種版本資訊及簡單的說明。由於這些資訊來自文化機構的權威專業，將會比網路上隨便找的部落格等更為正確，你不用再擔心會不會找到錯誤資料害報告內容出錯。而且，這些文化機構釋放出來的館藏詮釋資料還能再與其他網站提供的梵谷生平、星空的創作背景、梵谷故居的旅遊景點說明等資訊相連結，你可以想像成好像有一條線串起散落在各處與梵谷相關的資訊，文化機構提供的這些詮釋資料可能就能作為這條線，幫你一網打盡所需的相關資訊。&lt;/p&gt;
+
+&lt;p&gt;有鑑於連結開放資料的發展趨勢，許多&lt;a href=&quot;https://wiki.creativecommons.org/CC0_use_for_data&quot; target=&quot;_blank&quot;&gt;知名的博物館、圖書館&lt;/a&gt;都已經採用CC0授權釋出詮釋資料。像是大英圖書館、美國數位公共圖書館(DPLA)、Europeana、德國國家圖書館、哈佛大學圖書館、西班牙國家圖書館、瑞典國家圖書館、英國泰特美術館(Tate)、佛羅里達州大學思維爾圖書館、紐約公共圖書館、英國研究圖書館、瑞典國家圖書館、密西根大學圖書館等。而且，2011年歐洲國家圖書館員會議(Conference of European National Librarians)決定要以CC0授權資料，2012年OCLC和Europeana也達成共識要讓其會員圖書館都以CC0授權詮釋資料，更是使進入公眾領域的詮釋資料大幅成長。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://wiki.creativecommons.org/Case_Studies/British_Library&quot; target=&quot;_blank&quot;&gt;大英圖書館詮釋資料服務領導人Neil Wilson有言&lt;/a&gt;：「我們相信，大英圖書館幾世紀以來所創造與匯編的大量書目記錄還有許多超乎編目當時所預期的應用方式，能找出組織與個人善用這些資料的新方法，是件令人興奮的事情。」&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://wiki.creativecommons.org/Case_Studies/Harvard_Library&quot; target=&quot;_blank&quot;&gt;哈佛圖書館的副館長Mary Lee Kennedy也說&lt;/a&gt;：「哈佛圖書館致力於與他人合作及開放近用，我們希望此種貢獻乃進一步與眾人分享圖書館重要文化知識的初步嘗試。」&lt;/p&gt;
+
+&lt;p&gt;開放詮釋資料的文化機構遠多於開放數位化公眾領域的機構。這是因為，數位化的公眾領域作品仍可能被主張著作人格權(即該作品的使用者不得冒充作者或有損作者聲譽)以及攝影權(即攝影者對於公眾領域館藏的攝影作品能主張著作權)，導致在館方擬定開放政策時會遭遇較多阻礙。&lt;/p&gt;
+
+&lt;p&gt;雖然在決定是否開放詮釋資料時，不會有著作人格權及攝影權的顧慮。然而，也有人認為，是否要採取CC0授權是值得討論的。因為詮釋資料如果只是姓名、年份、地點等事實類的文字，其實自始不屬於著作權的保護範圍。現在的文化機構，是在詮釋資料受到著作權保護的前提下才採用CC0的「授權」條款，相當於賦予著作權給本來就不被保護的資料，反而增加資料的使用門檻。&lt;/p&gt;
+
+&lt;p&gt;不過，現在的詮釋資料越來越豐富，除了事實性資料，摘要、評論、封面、試聽試看的影音檔等都有發揮原創性之處，而且每個編目員對於同一本書的類別判斷也未必相同，代表仍有主觀判斷的空間。只是這些詮釋資料的作者往往以文化機構為代表而不具名，難以一一判斷個別詮釋資料的著作權歸屬。&lt;/p&gt;
+
+&lt;p&gt;另外，在歐洲，若對資料進行系統性的彙整，就可以針對組織方式主張權利。在此情況下，當有人以同樣方式組織這些資料，就會侵犯該資料庫的資料庫權。現在先以CC0授權詮釋資料，也就是明白昭告拋棄一切可能主張的權利，即便不確定是否詮釋資料存在資料庫權，使用者都可以確信這是公眾領域而安心使用。&lt;/p&gt;
+
+&lt;p&gt;總而言之，不論目前有哪些爭議，都可以CC0授權詮釋資料，昭告眾人其進入公眾領域的定位。&lt;/p&gt;
+
+&lt;p&gt;參考資料：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.librarytechnology.org/ltg-displaytext.pl?RC=17487&quot; target=&quot;_blank&quot;&gt;http://www.librarytechnology.org/ltg-displaytext.pl?RC=17487&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://wiki.creativecommons.org/CC0_use_for_data&quot; target=&quot;_blank&quot;&gt;https://wiki.creativecommons.org/CC0_use_for_data&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://linkedheritage.cab.unipd.it/training/LO-06/en/01.html&quot; target=&quot;_blank&quot;&gt;http://linkedheritage.cab.unipd.it/training/LO-06/en/01.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://en.wikibooks.org/wiki/Open_Metadata_Handbook/Open_Metadata&quot; target=&quot;_blank&quot;&gt;http://en.wikibooks.org/wiki/Open_Metadata_Handbook/Open_Metadata&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://lj.libraryjournal.com/2013/02/opinion/peer-to-peer-review/metadata-and-copyright-peer-to-peer-review/&quot; target=&quot;_blank&quot;&gt;http://lj.libraryjournal.com/2013/02/opinion/peer-to-peer-review/metadata-and-copyright-peer-to-peer-review/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 13 Dec 2015 22:49:13 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1176 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151214#comments</comments>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 音樂</title>
+ <link>https://creativecommons.tw/category/tags/%E9%9F%B3%E6%A8%82</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>為什麼他們想使用公眾領域貢獻宣告(CC0)？</title>
+ <link>https://creativecommons.tw/blog/20151217</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;公眾領域貢獻宣告的英文是CC0，也就是比創用CC姓名標示的條款更進一步，移除掉所有使用限制，讓以CC0授權的作品可以任意使用於各種用途，而且連作者姓名都不用標示，讓作品提早進入公眾領域。&lt;/p&gt;
+
+&lt;p&gt;想像一下辛辛苦苦創作出來的作品，可能會被其他人輕鬆用在他們的作品中，就好像作業被抄襲一樣的感覺，怎麼會有人願意以CC0授權釋出自己的作品呢？&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;首先，有些人發現在網路上可用的數位公眾領域越來越少，希望能以CC0是出一些作品來彌補這個缺陷。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Thomas Bonte和同學Nicolas Froment、Werner Schweer是開放資源樂譜計畫&lt;a href=&quot;http://musescore.org/&quot; target=&quot;_blank&quot;&gt;MuseScore&lt;/a&gt;的人員，MuseScore讓人們可以上傳自己的演奏影片，讓他人能搭配樂譜一起觀看，許多演奏影片都採用創用CC授權。&lt;/p&gt;
+
+&lt;p&gt;多數古典音樂都是公眾領域，但是高品質的當代錄音並不是。因此，他們在Kickstarter發起一個&lt;a href=&quot;http://www.kickstarter.com/projects/293573191/open-goldberg-variations-setting-bach-free&quot; target=&quot;_blank&quot;&gt;募資計畫&lt;/a&gt;，會將朋友Kimiko Ishizaka演奏的郭德堡變奏曲錄製下來以CC0釋出。希望能讓這個演奏版本就像是原本進入公眾領域的原曲一樣，不限制任何使用方式，使作品能盡可能地被使用。&lt;/p&gt;
+
+&lt;p&gt;Thomas總是鼓勵合作的音樂人能想想開放授權的力量。他說：「你不只透過你的藝術作品與觀眾溝通，你也藉由允許他們使用你的藝術作品來與他們溝通，而且這件事就和藝術本身同等重要。」Kimiko接下來錄製&lt;a href=&quot;https://www.kickstarter.com/projects/opengoldberg/open-well-tempered-clavier-bah-to-bach&quot; target=&quot;_blank&quot;&gt;巴哈的平均律鋼琴曲&lt;/a&gt;也將會以CC0授權釋出，而且他們這次還會製作盲人音樂家在braille可用的樂譜。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;其次，以CC0授權作品可能會帶來意想不到的知名度及流傳度。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;知名的照片網站&lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;每10天會分享10張以CC0釋出的高品質照片，現在已經有越來越多網站都使用他們的照片作為素材。&lt;/p&gt;
+
+&lt;p&gt;Unsplash是Crew公司的分項計畫，其實並非公司業務的重點。Crew公司的Mikael Cho在受訪時表示，當時他們正在建立公司網站，由於不滿於網路上低品質的照片，就聘請一個攝影師拍攝一組咖啡店的照片。最後，他們只挑選其中一張使用，便把剩下的照片上傳到tumblr讓他人免費下載，供其他也找不到好照片的人使用。沒想到，他們將網站連結貼到設計師、工程師和創業者的社群網站Hacker News後，立刻成為Hacker News排名第一的網站，而且有超過1千萬次的照片下載次數。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/bag-and-hands.jpg?itok=-VKQ2CMc&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;br /&gt;
+(這是Unplash最初以CC0釋出的十張照片中最受喜愛的一張，攝影師是Alejandro Escamilla，他也因為Unplash增加知名度。)&lt;/p&gt;
+
+&lt;p&gt;由於很多人好奇是誰提供這些照片，就會點連結到Crew的官方網頁，使他們在短短幾天內獲得前所未有的知名度，他們從來沒想到上傳照片所花費的19元美金與3小時可以帶來這樣的宣傳成效。甚至，後來他們也從Unsplash的使用者中招募到他們需要的優秀員工。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;第三，以CC0授權的資料可以在無任何阻礙的情況下傳播得更快更廣。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;2011年，日本311大地震帶來了嚴重災害，福島核電廠周圍地區的放射物質對於居民十分不利。一個月後，Sean Bonner與Joi Ito展開了Safecast計畫，透過志工以集體力量蒐集到的資料，建立日本輻射地區的即時資訊系統。他們採用CC0授權，確保他人在使用這些資料時絕對不會有任何阻礙。發布計畫後，資料貢獻者與使用者確實都大幅成長，也在媒體及政府以外，成為正確度與完整度較高的資訊來源。&lt;/p&gt;
+
+&lt;p&gt;最後，選擇CC0授權釋出作品也可以是一個人生目標。Toper Domingo不是專業攝影師，他知道自己的照片品質比不上專業，所以他不打算販售照片，而是讓人們可以盡量使用。Toper為自己設定了一個目標，計畫要每天捐獻100張照片進入公眾領域，這樣30年累積下來將會有一百萬左右的照片。而他的網站名稱就是&lt;a href=&quot;http://www.1millionfreepictures.com/&quot; target=&quot;_blank&quot;&gt;1 Million Free Pictures&lt;/a&gt;，目前仍持續朝他的目標邁進中。&lt;/p&gt;
+
+&lt;p&gt;相關連結：&lt;a href=&quot;http://pd4pd.org/zh-hant/blog/86&quot; target=&quot;_blank&quot;&gt;為什麼他們願意在網路上提供公眾領域素材？&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;參考資料&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.1millionfreepictures.com/&quot; target=&quot;_blank&quot;&gt;http://www.1millionfreepictures.com/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.wpclipart.com/about.html&quot; target=&quot;_blank&quot;&gt;http://www.wpclipart.com/about.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://teamopen.cc/thomas/&quot; target=&quot;_blank&quot;&gt;http://teamopen.cc/thomas/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://teamopen.cc/sean/&quot; target=&quot;_blank&quot;&gt;http://teamopen.cc/sean/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://naomihattaway.com/2014/06/mikael-cho-from-unsplash/&quot; target=&quot;_blank&quot;&gt;http://naomihattaway.com/2014/06/mikael-cho-from-unsplash/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://blog.crew.co/how-side-projects-saved-our-startup/&quot; target=&quot;_blank&quot;&gt;http://blog.crew.co/how-side-projects-saved-our-startup/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 17 Dec 2015 01:13:37 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1180 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151217#comments</comments>
+</item>
+<item>
+ <title>使用開放授權的音樂人能獲利嗎？</title>
+ <link>https://creativecommons.tw/blog/20151215</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;音樂人很容易與創用CC連結在一起，因為他們都希望歌迷能開心的唱著自己做的音樂，並用各自的方式分享給更多人。而且，饒舌音樂的取樣文化也與創用CC自由混搭再利用的精神不謀而合。不過，難道利用創用CC授權音樂，不會危及到音樂人的生計嗎？&lt;/p&gt;
+
+&lt;p&gt;CC總部很樂於聽到這樣的問題，他們的回覆是：「首先，由於我們的授權為非專屬性的，也就是說並不會限制你只能以創用CC授權作品內容，你可以同時使用其他能使作品獲利的授權方式。換句話說，你能在你的網站上以創用CC授權條款散佈一首歌，同時以傳統著作權授權專輯裡的同一首歌。其次，創用CC裡的非商業性條款是一個誘因機制，讓人們可以在最大化作品傳播效果的時候，仍能控制著作權法所保障的商業用途限制。」也就是說，透過創用CC的其他要素讓你的音樂變得更流行時，他人將受限於非商業性的條件，不能販售你的歌曲。&lt;/p&gt;
+
+&lt;p&gt;接下來，讓我們來看看幾位使用創用CC授權的音樂人怎麼說。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/music.jpg?itok=wRacuI3W&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(Luke Surl以CC0釋出，由右到左為Chris Zabriskie、Jonathan Mann、Kellee Maize。)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chris Zabriski&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Chris Zabriski為廣告、遊戲、企業、影片製作原創音樂。他自從2009年開始積極使用創用CC 姓名標示—非商業性授權，2011年起則開始使用創用CC 姓名標示授權。&lt;/p&gt;
+
+&lt;p&gt;目前他已經以創用CC授權釋出了九張專輯，在YouTube上被超過1萬支影片使用，這樣的知名度讓Chris有機會藉由其他的音樂合作案獲利。他認為是因為採用創用CC才能讓他把音樂當成正職工作，同時能不用擔心宣傳問題，全心投入不同類型的音樂製作。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://teamopen.cc/chris/&quot; target=&quot;_blank&quot;&gt;Chris說&lt;/a&gt;：「創用CC真的是很好、很清晰的溝通方式，告訴你可以與不可以做什麼。你能可以在自己的授權頁面羅列各種規定，但是創用CC已經幫你完成所有任務。它是被接受、被承認的條款，而且人們會想去尋找創用CC授權的素材。」、「你越容易讓他人找到你，他們最終就會找到你。如果你關閉了你的東西，那將會毀滅你。」&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jonathan Mann&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Jonathan Mann每個月都會創作一首歌曲，這樣的習慣已經持續5年了。他每天會在&lt;a href=&quot;https://www.youtube.com/user/therockcookiebottom&quot; target=&quot;_blank&quot;&gt;YouTube&lt;/a&gt;分享音樂影片，並且在&lt;a href=&quot;https://jonathanmann.bandcamp.com/the-manniac-club&quot; target=&quot;_blank&quot;&gt;Bandcamp&lt;/a&gt;及&lt;a href=&quot;https://soundcloud.com/jonathanmann&quot; target=&quot;_blank&quot;&gt;SoundCloud&lt;/a&gt;提供下載，目前已經以創用CC授權超過1780首歌曲。他發現，當他免費分享音樂時，龐大粉絲群中的一部分會支付購買。這跟他自己的習慣如出一轍，就是在自己發現真的很喜歡一個人的音樂時，就會願意給他很多錢。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jonathan Coulton&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Jonathan Coulton是紐約的歌手與創作人，他以創用CC授權釋出作品，網站上所有線上音樂都是免費的。不過，他的網站上會販售下載檔、相關書籍與衣服。 &lt;a href=&quot;http://teamopen.cc/jonathan/&quot; target=&quot;_blank&quot;&gt;Jonathan說&lt;/a&gt;：「我可以理解為什麼業界的人很難去嘗試，我完全可以同理。但是對於處在我這種狀況的人而言，這是我能做得最好的事情。每個月我都因此獲得更多流量、更多捐贈/銷售、更多粉絲。我相當確定，以創用CC授權任何音樂都有利於這個過程。如果有人之前沒聽過我的音樂，現在就有機會獲得免費音樂檔，並因而喜歡這支音樂，他們也有機會傳遞給朋友、寫關於這支音樂的部落格，甚至為此製作影片。每一種後續發展，都意味著更多曝光機會、更多粉絲、更多銷售機會—若是以數位版權管理機制或著作權法限制來禁止他人取用，將不會這麼容易發生這些事。」&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kellee Maize&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Kellee Maize是賓州的獨立饒舌音樂人。他最初在商業夥伴Joey Rahimi的建議下，開始以創用CC姓名標示的條款授權音樂在Jamendo與Frostwire分享。Kellee起初擔心藝術會因此貶值，而且他可能會損失不少金錢。然而，他後來發現，他的音樂因為接觸更多人而更有價值。&lt;a href=&quot;https://www.youtube.com/channel/UCwBhXADStizYpJyXDUZkATg&quot; target=&quot;_blank&quot;&gt;YouTube&lt;/a&gt;現在有超過13000支影片都使用Kellee的音樂，並標示他的名字。他因此獲得了很多支付購買歌曲、專輯或看表演的粉絲，也從表演、授權、音樂銷售、贊助等多種管道獲得收入，像是&lt;a href=&quot;http://blog.sonicbids.com/bonnarookelleemaize&quot; target=&quot;_blank&quot;&gt;2011年被投票為Bonnaroo音樂節的表演者&lt;/a&gt;、2014年因為有百萬次的下載量而成為Toyota Hybrid的代言人。&lt;/p&gt;
+
+&lt;p&gt;Kellee的音樂會談到女權主義和一些政治社會議題，主流唱片品牌並不熱衷與這樣的樂手簽約。他希望藉此讓他人了解如何將這些敏感性議題相關的藝術傳遞給他人，而且音樂人可以彈性許多，不需要因為綁約而有固定數量及特定內容的專輯產出。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://teamopen.cc/kellee/&quot; target=&quot;_blank&quot;&gt;Kellee說&lt;/a&gt;：「採取此方式的重要理由是，我們手上的音樂能接觸到越多人，我們就能變得越好。三個臭皮匠勝過一個諸葛亮。」、「嘻哈來自於發聲與分享的需要，不論是發聲或是分享其實都是為了社會倡議。不過，嘻哈同時也可以讓你放鬆、感到樂在其中，並且忘記我們每天所面對的一切。嘻哈起初是免費的，直到現在世界上還有很多知名樂手製作免費的mixtape。這是文化的一環。這讓嘻哈樂手很自然的會來了解創用CC—雙方對於音樂與權力的想法都有興趣。」&lt;/p&gt;
+
+&lt;p&gt;小野洋子的塑膠小野樂團(Plastic Ono Band)於2009年時，在他們的網站上舉辦混音競賽，讓任何人可以下載創用CC授權的音效、人聲、鼓聲等，根據自己的品味混音後上傳。網站上有很大的「專輯購買」按鈕，這樣的競賽吸引了大量流量，也就讓更多人知道這張專輯，甚至點選按鈕購買，最終也就能使音樂賣得更好。&lt;/p&gt;
+
+&lt;p&gt;除了音樂人各自的努力，也有公司嘗試以開放精神經營音樂平台。荷蘭的Hessel van Oorschot於2008年成立了&lt;a href=&quot;https://www.tribeofnoise.com/index.php&quot; target=&quot;_blank&quot;&gt;Tribe of Noise&lt;/a&gt;，希望成為音樂界的Flickr。Hessel說，許多人將創用CC計畫看成免費贈與所有東西的嬉皮人士團體，而不想接受任何需要開銷的事物。然而，事實上創用CC是一種商業授權，可以透過授權條件的選擇來確保盈利。今日的著作權法無法幫助權利人及維持產業所需的彈性，需要更多像Tribe of Noise的公司，讓音樂人可以分享音樂、連結彼此、嘗試新的商業模式、探索新市場。&lt;/p&gt;
+
+&lt;p&gt;如果你對於音樂人如何使用創用CC感興趣，可以來看看&lt;a href=&quot;https://wiki.creativecommons.org/wiki/Musician&quot; target=&quot;_blank&quot;&gt;CC總部的音樂人維基&lt;/a&gt;，或是在&lt;a href=&quot;https://www.kickstarter.com/pages/creativecommons&quot; target=&quot;_blank&quot;&gt;kickstarter&lt;/a&gt;上留意以創用CC授權的音樂募資專案。2004年成立的硬蕊龐克樂團Dead Unicorn採用創用CC授權釋出&lt;a href=&quot;http://deadunicorn.bandcamp.com/&quot; target=&quot;_blank&quot;&gt;三張專輯&lt;/a&gt;，他們認為應該以此確保人人都能分享與混搭他們的作品，而他們的&lt;a href=&quot;https://www.kickstarter.com/projects/zacshaw/dead-unicorn-pandemic-lp/posts/433837&quot; target=&quot;_blank&quot;&gt;第三張專輯就是在kickstarter募資的&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;參考資料：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://music.tutsplus.com/articles/creative-commons-for-musicians-can-you-make-money-by-giving-music-away--audio-3931&quot; target=&quot;_blank&quot;&gt;http://music.tutsplus.com/articles/creative-commons-for-musicians-can-you-make-money-by-giving-music-away--audio-3931&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://teamopen.cc/chris/&quot; target=&quot;_blank&quot;&gt;http://teamopen.cc/chris/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://teamopen.cc/jonathan/&quot; target=&quot;_blank&quot;&gt;http://teamopen.cc/jonathan/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://teamopen.cc/kellee/&quot; target=&quot;_blank&quot;&gt;http://teamopen.cc/kellee/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://4pt5.com/tribe-of-noise-making-money-for-artists-using-creative-commons/&quot; target=&quot;_blank&quot;&gt;http://4pt5.com/tribe-of-noise-making-money-for-artists-using-creative-commons/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 15 Dec 2015 03:09:59 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1179 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151215#comments</comments>
+</item>
+<item>
+ <title>披荊斬棘的音樂授權路—獨立影像創作者的心聲</title>
+ <link>https://creativecommons.tw/in-depth/848</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;黨雯嫻 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;就讀研究所期間，我拍攝了一部劇情短片，其中一首配樂是某唱片公司發行的合輯當中的一首1940年代的歌曲。透過&lt;a href=&quot;http://www.must.org.tw/&quot; rel=&quot;http://www.must.org.tw/&quot;&gt;社團法人中華音樂著作權協會&lt;/a&gt;（簡稱MÜST）查到該曲的詞曲版權後，在「非營利為目的」的前提下，我向音樂公司申請詞、曲的公開播放及DVD重製權；並向發行的唱片公司申請錄音版權。&lt;br /&gt;
+後來，作品獲得公部門舉辦之影展的青睞，有了公開播映的機會。該部門所辦的是一個售票影展，每場次99元，我的作品在其中一場。但，找出當初所填寫的報名表注意事項，其中兩條是這麼寫的：&lt;br /&gt;
+1. 本影展純為文化活動，不具任何商業目的。&lt;br /&gt;
+2. 影片配音、配樂及使用之圖文均需由創作者/團隊取得授權，如因影片播出產生著作權相關爭議，由創作者/團隊及參賽者 負連帶之完全責任。&lt;br /&gt;
+「如果不具商業目的，為什麼要售票？」為此我詢問音樂公司，對方回覆若是此情形，那就是影展單位需要重新跟音樂公司洽談版權，然而影展單位的立場卻是著作權爭議需要創作者負責。那麼應該誰去談授權？誰要授權給誰？這件事情後來不了了之，影展落幕，事件還沒結束。&lt;br /&gt;
+&lt;br /&gt;
+一年後，該單位通知當時獲獎的參賽者們，計畫集結大家的作品重新壓製成精選短片集，各組將得到一份作為紀念外，單位還會替參賽者們統一報名國外影展、公開放映，並把短片集中放置展售中心向民眾販售。&lt;strong&gt;影展單位表示，「為了尊重參賽者們的智慧財產權，請詳閱授權書後簽名寄回。」&lt;/strong&gt;（看起來似乎是單純而理所當然的事？）&lt;br /&gt;
+我回信告知並詢問，一年前參賽時即告知歌曲版權依然屬於音樂公司，所簽之合約當中並不包含再製與商品販售行為，若本人同意將視同違約；再針對商品販售提出疑問：以&lt;a href=&quot;http://web.pts.org.tw/php/newsletter/view.php?NAENO=1&amp;amp;NEENO=2863&quot; rel=&quot;http://web.pts.org.tw/php/newsletter/view.php?NAENO=1&amp;amp;NEENO=2863&quot;&gt;公共電視&lt;/a&gt;為例，它擔任學生劇展的投資者，每部影片補助上限50萬元，有權針對影片的演員、劇情及拍攝手法等進行更動，影片完成後版權亦歸屬於公視；而影展單位計畫發行/販售短片集，為何不是向創作者（或出資者）購買版權？又，扣除成本後的盈收將如何處理？卻再也沒有收到影展單位回信。&lt;br /&gt;
+&lt;br /&gt;
+詢問MÜST後得知，針對授權的部分，詞曲和重製皆要透過音樂公司，MÜST只負責公開演出的部分授權，並依照網站公布之資訊，依場次計費。針對這個事件，音樂公司已回函同意無償授權公開播放；至於錄音版權則需要另外洽談。由於，早期台灣並無著作權的概念，發行的唱片公司並不知道他們是否擁有老歌的錄音版權；而音樂公司也不清楚該唱片公司究竟是否合法擁有老歌的發行權利，若要追本溯源則需耗費時間及人力，再次不了了之。&lt;br /&gt;
+就上述的例子，我想提出作為一個獨立影像創作者在音樂尋求授權上的困境與反思：&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;一、策展單位對參展作品利用之規劃不清：&lt;/strong&gt;&lt;br /&gt;
+徵件時影展單位說明為不具商業目的之純文化活動，事後卻逕自舉行售票影展；一年後，通知創作者將集結作品發行精選集，方便以團體名義報名國際影展外，也會在固定地點銷售，直接要求作品授權。如此任意變換遊戲規則，將使利用狀況超過創作者與音樂公司原先洽談的授權合約，不但被迫放棄參展機會，甚至可能造成創作者的違約，使其無所適從。&lt;br /&gt;
+&lt;br /&gt;
+而當創作者替作品報名國內外各大小影展後，其實並不會知道自己的作品是否會入圍？是否會播放？在哪裡播放？會播放幾次？假使又遇到對影片放映規劃較為隨興的策展單位，按照現行運作的授權體制，創作者的口袋必須夠深，才能向集管團體支付計畫中與預期外的公開演出費用。&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;二、授權手續複雜，且權利分散在不同單位：&lt;/strong&gt;&lt;br /&gt;
+我國現有&lt;a href=&quot;http://www.tipo.gov.tw/ct.asp?xItem=202448&amp;amp;ctNode=7001&amp;amp;mp=1&quot;&gt;著作權集體管理團體&lt;/a&gt;（原名為：著作權仲介團體，以下簡稱集管團體）對於個別利用人之授權仍採取人工作業方式，並不像國外的仲權團體（如美國&lt;a href=&quot;http://www.bmi.com/&quot; rel=&quot;http://www.bmi.com/&quot;&gt;BMI&lt;/a&gt;與日本&lt;a href=&quot;http://www.elicense.co.jp/&quot;&gt;eLicense&lt;/a&gt;等）已經發展出線上授權模式，在授權申請時序上較為不便（陳柏如，2002；錢佳玉，2008）；又，國內集管團體無單一窗口提供授權服務，各團體間有管理權能的重疊與分散，會造成利用人的混淆（沈玟潔，2009）。&lt;br /&gt;
+&lt;br /&gt;
+加上早期台灣無完整版權概念，許多台語歌曲及老歌的權利歸屬不明，以致利用人要使用音樂時「找不到主人」而被迫放棄使用或侵權使用（陳柏如，2002）。東吳法律所林玉湄（2011）提到：「國內音樂著作權人之重製權均保留在自己手中，故授權手續較為複雜，必須向詞曲著作人本人或代理之音樂出版、經紀公司洽談授權。」一部影片的配樂牽涉到的著作權範圍包括重製、公開演出、公開傳輸、公開上映等，必須針對詞、曲、錄音等版權各別向權利人申請授權，又得根據不同的展演情境，而有不同的授權方式，整個過程將耗費的時間與成本十分令人卻步。&lt;br /&gt;
+&lt;br /&gt;
+以本事件為例，透過MÜST的線上資料庫得知，該曲的詞曲版權皆在音樂公司手中，所以我直接與其聯繫。當我向此音樂公司無償取得詞曲校園播放以及參展允許&lt;strong&gt;[註]&lt;/strong&gt;，誤以為已順利取得公開演出之授權。然而，此音樂公司其實是MÜST的會員，並把公開演出的權利交由MÜST處理。按照MÜST的規定，所有公開演出的授權皆屬MÜST的範疇。換句話說，因為著作權利切割分屬，而訊息又不夠完整全面時，導致非法律背景專業的創作人，容易陷入誤判及困擾。&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;小結&lt;/strong&gt;&lt;br /&gt;
+數位時代下，當人人都是創作者也是使用者，著作的方式及利用人之範圍日益擴大，要個別取得授權著實不易，我們是否有在”All Rights Reserved”之外的其他選擇？又，面對無法事先計算的報酬費率，身為獨立影像創作者的我們，能否得到影展單位或集管團體的協助，以一個更彈性計價的方式，讓我們的創意自由流通，與更多人分享？&lt;br /&gt;
+&lt;br /&gt;
+修改法律或制定取樣的授權條款，雖說是解決問題的選項之一，然而較有效率解決授權難題的方法，應來自權利人的自我覺醒，創用CC（Creative Commons）是可思考的選項之一（林玉湄，2011）。創用CC的精神在於分享、開放、共用，吳宗樺律師在&lt;a href=&quot;http://creativecommons.tw/in-depth/367&quot; rel=&quot;http://creativecommons.tw/in-depth/367&quot;&gt;〈論以創用CC授權之著作另外授權台灣著作權仲介團體管理之可行性〉&lt;/a&gt;一文中提到，讓創作者由著作中所表達出來的創意形式，可以廣泛地被流傳，並不表示使用創用CC的著作人，必須放棄獲取其著作中所蘊含的商業利益，相反地，而是人性化地保留著作財產權人將來授權他人於商業目的上使用其著作之可能性。&lt;br /&gt;
+&lt;br /&gt;
+創用CC的存在，可以協助延展音樂的生命週期，讓音樂作品在一些前提條件下，能更便利地被大家取用，增加能見度；而若超過這些使用前提，則需另外洽談授權金，要求利用人合理付費。這樣的授權宣告機制，同時保障著作人、使用者、集管團體及版權公司，創造一個使用音樂的「無障礙空間」多贏局面，是身為一位創作者所樂見之事，或許也值得音樂圈來思考。&lt;br /&gt;
+&lt;strong&gt;參考資料：&lt;/strong&gt;&lt;br /&gt;
+陳柏如，《數位時代著作權集體管理之研究》，國立台灣大學法律系碩士論文，2002。&lt;br /&gt;
+吳宗樺，〈論以創用CC授權之著作另外授權台灣著作權仲介團體管理之可行性〉，台灣創用CC電子報第17期專文，2007。&lt;br /&gt;
+錢佳玉，《著作權線上授權機制之研究》，國立台北大學法律學系碩士論文，2008。&lt;br /&gt;
+沈玟潔，《台灣音樂著作權仲介團體運作機制之研究》，玄奘大學資訊傳播系碩士論文，2009。&lt;br /&gt;
+林玉湄，《音樂利用所生著作權相關問題之研究—以數位取樣為中心》，東吳大學法律學系碩士在職專班科技法律組碩士論文，2011。&lt;br /&gt;
+--&lt;br /&gt;
+&lt;strong&gt;[註]&lt;/strong&gt;與音樂公司書信往返，提及需要校園播放及參賽/參展之授權，但音樂公司表示公開播送不需付費，使我以為已獲授權。但後來瞭解著作權法發現，我從頭到尾其實是需要此音樂公開演出的權利，當時音樂公司完全沒提及。
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 01 May 2014 16:00:00 +0000</pubDate>
+ <dc:creator>vilyak</dc:creator>
+ <guid isPermaLink="false">943 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/848#comments</comments>
+</item>
+<item>
+ <title>OPEN的力量：音樂無國界</title>
+ <link>https://creativecommons.tw/blog/20130214</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Dan Zaccagnino，INDABA MUSIC / 紐約（ 更多資訊：&lt;a class=&quot;newpage&quot; href=&quot;http://www.indabamusic.com&quot;&gt;http://www.indabamusic.com&lt;/a&gt; ）&lt;br /&gt;
+&lt;br /&gt;
+歌曲創作者與吉他手 Dan Zaccagnino 說「人們早已跨越國界互相發送音樂，我們希望用更有組織的方式使其成為可能。」因此在 2007 年 2 月，他和其他 4 名音樂人發起了名為 Indaba Music 的全球網路與合作平台。會員以創用 CC 授權上傳他們的曲目，或使用其他會員的材料創作混搭，或合作進行專案。&lt;br /&gt;
+&lt;br /&gt;
+Indaba 也會舉辦比賽，邀集眾人對知名藝人如 Peter Gabriel、Weezer、Snoop Dogg、Yo-Yo Ma 等人的曲目進行實驗。這些專案的混搭作品全都以創用 CC 的 CC BY-NC-ND 授權加以公開，讓創作新星與成名藝人的合作能廣為傳播。&lt;br /&gt;
+&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/wei_ming_ming__0.jpg?itok=b5qQB-mC&quot; style=&quot;height:550px; width:700px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Indaba 來自 200 個國家的 54 萬名用戶證明了，只要有適當的工具，自由可以擴展創造力。2010 年年底，另類搖滾樂團 Marcy Playground 將他們最新專輯「Leaving Wonderland ... In a Fit of Rage」的每首曲目，全以創用 CC 授權加以釋出，因此所創造出的內容更足以製作出第二章專輯「Indaba Remixes from Wonderland」，其中的曲目來自 Indaba 用戶的混搭。&lt;br /&gt;
+&lt;br /&gt;
+Zaccagnino 承認「一開始的確有許多阻礙，但我們向音樂人與唱片公司證明了創用 CC 授權的優點。」&lt;br /&gt;
+&lt;br /&gt;
+圖文出自 &lt;a class=&quot;newpage&quot; href=&quot;http://thepowerofopen.org/&quot;&gt;The Power of Open&lt;/a&gt; P21&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 14 Feb 2013 10:28:34 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">658 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20130214#comments</comments>
+</item>
+<item>
+ <title>OPEN的力量：全面開放</title>
+ <link>https://creativecommons.tw/blog/20130131</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Curt SMITH / 洛杉磯（ 更多資訊：&lt;a class=&quot;newpage&quot; href=&quot;http://curtsmithofficial.com&quot;&gt;http://curtsmithofficial.com&lt;/a&gt; ）&lt;/p&gt;
+
+&lt;p&gt;1980 年代時，搖滾樂團 Tears for Fears 迅速的從大學電台寵兒成功跨入主流。Curt Smith 與 Roland Orzabal 雙人組賣出 2200 萬張唱片，他們的歌曲變成流行搖滾名曲。&lt;/p&gt;
+
+&lt;p&gt;現在，該樂團的主唱和貝斯手 Smith 使用創用 CC 授權來發佈他的作品。2007 年 Smith 以創用 CC BY-NC-SA 授權發行了半自傳性質的個人專輯「Halfway, pleased」。他說「在完全著作權之下，人們希望獲准使用歌曲的要求曾讓我們應接不暇。如今，只要沒有以此獲利並且標示出處，他們無須詢問就可以盡情使用。」&lt;br /&gt;
+&lt;br /&gt;
+結果是，Smith 可以集中心力在他最拿手的音樂製作上。Smith 目前正在製作有著一張專輯分量的曲目選集，並作為免費 MP3 下載。每首曲目都是 Smith 與 Facebook 或 Twitter 上某人的合作成果。&lt;br /&gt;
+&lt;br /&gt;
+「創用 CC 對所有藝人來說都是一個好辦法。會有人希望到處控告他們的粉絲嗎？我很樂意看到人們隨意使用我的音樂，因為我希望我的音樂被大家聽見。」&lt;br /&gt;
+&lt;br /&gt;
+圖文出自&lt;a class=&quot;newpage&quot; href=&quot;http://thepowerofopen.org/&quot;&gt;The Power of Open&lt;/a&gt; P22&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 31 Jan 2013 10:30:24 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">659 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20130131#comments</comments>
+</item>
+<item>
+ <title>OPEN的力量：開拓流行文化</title>
+ <link>https://creativecommons.tw/blog/20120727-1</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Zadi Diaz、Steve Woolf / 洛杉磯（更多資訊：&lt;a class=&quot;newpage&quot; href=&quot;http://epicfu.com&quot;&gt;http://epicfu.com&lt;/a&gt;）&lt;/p&gt;
+
+&lt;p&gt;從 2006 年開始，「Epic Fu」開始在網路上廣播滿是有趣音樂、藝術與文化新聞的節目。創用 CC 從一開始就在這個熱門網路節目計劃中扮演重要角色。製片人 Zadi Diaz 與 Steve Woolf 經常在節目中使用以創用 CC 授權的音樂和影片內容，這些節目也透過創用 CC 姓名標示-非商業性-相同方式分享授權釋出。&lt;/p&gt;
+
+&lt;p&gt;Woolf 說，「我個人最愛的節目叫做‘Your Copyright Can Kiss My Ass’，節目談到傳統媒體對於現代媒體傳播方式的適應緩慢。我們在盡可能延伸著作權上，採取了非常強硬的觀點。」&lt;/p&gt;
+
+&lt;p&gt;這個節目的創用 CC 授權讓粉絲們可以將節目上傳並分享給朋友，Diaz 與 Woolf 會用粉絲製作出的混搭來宣傳節目。Woolf 說，「這些可以用上好幾個月的混搭內容，讓我們省去自行製作宣傳短片的時間。這是吸引聽眾支持的絕佳方式。」&lt;/p&gt;
+
+&lt;p&gt;本文出自 &lt;a class=&quot;newpage&quot; href=&quot;http://thepowerofopen.org/&quot;&gt;The Power of Open&lt;/a&gt; P19&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 02 Jan 2013 16:34:22 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">625 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120727-1#comments</comments>
+</item>
+<item>
+ <title>OPEN的力量：大眾的古典音樂</title>
+ <link>https://creativecommons.tw/blog/20120719-2</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Scott Nickrenz / 波士頓 ISABELLA STEWART GARDNER 博物館（更多資訊：&lt;a class=&quot;newpage&quot; href=&quot;http://www.gardnermuseum.org&quot;&gt;http://www.gardnermuseum.org&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;位於波士頓的 Isabella Stewart Gardner 博物館不僅擁有超過一世紀的歷史，保藏超過 2,500 件藝術品，更是在古典音樂發行中最先進運動之一的起源地。除了廣泛的藝術收藏品之外，這間博物館擁有以 CD 形式保存長達數百小時的現場演奏。多年以來，這些音樂乏人聆聽。於是在 2006 年 9 月，博物館的音樂策展人 Scott Nickrenz 推出了一個古典音樂播客 (podcast) &quot;The Concert&quot;。「就在我聽到創用 CC 授權的時候，我知道這就是我們要做的事。」 Nickrenz 說，「讓這些高品質錄音得以免費分享對我們非常重要。」&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/isabella_stewart_gardner.jpg?itok=KPcx6fJY&quot; style=&quot;height:250px; width:690px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nickrenz 說，&quot;The Concert&quot; 每兩個星期播放 45 分鐘，它的成功很大程度來自於其開放的可用性。「推出播客與音樂資料庫之後的 6 星期中，我們有來自 83 個國家超過 4 萬次下載，這對於古典音樂播客來說是空前未有的。現在每個月平均會有約 5 萬次的下載。」&lt;/p&gt;
+
+&lt;p&gt;在 2010 年 12 月，&quot;The Concert&quot; 被來自 190 個國家的愛樂人，下載超過 180 萬次以上。「最令人印象深刻的，或許是來自一群在菲律賓經營非營利電台的修女們的聯繫，感謝創用 CC 讓她們可以將博物館的偉大古典音樂，分享給她們的聽眾。」&lt;/p&gt;
+
+&lt;p&gt;本文出自 &lt;a class=&quot;newpage&quot; href=&quot;http://thepowerofopen.org/&quot;&gt;The Power of Open&lt;/a&gt; P27&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 31 Dec 2012 02:57:11 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">623 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120719-2#comments</comments>
+</item>
+<item>
+ <title>OPEN的力量：開啟音樂家的市場</title>
+ <link>https://creativecommons.tw/blog/20120727-2</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Sylvain Zimmer / 盧森堡（更多資訊：&lt;a href=&quot;http://www.jamendo.com/&quot;&gt;http://www.jamendo.com&lt;/a&gt;）&lt;/p&gt;
+
+&lt;p&gt;當盧森堡音樂家 Sylvain Zimmer 發現到，沒有好的合法途徑可以和朋友線上分享音樂時，他決定自行創造。在 2004 年，他和兩位伙伴成立了 Jamendo，這個獨特的網路平台可以讓音樂家以創用 CC 授權將他們的音樂分享給所有人。這家公司採用免費增值模式 (freemium)，免費將所有內容提供給大眾，然後針對創用 CC 授權未允許的使用權利收取費用，並與音樂家拆分一半的營收。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/jamendo.jpg&quot; style=&quot;height:350px; width:700px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;今天 Jamendo 上有超過 4 萬張採用創用 CC 授權的專輯可供免費合法下載。音樂家每天上傳數百首新歌曲。Jamendo 在全球擁有超過 5 千名用戶，包括付費授權在電影、廣告、電視節目中使用音樂的商業用戶。&lt;/p&gt;
+
+&lt;p&gt;對某些音樂家而言這個結果相當令人印象深刻。巴塞隆納的樂器藝術家 Roger Subirana Mata 在 2008 年時加入 Jamendo，之後他的歌曲已經被聽過超過 60 萬次，商業用戶的授權也超過 300 次。Mata 在 Jamendo 部落格上寫道，「雖然看來矛盾，透過創用 CC 來做音樂授權，的確讓我的音樂更有市場、更有盈利、更出名。」&lt;/p&gt;
+
+&lt;p&gt;Jamendo 共同創辦人 Pierre Gerard 說創用 CC 是該公司成功的基礎。「我們希望音樂家將創用 CC 授權、Jamendo 和自由音樂的理念，視為在音樂散佈上一項真實且有利的選擇。」&lt;/p&gt;
+
+&lt;p&gt;本文出自 &lt;a class=&quot;newpage&quot; href=&quot;http://thepowerofopen.org/&quot;&gt;The Power of Open&lt;/a&gt; P31&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 02 Dec 2012 02:35:04 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">626 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120727-2#comments</comments>
+</item>
+<item>
+ <title>OPEN的力量：混搭風席捲全球</title>
+ <link>https://creativecommons.tw/blog/20120719-1</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;DJ VADIM / 柏林和倫敦 （更多資訊：&lt;a class=&quot;newpage&quot; href=&quot;http://www.djvadim.com&quot;&gt;http://www.djvadim.com&lt;/a&gt;）&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/dj_vadim__home.jpg&quot; style=&quot;display:block; height:300px; width:750px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;出生於俄國列寧格勒，在倫敦長大的 DJ Vadim 成為了全球嘻哈與電子音樂界的一份子。他作為一名製作人，與史提夫汪達、 The Roots、Prince and Public Enemy 等傳奇藝人共同演出。他也以不同的藝名發行過許多自己的專輯。&lt;/p&gt;
+
+&lt;p&gt;當他尋找靈感與新的人才時，Vadim 使用社群混搭網站 ccMixter 讓其他製作人下載他用創用 CC 授權的曲目，並以他們的喜好加以重製。&lt;/p&gt;
+
+&lt;p&gt;有多達 3000 人曾下載 Vadim 的 ccMixter 曲目，並創作出超過 500 首混搭音樂。根據為 DJ Vadim 的唱片公司 Organically Grown Sounds 工作的 Ben Dawson 表示，&quot;人們上傳自己的混搭音樂，然後與朋友分享，為音樂帶來了許多的關注。這是讓人們置身於音樂，投注情感、心情、靈魂的絕佳方式，而非僅是聆聽音樂。&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Vadim 經常環遊世界各地，與歌唱家、音樂家和其他 DJ 一起合作和對話。&quot;如今網路替我們提供了更多的對話方式，像是 ccMixter 與其他很棒的音樂平台。&quot;&lt;/p&gt;
+
+&lt;p&gt;Vadim 認為，這樣的合作相當重要。&quot;在環遊世界的旅途上，與相遇的人撰寫歌曲，這樣的協同合作是 OGS 的全部。音樂是創作者與聆聽者之間的交談，會為音樂這個熔爐帶來各自的體驗。&quot;&lt;/p&gt;
+
+&lt;p&gt;本文出自 &lt;a class=&quot;external&quot; href=&quot;http://thepowerofopen.org/&quot;&gt;The Power of Open&lt;/a&gt; P15&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 25 Oct 2012 00:56:37 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">622 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120719-1#comments</comments>
+</item>
+<item>
+ <title>網路音樂廠牌與音樂民主化</title>
+ <link>https://creativecommons.tw/blog/20120729</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/33315&quot;&gt;Elliot Harmon，2012 年 7 月 13 日&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;上週，開放存取期刊 First Monday 發表了一篇很棒的研究論文 (採創用 CC BY-NC-ND 授權)，題為網路音樂廠牌與音樂民主化，作者是 Patryk Galuszka。對於不熟悉這個用語的人，網路音樂廠牌 (netlabel) 有點像是更輕量級的唱片公司，主要是在網際網路上散佈音樂唱片，其中許多是採用創用 CC 的自由音樂。&lt;/p&gt;
+
+&lt;p&gt;數十年來，音樂家與樂迷對於獨立音樂製作和發行抱持著浪漫的想法，但根據 Galuszka 的說法，即使在 DIY 運動的全盛時期，真的要自己動手做在經濟上相當艱鉅：&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[…] 不論較為成功的獨立唱片公司或小型 DIY 廠牌，都面臨到唱片銷售慘淡、負責人為日常營運籌資困難的窘境。為了支付帳單，唱片公司以經營錄音室、零售商店、配送等其他服務作為貼補的情況時有所聞。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Galuszka 提到，當網際網路已成為音樂宣傳與散佈的主導平台，自行配銷與獨立廠牌也成為了主要唱片公司之外，更可行的替代方案。&lt;/p&gt;
+
+&lt;p&gt;網際網路與數位化的來臨，至少在兩個方面降低了主要唱片廠牌的競爭優勢。首先，他們減少了操控散佈網絡的效益。其次，網際網路的到來使得藝術家與聽眾間低成本且直接的溝通成為可能，社群網站、YouTube、部落格提供音樂家在商業電臺、電視、平面雜誌之外，廉價且便利的替代選項。&lt;/p&gt;
+
+&lt;p&gt;和藝術家與聽眾間由技術所提供的全新連接同樣重要的，是藝術家彼此間的連接。拿第四屆年度 Free! Music! 競賽 (創用 CC 很榮幸作為贊助者) 為例，這場比賽的計分系統會獎勵歌曲被影片混搭或重用的參賽者，ccMixter 和 Free Music Archive 這類網站讓藝術家得以輕易地分享他人作品，並加以重複使用。&lt;/p&gt;
+
+&lt;p&gt;原文出處：&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/33315&quot;&gt;http://creativecommons.org/weblog/entry/33315&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 29 Jul 2012 03:33:39 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">624 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120729#comments</comments>
+</item>
+</channel>
+</rss>

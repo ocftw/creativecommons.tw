@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 故宮</title>
+ <link>https://creativecommons.tw/taxonomy/term/3054</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>數位化公眾領域作品之開放授權初探—以故宮為例</title>
+ <link>https://creativecommons.tw/in-depth/1108</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;博物館最初是貴族富商的私人收藏，往往不開放外人觀看，或只針對特定階級開放。直到1793年法國大革命期間所開設的巴黎羅浮宮，才開始向普羅大眾開放，而其後的博物館也開始認同作為傳遞知識給社會大眾的角色。如今，想到博物館，不再會有人認為這是一個專屬於特殊階級使用的機構。&lt;/p&gt;
+
+&lt;p&gt;隨著世界各博物館紛紛投入藏品數位化的行列，加上網路的使用率越來越普及，似乎博物館在科技的催化下更容易走入平民百姓的生活中。然而，許多數位化後的館藏只能在館內才能使用，或是必須經歷繁複的申請流程，甚至支付高額費用才能使用。虛擬世界中的博物館不僅未能發揮網路潛能，突破時空限制接觸各式使用者，反而又像是走回了有所限制的博物館。&lt;/p&gt;
+
+&lt;p&gt;事實上，博物館內有許多作品已超過著作權保障期間，屬於「&lt;a href=&quot;http://pd4pd.org/zh-hant&quot;&gt;公眾領域&lt;/a&gt;」。任何人都可以自由使用這些公眾領域作品，不用詢問作者，也不需支付費用，就能根據各種目的，將它們重製、改作，或是將它們公開的演出、口述、展示、上映。（註：可參考「&lt;a href=&quot;http://creativecommons.tw/in-depth/655&quot;&gt;我國著作權法下的公眾領域範圍&lt;/a&gt;」此文判斷哪些作品屬於公眾領域。由於各國著作權法有不同規定，使用國外作品時請參考「&lt;a href=&quot;http://en.wikipedia.org/wiki/List_of_countries&#039;_copyright_lengths&quot;&gt;List of countries&#039; copyright lengths&lt;/a&gt;」。）&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;博物館開放授權數位化公眾領域作品之案例舉隅&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;目前，歐美都已經有許多文化機構開始重視數位化館藏的線上取用議題，組成了&lt;a href=&quot;http://openglam.org/&quot;&gt;OpenGLAM(Open galleries, libraries, archives, museums)&lt;/a&gt;及&lt;a href=&quot;http://www.communia-project.eu/&quot;&gt;COMMUNIA&lt;/a&gt;等社群，推動美術館、圖書館、典藏館和博物館開放資料。COMMUNIA在「&lt;a href=&quot;http://pd4pd.org/zh-hant/blog/47&quot;&gt;公眾領域宣言&lt;/a&gt;」中便明確指出「是公眾領域的作品就必須留在公眾領域內」，文化機構將公眾領域作品數位化後，不能主張新的權利限縮公眾領域作品的使用。&lt;/p&gt;
+
+&lt;p&gt;Flickr於2008年和&lt;a href=&quot;http://www.loc.gov/&quot;&gt;美國國會圖書館&lt;/a&gt;共同啟動的「&lt;a href=&quot;https://www.flickr.com/commons/&quot;&gt;公眾相簿計畫&lt;/a&gt;」，陸續與&lt;a href=&quot;https://www.flickr.com/commons/usage/&quot;&gt;103間文化機構&lt;/a&gt;合作上傳已知無著作權限制的圖像，這些圖像皆為高畫質且使用時無任何要求。大英圖書館也是參加的機構之一，除了使用「&lt;a href=&quot;http://creativecommons.tw/pdm&quot;&gt;公眾領域標章&lt;/a&gt;」(PDM)標示泥金裝飾手抄本，也以「&lt;a href=&quot;http://creativecommons.tw/cc0&quot;&gt;公眾領域貢獻宣告&lt;/a&gt;」(CC0)之授權宣告館方放棄對於書籍插圖圖像的權利。&lt;/p&gt;
+
+&lt;p&gt;同樣於2008年開始運作的&lt;a href=&quot;http://www.europeana.eu/portal/&quot;&gt;歐洲的數位圖書館Europeana&lt;/a&gt;，也與&lt;a href=&quot;http://www.europeana.eu/portal/europeana-providers.html&quot;&gt;歐洲上百間文化機構&lt;/a&gt;合作，透過單一介面就匯集來自各館數位化後的書籍、繪畫、相片、影音館藏。這些作品的品質好、未添加防盜版機制，多數都以「公眾領域標章」(PDM)標示其公眾領域狀態，讓使用者可以安心的自由下載及使用。&lt;/p&gt;
+
+&lt;p&gt;在Europeana合作的對象中，最有名的是荷蘭的國家博物館&lt;a href=&quot;https://www.rijksmuseum.nl/&quot;&gt;Rijksmuseum&lt;/a&gt;。該館將網站上所有圖像都予以「公眾領域貢獻宣告」（CC0），不論是2MB的jpg檔或200MB的tiff檔都能根據不同目的自由下載使用。&lt;/p&gt;
+
+&lt;p&gt;至於&lt;a href=&quot;http://www.smk.dk/en/&quot;&gt;丹麥國家藝術館&lt;/a&gt;則稍微保守，他們數位化了160幅經典公眾領域畫作及100支相關影片，於2009年採取「&lt;a href=&quot;http://creativecommons.tw/license&quot;&gt;創用CC 姓名標示&lt;/a&gt;」授權這些館藏，使用者可以免費下載和任意改變這些高解析度畫作，甚至能拿來營利，但是必須標示作品來自丹麥國家藝術館。現今已改採「公眾領域貢獻宣告」（CC0）。&lt;/p&gt;
+
+&lt;p&gt;另外，&lt;a href=&quot;http://www.lacma.org/&quot;&gt;洛杉磯州立藝術館&lt;/a&gt;於線上提供大約兩萬張高解析度的公眾領域館藏圖像，任由使用者依據各自目的免費下載使用；&lt;a href=&quot;http://www.nga.gov/&quot;&gt;美國的國家藝術館&lt;/a&gt;在網站上提供1200畫素的圖像供使用者自由下載；&lt;a href=&quot;http://www.britishart.yale.edu/&quot;&gt;耶魯大學的英國藝術中心&lt;/a&gt;於其網站上提供三種大小的圖像任使用者自行下載使用。即便有些博物館對於商業性用途存有疑慮，如&lt;a href=&quot;http://www.imamuseum.org/&quot;&gt;印第安納波利斯藝術館&lt;/a&gt;、&lt;a href=&quot;http://www.vam.ac.uk/&quot;&gt;維多利亞與艾伯特博物館&lt;/a&gt;、&lt;a href=&quot;http://www.metmuseum.org/&quot;&gt;大都會藝術博物館&lt;/a&gt;，卻也都願意在線上開放數十萬張的圖像供個人、教育、學術用途免費下載使用。&lt;/p&gt;
+
+&lt;p&gt;除了於線上開放數位館藏，&lt;a href=&quot;http://creativecommons.org/weblog/entry/34017&quot;&gt;Europeana&lt;/a&gt;與包含&lt;a href=&quot;http://openglam.org/2013/01/21/digital-public-library-of-america-recommends-cc0/&quot;&gt;美國數位公共圖書館&lt;/a&gt;、&lt;a href=&quot;https://www.google.com.tw/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=2&amp;amp;cad=rja&amp;amp;uact=8&amp;amp;ved=0CCQQFjAB&amp;amp;url=http%3A%2F%2Fopenmetadata.lib.harvard.edu%2Fpublic_faq&amp;amp;ei=g_lAVYnlKKWNmwWcsYFo&amp;amp;usg=AFQjCNEJJInbqxg2Ev2lNcrRa_ZwLQJlMQ&amp;amp;sig2=yhHW_b3Xkm5BpsunWUurSw&amp;amp;bvm=bv.91665533,d.dGY&quot;&gt;哈佛大學圖書館&lt;/a&gt;、德國國家圖書館、西班牙國家圖書館、瑞典國家圖書館等多個文化機構，也都將這些館藏的詮釋資料(metadata)以「公眾領域貢獻宣告」（CC0）釋出。如此一來可以便於不同館藏的詮釋資料連結、翻譯，以及讓詮釋資料能被修正的更完善。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;開放數位公眾領域作品的好處&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;多數博物館採納開放政策都是出於領導階層的決心。這些領導者相信博物館擔負傳遞知識給公眾的使命，並認為在網路上開放數位化館藏，有利於讓這些作品以及該館更容易被眾人接觸。像是&lt;a href=&quot;http://www.thewalters.org/&quot;&gt;華特美術館&lt;/a&gt;的Gary Vikan便認為館藏屬於整個城市，因此不論是實體或線上的館藏都應該是免費的。普魯士文化資產基金會領導人Herman Parzinger也指出：「德國數位圖書館的目標是提供每個人能不受任何限制的取用德國的文化及科學資產，也就是說，要讓整個德國都能取用上萬本書籍、典藏物品、圖像、雕像、音樂、聲音檔、影片與配樂。」&lt;/p&gt;
+
+&lt;p&gt;事實上，許多博物館都因為這些作品上傳到&lt;a href=&quot;http://commons.wikimedia.org/wiki/%E9%A6%96%E9%A0%81&quot;&gt;維基共享資源&lt;/a&gt;、用於維基百科中，而大幅提升這些館藏的使用率。博物館本身查詢與下載作品的網站流量也在採取開放政策後上升了百分之20至250。由此可見，開放數位公眾領域作品其實是絕佳的行銷方式。&lt;/p&gt;
+
+&lt;p&gt;原本有些博物館起初擔心開放後作品會被誤用，然而目前並沒有發生這樣的狀況。Rijksmuseum便認為，館員無法負擔追查作品後續使用情形的成本，還不如完全開放。他們也指出，早在博物館開放數位化公眾領域館藏前就已經有很多品質較差的圖像在網路上流傳，這些可能來自網友自行從不同來源翻拍上傳，既然這些作品都已經能被任意使用了，乾脆由博物館來提供高畫質且來源可信的版本。&lt;/p&gt;
+
+&lt;p&gt;另外，也有博物館起初擔心開放後會造成營利虧損。然而多數博物館都發現販售數位化館藏作品並不會帶來多少利潤，還不如直接在線上提供電子檔案供使用者自由下載，節省處理授權申請的時間人力成本。Rijksmuseum甚至發現「主動提供來源可信的免費圖像」吸引了大量使用者，也就順帶吸引了許多需要高解析度專業輸出畫質、願意付費的出版商與博物館接洽，因此在開放圖像後反而獲得更多利潤。&lt;/p&gt;
+
+&lt;p&gt;最後，採取開放政策不僅讓這些博物館獲得名聲，使其更容易受邀分享經驗或獲得贊助，也讓更多單位主動接洽合辦線上或實體的數位館藏利用活動。不論是&lt;a href=&quot;http://openglam.org/2013/01/17/open-culture-data/&quot;&gt;開發app&lt;/a&gt;或是&lt;a href=&quot;http://openglam.org/2013/07/08/2353/&quot;&gt;當地彩繪活動&lt;/a&gt;，都讓博物館能重新了解使用者對於「館藏是什麼」及「館藏可以用來做什麼」的定義，也讓&lt;a href=&quot;http://publicdomainreview.org/collections_categories/curators-choice/&quot;&gt;不同館的館藏有機會串聯在一起&lt;/a&gt;形成實體博物館未必能策畫出的展覽內容。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;故宮的數位典藏近用現況&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;國立故宮博物院於2002年起開始數位化其館藏，包含器物、書畫、清代檔案、善本古籍。由其&lt;a href=&quot;http://www.npm.gov.tw/digital/&quot;&gt;數位典藏的介紹網站&lt;/a&gt;中可以看出，計畫最初之主要目標在於建立高品質文物影像檔，減少重複提取和拍攝文物對文物帶來的傷害，過程中一方面整理文物、豐富其詮釋資料以提升管理品質，一方面發展數位化館藏的技術與流程。累積了足夠數位典藏後，才進一步思考其商業加值及教育利用的可能性。&lt;/p&gt;
+
+&lt;p&gt;一般使用者(非館員或研究員)可以透過三個管道找到故宮的數位典藏圖像，分別是&lt;a href=&quot;http://catalog.digitalarchives.tw/Organization/List.jsp?CID=90&quot;&gt;數位典藏聯合目錄&lt;/a&gt;、&lt;a href=&quot;http://antiquities.npm.gov.tw/SearchU.aspx&quot;&gt;器物典藏資料檢索系統&lt;/a&gt;、&lt;a href=&quot;http://painting.npm.gov.tw/SearchP.aspx&quot;&gt;書畫典藏資料檢索系統&lt;/a&gt;，雖然圖像清楚，但是都不能放大，且都有浮水印。根據故宮&lt;a href=&quot;http://tech2.npm.gov.tw/da/treasure_question_two3.html#3_1&quot;&gt;於網站上的問與答&lt;/a&gt;，「基於網路傳輸速度及故宮既有影像管理政策之考量，目前網路上所看到的藏品影像，皆不能私自下載。」因此，即便古代的這些文物屬於公眾領域，卻無法讓所有人自由使用。&lt;/p&gt;
+
+&lt;p&gt;若需要使用這些圖像，不論是否營利，都需要向故宮提出申請。申請後要簽訂契約並支付履約保證金，待故宮確定申請人並未違反契約內容，才會將保證金退回。除了保證金，根據「國立故宮博物院藏品圖像授權及出版授權利用辦法」，不論營利與否，申請授權圖像時都須支付權利金。像是用於學術研究，每張圖像400元；用於非營利出版、發表學術研究成果及其他教育用途，每張圖像1200元。其於營利用途則有更精細的計算方式。&lt;/p&gt;
+
+&lt;p&gt;不同用途可以申請到的圖像品質並不相同，根據「國立故宮博物館藏品圖像授權圖檔借用須知」，圖檔規格成3MB(72dpi)、3MB(300dpi)、20MB((300dpi)，若是學術研究、網路應用、一般出版品內頁，都提供3MB(72dpi)的檔案，一般出版品的封面、封底、書衣、書腰、書盒提供3MB(300dpi)的檔案，印刷輸出需求提供20MB(300dpi)。授權張數不超過10張，待完成申請流程後會寄給申請人，使用時需要著名出處，於圖版或著作權聲明處標示「國立故宮博物院藏品」等。&lt;/p&gt;
+
+&lt;p&gt;雖然「國立故宮博物院藏品圖像授權及出版授權利用辦法」中指出，使用者可以根據著作權第44-66條合理使用其作品，但是在使用者未申請前無法取得圖像檔案，以及明文規定教育用途需要收費的情況下，恐怕很難發揮合理使用的應用空間。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;數位化的著作權爭議&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;故宮於數位典藏介紹的網站上分享了他們的工作過程，主要分為影像處理和詮釋資料，影像處理過程包含拍攝、篩選、上傳、建立浮水印、影像擷取技術、色彩管理，詮釋資料也經過多次校正核對才正式對外開放。此過程必然耗費人力、物力，或許館方因此希望能藉由收取權利金補足以往付出的成本，也希望藉由簽訂契約及違約金的制定，來確保辛苦數位化後的成果不會被惡意使用。&lt;/p&gt;
+
+&lt;p&gt;另一方面，此過程必然是館內諸多單位集思廣益下所發展的數位化機制。即便並原作品的真正著作人已過世許久，不再對其作品享有權利，然而負責數位化的人員也投入了許多腦力，而無法對於輕易讓這些數位化成品被他人免費使用感到釋懷。&lt;/p&gt;
+
+&lt;p&gt;這個問題在各國其實都存在，許多人都爭議到底將公眾領域作品進行數位化的人是否能主張著作權。Thomas Margoni在其研究中將數位化分成三個類型：1.缺乏人為干涉的自動數位化，如Google自動掃描書籍、2.為了產生高品質產出特別雇用專家進行數位化，如聘請在不同光影下拍出最佳照片的攝影師、3.由為了清點、分類而手動拍照、複製的自動數位化。其認為第一種狀況不會產生新的著作權，第二種狀況可以主張，第三種狀況則最難判斷。&lt;/p&gt;
+
+&lt;p&gt;瑞典的著作權法雖然承認後兩種狀況下，數位化人員都具有著作權。然而，瑞典的博物館&lt;a href=&quot;http://lsh.se/sv&quot;&gt;Livrustkammaren och Skoklosters slot med Stiftelsen Hallwylska museet&lt;/a&gt;認為博物館的使命在於開放館藏，為了達成他們的目標，不應被著作權法所限，因此他們最後決定以創用CC姓名標示授權釋出這些拍攝作品。這樣的決策過程或許值得有相同顧慮的機構參考。&lt;/p&gt;
+
+&lt;p&gt;廖凰玎於「&lt;a href=&quot;http://web2.nmns.edu.tw/PubLib/Library/quaterly/201004_19.pdf&quot;&gt;論博物館數位典藏圖像授權法律關係—以國立故宮博物院為例&lt;/a&gt;」一文中，則援引國內外法條並綜整國內外判決，最終認為故宮的數位化並不具有「原創性」，因此不在著作權法的保障範圍內。因為故宮是為了忠實記錄並保存古文物而進行數位典藏，因此即使最初有思考該如何調整燈光角度，但是其後便以相同攝影方式記錄每個數位化成品，以確保每張圖片都能維持同樣的品質。在此情況下，每張照片便不會展現創新或創意、無法看出個別攝影師的特色，也就無法判斷其能主張對數位化圖像的著作權。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;開放帶來的好處&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;目前故宮積極的將數位典藏應用於教學和文創產業加值，都有很好的成績。不論是線上或是實體博物館，都可以看到故宮善用科技生動展示數位典藏的努力。在一系列&lt;a href=&quot;http://www.npm.gov.tw/digital/index2_3_6_ch.html&quot;&gt;數位博物館專題網頁&lt;/a&gt;中，便主題式的引導學習者認識這些藏品。這些作品的解析度都高於書畫與器物檢索系統及數位典藏目錄，然而不能下載，而且若欲使用就必須要以網頁為單位完整利用，無法脫離故宮預定的主題進行更符合自主步伐的學習。&lt;/p&gt;
+
+&lt;p&gt;侯皓之在「&lt;a href=&quot;http://www.naer.edu.tw/ezfiles/0/1000/attach/17/pta_484_2268957_55877.pdf&quot;&gt;從國立故宮博物院「數位博物館」談資訊融入教學&lt;/a&gt;」一文中提到，將故宮數位博物館用於教學可以有兩種形式，一種為讓學生自行上網參觀、老師於課堂中解說，另一種為老師重新將數位博物館的內容重新篩選、組織成新的數位教材。故宮設計的數位博物館未必適合每個年級的學生，老師又需要依據學校教學內容設計教材內容，因此若能由老師重新設計，將會更符合學生的程度與需求。然而在故宮目前並未採取開放授權的情況下，可能會造成老師在重新設計教材時的法律顧慮，導致這些珍貴的素材無法善用於教學現場。&lt;/p&gt;
+
+&lt;p&gt;國立臺灣歷史博物館呂理政館長於&lt;a href=&quot;https://www.google.com.tw/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=1&amp;amp;cad=rja&amp;amp;uact=8&amp;amp;ved=0CB4QFjAA&amp;amp;url=http%3A%2F%2Fwww.nmp.gov.tw%2Fuploads%2Ftiny_mce%2Fbooks1%2F6-1.pdf&amp;amp;ei=__1AVe3DC8jCmAXe7oFI&amp;amp;usg=AFQjCNG67eb5Qkhk1JvQGyrUC0JJf-RbUw&amp;amp;sig2=dupEMBGh87ewsZyVY7-fSw&quot;&gt;「博物館展示序說」&lt;/a&gt;一文中指出：「博物館緣起於收藏，對於藏品的維護和研究則為博物館的基本責任，而藉著公開展示面對觀眾，以溝通觀念、傳遞訊息來達成社會教育功能，則為博物館創設的最主要目的。」故宮數位典藏的最初目的或許偏重於收藏、研究，而未從使用者的角度思考授權問題，然而透過公開展示達成社會教育功能方為博物館創設的重點。即便故宮對於營利用途仍有顧慮，但是至少在個人、教育、研究、教學等用途上，應該有更開放的態度與措施，才能讓這些文化藏品以及教學活動走出館外，以利國內文教活動的發展。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.npm.gov.tw/digital/index2_2_6_ch.html&quot;&gt;故宮於2006年也曾做出以下期許&lt;/a&gt;：「故宮希望讓文物走向世界，也同時要求將世界引進故宮，這是故宮另一個理想願景，但是必須合乎互惠的原則，彼此呼應雙向交流借展，故宮纔可能護送文物踏上旅途。當前網際網路通行全球，也為故宮實現此願景，開闢了一條資訊科技應用推廣之路。」若欲透過網路走向世界，不妨參考採取開放政策的國外諸多文化機構，採取開放授權讓館藏能在維基百科被世界各地的人取用，甚至成為各國設計師發想創意的種子，將中華文化能以嶄新風貌於世界各地開花結果。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;參考資料&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Images of Works of Art in Museum Collections: The Experience of Open Access, A Study of 11 Museums / Kristin Kelly &lt;a href=&quot;http://www.clir.org/pubs/reports/pub157/pub157.pdf&quot;&gt;http://www.clir.org/pubs/reports/pub157/pub157.pdf&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Democratising the Rijksmuseum: Why did the Rijksmuseum make available their highest quality material without restrictions, and what are the results? / Joris Pekel &lt;a href=&quot;http://pro.europeana.eu/files/Europeana_Professional/Publications/Democratising%20the%20Rijksmuseum.pdf&quot;&gt;http://pro.europeana.eu/files/Europeana_Professional/Publications/Democratising%20the%20Rijksmuseum.pdf&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Case Study: Remixing Openly Licensed Content in the Public Space / Joris Pekel &lt;a href=&quot;http://openglam.org/2013/07/08/2353/&quot;&gt;http://openglam.org/2013/07/08/2353/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Why the German Digital Library should learn from Europeana / Joris Pekel&lt;br /&gt;
+	&lt;a href=&quot;http://openglam.org/2012/12/12/why-the-german-digital-library-should-learn-from-europeana/&quot;&gt;http://openglam.org/2012/12/12/why-the-german-digital-library-should-learn-from-europeana/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Case Studies/Highlights from SMK, The National Gallery of Denmark &lt;a href=&quot;https://wiki.creativecommons.org/Case_Studies/Highlights_from_SMK,_The_National_Gallery_of_Denmark&quot;&gt;https://wiki.creativecommons.org/Case_Studies/Highlights_from_SMK,_The_National_Gallery_of_Denmark&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;故宮精緻文物數位博物館知識庫建置計畫&lt;br /&gt;
+	&lt;a href=&quot;http://tech2.npm.gov.tw/da/treasure_question_two3.html#3_1&quot;&gt;http://tech2.npm.gov.tw/da/treasure_question_two3.html#3_1&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;國立故宮博物院—「數位典藏計畫介紹」&lt;br /&gt;
+	&lt;a href=&quot;http://www.npm.gov.tw/digital/index2_2_1_ch.html&quot;&gt;http://www.npm.gov.tw/digital/index2_2_1_ch.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;國立故宮博物院—「出版與圖像授權」&lt;br /&gt;
+	&lt;a href=&quot;http://www.npm.gov.tw/zh-tw/Article.aspx?sNo=02000039&quot;&gt;http://www.npm.gov.tw/zh-tw/Article.aspx?sNo=02000039&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;論數位化對故宮書畫維護與典藏的助益/ 吳誦芬&lt;br /&gt;
+	&lt;a href=&quot;http://www.npm.gov.tw/uploads/2009021804141869463/335000000E-I4Z-028.pdf&quot;&gt;http://www.npm.gov.tw/uploads/2009021804141869463/335000000E-I4Z-028.pdf&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;論博物館數位典藏圖像授權法律關係—以國立故宮博物院為例/ 廖凰玎&lt;br /&gt;
+	&lt;a href=&quot;http://web2.nmns.edu.tw/PubLib/Library/quaterly/201004_19.pdf&quot;&gt;http://web2.nmns.edu.tw/PubLib/Library/quaterly/201004_19.pdf&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;從國立故宮博物院「數位博物館」談資訊融入教學/ 侯皓之&lt;br /&gt;
+	&lt;a href=&quot;http://www.naer.edu.tw/ezfiles/0/1000/attach/17/pta_484_2268957_55877.pdf&quot;&gt;http://www.naer.edu.tw/ezfiles/0/1000/attach/17/pta_484_2268957_55877.pdf&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;博物館展示序說/ 呂理政&lt;br /&gt;
+	&lt;a href=&quot;http://beta.nmp.gov.tw/main/07/7-3/6/1.pdf&quot;&gt;http://beta.nmp.gov.tw/main/07/7-3/6/1.pdf&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;維基百科—「博物館」&lt;br /&gt;
+	&lt;a href=&quot;http://zh.wikipedia.org/zh-tw/%E5%8D%9A%E7%89%A9%E9%A6%86&quot;&gt;http://zh.wikipedia.org/zh-tw/%E5%8D%9A%E7%89%A9%E9%A6%86&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 07 May 2015 23:47:36 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">1108 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/1108#comments</comments>
+</item>
+</channel>
+</rss>

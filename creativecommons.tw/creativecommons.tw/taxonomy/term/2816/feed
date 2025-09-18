@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - XML</title>
+ <link>https://creativecommons.tw/category/tags/xml</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>一個完美的電子書：不只是好看還要料好實在！</title>
+ <link>https://creativecommons.tw/blog/20101005</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Hui-Yin Wu&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;大家好我是Helen，上一次有寫一篇關於電子書開放潛能的文章，接著希望稍微討關於網路上用各種XML標示語言，例如 Docbook、DITA、TEI 等語言標示的檔案在轉換到 EPUB 使用的 XHTML 檔案時，避免內容或架構相關資訊流失的重要性。&lt;/p&gt;
+
+&lt;p&gt;在我實習期間，聽到了一個蠻有意思的比喻：資訊流失就像草原上有一隻牛在吃草，一旦把牛拿掉，就無法把牛補回去—就像一個結構性較高的檔案〈例如XHTML檔〉轉成一個比較重呈現的檔案〈例如PDF檔〉有一些細節就會在轉換過程中流失，無法轉回原本的檔案。&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;001.JPG&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/001__2.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;div&gt;
+&lt;p&gt;(Fig1. 失去的資訊是無法找回來的)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+而這個問題隨著網路的發達而逐漸受到關注，問題無法從下游往上解決，畢竟失去的細節就很難再找回，而應該從檔案的根本做起：轉換過程中如何保留足夠的資訊，讓轉換過後的檔案能順利轉回去。&lt;/p&gt;
+
+&lt;h3&gt;淺談XML標示語言&lt;/h3&gt;
+
+&lt;p&gt;現有的XML標示語言可以用來定義豐富的語彙，Docbook、TEI 〈Text Encoding Initiative〉與 DITA 〈Darwin Information Typing Architecture〉只是比較常見用來標示電子檔案的其中三種語彙，因為 XML 有可以自己設計標籤的特性，又透過 namespace 可以在同一份文件理使用多種字彙，使 XML 有高彈性、用途廣的特色。&lt;/p&gt;
+
+&lt;p&gt;而每一個 XML 語言都有其各自用途、語彙、結構上的特色。舉例說 Docbook 比較適用於論文以及科學相關文件標示，因此它有一個複雜的槽狀結構，一層層下去，並且它的語彙中增加許多資訊科技的字彙；TEI 則是比較適合用在文學、語言學，以及原始文獻的標示與保存，它針對人文計算科學領域提供非常細部的標示〈如 Fig.2 所示〉；DITA 與 Docbook 性質上比較相似〈都是偏向自然科學文獻標示〉但結構卻與前二者完全不同，它重主題性以及主題與主題之間的關聯，因此檔案出來會有網狀或是樹狀的架構。&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;002.JPG&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/002__2.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;div&gt;
+&lt;p&gt;〈Fig2. TEI 歷史文獻的標示〉&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+而在檔案轉換的同時，很有可能會失去甚麼？例如剛剛看到各個語言都有其獨特的結構，轉換後就必須硬把它填入一個截然不同的結構中，或是因為跨語言之間的語彙不同，使有一些語彙的本意會流失。因為 XML 語言變得如此之複雜，每一個語言都有自己的特色，如何找到一個共通、每一個語言皆適用的轉換規則又更困難了。&lt;/p&gt;
+
+&lt;h3&gt;資訊的重要性&lt;/h3&gt;
+
+&lt;p&gt;為何會覺得這個議題值得探討？因為在數位化的時代中，當文獻被電子化的時候，如果沒有良好的記錄工具，資訊在複雜的傳遞與檔案轉換的過程中是很容易流失的。資訊的保留不但是提高一個檔案的應用性、廣為傳播，更是保護著作權、作者及使用者權利很重要的一環，資訊的流通也可以引發的聯想、激盪創意與創新。&lt;br /&gt;
+這些資訊其實不只是給人看，還是要給機器解讀的。目前語意網正努力發展出一個讓機器可以更容易「理解」資訊的方式，讓使用者在搜尋、利用網路資源時能在電腦的協助下更容易找到需要的資訊。&lt;/p&gt;
+
+&lt;h3&gt;小結&lt;/h3&gt;
+
+&lt;p&gt;拍照只能擷取你現在看到的畫面，卻無法記錄這個畫面背後的故事，不過隨著各種 XML 語言以及語意網的發展，網路能夠提供給人的服務會越來越多，也提供新的紀錄方式，讓你所得到的，遠遠超過眼前的畫面。期望在科技的進步下，能夠顧及資訊的保護又同時鼓勵資訊的開放，讓資訊激發創意、創意也將帶來更多創意以及整體網路效能的提升。&lt;/p&gt;
+
+&lt;h1&gt;WYS is not just WYG—The Importance of Preserving Information in EBook Documentation&lt;/h1&gt;
+
+&lt;p&gt;Hi! My name is Helen. Last time I wrote an article about the open possibilities of eBooks, and would like to further discuss the various XML document markup languages across the web such as Docbook, DITA, and TEI. Also, I hope to discuss the importance in preserving structural and content level information when converting these XML documents to EPUB vocabulary.&lt;/p&gt;
+
+&lt;p&gt;During the summer internship, I heard an interesting metaphor for data loss through format converting: in a picture with a cow grazing on the grassland, if one was to remove the cow, then we would not be able to replace the space with the same cow. Similarly, when a highly structured and content specific document such as Docbook (an XML vocabulary) is converted into a more presentational document type such as EPUB or PDF, some details will be lost, and without the critical data, it would be impossible to transform the document back to its original form.&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;001.JPG&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/001__2.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;div&gt;
+&lt;p&gt;(Fig1. Lost data is irretrievable)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This problem is brought to light with the advancement of internet technologies. Since it would be difficult to find a solution for the end user, the alternative is to try and preserve as much structural and content level information while converting a file to ensure that the least amount of data is lost.&lt;/p&gt;
+
+&lt;h3&gt;Simple Introduction to XML (Extensible Markup Language)&lt;/h3&gt;
+
+&lt;p&gt;XML is a language to define mark-up vocabularies for use in different application domains. There are an abundant number of XML vocabularies that can currently be found across the World Wide Web; Docbook, TEI (Text Encoding Initiative) and DITA (Darwin Information Typing Architecture) are just a few examples. XML has many strength including flexible vocabulary and the capacity for developers to import namespaces and to create personalized specifications.&lt;/p&gt;
+
+&lt;p&gt;Every XML language has its usage, vocabulary set, and structural characteristics. For example, Docbook has a more complicated embedding structure and an emphasis on elements for use in computer science and technical documents. TEI on the other hand has a vocabulary suitable for linguistic and literary content markup, and also markup for manuscripts for digital preservation purposes (See Fig. 2 for manuscript markup example). DITA is related to Docbook in that its vocabulary is more suited for document markup in the field of computer science. Differently, however, DITA has a more map-like structure, emphasizing relation between topics.&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;002.JPG&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/002__2.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;div&gt;
+&lt;p&gt;〈Fig2. Manuscript markup in TEI〉&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;When converting a file from languages like TEI to XHTML, what is lost? For example, the structure of the document, or the different vocabulary for content markup, these things are often lost through the conversion. Because each XML vocabulary is complicated in its own way, each has its own characteristics, it would be difficult to find a conversion method that would fit all languages without the loss of information.&lt;/p&gt;
+
+&lt;h3&gt;The Importance of Information&lt;/h3&gt;
+
+&lt;p&gt;Why then is it important to preserve all this structural, content, and metadata information? We live in an era where most documents are being digitalized, and the importance of preserving that which is original and recording necessary background information becomes essential. Through the complicated conversions and transmissions, data is easily lost. By preserving information relevant to an e-document, we maintain its accessibility, its reusability, and moreover protect publisher rights and allow smoother flow of information at the same time. Open and accurate information inspires, and ignites creativity.&lt;/p&gt;
+
+&lt;p&gt;Not only does well marked-up information benefit open creativity. It also helps machines understand and interpret our documents. Currently, the idea of the Semantic Web and also the above mentioned markup languages do just this: they help the computer to interpret documents, and in turn, make web resources more applicable and make software and search engines work more intelligently.&lt;/p&gt;
+
+&lt;h3&gt;End Note&lt;/h3&gt;
+
+&lt;p&gt;By taking a picture with a camera, any camera, we could only get the picture we see. A photograph would not be able to record the whole background story. However, with XML and the various markup vocabularies, and the recent development of semantic web tools, the Internet can provide more and more services to the end user, and creates a new way to record, to preserve information. In other words, What You Get is “more than” What You See. It is in hope that with the advancement of technology, information can be protected as well as widely accessible from every point of view, igniting creativity, and through creativity, raise the Internet to a new level.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 05 Oct 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">225 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20101005#comments</comments>
+</item>
+</channel>
+</rss>

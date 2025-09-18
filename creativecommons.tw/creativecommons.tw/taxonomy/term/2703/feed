@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 歐巴馬</title>
+ <link>https://creativecommons.tw/category/tags/%E6%AD%90%E5%B7%B4%E9%A6%AC</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>美國總統歐巴馬發布行政命令支持開放資料</title>
+ <link>https://creativecommons.tw/blog/20130701-1</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;劉芊影 譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;日前美國總統歐巴馬發布了一則行政命令，要求聯邦政府的資訊應公開且是可供機器閱讀的，這項命令是自2009年開始一系列關於支持增加政府資訊的可接近性及透明度的最新行動。除了此一行政命令外，白宮也發布了一則備忘錄(&lt;a href=&quot;http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf&quot;&gt;Memorandum&lt;/a&gt;)解釋聯邦政府將如何作為以符合這項開放資料(open data)的新政策。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;此備忘錄要求政府機關收集或創建資料的方式包括對於所有新資料收集、創造的工作應使用機器可讀的、開放的格式、數據標準以及相同核心而可擴展的後設資料。它亦包括政府機關應該確保在資料管理的方面，透過使用開放授權以及審查資料的隱密性、機密性、安全性或其他相關限制來做釋出的動作。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;它在開放資料方面也提供了一套具遠見的指引。根據該備忘錄的目的，所謂的開放資料一詞，指涉的是公開可用的數據結構使終端使用者能完全發現並使用之。一般而言，開放資料會和下述原則一致：&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;公開(Public)&lt;/p&gt;
+
+&lt;p&gt;為符合美國政府預算及管理局(OMB)的開放政府指令(Open Government Directive)，各機關必須採取在法律允許的推定範圍內，有利於開放的程度，以及服從隱私、安全、機密性等等限制。&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;可近用性(Accessible)&lt;/p&gt;
+
+&lt;p&gt;開放資料提供了方便、修改、開放的格式，使其能夠被檢索、下載、指引及搜尋。該格式必須是可供機器閱讀者(例如：具合理數據結構能夠允許自動處理)。開放資料的數據結構不歧視任何人或任何族群的人，而且應該提供予最廣泛的使用者為了最廣泛的用途。此外，在法律允許的範圍內，這些格式必須是非私人的、公開的且在使用上沒有限制的。&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;充分說明(Described)&lt;/p&gt;
+
+&lt;p&gt;開放資料應被充分的說明，使這些資料的消費者有充足的資訊了解他們的優勢、劣勢、安全性的要以及如何運行、處理他們。這包括使用健全的、粒狀的後設資料(例如：描述資料的元素)，經由完整的資料元素文件、資料字典以及在可行範圍下增加描述收集的目的、人民的興趣度、樣本的特色以及資料收集的方法。&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;再使用性(Reusable)&lt;/p&gt;
+
+&lt;p&gt;開放資料應基於公開授權之下使其使用沒有限制。&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;完整性(Complete)&lt;/p&gt;
+
+&lt;p&gt;開放資料應公布主要的的型態，包含法律及他規定所允許以及可以實行的最好的粒度(granularity)水平。衍生或總和的公開資料亦應參照主資料而為公布。&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;即時性(Timely)&lt;/p&gt;
+
+&lt;p&gt;開放資料需盡可能的快速去保存資料的價值，而其釋出的頻率則應考量關鍵使用群及下游的需求。&lt;/p&gt;
+
+&lt;p&gt;&lt;!--[if !supportLists]--&gt;l&amp;nbsp;&amp;nbsp; &lt;!--[endif]--&gt;管理點設置(Managed Post-Release)&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 應指定一個聯絡點用以協助資料的使用以及對於相關投訴的回應。&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;此外，這個備忘錄也提供了關於美國政府資訊可被再使用的說明，敘述如下：&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;「應確保在資訊管理方面使用開放授權(&lt;strong&gt;open licenses)&lt;/strong&gt;的方式，詳言之，各政府機關須使用開放授權，以在開放資料的計畫中尋得最好的實踐方法，使資料公開後，就這些資料不論是非商業性或商業性目的，在複製、出版、分發、傳輸或其他方式的使用上不會有所限制。」&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;根據這些確切的實施細節，這是一個非常好的行動，可以釐清在使用聯邦政府資料上面任何的法律困惑。藉由使用公開授權，聯邦政府將提供再使用者一項絕好的服務。且，若美國是真的希望使聯邦政府的資訊能夠沒有限制的使用，它能考慮使用公眾領域貢獻宣告(&lt;a href=&quot;http://creativecommons.org/publicdomain/zero/1.0/&quot;&gt;CC0 Public Domain Dedication&lt;/a&gt;，簡稱CCO)的方式，現在，有許多的資料提供者使用CC0以使開放資料能直接放置於公眾領域的範圍內。我們亦已建議使CC0成為分享聯邦政府資訊的其中一個選項。&lt;/p&gt;
+
+&lt;p&gt;而對於白宮在確保美國政府資料於法律、技術上面的可近用、再使用上面所採取的一個正面、積極的做法，是非常值得我們肯定的！&lt;/p&gt;
+
+&lt;p&gt;資料來源：&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/38269&quot;&gt;http://creativecommons.org/weblog/entry/38269&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 01 Jul 2013 08:12:28 +0000</pubDate>
+ <dc:creator>sunlight</dc:creator>
+ <guid isPermaLink="false">699 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20130701-1#comments</comments>
+</item>
+<item>
+ <title>來自南半球的政府資訊開放近況</title>
+ <link>https://creativecommons.tw/blog/20110829</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ChiuHao Chen&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/2179085559_e05218c5b4_o.jpg&quot; style=&quot;height:500px; vertical-align:top; width:385px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;2011年上半年，有關於” 政府資訊開放” 計畫，我們有幾個來自紐澳的進展，想與大家分享。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;紐西蘭 - NZGOAL：&lt;/strong&gt;&lt;br /&gt;
+時間倒轉至今年&lt;a href=&quot;http://www.creativecommons.org.nz/news_and_events/events/nzgoal_website_goes_live&quot;&gt;6月&lt;/a&gt;，紐西蘭與澳洲政府雙雙釋出了”開放存取與授權框架”(Open Access and Licensing Framework)。其中，由紐西蘭CC Aotearoa 所指導的 NZGOAL (New Zealand Government Open Aceess and Licensing Framework ) 提供了使用政府公開資訊的準則，此準則中建議釋出政府資訊予以他人再利用時能夠使用 &lt;a href=&quot;http://creativecommons.org/licenses/by/3.0/nz/&quot;&gt;創用CC- 姓名標示 （紐西蘭）&lt;/a&gt; 此款授權標章。 當然，還有更多使用NZGOAL成功的故事，都可以在&lt;a href=&quot;http://opendatastories.org/&quot;&gt;opendatastories.org&lt;/a&gt; 中挖寶。&lt;br /&gt;
+&lt;br /&gt;
+緊接著，在上星期，紐西蘭的財政與內政部 (Ministers of Finance and Internal Affairs) 為了更能形塑一個開放政府的樣貌，聲明通過了”開放與透明政府宣言” (Declaration on Open and Transparent Government)。由內閣(Cabinet) 通過的宣言，不但直接影響了各個公眾服務部門，例如：紐西蘭警察局、國防部、國會辦公室以及情報局，也依循著開放與透明宣言的原則與NZGOAL評論與釋出流程 (review and release process)，進而鼓勵了更多的公家單位能夠積極的釋出高品質的公眾資料予以重新利用。更多有關於此宣言的資訊，請看CC Aotearoa New Zealand &lt;a href=&quot;http://www.creativecommons.org.nz/news_and_events/news/declaration_on_open_and_transparent_government&quot;&gt;部落格&lt;/a&gt;。&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;澳洲 - AusGOL：&lt;/strong&gt;&lt;br /&gt;
+2011年&lt;a href=&quot;http://blog.ausgoal.gov.au/2011/07/07/launch-ausgoal-is-online/&quot;&gt;7月&lt;/a&gt;，澳洲則由跨組織的CIO (Chief Information Officer) 會議籌劃與推動 AusGOL (Australian Governments Open and Access and Licensing Framework)。此框架提供了政府或公部門對於善用與釋出公眾資訊的準則與支援。當然，關於授權，AusGOL除了預設使用了 ”&lt;a href=&quot;http://creativecommons.org/licenses/by/3.0/au/&quot;&gt;創用CC-姓名標示（澳洲）&lt;/a&gt;”，AusGOL也建議針對擁有版權的資料能夠善用創用CC授權組合，而沒有版權的資料則能使用公眾領域標章 (Public Domain Mark)。&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;還有更多國家... &lt;/strong&gt;&lt;br /&gt;
+除了澳洲與紐西蘭，更多關於國家的開放資訊也可以在CC主網站上面&lt;a href=&quot;http://wiki.creativecommons.org/Government_use_of_Creative_Commons&quot;&gt;找到&lt;/a&gt; 。這是一個 Wiki網頁，當然也歡迎大家上去加入自己與開放政府資訊的經驗。&lt;br /&gt;
+&lt;br /&gt;
+看過了澳洲與紐西蘭的例子，對於政府公開資訊還是摸不著頭緒嗎？它到底能夠帶給我們什麼呢？請看青平台OpenData計畫對於政府開放資訊的&lt;a href=&quot;http://www.opendata.tw/open-data/okfn-film/&quot;&gt;闡釋&lt;/a&gt;。另外，自詡為資訊大國的台灣，日前也針對政府開放資訊邁開了腳步，但從&lt;a href=&quot;http://creativecommons.tw/blog/20110701&quot;&gt;極速公車”拋錨事件&lt;/a&gt;， 我們警覺到政府公開資訊不僅在於資料釋出的動作而已，更重要的是相關的政策是否能夠配套產生，例如：學習歐巴馬政府推舉&lt;a href=&quot;http://www.whitehouse.gov/blog/2011/06/16/our-nation-s-first-federal-cio&quot;&gt;聯邦政府CIO&lt;/a&gt;，學習AusGOL由CIO領軍籌組跨組織會議，共同規劃與推動配套開放框架，或者也該學習紐西蘭從上而下的貫徹與宣導開放政策。&lt;/p&gt;
+
+&lt;p&gt;這些&quot;蹲馬步&quot; 是除了執行資訊開放之外，更值得我們深思的環節。未來，我們的政府與人民，對於資訊公開計畫能夠激盪出多少花火呢？且讓我們拭目以待。&lt;/p&gt;
+
+&lt;div&gt;----&lt;/div&gt;
+
+&lt;div&gt;本文參考：&lt;a href=&quot;https://creativecommons.org/weblog/entry/28813&quot;&gt;Open government policy developments in Australasia&lt;/a&gt;&lt;/div&gt;
+
+&lt;div&gt;圖片引用自：&lt;a class=&quot;newpage&quot; href=&quot;＿http://www.flickr.com/photos/library_of_congress/2179085559/&quot;&gt;&quot;United Nations Fight for Freedom&quot; by The Library of Congress/ Public Domain&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 29 Aug 2011 07:45:22 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">541 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20110829#comments</comments>
+</item>
+<item>
+ <title>公部門資訊的自由取得與再次使用</title>
+ <link>https://creativecommons.tw/in-depth/442</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;莊庭瑞&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;政府部門和公有企業因為本身在運轉經營上的需要，會持續生產大量的資料與文件。這些資訊一般稱為「公部門資訊」（PSI, Public Sector Information）。 根據「經濟合作與發展組織」（OECD）的定義&lt;strong&gt;[註1]&lt;/strong&gt;，公部門資訊具有以下的特質：「公部門因為其功能而直接產生（例如氣象資料，經濟統計）、以動態連續方式產生、而且可以直接用於商業應用」。 這些資料包括地理空間資料、人口統計、健康醫療資訊、社會經濟指標、科學研究資料庫等。許多這些資訊不僅是公共出資的研究產出，對研究者也有很大助益。 公部門資訊目前常以數位的方式呈現，有些還可以在網路上直接取得，也因為這些資訊的普遍價值，許多國家的政府也逐漸評估、推廣其使用。本文以下將介紹公部門資訊在開放使用上的國際趨勢與作法。&lt;/p&gt;
+
+&lt;p&gt;我國著作權法第九條，「憲法、法律、命令或公文」不得為著作權保護之標的。其中所稱的公文，「包括公務員於職務上草擬之文告、講稿、新聞稿及其他文書」。 另外，我國政府資訊公開法第五條，「政府資訊應依本法主動公開或應人民申請提供之」，其中所稱的政府資訊，「指政府機關於職權範圍內作成或取得而存在於文書、圖畫、照片、磁碟、磁帶、光碟片、微縮片、積體電路晶片等 媒介物及其他得以讀、看、聽或以技術、輔助方法理解之任何紀錄內之訊息」。不過，著作權法所稱之公文，在性質上應屬靜態的行政歷往紀錄，不盡是動態連續產生的性質。 同時，政府所公開或提供的資訊在人民取得之後，是否可自行使用於任何其他用途，似未有明確的規範。&lt;/p&gt;
+
+&lt;p&gt;美國的著作權法規定，聯邦政府雇員在工作上產出的著作皆屬於公有領域（Public Domain），事實上，美國聯邦政府本身即是公有領域最大的生產者之一。美國行政管理和預算局（OMB, Office of Management and Budget）的 A-130 號通告，對於美國政府資訊的流通使用設立了一般性的原則，並鼓勵政府部門以邊際成本（亦即資訊提供這項工作本身的成本），來提供政府資訊；若是於線上提供，就應該免費&lt;strong&gt;[註2]&lt;/strong&gt;。而歐盟、英國、澳洲和部份國家，對政府部門的著作產出以及許多公部門資訊，大多主張著作權利保留，這與美國非常不同。歐盟對於資料庫另有 96/9/EC 號指令給予法律保護，形成公部門資訊在自由使用上的障礙，而資料庫在美國與我國並無類似法律保護。雖然歐盟對於公部門資訊，也提出 2003/98/EC 號指令，鼓勵其再次使用，但一般認為，相較於歐盟等國家，美國在資訊服務的快速發展（如 Google Map 線上地圖等加值服務），和公部門資訊（如聯邦政府所產出的地理空間資料）在美國歸屬於公有領域，可自由取得、再次使用，有相當的關聯。&lt;/p&gt;
+
+&lt;p&gt;公部門資訊的開放使用，除了有助於資訊服務產業以及新市場的發展，這些資訊本身也能增進市場的透明和效率，有利個人成為社會經濟活動的積極參與者，並促進相關研究工作的進行。 除了在經濟層面上直接與間接的好處之外，公部門資訊的即時與正確發佈，也是公部門行政效率的一種指標；公部門資訊可被自由取得和使用，也是政府體制透明負責的表徵，人民當家作主的例證。 也因此在政治與政策層面上，美國、英國、澳洲、紐西蘭等民主國家正大力推展公部門資訊的開放與使用。&lt;/p&gt;
+
+&lt;p&gt;美國歐巴馬總統於2009年上任後，在給行政部門首長的「透明與開放政府」備忘錄中，指出政府是透明的、政府是參與的、政府是協力的&lt;strong&gt;[註3]&lt;/strong&gt;。美國行政管理和預算局，也於2009年12月發佈「開放政府指令」&lt;strong&gt;[註4]&lt;/strong&gt;， 要求各行政部門採行以下的步驟：一、線上發佈政府資訊，二、增進政府資訊的品質，三、建立並制度化開放政府的文化，四、建立政策架構以促成開放政府。這項指令的立即的成果是 data.gov ， 這個網站上有來自各行政部門的公部門資訊，都用開放格式整理紀錄。隨著「開放政府」（Open Government）的政策倡議&lt;strong&gt;[註5][註6][註7]&lt;/strong&gt;，不僅在美國，在&lt;a class=&quot;newpage&quot; href=&quot;http://data.gov.uk/&quot;&gt;英國&lt;/a&gt;、&lt;a class=&quot;newpage&quot; href=&quot;http://data.australia.gov.au/&quot;&gt;澳洲&lt;/a&gt;、&lt;a class=&quot;newpage&quot; href=&quot;http://www.data.govt.nz/&quot;&gt;紐西蘭&lt;/a&gt;等國家，公部門資訊在開放使用的實務工作上，都獲得廣泛的重視與進展。 值得注意的是，英國、澳洲、紐西蘭等國家，因為公部門資訊大多受著作權或是資料庫權利保護， 所以在政策與實務作法上，這些國家的政策都鼓勵政府部門採用創用CC授權條款，尤其是最寬鬆的創用CC「姓名標示」授權條款，來釋出公部門資訊。&lt;/p&gt;
+
+&lt;p&gt;公部門資訊的開放使用，不僅只是在中央政府的層級，許多地方政府，也都有公部門資訊入口網站，例如，&lt;a class=&quot;newpage&quot; href=&quot;http://data.london.gov.uk/&quot;&gt;倫敦&lt;/a&gt;、&lt;a class=&quot;newpage&quot; href=&quot;http://datasf.org/&quot;&gt;舊金山&lt;/a&gt;、 以及&lt;a class=&quot;newpage&quot; href=&quot;http://data.vancouver.ca/&quot;&gt;溫哥華&lt;/a&gt;等。民間組織則如美國的&lt;a class=&quot;newpage&quot; href=&quot;http://public.resource.org/&quot;&gt;公有資源組織&lt;/a&gt;，英國的&lt;a class=&quot;newpage&quot; href=&quot;http://www.okfn.org/&quot;&gt;開放知識基金會（Open Knowledge Foundation）&lt;/a&gt;，以及歐盟的&lt;a class=&quot;newpage&quot; href=&quot;http://www.epsiplatform.eu/%E5%85%AC%E9%83%A8%E9%96%80%E8%B3%87%E8%A8%8A%E5%B9%B3%E5%8F%B0%EF%BC%88European&quot;&gt;Public Sector Information Platform&lt;/a&gt;，也都持續關注這方面的議題。&lt;/p&gt;
+
+&lt;p&gt;以上介紹了國際上公部門資訊在開放使用上的趨勢與作法，在本文的最後，回到台灣的現況，筆者想試著提出幾個問題：請問您瞭解台灣公部門資訊的取得與使用方式嗎？ 如果您關心規劃中的石化工業區對周圍環境的影響，想自行或是委託顧問公司進行環境影響評估，而必須整批取得內政部掌有的地圖資料&lt;strong&gt;[註8]&lt;/strong&gt;、環保署的空氣品質監測資料&lt;strong&gt;[註9]&lt;/strong&gt;、以及中央氣象局的氣候監測資料&lt;strong&gt;[註10]&lt;/strong&gt;， 自行整合進行模型建立與模擬，您認為在資訊的取得以及再次使用上，在這個例子上，會是容易還是困難呢？&lt;/p&gt;
+
+&lt;p&gt;[註1] &lt;em&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://www.oecd.org/dataoecd/10/22/36481524.pdf&quot;&gt;Digital Broadband Content: Public Sector Information and Content.&lt;/a&gt;&lt;/em&gt;&lt;br /&gt;
+[註2] Nancy Weiss. Overview of U.S. Federal Government Information Policy. Appear as Chapter 2 in, Paul F. Uhlir, Rapporteur, &lt;em&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://www.nap.edu/catalog/12687.html&quot;&gt;The Socioeconomic Effects of Public Sector Information on Digital Networks.&lt;/a&gt;&lt;/em&gt;&lt;br /&gt;
+[註3] Barrack Obama. &lt;em&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://www.whitehouse.gov/the_press_office/TransparencyandOpenGovernment/&quot;&gt;Transparency and Open Government.&lt;/a&gt;&lt;/em&gt;&lt;br /&gt;
+[註4] Peter R. Orszag. &lt;em&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://www.whitehouse.gov/open/documents/open-government-directive&quot;&gt;Open Government Directive.&lt;/a&gt;&lt;br /&gt;
+[註5] Lindsay Tanner. //&lt;a class=&quot;newpage&quot; href=&quot;http://agimo.govspace.gov.au/2010/07/16/declaration-of-open-government/&quot;&gt;Declaration of Open Government.&lt;/a&gt;&lt;/em&gt; (Australia)&lt;br /&gt;
+[註6] &lt;em&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://www.e.govt.nz/policy/nzgoal&quot;&gt;New Zealand Government Open Access and Licensing (NZGOAL) framework.&lt;/a&gt;&lt;/em&gt;(連結失效)&lt;br /&gt;
+[註7] &lt;em&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://www.data.gov/conference&quot;&gt;International Open Government Data Conference.&lt;/a&gt;&lt;/em&gt; November 15-17, 2010, Washington, D.C.(連結失效)&lt;br /&gt;
+[註8] &lt;a class=&quot;newpage&quot; href=&quot;http://www.nlsc.gov.tw/websites/make_page.aspx?la=1&amp;amp;le=2&amp;amp;li=11&amp;amp;sno=136&amp;amp;le2=3&amp;amp;li2=135&quot;&gt;內政部 國土測繪中心。&lt;/a&gt;&lt;br /&gt;
+[註9] &lt;a class=&quot;newpage&quot; href=&quot;http://taqm.epa.gov.tw/taqm/zh-tw/default.aspx&quot;&gt;行政院環境保護署 空氣品質監測網。&lt;/a&gt;&lt;br /&gt;
+[註10] &lt;a class=&quot;newpage&quot; href=&quot;http://www.cwb.gov.tw/&quot;&gt;中央氣象局。&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+歐盟Public Sector Information Platform連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 03 Dec 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">442 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/442#comments</comments>
+</item>
+<item>
+ <title>Data.gov: 資料公開釋出成多國政府要務</title>
+ <link>https://creativecommons.tw/blog/20100201</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;莊庭瑞(trc)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;美國歐巴馬總統就任後，推動各項「開放政府前瞻」 (Open Government Initiative) 作為，倡導參與式民主，其中 &lt;a class=&quot;newpage&quot; href=&quot;http://www.data.gov/&quot;&gt;data.gov&lt;/a&gt; 是重要的一環。 Data.gov 網站提供了眾多由美國聯邦政府行政部門所產出、高價值、可再資訊處理的資料集，方便公眾查詢利用。事實上，美國聯邦政府所屬機關所產出的著作與資料集，屬於公共領域，任何人都可以自由使用、不受限制。 Data.gov 作為一個政府資料集的大型集散網站，還同時收錄了關於這些資料集的後設資料、以及處理所需的軟體工具，眾人都可以自由下載使用。該網站並有明確易懂的 &lt;a class=&quot;newpage&quot; href=&quot;http://www.data.gov/datapolicy&quot;&gt;「資料政策聲明」 (Data Policy Statements)&lt;/a&gt;，值得參考。&lt;/p&gt;
+
+&lt;p&gt;舉例來說，經由 data.gov 可以方便找到美國人口普查局 (United States Census Bureau) 所釋出的地圖集 &lt;a class=&quot;newpage&quot; href=&quot;http://www.census.gov/geo/www/tiger/&quot;&gt;TIGER&lt;/a&gt; (Topologically Integrated Geographic Encoding and Referencing) 。該地圖集收錄了 164,593 份十萬分之一比例尺的的行政區地圖，每份地圖尚包括區內的道路、建物、水系、行政區界線等詳細資料。該地圖集因為是美國聯邦政府所產出，歸屬於公共領域，任何人都可以自由下載使用，不受限制。目前該地圖集已使用於 &lt;a class=&quot;newpage&quot; href=&quot;http://www.openstreetmap.org/&quot;&gt;openstreetmap.org&lt;/a&gt; 這個由使用者社群所建立地圖網站，作為美國部份的底圖。&lt;/p&gt;
+
+&lt;p&gt;除了美國政府，英國政府和澳洲政府也分別建置了 &lt;a class=&quot;newpage&quot; href=&quot;http://data.gov.uk/&quot;&gt;data.gov.uk&lt;/a&gt; 以及 &lt;a class=&quot;newpage&quot; href=&quot;http://data.australia.gov.au/&quot;&gt;data.australia.gov.au&lt;/a&gt; 網站。英國的網站是在 Tim Berners-Lee 爵士以及 Nigel Shadbolt 教授的指導下成立，強調「公部門資訊」 (Public Sector information) 的公開與再次使用，並與「語意網」 (Semantic Web) 資訊技術結合。澳洲的網站，特別指明歡迎大眾使用網站所提供的資料集，為新的應用（也就是 mash-up）。不過值得注意的是，英國政府與澳洲政府所提供的資料集，並不屬公共領域的性質，而是以簡明、開放的授權方式釋出，由政府提供給大眾使用。這部份的細節請參考英國網站政府的&lt;a class=&quot;newpage&quot; href=&quot;http://data.gov.uk/terms-conditions&quot;&gt;「使用條款與前提」 (Terms and Conditions)&lt;/a&gt;，以及澳洲政府網站的&lt;a class=&quot;newpage&quot; href=&quot;http://australia.gov.au/about/terms-of-use&quot;&gt;「使用條款」 (Terms of Use)&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+資料政策聲明(Data Policy Statements)、英國網站政府「使用條款與前提」(Terms and Conditions)連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 01 Feb 2010 04:00:00 +0000</pubDate>
+ <dc:creator>trc</dc:creator>
+ <guid isPermaLink="false">191 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20100201#comments</comments>
+</item>
+<item>
+ <title>白宮也 CC</title>
+ <link>https://creativecommons.tw/blog/20090121</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;趙柏強 Po-chiang Chao&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;&lt;a href=&quot;http://www.flickr.com/photos/barackobamadotcom/3002604326/&quot;&gt;&lt;img alt=&quot;Obama.jpg;&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/obama.jpg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;萬眾矚目的&lt;a class=&quot;newpage&quot; href=&quot;http://zh.wikipedia.org/zh-tw/%E8%B4%9D%E6%8B%89%E5%85%8B%C2%B7%E5%A5%A5%E5%B7%B4%E9%A9%AC&quot;&gt;歐巴馬&lt;/a&gt;在今日就職，即便是有半天時差的台灣島上依然也有不少人熬夜利用網路觀禮。歐巴馬帶給世人很多希望與期待，而對我來說比較有興趣的是創用 CC 授權會在美國乃至於全球引起怎樣的變化。&lt;/p&gt;
+
+&lt;p&gt;在歐巴馬擔任美國史上第五位黑人參議員時，雷席格便&lt;a class=&quot;newpage&quot; href=&quot;http://lessig.org/blog/2004/03/barack_breaks_the_20_rule.html&quot;&gt;曾說&lt;/a&gt;「請注意 2012 年，屆時他將不是以『第五位』這樣的頭銜著稱，而是第三位、以及第一位。」而我們親愛的教授畢竟只猜對了一半，因為歐巴馬成為美國史上第三位角逐總統寶座的黑人、以及第一位黑人總統所花的時間，還比他預測快了四年。歐巴馬學法也教法，在著作權這個層面上、很顯然跟創用 CC 創始人雷席格是同一路的。在某期電子報裡，我曾報導過歐巴馬要求民主黨黨內初選辯論會錄影採用創用 CC 授權的新聞，&lt;a class=&quot;newpage&quot; href=&quot;http://www.barackobama.com/2007/05/03/obama_asks_dean_to_drop_restri.php&quot;&gt;當時歐巴馬表示：&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;「我堅信在數位時代著作權制度尤其重要，但這類的內容不應受此著作權制度保護。我們有足夠的動機進行辯論，而媒體也會有足夠的動機播放辯論內容。我們應讓民主制度與公民有機會以任何方式自此次辯論會中受益，而非限制這些辯論內容的產物。」&lt;/blockquote&gt;
+
+&lt;p&gt;有了這樣的紀錄，那麼對於他其他的動作就不令人意外：除了&lt;a class=&quot;newpage&quot; href=&quot;http://www.flickr.com/photos/barackobamadotcom/&quot;&gt;「官方相本」&lt;/a&gt;全部採用創用 CC 授權外，在競選過程中他舉辦了&lt;a class=&quot;newpage&quot; href=&quot;http://www.obamain30seconds.org/&quot;&gt;「歐巴馬三十秒」&lt;/a&gt;影片競賽，邀請支持者拍攝 30 秒影片向其他人拉票，並且以創用 CC 條款授權；勝選後的網站&lt;a class=&quot;newpage&quot; href=&quot;http://change.gov/&quot;&gt;「change.gov」&lt;/a&gt;使用創用 CC 最寬鬆的「姓名標示」條款授權。不過最有意義的，或許還是在就職後改變面貌的白宮網站。&lt;/p&gt;
+
+&lt;p&gt;在就職典禮後，&lt;a class=&quot;newpage&quot; href=&quot;http://www.whitehouse.gov/&quot;&gt;白宮網頁&lt;/a&gt;也很迅速地換成了頗有「歐」系網站風格的樣貌，另外也當然掛上了創用 CC 授權。網站上的&lt;a class=&quot;newpage&quot; href=&quot;http://www.whitehouse.gov/copyright/&quot;&gt;著作權聲明&lt;/a&gt;寫著，「依據聯邦法，本站上由政府產出的資料不保護其著作權，而美國政府能接受轉讓等方式所授予的著作權。除另有聲明外，本站上所有第三方提供的內容都以創用 CC 姓名標示 3.0 條款授權公眾使用。本站訪客同意將提供給 whitehouse.gov 的內容以非獨占、不可撤銷、不收版稅的方式，依據創用 CC 姓名標示 3.0 條款授權給全球的民眾使用。」這十分有意義：一則作為美國總統府網站，如此動作對於美國政府其他部門、乃至於全球政府網站無疑有指標性意涵存在；二則創用 CC 是不可撤回的，也代表自此之後，白宮網頁勢必長期使用創用 CC 授權。&lt;/p&gt;
+
+&lt;p&gt;我想我們可以很期待一些改變出現。&lt;/p&gt;
+
+&lt;p&gt;註：原先歐巴馬網站&lt;a class=&quot;newpage&quot; href=&quot;http://web.archive.org/web/20070303183758/http://www.barackobama.com/&quot;&gt;也採用 CC 授權&lt;/a&gt;，但改版後拿掉了圖示。我不曉得是否能在其他地方找到相關的著作權宣告，暫且略過不提。&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+「歐巴馬三十秒」連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 21 Jan 2009 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">129 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20090121#comments</comments>
+</item>
+</channel>
+</rss>

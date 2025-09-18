@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 青平台</title>
+ <link>https://creativecommons.tw/category/tags/%E9%9D%92%E5%B9%B3%E5%8F%B0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>開放研討系列，免費報名中！</title>
+ <link>https://creativecommons.tw/blog/20130705</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;周文茵&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;「開放」的思維可以在各領域促成很多不同以往的經驗，舉凡內容產出、軟體開發、巨量資料處理、社群分析、組織經營等。由中央研究院資訊科學研究所，與資訊科技創新研究中心發起的開放研討系列，期待帶領大家看到不一樣的開放力量。&lt;br /&gt;
+&lt;br /&gt;
+開放研討系列從 07.01 開始，已安排六個場次。目前進行到&lt;a class=&quot;newpage&quot; href=&quot;http://registrano.com/events/3ac818&quot;&gt;第二場次&lt;/a&gt;：CKAN, Drupal, CiviCRM 以及運用自由軟體協助非營利組織。本場次與青平台協辦，除了請Keith Yang介紹分享CKAN的架構，安裝與中文化的經驗外，也邀請Charles Chuang以 Drupal/CiviCRM 為工具，協助非營利組織善用網路資訊科技，分享他四年多來的初衷、歷程與經驗。&lt;br /&gt;
+&lt;br /&gt;
+本開放研討系列講座，完全免費。因場地關係（中央研究院資訊科學研究所 106 會議室），僅對外提供30個名額。名額有限，報名請早！&lt;br /&gt;
+&lt;br /&gt;
+活動資訊：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;2013.07.01 – 開放研討系列之一：&lt;a href=&quot;http://registrano.com/events/e7ddc8&quot; target=&quot;_blank&quot;&gt;大眾協作與公眾授權、自由軟體與授權條款簡介&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;2013.07.08 -&amp;nbsp;開放研討系列之二：&lt;a href=&quot;http://registrano.com/events/3ac818&quot; target=&quot;_blank&quot;&gt;CKAN, Drupal, CiviCRM 以及運用自由軟體協助非營利組織&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;2013.07.15 -&amp;nbsp;開放研討系列之三：&lt;a href=&quot;http://registrano.com/events/b05266&quot; target=&quot;_blank&quot;&gt;Mapping, Geovisualization and OpenStreetMap&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;2013.07.22 -&amp;nbsp;開放研討系列之四：&lt;a href=&quot;http://registrano.com/events/e45667&quot; target=&quot;_blank&quot;&gt;Git &amp;amp; Github&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;2013.07.29 - 開放研討系列之五：&lt;a class=&quot;newpage&quot; href=&quot;http://registrano.com/events/823dca&quot;&gt;Drupal架站，還是個好選擇嗎?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;2013.08.05 -&amp;nbsp;開放研討系列之六：&lt;a href=&quot;http://registrano.com/events/648417&quot; target=&quot;_blank&quot;&gt;BIG Data : Crawling Real-Time Tweets From Twitter Server&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 05 Jul 2013 01:00:32 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">704 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20130705#comments</comments>
+</item>
+<item>
+ <title>來自南半球的政府資訊開放近況</title>
+ <link>https://creativecommons.tw/blog/20110829</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ChiuHao Chen&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/2179085559_e05218c5b4_o.jpg&quot; style=&quot;height:500px; vertical-align:top; width:385px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;2011年上半年，有關於” 政府資訊開放” 計畫，我們有幾個來自紐澳的進展，想與大家分享。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;紐西蘭 - NZGOAL：&lt;/strong&gt;&lt;br /&gt;
+時間倒轉至今年&lt;a href=&quot;http://www.creativecommons.org.nz/news_and_events/events/nzgoal_website_goes_live&quot;&gt;6月&lt;/a&gt;，紐西蘭與澳洲政府雙雙釋出了”開放存取與授權框架”(Open Access and Licensing Framework)。其中，由紐西蘭CC Aotearoa 所指導的 NZGOAL (New Zealand Government Open Aceess and Licensing Framework ) 提供了使用政府公開資訊的準則，此準則中建議釋出政府資訊予以他人再利用時能夠使用 &lt;a href=&quot;http://creativecommons.org/licenses/by/3.0/nz/&quot;&gt;創用CC- 姓名標示 （紐西蘭）&lt;/a&gt; 此款授權標章。 當然，還有更多使用NZGOAL成功的故事，都可以在&lt;a href=&quot;http://opendatastories.org/&quot;&gt;opendatastories.org&lt;/a&gt; 中挖寶。&lt;br /&gt;
+&lt;br /&gt;
+緊接著，在上星期，紐西蘭的財政與內政部 (Ministers of Finance and Internal Affairs) 為了更能形塑一個開放政府的樣貌，聲明通過了”開放與透明政府宣言” (Declaration on Open and Transparent Government)。由內閣(Cabinet) 通過的宣言，不但直接影響了各個公眾服務部門，例如：紐西蘭警察局、國防部、國會辦公室以及情報局，也依循著開放與透明宣言的原則與NZGOAL評論與釋出流程 (review and release process)，進而鼓勵了更多的公家單位能夠積極的釋出高品質的公眾資料予以重新利用。更多有關於此宣言的資訊，請看CC Aotearoa New Zealand &lt;a href=&quot;http://www.creativecommons.org.nz/news_and_events/news/declaration_on_open_and_transparent_government&quot;&gt;部落格&lt;/a&gt;。&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;澳洲 - AusGOL：&lt;/strong&gt;&lt;br /&gt;
+2011年&lt;a href=&quot;http://blog.ausgoal.gov.au/2011/07/07/launch-ausgoal-is-online/&quot;&gt;7月&lt;/a&gt;，澳洲則由跨組織的CIO (Chief Information Officer) 會議籌劃與推動 AusGOL (Australian Governments Open and Access and Licensing Framework)。此框架提供了政府或公部門對於善用與釋出公眾資訊的準則與支援。當然，關於授權，AusGOL除了預設使用了 ”&lt;a href=&quot;http://creativecommons.org/licenses/by/3.0/au/&quot;&gt;創用CC-姓名標示（澳洲）&lt;/a&gt;”，AusGOL也建議針對擁有版權的資料能夠善用創用CC授權組合，而沒有版權的資料則能使用公眾領域標章 (Public Domain Mark)。&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;還有更多國家... &lt;/strong&gt;&lt;br /&gt;
+除了澳洲與紐西蘭，更多關於國家的開放資訊也可以在CC主網站上面&lt;a href=&quot;http://wiki.creativecommons.org/Government_use_of_Creative_Commons&quot;&gt;找到&lt;/a&gt; 。這是一個 Wiki網頁，當然也歡迎大家上去加入自己與開放政府資訊的經驗。&lt;br /&gt;
+&lt;br /&gt;
+看過了澳洲與紐西蘭的例子，對於政府公開資訊還是摸不著頭緒嗎？它到底能夠帶給我們什麼呢？請看青平台OpenData計畫對於政府開放資訊的&lt;a href=&quot;http://www.opendata.tw/open-data/okfn-film/&quot;&gt;闡釋&lt;/a&gt;。另外，自詡為資訊大國的台灣，日前也針對政府開放資訊邁開了腳步，但從&lt;a href=&quot;http://creativecommons.tw/blog/20110701&quot;&gt;極速公車”拋錨事件&lt;/a&gt;， 我們警覺到政府公開資訊不僅在於資料釋出的動作而已，更重要的是相關的政策是否能夠配套產生，例如：學習歐巴馬政府推舉&lt;a href=&quot;http://www.whitehouse.gov/blog/2011/06/16/our-nation-s-first-federal-cio&quot;&gt;聯邦政府CIO&lt;/a&gt;，學習AusGOL由CIO領軍籌組跨組織會議，共同規劃與推動配套開放框架，或者也該學習紐西蘭從上而下的貫徹與宣導開放政策。&lt;/p&gt;
+
+&lt;p&gt;這些&quot;蹲馬步&quot; 是除了執行資訊開放之外，更值得我們深思的環節。未來，我們的政府與人民，對於資訊公開計畫能夠激盪出多少花火呢？且讓我們拭目以待。&lt;/p&gt;
+
+&lt;div&gt;----&lt;/div&gt;
+
+&lt;div&gt;本文參考：&lt;a href=&quot;https://creativecommons.org/weblog/entry/28813&quot;&gt;Open government policy developments in Australasia&lt;/a&gt;&lt;/div&gt;
+
+&lt;div&gt;圖片引用自：&lt;a class=&quot;newpage&quot; href=&quot;＿http://www.flickr.com/photos/library_of_congress/2179085559/&quot;&gt;&quot;United Nations Fight for Freedom&quot; by The Library of Congress/ Public Domain&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 29 Aug 2011 07:45:22 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">541 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20110829#comments</comments>
+</item>
+</channel>
+</rss>

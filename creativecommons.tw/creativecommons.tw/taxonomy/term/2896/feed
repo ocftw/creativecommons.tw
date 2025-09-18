@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 資料庫</title>
+ <link>https://creativecommons.tw/category/tags/%E8%B3%87%E6%96%99%E5%BA%AB</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>公眾領域貢獻宣告(CC0)在資料上的應用</title>
+ <link>https://creativecommons.tw/blog/20131022</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;公眾領域貢獻宣告，CC0，讀作CC Zero，可用來永久放棄作品的著作權與資料庫保護權(database rights)，從而將其盡可能地置於公眾領域。CC0這項法律工具改善了過去以美國為中心的公眾領域貢獻與認證中的貢獻功能。CC0具有普遍形式，不需為不同司法管轄區的法律作出更改，即可在全球各地應用於各種內容上。正如我們的授權條款，CC0可以用三種不同形式表達：授權條款、一般人看的授權標章、給電腦看的數位標籤。&lt;/p&gt;
+
+&lt;p&gt;CC0對於資料和資料庫分享尤其重要，那是因為著作權與其他權利，並沒有明確地限制高度事實性資料與資料庫。資料庫可能會包含不受著作權法保護的事實資料，但是許多司法管轄區的著作權法，卻涵蓋了經過創造性選擇或排列彙編的事實資料，以及創造性的資料庫設計與結構，許多司法權區，例如歐盟，便制定了額外的專門法(sui generis laws)，對資料庫的使用加以限制。CC0用來涵蓋所有著作權與資料庫權利，因此儘管資料與資料庫受到著作權等的限制，這些權利全都會被放棄。CC0和科學資料特別相關，Nature一篇觀點文章 「Post-publication sharing of data and tools」明確地建議開放分享，並使用CC0將資料置於公眾領域：「公開資料以供免費存取使用，這是主要的公共資料庫一貫的做法，但對其使用加諸的任何限制，都應該堅決抵制，我們支持對開放分享表示明確鼓勵，例如創用CC新的CC0公眾領域棄權宣告。」&lt;/p&gt;
+
+&lt;p&gt;公眾領域貢獻宣告(CC0)使用案例：以下是CC0在資料與資料庫上的使用案例。至於創用CC授權的案例，請見資料與創用CC授權一文。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;大英圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;大英圖書館利用CC0公眾領域貢獻，在公眾領域中釋出了大量的書目資料。這些書目資料來自於英國國家書目(British National Bibliography)，其中包含英國以及愛爾蘭共和國自1950年起的出版活動資料，佔整個大英圖書館目錄的20%。這個資料集目前有3百萬筆各別紀錄。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;歐洲核子研究中心圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;歐洲核子研究中心(CERN)，大型強子對撞機與全球資訊網的起源地，運用CC0公眾領域貢獻向公眾領域釋出他們的書目資料。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;位於科隆的圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;位於科隆的圖書館的所有書目資料，未加以著作權限制，公開給大眾使用。位於科隆的圖書館使用CC0公眾領域捐獻，放棄他們的著作權，這些圖書館包括：科隆大學與公共圖書館(University and Public Library of Cologne)、科隆媒體藝術學院(Academy of Media Arts Cologne)等。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Digg&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;社群新聞網站Digg上的所有內容，預設採用CC0，表示Digg放棄對其內容的所有著作權。這些內容包括讀者的評論、文章表題、文章描述，以及Digg網站上所有用戶貢獻的內容。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;美國數位公共圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;DPLA對於從各個資料提供夥伴所彙集的後設資料，承諾不主張新的權利，同時他們也承諾要將這些後設資料，免費以CC0公眾領域捐獻加以釋出。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Dryad&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Dryad是針對學術論文與科學出版品中資料的線上資料儲存庫。國家演化綜合研究中心(National Evolutionary Synthesis Center)與北卡羅萊納大學後設資料研究中心(University of North Carolina Metadata Research Center)，與各個期刊和研究社群合作，推動Dryad資料集的發展，所有資料透過CC0公眾領域捐獻釋出。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Europeana&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;歐洲數位圖書館、博物館與典藏機構Europeana，也是公共領域標誌第一批主要採用者，通過了新的資料交換協議，將數以百萬計的文化作品的後設資料，利用CC0公眾領域捐獻釋出至公眾領域。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;FigShare&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;研究人員可以在FigShare上，以可引述、搜尋、共享的方式，發表他們的資料。根據FigShare的常見問題集，所有圖片、媒體、多重檔案上傳，全都以創用CC姓名標示(CC BY)授權釋出，所有資料集則以CC0發佈。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;德國國家圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;德國國家圖書館已經開始使用CC0公眾領域貢獻，將他們的標準資料發佈至公眾領域。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;德國維基百科&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;德國維基百科使用CC0將資料貢獻至公眾領域，更具體地說，他們的PND-BEACON檔案可供下載。由於維基百科連接到數量相當多的外部資源，有許多文章都連接至相同的外部資源，德國維基百科使用PND-BEACON;檔案來組織各種資料。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;美國哈佛大學圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;依據其開放後設資料政策(Open Metadata Policy)，美國哈佛大學圖書館使用CC0在公眾領域中釋出1200萬則目錄記錄。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;義大利皮埃蒙特大區政府&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;義大利皮埃蒙特大區政府(Piemonte Regional Government)為其開放資料入口網站(dati.piemonte.it)，採用CC0公眾領域貢獻。在政府層面上，皮埃蒙特大區在義大利的開放資料運動扮演領導地位，是唯一不加限制開放所有資料的地區政府。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;MichiganView&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;MichiganView使用CC0，放棄在Landsat 5號與7號衛星，以及NAIP共多達93GB以上影像數據的所有著作權。MichiganView聯盟在網路上，免費公開美國密西根州的航拍和衛星圖像給大眾使用。作為AmericaView聯盟成員之一，MichiganView支持透過教育、勞動力開發、研究，存取並使用這些影像資料集。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;開放臨床創新網路&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;透過CC0公眾領域貢獻，開放臨床創新網路(Open Clinical Innovation Network)尋求開放分享臨床工具與資料，以改造臨床研究與發展，從而實現開放式創新。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;開放圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Internet Archive計劃之一的開放圖書館(Open Library)是一個線上目錄資料，目標是為出版的每一本書提供網頁。得力於全球現有的圖書館目錄，以及使用者貢獻，開放圖書館目前已經擁有2千萬筆紀錄，提供170萬本掃瞄書籍。開放圖書館資料的所有權利都透過CC0加以放棄。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;參考來源：&lt;a href=&quot;http://wiki.creativecommons.org/CC0_use_for_data&quot;&gt;http://wiki.creativecommons.org/CC0_use_for_data&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 21 Oct 2013 16:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">904 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20131022#comments</comments>
+</item>
+<item>
+ <title>2013 年 CC 全球會速記</title>
+ <link>https://creativecommons.tw/in-depth/770</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;莊庭瑞、林誠夏 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;2013 年 CC 全球會 (Creative Commons Global Summit 2013) 於 8 月 21-24 日於阿根廷首府布宜諾斯‧艾利斯 (Buenos Aires) 舉行[0]。 上次全球會於 2011 年 9 月在波蘭首都華沙舉行，這次全球會移地南美洲舉行，全球約有 60 個司法管轄區的 CC 計畫與會， 含阿根廷當地人士共約 250 人參與，大會並提供同步口譯，以協助許多議程皆能以英語和西班牙語雙語進行。 台灣創用CC 計畫計有莊庭瑞、李治安、林誠夏三人參加這次會議。 此篇報導簡要記錄會議概況，祈望於第一時間內提供最新消息，供關注創用CC 授權條款以及開放內容議題發展的讀者參考。 大會詳細議程、以及部份簡報資料等，可於大會網站取得 [1][2]。 而因撰稿期間緊迫，本篇速記疏漏之處在所難免，還請讀者見諒。&lt;/p&gt;
+
+&lt;p&gt;如果真要為本年度的 CC 全球會下一個副標題來彰顯討論方向，那應該就是「十年的成果審視、與十年的未來展望。」 這是因為 CC 在全球的推動已經歷經十年的期間，這段時間內已經在各個領域裡得到相當的成果，也有部份的計畫在推展上並不那麼顯著而經歷了調整與修改， 更重要的是，現時的推動環境，較諸十年之前亦已有所不同，故 2013 年 CC 全球會便是圍繞著「過去十年審視、未來十年展望」的主軸， 就各個不同的子議題，例如發展策略、合作架構、商業模式，以及開放資料等等，讓來自全球的 CC 計畫與會者能夠透過意見發抒與現場討論， 來凝聚共識以及確認下一步前進的方向。於是乎，在 21 號的首日，「CC 與著作權改革小型會議」(CC and copyright reform miniconference) 便屬於此一主軸框架下的會前會，參與者皆是各司法管轄區 CC 計畫的成員，或是受邀的民間組織，如美國的電子前鋒基金會 (Electronic Frontier Foundation, EFF) 以及法國的 La Quadrature du Net [3]。 會議中多人提起的議題為：Creative Commons 除了因應現有著作權法的嚴厲規範，而提出創用CC 授權條款以促進著作的分享利用之外， 是否也應該在著作權法的改革問題上，表明立場並有進一步的推動作為？ 因為許多 CC 計畫成員或多或少也牽涉其所在司法管轄區的著作權法修法工作（被動諮詢或是主動倡議），使得這項議題的討論分外熱烈。 台灣創用CC 計畫與會的李治安，亦以今年台灣著作權法在提案修法歷程，以及隨後民間力量的制衡等經驗與觀察，在此場次進行了分享報告。 這項會前會議的紀錄草稿，以及一份由部份會眾準備的「CC 支持著作權改革的聲明草案」(CC draft statement of support copyright reform)， 現亦已置於網路可供公眾參考[4][5]。&lt;/p&gt;
+
+&lt;p&gt;其後大會議程正式於 8 月 22 日進行開幕，由 Creative Commons 執行長 Cathy Casserly 以「CC 策略 (CC Strategy)」開場後[6]， 分三軌議程同時段舉行。擇要來說，CC 總部新到任不久的產品策略長 Dan Mills，就 CC 的資訊技術與產品發展方向，進行了綱要式的報告 [7]。 Dan Mills 之前任職於 Mozilla 基金會，他重視使用者族群的需求，以及強調任何性質的產品開發，無論是實體的產品或是服務性質的產品， 也都應該要去符合這些需求。法國 CC 的 Melanie Dulong de Rosnay，則就公眾領域作品數位化的議題進行了專題式的發表， 其在講場中介紹歐盟一些典藏機構將藏品數位化後，另行限制這些數位檔案使用的現況，在此議程中講者亦同步介紹到歐洲目前正在開展的 Europeana 計畫[8]， 該計畫是就文化資產數位化共享的方向來吸納並散布相關資料，包括製作了相應的 App 讓使用者可以免費於 App Store 下載應用 [9]， 以進一步以數位化的途徑，接觸到這些多數已置於公眾領域 (Public Domain) 的繪畫、地圖、照片等文化資產。 該場次會眾也分享了個人收藏家在數位化其收藏的動機、成本、以及共享上的議題。&lt;/p&gt;
+
+&lt;p&gt;至於 CC 授權條款 4.0 版本的進展，則由 Sarah Pearson 以及 Kat Walsh 兩位 CC 總部的法務研究人員說明，並聽取與會者的意見[10][11]， 該場次裡主要介紹 CC 4.0 在授權條款的表達上，將採更為白話易懂的方式進行，而就全球當前推動 Open Data 的趨勢和需求來看， CC 4.0 亦會將規範的觸角延伸至資料庫 (database) 的領域，強調的是若特定的司法管轄區裡，資料庫權依法是受到保護時，則有該部份條款的適用， 反之、若是該司法管轄區域裡，資料庫這樣的客體並沒有受到法律保護，則不會啟動 CC 4.0 條款裡對於資料庫散布方式的規範， 此外，CC 4.0 亦正在研議以翻譯方案 (translation) 調整目前在地化方案 (porting) 的作法，也就是說，未來 CC 4.0 的英文版本推出時， 也許便不再視各地的不同狀況，來做法律適用性的在地化調整，而是直接就條款內容進行不同語言的翻譯，然而此一議題各國成員的看法較為歧異， 後續是否採行以及如何採行，將在線上開放論壇持續討論來決定最後的作法。除此之外，CC 的國際合作網絡已有十年歷史，過往的運作架構是， 在 70 多個司法管轄區由志願者進行 CC 授權條款的本地化與推廣，但往後十年的發展模式，與過去必然不同， 故在「社群十年發展計畫」(10 year community plan) 場次，CC 的國際網絡經理人 Jessica Coates 和與會者， 便就此國際網絡的核心價值與可能發展，進行討論 [12]，重點在於從 CC 總部與各地計畫合作十年的經驗為基礎， 討論有哪些活動曾有得到顯著成果，而可以作為典範分享，而就 CC 總部與各地計畫與社群之間的互動，有哪些環結可以著力與改善， 以讓彼此的合作關係在未來十年能更為順暢。隔日下午 Jessica Coates 也報告了 CC 國際網絡的現況， 其內容主要整理自今年一項對所有司法管轄區 CC 計畫的線上問卷調查，頗具參考價值 [13]。&lt;/p&gt;
+
+&lt;p&gt;8 月 23 日早上的議程，則是以「理事會會談」開場，讓 CC 理事會部份成員（出席全球會而在場者）與司法管轄區計畫成員，能夠在此場合群聚一堂進行開放討論。 其中主要議題還是 CC 在運動面的方向與立場，是否積極介入各地著作權法的改革，或是依舊維持目前中立性的角色（亦即僅著力在創用CC 授權條款的提供與維護）。 另外，組織與營運的永續發展議題，以及採 CC 授權素材為基礎的商業發展模式也被提出討論，但當場並無確定結論，部份內容則延伸至該日上午的 CC 商業模式推展議程 (CC business models)， 來進行進一步的討論，此一議程由Florian Ducommun、Puneet Kishor，以及 Max Kaizen 共同主持，這些主持人分享了其對 CC 素材應用於商業模式方向的觀察與心得， 指出以 CC 授權素材為基礎下的服務加值 (value-added service)、或是產品加值 (valued-added product)，在商業模式上皆是非常可行， 然而，Max Kaizen 進一步以「刺蝟」(hedgehog) 為圖闡述了一個有趣的觀點，那就是在 CC 的授權概念下萬物皆可共享、但刺蝟的尖毛並不在分享之列， 這是因為刺蝟的尖毛是他們自我防護的必要裝置，所以對於將 CC 素材運用於商業收益上，這個模式並非不可行，其實各地區皆有組織正朝著這樣的方向進行， 然而重點在於先期釐清分享的範圍與商業服務的範圍，才可成功地建立起可持續運作 (sustainable) 的商用模式。&lt;/p&gt;
+
+&lt;p&gt;而是日早上 Maarten Zeinstra、Dan Mills，以及莊庭瑞，亦共同主持了一個場次，帶領討論各司法管轄區計畫在資訊技術上的需求、支援與合作議題。 下午場次計有文件翻譯的工作坊、CC 在教育領域的發展策略，以及自由分組討論 (Unconferences) 等。傍晚時刻，哈佛大學 Lawerence Lessig 教授， 也是 Creative Commons 的共同發起人，於布宜諾斯‧艾利斯大學法學院，以「窒息創意的法律」(Laws That Choke Creativity) 為題發表演說 [14]。 這場演講的風格與 Lessig 以往的演說類同，但或許因為其中所提及的人事物，與其本人（以及部份聽眾）的親身經驗相關，屬性較偏向個人式的分享。 其中並提到日前他與 EFF 已對澳洲 Liberation Music 提出告訴，反擊對方寄送給他虛假的著作權侵害警告信函（案由主要關於 Lessig 上傳到 YouTube 的演講影音檔案中，可主張合理使用的音樂片段）[15]。&lt;/p&gt;
+
+&lt;p&gt;大會最後一天 8 月 24 日的議程仍然非常緊湊，包括：「著作權的全球發展」(Copyright developments around the world)，在此講場中講者分享義大利文化遺產相關法律的現況 （以及對如維基百科這類開放內容網站在素材收錄的負面影響）、阿拉伯語文世界諸國著作權法的例外條款（如允許製作個人使用的複本、以及允許阿拉伯文譯本的強制授權）， 中國大陸著作權法第三次修法的情形。另外，關於政府開放資料議題，於另一場次也有來自澳洲、韓國、英國的講者分享看法（目前各國似乎偏好自行訂立各不相容的資料授權條款， 但講者多認為這是不智的作法，因長遠來看此舉對於資料的互相融通應用沒有助益）。大會於下午四點結束，來自各國的與會者，經過四天的密切交流討論，此時離情依依頓時不捨。 關於這次會議的即時及後續消息，可用「#標示碼」(hashtag) #ccsum 在各社群媒體搜尋並作進一步觀察。&lt;/p&gt;
+
+&lt;p&gt;---&lt;br /&gt;
+[0]&amp;nbsp; &lt;a href=&quot;http://wiki.creativecommons.org/Global_Summit_2013&quot; target=&quot;_blank&quot;&gt;http://wiki.creativecommons.org/Global_Summit_2013&lt;/a&gt;&lt;br /&gt;
+[1]&amp;nbsp; &lt;a href=&quot;http://wiki.creativecommons.org/images/c/c9/Program_CC_globalsummit2013.pdf&quot; target=&quot;_blank&quot;&gt;http://wiki.creativecommons.org/images/c/c9/Program_CC_globalsummit2013.pdf&lt;/a&gt;&lt;br /&gt;
+[2]&amp;nbsp; &lt;a href=&quot;http://wiki.creativecommons.org/Global_Summit_2013/Slideshows_and_notes&quot; target=&quot;_blank&quot;&gt;http://wiki.creativecommons.org/Global_Summit_2013/Slideshows_and_notes&lt;/a&gt;&lt;br /&gt;
+[3]&amp;nbsp; &lt;a href=&quot;https://docs.google.com/a/creativecommons.org/document/d/1AyPs4RNgjG3yk1AnNKnKrVEExgjcKe8N6euStWpbZMs/&quot; target=&quot;_blank&quot;&gt;https://docs.google.com/a/creativecommons.org/document/d/1AyPs4RNgjG3yk1AnNKnKrVEExgjcKe8N6euStWpbZMs/&lt;/a&gt;&lt;br /&gt;
+[4]&amp;nbsp;&lt;a href=&quot;http://etherpad.creativecommons.org/p/CC_copyright_reform_summit&quot; target=&quot;_blank&quot;&gt;http://etherpad.creativecommons.org/p/CC_copyright_reform_summit&lt;/a&gt;&lt;br /&gt;
+[5]&amp;nbsp;&lt;a href=&quot;https://docs.google.com/a/creativecommons.org/document/d/1_HgAoGfAR1KjZDW-p-CKIB-lbYJK8Dq1oCLy8PiT6SE/&quot; target=&quot;_blank&quot;&gt;https://docs.google.com/a/creativecommons.org/document/d/1_HgAoGfAR1KjZDW-p-CKIB-lbYJK8Dq1oCLy8PiT6SE/&lt;/a&gt;&lt;br /&gt;
+[6]&amp;nbsp;&lt;a href=&quot;https://docs.google.com/a/creativecommons.org/presentation/d/1yaHMmiiBvdekB91Ne7pix2Lzl6TjqFmU1Hq8S9P0z58/&quot; target=&quot;_blank&quot;&gt;https://docs.google.com/a/creativecommons.org/presentation/d/1yaHMmiiBvdekB91Ne7pix2Lzl6TjqFmU1Hq8S9P0z58/&lt;/a&gt;&lt;br /&gt;
+[7]&amp;nbsp;&lt;a href=&quot;http://wiki.creativecommons.org/File:2013_CC_Summit_slides.pdf&quot; target=&quot;_blank&quot;&gt;http://wiki.creativecommons.org/File:2013_CC_Summit_slides.pdf&lt;/a&gt;&lt;br /&gt;
+[8]&amp;nbsp;&lt;a href=&quot;http://www.europeana.eu/&quot; target=&quot;_blank&quot;&gt;http://www.europeana.eu/&lt;/a&gt;&lt;br /&gt;
+[9]&amp;nbsp;&lt;a href=&quot;https://itunes.apple.com/en/app/europeana/id646414251&quot; target=&quot;_blank&quot;&gt;https://itunes.apple.com/en/app/europeana/id646414251&lt;/a&gt;&lt;br /&gt;
+[10]&amp;nbsp;&lt;a href=&quot;http://wiki.creativecommons.org/File:4.0_session.pdf&quot; target=&quot;_blank&quot;&gt;http://wiki.creativecommons.org/File:4.0_session.pdf&lt;/a&gt;&lt;br /&gt;
+[11]&amp;nbsp;&lt;a href=&quot;http://wiki.creativecommons.org/File:4.0_summit_session_notes.pdf&quot; target=&quot;_blank&quot;&gt;http://wiki.creativecommons.org/File:4.0_summit_session_notes.pdf&lt;/a&gt;&lt;br /&gt;
+[12]&amp;nbsp;&lt;a href=&quot;http://wiki.creativecommons.org/File:10_year_plan_discussion.odp&quot; target=&quot;_blank&quot;&gt;http://wiki.creativecommons.org/File:10_year_plan_discussion.odp&lt;/a&gt;&lt;br /&gt;
+[13]&amp;nbsp;&lt;a href=&quot;http://wiki.creativecommons.org/File:Affiliate_Reporting_for_GS2013.odp&quot; target=&quot;_blank&quot;&gt;http://wiki.creativecommons.org/File:Affiliate_Reporting_for_GS2013.odp&lt;/a&gt;&lt;br /&gt;
+[14]&amp;nbsp;&lt;a href=&quot;http://vimeo.com/73245765&quot; target=&quot;_blank&quot;&gt;http://vimeo.com/73245765&lt;/a&gt;&lt;br /&gt;
+[15]&amp;nbsp;&lt;a href=&quot;https://www.eff.org/press/releases/lawrence-lessig-strikes-back-against-bogus-copyright-takedown&quot; target=&quot;_blank&quot;&gt;https://www.eff.org/press/releases/lawrence-lessig-strikes-back-against-bogus-copyright-takedown&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 06 Sep 2013 11:58:22 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">770 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/770#comments</comments>
+</item>
+<item>
+ <title>公眾領域貢獻宣告(CC0)在資料上的應用</title>
+ <link>https://creativecommons.tw/blog/20130701</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;公眾領域貢獻宣告，CC0， 讀作 CC Zero，可用來永久放棄作品的著作權與資料庫保護權 (database rights)，從而將其盡可能地置於公眾領域。CC0 這項法律工具改善了過去以美國為中心的公眾領域貢獻與認證中的貢獻功能。CC0 具有普遍形式，不需為不同司法管轄區的法律作出更改，即可在全球各地應用於各種內容上。正如我們的授權條款，CC0 可以用三種不同形式表達：授權條款、一般人看的授權標章、給電腦看的數位標籤。&lt;/p&gt;
+
+&lt;p&gt;CC0 對於資料和資料庫分享尤其重要，那是因為著作權與其他權利，並沒有明確地限制高度事實性資料與資料庫。資料庫可能會包含不受著作權法保護的事實資料，但是許多司法管轄區的著作權法，卻涵蓋了經過創造性選擇或排列彙編的事實資料，以及創造性的資料庫設計與結構，許多司法權區，例如歐盟，便制定了額外的專門法 (sui generis laws)，對資料庫的使用加以限制。CC0 用來涵蓋所有著作權與資料庫權利，因此儘管資料與資料庫受到著作權等的限制，這些權利全都會被放棄。CC0 和科學資料特別相關，Nature 一篇觀點文章 「Post-publication sharing of data and tools」明確地建議開放分享，並使用 CC0 將資料置於公眾領域：「公開資料以供免費存取使用，這是主要的公共資料庫一貫的做法，但對其使用加諸的任何限制，都應該堅決抵制，我們支持對開放分享表示明確鼓勵，例如創用 CC 新的 CC0 公眾領域棄權宣告。」&lt;/p&gt;
+
+&lt;p&gt;公眾領域貢獻宣告(CC0) 使用案例：以下是 CC0 在資料與資料庫上的使用案例。至於創用 CC 授權的案例，請見資料與創用 CC 授權一文。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;大英圖書館 &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;大英圖書館利用 CC0 公眾領域貢獻，在公眾領域中釋出了大量的書目資料。這些書目資料來自於英國國家書目 (British National Bibliography)，其中包含英國以及愛爾蘭共和國自 1950 年起的出版活動資料，佔整個大英圖書館目錄的 20%。這個資料集目前有 3 百萬筆各別紀錄。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;歐洲核子研究中心圖書館 &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;歐洲核子研究中心 (CERN)，大型強子對撞機與全球資訊網的起源地，運用 CC0 公眾領域貢獻向公眾領域釋出他們的書目資料。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;位於科隆的圖書館 &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;位於科隆的圖書館的所有書目資料，未加以著作權限制，公開給大眾使用。位於科隆的圖書館使用 CC0 公眾領域捐獻，放棄他們的著作權，這些圖書館包括：科隆大學與公共圖書館 (University and Public Library of Cologne)、科隆媒體藝術學院 (Academy of Media Arts Cologne) 等。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Digg&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;社群新聞網站 Digg 上的所有內容，預設採用 CC0，表示 Digg 放棄對其內容的所有著作權。這些內容包括讀者的評論、文章表題、文章描述，以及 Digg 網站上所有用戶貢獻的內容。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;美國數位公共圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;DPLA 對於從各個資料提供夥伴所彙集的後設資料，承諾不主張新的權利，同時他們也承諾要將這些後設資料，免費以 CC0 公眾領域捐獻加以釋出。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dryad&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Dryad 是針對學術論文與科學出版品中資料的線上資料儲存庫。國家演化綜合研究中心 (National Evolutionary Synthesis Center) 與北卡羅萊納大學後設資料研究中心 (University of North Carolina Metadata Research Center)，與各個期刊和研究社群合作，推動 Dryad 資料集的發展，所有資料透過 CC0 公眾領域捐獻釋出。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Europeana&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;歐洲數位圖書館、博物館與典藏機構 Europeana，也是公共領域標誌第一批主要採用者，通過了新的資料交換協議，將數以百萬計的文化作品的後設資料，利用 CC0 公眾領域捐獻釋出至公眾領域。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;FigShare&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;研究人員可以在 FigShare 上，以可引述、搜尋、共享的方式，發表他們的資料。根據 FigShare 的常見問題集，所有圖片、媒體、多重檔案上傳，全都以創用 CC 姓名標示 (CC BY) 授權釋出，所有資料集則以 CC0 發佈。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;德國國家圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;德國國家圖書館已經開始使用 CC0 公眾領域貢獻，將他們的標準資料發佈至公眾領域。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;德國維基百科&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;德國維基百科使用 CC0 將資料貢獻至公眾領域，更具體地說，他們的 PND-BEACON 檔案可供下載。由於維基百科連接到數量相當多的外部資源，有許多文章都連接至相同的外部資源，德國維基百科使用 PND-BEACON 檔案來組織各種資料。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;美國哈佛大學圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;依據其開放後設資料政策 (Open Metadata Policy)，美國哈佛大學圖書館使用 CC0 在公眾領域中釋出 1200 萬則目錄記錄。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;義大利皮埃蒙特大區政府&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;義大利皮埃蒙特大區政府 (Piemonte Regional Government) 為其開放資料入口網站 (dati.piemonte.it)，採用 CC0 公眾領域貢獻。在政府層面上，皮埃蒙特大區在義大利的開放資料運動扮演領導地位，是唯一不加限制開放所有資料的地區政府。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;MichiganView&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;MichiganView 使用 CC0，放棄在 Landsat 5 號與 7 號衛星，以及 NAIP 共多達 93GB 以上影像數據的所有著作權。MichiganView 聯盟在網路上，免費公開美國密西根州的航拍和衛星圖像給大眾使用。作為 AmericaView 聯盟成員之一，MichiganView 支持透過教育、勞動力開發、研究，存取並使用這些影像資料集。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;開放臨床創新網路&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;透過 CC0 公眾領域貢獻，開放臨床創新網路 (Open Clinical Innovation Network) 尋求開放分享臨床工具與資料，以改造臨床研究與發展，從而實現開放式創新。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;開放圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Internet Archive 計劃之一的開放圖書館 (Open Library) 是一個線上目錄資料，目標是為出版的每一本書提供網頁。得力於全球現有的圖書館目錄，以及使用者貢獻，開放圖書館目前已經擁有 2 千萬筆紀錄，提供 170 萬本掃瞄書籍。開放圖書館資料的所有權利都透過 CC0 加以放棄。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 01 Jul 2013 01:58:01 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">698 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20130701#comments</comments>
+</item>
+<item>
+ <title>科學資料的開放近用與自由流通</title>
+ <link>https://creativecommons.tw/blog/20090805</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;莊庭瑞(trc)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;&lt;img alt=&quot;20090327seminarposter.jpg;&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/scientificdata2009.jpg&quot; style=&quot;width:350px&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;今年3月27日中央研究院舉行了一場「公共出資的科學資料與出版品的一般使用與授權」學術研討會。該會議邀集了不同領域的學者專家、公眾授權的倡議者與採用者、以及研究機構的策略規劃者，就科學資料與出版品的開放近用與自由流通，進行了廣泛的討論（詳見&lt;a href=&quot;http://scientificdata2009.creativecommons.org.tw/&quot;&gt;研討會網址&lt;/a&gt;，以及&lt;a class=&quot;newpage&quot; href=&quot;http://www.slideshare.net/event/symposium-on-common-use-licensing-of-publicly-funded-scientific-data-and-publications/slideshows&quot;&gt;講者投影片&lt;/a&gt;）。&lt;/p&gt;
+
+&lt;p&gt;科學出版品（指可被視為著作的部份），在一般使用與公眾授權方面，已受到相當的重視。在觀念推展與實務作法上，無論是法律工具如創用CC授權條款，或是散布管道如採用開放近用 (Open Access) 的學術期刊及機構典藏庫 (Institutional Repository) 的建立，甚或是政策規範如&lt;a class=&quot;newpage&quot; href=&quot;http://publicaccess.nih.gov/policy.htm&quot;&gt;美國〈國家衛生研究院公共近用政策〉&lt;/a&gt; (‹NIH Public Access Policy›) 等各方面，目前已有許多可以借鏡、相互學習的地方。&lt;/p&gt;
+
+&lt;p&gt;科學資料（因進行科學研究而所蒐集產生的資料）的開放近用與自由流通，情況就比較複雜。資料 (Data) 以及資料庫 (Database) ，是否為受法律保護的客體，在不同國家有不同的法律規範。歐洲議會於1996年3月所通過的&lt;a class=&quot;newpage&quot; href=&quot;http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0009:EN:HTML&quot;&gt;《資料庫之法律保護指令》&lt;/a&gt; («Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases») ，對於資料庫給予法律保護，並認為對資料庫的權利是特有的 (sui generis) ，與對著作的權利不同，兩者分別受到保護。但在美國、台灣、以及其他許多國家，資料庫不被視為著作，不受到著作權法的保護，也未必以法律給予特有的保護。&lt;/p&gt;
+
+&lt;p&gt;使用創用CC授權條款來作資料的釋出，嚴謹來說並不合適，因為資料並不是受著作權法保護的客體。荷蘭 CC 計畫 (Creative Commons Netherlands) 在 進行 CC 授權條款本地化的過程裡，考量了歐盟資料庫保護指令的情形，對荷蘭版的 CC 授權條款，就做了一些調整。為了避免使用CC授權條款所釋出的著作，是否也可被視為是資料庫，而有適用上的疑慮，&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by/3.0/nl/legalcode&quot;&gt;荷蘭版的 CC 授權條款&lt;/a&gt;裡，將著作本身的定義放寬到包括資料庫，以擴大該授權條款的適用的範圍。但在台灣以及其它（無資料庫保護法律的）國家，該國本地化的 CC 授權條款，目前並沒有（也不合適）作這些調整。&lt;/p&gt;
+
+&lt;p&gt;為因應科學資料在自由流通上的需要，最近 Creative Commons &lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/13304&quot;&gt;正式發佈了一項稱為 CC0 (CC Zero) 的宣告&lt;/a&gt;。聲明人可使用 &lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/publicdomain/zero/1.0/&quot;&gt;CC0 宣告&lt;/a&gt;，表示對所宣告的作品，不保留著作權及相關權利。這些著作權及相關權利，包括著作權利、資料庫權利、以及萃取使用該作品所內含資料等權利；聲明人也不對使用人作「姓名標示」或「相同方式分享」上的要求&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-1&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-1&#039;)&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;。 Creative Commons 希望透過 CC0 宣告，可以讓所宣告的著作和資料的流通使用更加自由，近一步擴展創意、文化、科學的共有領域。目前已有兩項計畫採用了 CC0 宣告，分別是 &lt;a class=&quot;newpage&quot; href=&quot;https://proteomecommons.org/tranche/&quot;&gt;The ProteomeCommons.org Tranche network&lt;/a&gt; 以及 &lt;a class=&quot;newpage&quot; href=&quot;http://www.personalgenomes.org/&quot;&gt;Personal Genome Project&lt;/a&gt; 。兩項都有關於生命科學的資料分享與使用。&lt;/p&gt;
+
+&lt;p&gt;科學資料的公眾釋出與一般使用，在散布管道與施行方法上，也較少有示範性或共通性的作為。為呈現學術研究的成果，研究者主要著重於論文的發表。用以佐證研究結果的原始資料的整理發佈，並不受到格外的重視。將原始資料清理成公眾可以獨立使用的格式，對研究者反而是額外的工作。（這讓人想到一則關於自由軟體的聽聞：有些程式開發者心理很願意釋出程式的原始碼，但最後沒能釋出，原因是覺得自己寫的程式有些醜，或是程式碼沒加註釋，覺得不好意思，但也沒時間修改了，所以就不釋出。）&lt;/p&gt;
+
+&lt;p&gt;一般的研究機構對其所蒐集產生的科學資料，通常在釋出政策上也不多作要求，在行政程序或是資訊技術上，也未必對研究者提供必要的協助。研究機構或是研究者本身，也常以智慧財產的角度，對科學資料的釋出，持保留的態度；當資料還沒被分析發表為論文之前，這些資料的開放近用與自由流通，尤其困難。但在現今的研究環境，能夠取得其他研究團隊的第一手原始資料，自由進行各種資料的整合、萃取、與分析，以互惠的精神協力合作，卻是非常的重要。分享觀測資料的&lt;a class=&quot;newpage&quot; href=&quot;http://www.ivoa.net/&quot;&gt;虛擬天文台&lt;/a&gt;，已是常見的典範模式。&lt;/p&gt;
+
+&lt;p&gt;公共所出資的科學研究的產出（即使是原始資料），應該給所有公民（包括其他研究者）所使用，這在法律、政治、與倫理上，都有不可逃避的理由&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-2&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-2&#039;)&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;。民主國家中政府資訊公開，以及公共出資的科學產出的開放近用議題，也逐漸受到重視。有足夠的例證顯示，政府資訊（包括公共出資的科學資料）的公開對於社會經濟活動，相當有助益。一些研究報告就指出，相對於歐盟，美國聯邦政府採取較開放的方式，釋出所掌有的資料（如地理量測、即時氣象等原始資料），因此在相關產業的規模與發展（如地理資訊、氣象預報等服務），領先歐盟甚多。&lt;/p&gt;
+
+&lt;p&gt;對於科學資料與出版品的開放近用與自由流通，台灣在政策上並沒有特別的規範。雖然&lt;a class=&quot;newpage&quot; href=&quot;http://www.nsc.gov.tw/rule/S&amp;amp;T_law.html&quot;&gt;《科學技術基本法》&lt;/a&gt;的第二十條提到：「為推動科學技術研究發展，政府應擬訂科學技術資訊流通政策，採取整體性計畫措施，建立國內外科學技術研究發展之相關資訊網路及資訊體系」，但這似乎是高層次的宣示；個別研究機構對於其所產出的科學資料與出版品，是否釋出供一般使用，在作法上可能差異很大。以下簡要介紹兩項示範性的作為，供大家參考。&lt;/p&gt;
+
+&lt;p&gt;國科會的‹專題研究計畫執行同意書›，要求以調查法（如面訪、電話訪問、郵寄問卷等）進行計畫之主持人，應將「研究成果報告、資料讀我檔、空白問卷、過錄號碼簿、電腦資料數據檔、資料欄位定義程式等及調查資料檔案利用授權書」，送中央研究院人文社會科學研究中心&lt;a class=&quot;newpage&quot; href=&quot;http://survey.sinica.edu.tw/&quot;&gt;調查研究專題中心&lt;/a&gt;。而該中心對所保管的調查資料，於一定時間後，釋出給國內外研究機構、大專院校的研究人員、教授或研究生使用。&lt;/p&gt;
+
+&lt;p&gt;2001年由行政院核定通過的「生物多樣性行動方案」中，明示應建置國家生物多樣性資訊中心，整合全國生物多樣性相關資料，促進研究、教育、及保育之功能。為此中央研究院已接受國科會與農委會部份經費補助，負責整合台灣生物多樣性的各式資料，並維運「&lt;a class=&quot;newpage&quot; href=&quot;http://www.taibif.org.tw/&quot;&gt;台灣生物多樣性資訊入口網&lt;/a&gt;」 (Taiwan Biodiversity Information Facility, TaiBIF) 。該網站是台灣在「&lt;a class=&quot;newpage&quot; href=&quot;http://www.gbif.org/&quot;&gt;全球生物多樣性資訊機構&lt;/a&gt;」 (Global Biodiversity Information Facility, GBIF) 的入口網站，與其它參與 GBIF 的國家入口網站，進行生物多樣性資料的全球交換與分享。&lt;/p&gt;
+
+&lt;p&gt;以上兩項工作的內容與挑戰，請參見張苙雲、邵廣昭兩位研究員在3月研討會的介紹。科學資料的開放近用與自由流通，還有許多努力的空間，也需要大家的關注。&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;Taipei Held Meeting on Public Licensing of Scientific Data and Publications&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Creative Commons Taiwan organized the &lt;a href=&quot;http://scientificdata2009.creativecommons.org.tw/&quot;&gt;Symposium on Common Use Licensing of Publicly Funded Scientific Data and Publications&lt;/a&gt; at Taipei, Taiwan, on March 27, 2009. The symposium was jointly organized by &lt;a class=&quot;newpage&quot; href=&quot;http://codata.sinica.edu.tw/&quot;&gt;CODATA Taiwan&lt;/a&gt;, &lt;a class=&quot;newpage&quot; href=&quot;http://www.stpi.org.tw/STPI/index.htm&quot;&gt;NARL Science &amp;amp; Technology Policy Research and Information Center&lt;/a&gt; (STPI), Taiwan, and &lt;a class=&quot;newpage&quot; href=&quot;http://sites.nationalacademies.org/pga/brdi/index.htm&quot;&gt;NRC Board on Research Data and Information&lt;/a&gt;, USA. The meeting was held in Academia Sinica, the host of Creative Commons Taiwan.&lt;/p&gt;
+
+&lt;p&gt;The symposium program, as well as the abstracts and slides of the presentations, is available at the &lt;a href=&quot;http://scientificdata2009.creativecommons.org.tw/programme&quot;&gt;symposium website&lt;/a&gt;. The one day symposium consists of three sessions and one panel. The symposium touches upon the history of and the rationale for commons use of scientific data and publications (session 1), emphasizes the current practice and trend of common use licensing (session 2), and discusses the various issues and challenges faced by the scientific communities (session 3).&lt;/p&gt;
+
+&lt;p&gt;Joining from US at the symposium are Paul F. Uhlir from the National Academy of Sciences, Harlan J. Onsrud from University of Maine, and Kaitlin Thaney from Science Commons. Gene Hettel from the &lt;a class=&quot;newpage&quot; href=&quot;http://beta.irri.org/index.php/Home/Welcome/Frontpage.html&quot;&gt;International Rice Research Institute (IRRI)&lt;/a&gt;, the Philippines, and whom the Creative Commons Taiwan team met at the &lt;a class=&quot;newpage&quot; href=&quot;http://cc-asia-pacific.wikidot.com/&quot;&gt;Commons Crossroads&lt;/a&gt; meeting at Manila in February, also joins the symposium and gives a presentation on IRRI&#039;s new Creative Commons licensing policy for its scientific publications.&lt;/p&gt;
+
+&lt;p&gt;The Taiwanese speakers include Ted Lau (STPI), Ly-yun Chang, Kwang-Tsao Shao, and Eric Yen (all from Academia Sinica), Chau Chin Lin (Taiwan Forestry Research Institute), and Ming-Che Wu (Taiwan Livestock Research Institute). Ly-yun Chang gives an overview of the Survey Research Data Archive that has been collected and maintained at the &lt;a class=&quot;newpage&quot; href=&quot;http://survey.sinica.edu.tw/&quot;&gt;Center for Survey Research&lt;/a&gt;, Academia Sinica. Shao and Lin discuss issues and challenges in sharing biodiversity data and publications, and present the &lt;a class=&quot;newpage&quot; href=&quot;http://www.taibif.org.tw/&quot;&gt;Taiwan Biodiversity Information Facility&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The symposium was closed by a panel, chaired by D. T. Lee (Chairman of CODATA Taiwan), on policy issues in implementing common use licensing of scientific data and publications. The panelists consist of Paul F. Uhlir, Ted Lau, Harlan J. Onsrud, and Tyng-Ruey Chuang (Creative Commons Taiwan). They exchange thoughts on policy issues and examine potential policy instruments to actively enable the sharing of scientific data and publications.&lt;/p&gt;
+
+&lt;div&gt;
+&lt;div&gt;Footnotes&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-1&#039;)&quot;&gt;1&lt;/a&gt;. Creative Commons, &lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/CC0_FAQ&quot;&gt;‹CC0 FAQ›&lt;/a&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-2&#039;)&quot;&gt;2&lt;/a&gt;. Paul F. Ulhir, ‹The emerging role of open repositories for scientific literature as a fundamental component of the public research infrastructure›. In &lt;a class=&quot;newpage&quot; href=&quot;http://www.polimetrica.com/index.php?p=productsMore&amp;amp;iProduct=52&quot;&gt;«Open Access: Open Problems»&lt;/a&gt;, pp. 59-103, G. Sica (editor), Polimetrica, Torino, Italy (2007).&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+講者投影片連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 05 Aug 2009 04:00:00 +0000</pubDate>
+ <dc:creator>trc</dc:creator>
+ <guid isPermaLink="false">160 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20090805#comments</comments>
+</item>
+<item>
+ <title>學術出版開放近用經營模式分析</title>
+ <link>https://creativecommons.tw/in-depth/373</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;李治安、林懿萱&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;前言：創用CC電子報從上月開始連載三期有關開放出版的長篇文章。本文是兩位曾經任職於台灣創用CC計畫的優秀同仁李治安與林懿萱，憑著長期對創用CC等相關議題的研究，合著了「從傳統到開放的學術期刊出版-開放近用出版相關問題初探」一文。由於全文具學術性質，篇幅較長，為讓電子報讀者更容易閱讀，因此僅取文中三大段連載，分別為「開放近用（出版）的定義、發展歷程及自我典藏」、「學術出版開放近用經營模式分析」、「Science Commons中的出版計畫」三部分。而該全文已於2007年4月刊載於「圖書館學與資訊科學」期刊，文中參考書目與附註，或有興趣延伸閱讀的朋友都可以&lt;a class=&quot;newpage&quot; href=&quot;http://jlis.glis.ntnu.edu.tw/intro/chi/showdetail.asp?msys_num=498&quot;&gt;全文查詢&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;目前市場上開放近用學術期刊所採取經營模式有幾種不同的選擇，有些出版機構提供傳統紙本訂閱及線上電子檔無償開放讀者近用兩種出版模式並行，有些則僅出版線上版的開放近用期刊；就採取傳統與開放近用模式並行的出版機構而言，有些期刊的開放近用版本與紙本同時發行，有些則在傳統紙本出版相當時間後，才提供開放近用版的期刊內容。此外，亦有期刊採取所謂混合開放近用(open access hybrid)的出版模式，由作者自己來決定是否將作品無償開放給社會大眾閱讀、下載，若作者做出開放近用的決定，則須支付相當費用給出版機構（邱炯友，民95年）。&lt;/p&gt;
+
+&lt;p&gt;就學術期刊經營者的觀點而言，開放近用經營模式的商業價值仍有待觀察，就財務的觀點而言，純粹開放近用的經營模式可節省行銷及訂戶管理的費用，但是卻喪失了傳統經營模式主要的獲利來源：訂閱費用。目前大部分開放近用出版的經營費用係來自：出版機構的自有經費、外界捐贈、會員加值服務費用[13]、作者所繳納的稿件處理費用及廣告收益等。此外，就稿件供給的觀點而言，開放近用出版模式多要求作者繳納相當的稿件處理費用，此等要求可能會影響作者提供稿件的誘因，該誘因的降低，對於尚未建立學術聲望的期刊而言，係屬不易處理的課題。&lt;/p&gt;
+
+&lt;p&gt;從作者的角度而言，開放近用的出版模式除了可增加讀者的數量以外，另一個潛在的利益是作者可以得到更多關於其作品的回應，開放近用期刊的出版者可以透過網際網路及資訊科技，為每一篇文章建立獻上論壇，另外，作者亦可以將其研究的基礎資訊，以不同的形式（如聲音、影片、數據、實驗筆記及資料庫等）置於網站上供讀者檢驗參考，如此將可提升研究的準確性及嚴謹度；從讀者的角度而言，開放近用出版除了降低接近使用期刊的成本以外，更重要的是，讀者可透過 Google Scholar、Citeseer或Citebase等搜尋引擎找尋其所需求的學術文章，由於許多研究者都習慣在各自專業領域的資料庫中尋找相關文獻（如法律學者習慣使用Westlaw及LexisNexis資料庫），所以對於其他領域的相關主題研究可能不易得知，但是透過開放近用出版的期刊及網際網路，研究者將可更輕易的取得其他領域的相關文獻，就此而言，開放近用的出版模式亦有助於跨領域研究。&lt;/p&gt;
+
+&lt;p&gt;由於開放近用的出版模式不向讀者收取線上閱讀及下載的訂閱費用，所以對於此種經營模式最常見的質疑就是其在經濟上是否能達到收支平衡。事實上，為支付專業期刊的必要開銷（如排版、安排同儕審查、網站管理及印刷等行政費用），一些開放近用學術期刊的出版者會向作者收取一定的出版費用，以知名的開放近用出版組織公共科學圖書館(Public Library of Science, PLoS)為例，其所出版的期刊要求作者或其所屬的研究機構支付每篇美金1,250元到2,500元不等的出版費用，但是如果作者及其所屬機構無力負擔該出版費用，則可申請免除負擔部份或全部出版費用，此外，如果作者所屬的研究機構支付美金2,000元至100,000元的會員年金，則作者在出版費用上可獲得10%到75%的折扣(Public Library of Science, n.d.)，PLoS的主要經濟來源來自捐款、獎助、紙本的訂閱費用以及上述作者或其所屬機構所支付的出版費用。另一家英國的開放近用期刊出版商 BioMed Central(BMC)則向作者收取每篇美金490元到2,340元的處理費用，但若作者或其所屬研究機構已經支付過BMC的會員費用，則無須支付文章處理費用(BioMed Central, n.d.)。而近年來一些實證的研究也顯示，開放近用的學術期刊經營模式，在經濟上是可行的(Odlyzko, 1997: Willinsky, 2003)，而開放近用學術期刊的數量，也在持續增加中(Gonzalez, 2006, p.333)。&lt;/p&gt;
+
+&lt;p&gt;開放近用期刊能否經營成功，另一個關鍵性的因素是此等期刊能否建立卓著的學術聲譽。對作者來說，在開放近用的期刊上刊登文章，或許可以增加被閱讀的次數及被引用的頻率，而此種頻率的增加雖然可以某種程度的提升作者的學術地位，但是在開放近用期刊建立起一流學術聲譽之前，許多作者可能還是會把最滿意的著作優先投稿至如Science或Nature傳統的一流學術期刊，以獲得學術界普遍認可的肯定，就此而言，開放近用期刊似乎不易在短時間內，挑戰既有的一流學術期刊所建立的學術聲望。此外，實證研究也發現，許多學者對於專業領域中的開放近用學術期刊仍不熟悉或缺乏信心(Swan &amp;amp; Brown, 2004, 2005)，此種情形極可能導致開放近用期刊獲得較少高水準的稿件，而難以提升其學術水準(Denicola, 2006, p. 360)。&lt;/p&gt;
+
+&lt;p&gt;因此，開放近用期刊能否在學術市場全面成功，將端視學術界能否以成功的集體行動支持開放近用的出版模式，事實上，近年來學術界的集體行動已經逐漸展開，除了前述一流學術機構對傳統期刊出版模式的反動以外，許多重量級的學者也開始擔任開放近用學術期刊的編輯委員，以表達對開放近用理念的支持及期刊內容的肯定，而PLoS更是由1989年諾貝爾醫學獎得主Harold Varmus博士所發起成立，並獲得多位諾貝爾獎得主的支持，其所出版的期刊內亦不乏諾貝爾獎得主的著作。&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+全文查詢連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 07 Dec 2007 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">373 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/373#comments</comments>
+</item>
+<item>
+ <title>開放近用（出版）的定義、發展歷程及自我典藏</title>
+ <link>https://creativecommons.tw/in-depth/371</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;李治安、林懿萱&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;前言：創用CC電子報從本月開始將連載三期有關開放出版的長篇文章。本文是兩位曾經任職於台灣創用CC計畫的優秀同仁李治安與林懿萱，憑著長期對創用CC等相關議題的研究，合著了「從傳統到開放的學術期刊出版-開放近用出版相關問題初探」一文。由於全文具學術性質，篇幅較長，為讓電子報讀者更容易閱讀，因此僅取文中三大段連載，分別為「開放近用（出版）的定義、發展歷程及自我典藏」、「學術出版開放近用經營模式分析」、「Science Commons中的出版計畫」三部分。而該全文已於2007年4月刊載於「圖書館學與資訊科學」期刊，文中參考書目與附註，或有興趣延伸閱讀的朋友都可以&lt;a class=&quot;newpage&quot; href=&quot;http://jlis.glis.ntnu.edu.tw/ojs/index.php/jlis/article/viewFile/486/486&quot;&gt;全文查詢&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;何謂「開放近用」？根據目前最為人所熟知的布達佩斯開放近用提議(Budapest Open Access Initiative)，「開放近用」指的是：資料能在公眾網際網路上被自由取用，並允許任何使用者得閱讀、下載、重製、散布、列印、搜尋或連結至該等文章的全部內容、得為檢索目的爬梳(crawl) [1]該等文章、得傳遞該等文章至軟體作為資料，或為任何其他合法目的，在除了與近用網際網路不可分離的限制外，別無財政、法律或科技障礙之下而能使用該等文章。對於重製及散布的唯一限制，及著作權在上述範圍內的唯一角色，是必須允許作者得控制他們著作的完整性，和保障作者應被適當表彰及引用[2]。&lt;/p&gt;
+
+&lt;p&gt;而貝斯達開放近用出版宣言(Bethesda Statement on Open Access Publishing)則對何謂「開放近用出版」給了定義。只要符合以下兩個條件，即可稱為開放近用出版[3]。&lt;/p&gt;
+
+&lt;p&gt;1. 作者及著作權人給予所有使用者自由、不可撤回、全球、永久的得近用其著作的權利，並授權所有使用者得在任何數位媒介、為任何合法目的、在適當表彰著作人的條件下重製、使用、散布、傳輸、公開展示、改作其著作，及得為個人使用的目的少量印刷其著作。2. 完整的著作內容及所有補充資料，包含上述所允許的著作重製物，必須以適當的標準化電子格式、在著作初出版時立即被存放在至少一種線上素材庫(online repository)中，而該等線上素材庫必須是由學術機構、政府組織或其他設立完善以尋求促進開放近用、不受限制地散布、可互通性及長期典藏為目的的組織所支持。&lt;/p&gt;
+
+&lt;p&gt;延續布達佩斯開放近用提議及貝斯達開放近用出版宣言的精神，於2003年簽署的柏林宣言關於科學及人文學知識的開放近用 (Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities)進一步列舉了開放近用內容(Open Access Contribution)，舉凡原始科學研究結果、原始資料及後設資料、以數位方式呈現的圖像資料和學術多媒體資料都屬此處所定義的「開放近用內容」；此外，柏林宣言關於科學及人文學知識的開放近用對於「開放近用內容」的判斷標準，則幾乎相同於貝斯達開放近用出版宣言對於「開放近用出版」的認定標準 [4]。&lt;/p&gt;
+
+&lt;p&gt;值得一提的是，源自於Creative Commons、卻獨立於Creative Commons、旨在建立全球社群的連結來共同推動開放教育、開放近用出版、自由軟體等運動的iCommons，在去年七月於巴西里約熱內盧舉行的 iCommons年會會後，與會者本著相信科學研究的未來、高等學習及教育需要讀者及研究人員能最廣泛、最即時的接近使用學術記錄文件，因而請求 iCommons及其董事會簽署柏林宣言和布達佩斯宣言[5]；而Creative Commons則在2005年成立了Science Commons計畫以處理更複雜的科學層面的著作權授權相關議題，本文之後會詳細介紹Science Commons的「出版」計畫。&lt;/p&gt;
+
+&lt;p&gt;開放近用運動(open access movement)始自何時，並無確切的起始時間點，但可以肯定的是網際網路的發展對開放近用運動的發展影響很大(Denicola, 2006)。網際網路及全球資訊網的出現，對期刊出版商提供了能降低成本及改善效能的誘因，因此期刊出版商將電子化期刊的作業移植到網際網路的平台上；然而，因為學術出版業中營利性質者占多數，而這些出版商運用他們對於價格的聯合操控力量，使得期刊價格不降反升(Carroll, 2006)。因此，網際網路的發展及不停調漲的期刊訂閱價格都可說是促成開放近用運動的因素(Carroll, 2006; Hunter, 2005)。&lt;/p&gt;
+
+&lt;p&gt;不停調漲的期刊價格除了影響到個人訂戶，學術期刊的大宗訂戶（如預算有限的大學）也是苦不堪言，對於解決這個困境，布達佩斯開放近用提議中提供了兩種作法：(1)鼓勵學者置放其著寫的期刊文章於開放電子檔案庫中（這通常稱為自我典藏(self-archiving)）；及 (2)開創認同開放近用理念的新期刊及協助現行採傳統向使用者收費模式的期刊轉換至開放近用模式，以達到開放近用學術期刊的目標。&lt;/p&gt;
+
+&lt;p&gt;傳統學術出版模式，多數要求作者轉讓著作權予期刊經營者，在此情況下作者需要獲得期刊經營者的授權才能將其著作典藏於開放近用的素材庫中，目前儘管並非全部傳統收費模式的期刊皆允許作者將刊後版本(postprint)自我典藏，但已有高達七成的期刊允許刊後版本的自我典藏(Suber, 2006)。英國的聯合資訊系統委員會(Joint Information Systems Committee)所成立的SHERPA/RoMEO計畫以羅蜜歐色系(RoMEO colours)，將期刊出版商允許作者自我典藏的程度，作了由寬至嚴的四種分類：綠色、藍色、黃色及白色[6]。綠色代表該出版商出版的期刊允許作者將刊前版本(preprint)及刊後版本自我典藏；藍色代表該出版商出版的期刊允許作者將刊後版本自我典藏；黃色代表該出版商出版的期刊允許作者將刊前版本自我典藏；白色則代表該出版商不支持作者自我典藏。不論是刊前版本或刊後版本的自我典藏，對於學術研究者而言，皆在透過傳統訂閱學術期刊或專業領域資料庫瞭解其專業領域中最新研究現況的途徑之外，另開啟一資訊得被近用的便捷管道，長遠來看，對資訊的開放近用、學術研究的產出及知識文化的累積皆具有相當正面的助益，因此自我典藏的概念已為多數期刊所採納。（待續）&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 02 Nov 2007 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">371 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/371#comments</comments>
+</item>
+</channel>
+</rss>

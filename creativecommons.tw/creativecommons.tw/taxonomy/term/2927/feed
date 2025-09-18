@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - web 2.0</title>
+ <link>https://creativecommons.tw/category/tags/web-20</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>眾志與眾智？「禁止改作」與公民新聞的同儕生產</title>
+ <link>https://creativecommons.tw/blog/20101025</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;黃泰然&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;公視一直是台灣創用 CC 重要的推動者之一。&lt;a class=&quot;newpage&quot; href=&quot;http://cc.pts.org.tw/New_MainPage.aspx&quot;&gt;「公視創用」&lt;/a&gt;提供了許多公共電視製作的新聞影片，其影片都以創用 CC 授權釋出。&lt;a class=&quot;newpage&quot; href=&quot;http://www.peopo.org/&quot;&gt;「 PeoPo 公民新聞平台 」&lt;/a&gt;則是一個由註冊的公民記者上傳影片與撰寫報導的公民新聞的交流平台，在上傳影片與報導時，也提供了創用 CC 的授權選項。不過，很可惜的是，公視創用所有的新聞影片都是採用「姓名標示-非商業性-禁止改作」， 而 PeoPo 公民新聞平台在公民記者上傳影片時的預設選項也是「姓名標示-非商業性-禁止改作」，所以大部分的影片都是採用此種創用 CC 授權條款。&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;01.JPG&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/01.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;其實，「禁止改作」此一授權條件，與公視創用原本旨在「讓更多的衍生著作在此地分享、衍生、再分享、再衍生」&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-1&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-1&#039;)&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;的目的並不相符，也不利於創用 CC 和公民新聞原本結合的目標—-透過「眾志與眾智」由下而上的對議題發聲。&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-2&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-2&#039;)&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;這是因為「禁止改作」與「同儕生產」（peer-production）的模式是相衝突的，也與自由文化的理念不符。另外，採行「禁止改作」的疑慮，例如正確性與浮水印的問題，其實可以透過其他方式處理，不需要因此增加不必要的限制。 再從國外的例子來看，其他媒體以創用 CC 授權釋出的影片很少採用「禁止改作」的授權條件，而知名的公民新聞「全球之聲」（Global Voice），其生產模式同樣也是建立在「允許改作」，而非「禁止改作」的基礎上。本文認為公視應該考慮不包括禁止改作條件的其他創用 CC 授權條款。 以下，將詳細討論個別議題。&lt;/p&gt;
+
+&lt;h4&gt;壹、同儕生產與公民新聞&lt;/h4&gt;
+
+&lt;p&gt;「同儕生產」（peer-production）是 Yochai Benkler 提出的概念，此種生產模式與過去階層化組織的不同在於，參與者比較處於平行的關係，且可能素未謀面，其主要的生產誘因往往也不是金錢報酬&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-3&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-3&#039;)&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;。同儕生產於的經典例子是維基百科和自由軟體。兩者都是透過社群的合作，讓人們可以異時異地的共同產出一篇維基百科的條目、 或者像 Linux、 Gimp 等自由軟體。 維基百科與自由軟體的同儕生產所以可行，除了網路讓這些人得以連結與合作，以及社群的凝聚力等因素之外，授權條款（稱治理架構其實更適合）選擇得當，更是其生產模式得以運作不可或缺的要素。 維基百科原本採用的是「GNU 自由文件授權」（GNU Free Documentation Licenses）Licenses），2009年則轉換到相容的創用 CC「姓名標示-相同方式分享」，而自由軟體則大多是採用「GNU 通用公眾授權」（GNU General Public License），或者其他符合自由軟體定義的公眾授權 。 這些授權條款的共通特色之一是「允許改作」 ，其核心精神亦在此。 為了要「允許改作」，所有的自由軟體都要開放原始碼(目的碼沒「人」看得懂，其他人如何修改改善？)，改作之後的軟體，也要「相同方式分享」，允許社群的其他人繼續改作。 維基百科的情形也與此相類，沒有允許改作，同儕生產的力量就很難發生。 讓我們假設當初維基百科當初採用了「禁止改作」的授權方式，會是什麼的情況？首先，有位熱心的老師寫了一篇紫斑蝶的條目，但只有大致的介紹，另一名平日熱心生態觀察的人，在寫信取得原作者的同意後，補充了一些內容，於是這篇條目現在有了兩位共同作者，第三位作者要取得前兩位的同意，才可以透過授權的方式修改、第四位則要前面三位全部同意、第五位要四人同意…….。 很明顯地，採用這種授權條款的「維基百科」絕對不可能有今天的成就，它的條目會少得可憐，造成「反共用地悲劇」（anti-commons tragedy）。&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-4&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-4&#039;)&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;同樣地，像 PeoPo 公民新聞這樣的新聞平台，如果要透過「眾智與眾志」的公民新聞的生產，達成由下而上介入與實踐的力量，「禁止改作」的授權條件反而會妨礙其理想的實現。它讓大部分的影片一上傳之後，就不太會有人再去修改、或者和其他的影片與音樂混合，甚至剪輯到在自己影片中成為另外一篇公民新聞的一部份。另一方面，許多 PeoPo 公民新聞中的影片，往往還不是完整的報導但卻有可能是珍貴且取得困難的一手影像，其最具價值之處本來就是作為他人改作與報導的素材，但是 「禁止改作」卻妨礙了此種運用的實現。公視創用中的影片雖然是完整的報導，但因為仍不乏使用者可能只想要用其中部份的畫面或影片，&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-5&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-5&#039;)&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;「禁止改作」的限制條件，也降低了這些影片在運用上的價值。（因為在教育部全國創用 CC 諮詢中心工作之故，有些老師會向我反應他/她們對「禁止改作」的影片要運用在教材製作、 甚至擷取「部份」影片播放會有疑慮）。 簡言之，選擇「姓名標示-非商業性-禁止改作」，並不利於「同儕生產」，因此會使得公視創用與 PeoPo 公民新聞平台的發展，可能停留在在 web 1.0 的階段，只是作為個別作者典藏與出版的媒介，而不能實現 「眾智與眾志」的理想。 我想這也是熱心推動創用 CC 與公民新聞的公視所不樂見的。&lt;/p&gt;
+
+&lt;h4&gt;貳、 正確性與姓名標示的疑慮&lt;/h4&gt;
+
+&lt;p&gt;會採用或預設「姓名標示-非商業性-禁止改作」的創用 CC 授權條款，可能的顧慮是報導的「正確性」與「扭曲」的問題。 但是，同樣以維基百科為例，我們也可以發現任何人都可以匿名修改的條目，只要有適當的機制予以處理，正確性的問題並不嚴重。《科學》雜誌過去即有將維基百科與大英百科全書與科學有關的42個條目作比較，最後的結論是兩者「在正確性的差異並不特別顯著」。&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-6&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-6&#039;)&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;PeoPo 與公視創用，應該以更開放的角度來面對這個問題。 其實，與其讓作者/權利人「事前」自己決定，他人的改作與修改，是否有扭曲與正確性的問題，不如「事後」 透過同儕的與社群的公評來建立市場機制。 而這才是「自由文化」的精神所在，如果後來的創作者都要取得前人的「允准」才可以修改，不僅費時費力，也有事前內容審查的問題。 再者，與同儕生產可能產生的效益相比，即使偶有惡意扭曲之作，我們也不該因噎廢食。&lt;/p&gt;
+
+&lt;p&gt;公視創用另一個採用「姓名標示-非商業性-禁止改作」的理由，可能是考量到影片中公視創用的浮水印會被使用者以「改作」的方式移除。 但是，這層顧慮只要能清楚說明浮水印的保留是遵守「指定姓名標示方式」的條件之一即可。 如果使用者仍擅自移除浮水印，此時即等於未遵守「姓名標示」。我們不需要以「禁止改作」確保浮水印的存在，造成資源在利用上不必要的限制。&lt;/p&gt;
+
+&lt;h4&gt;參、 幾個國外的例子&lt;/h4&gt;
+
+&lt;p&gt;其實，就筆者的觀察，以荷蘭的公共廣播事業 VPRO (Vrijzinnig Protestantse Radio Omroep)為例，它在 eeuwvandestad 以創用 CC 授權釋出的&lt;a class=&quot;newpage&quot; href=&quot;http://eeuwvandestad.nl/archives/223&quot;&gt;歷史影片&lt;/a&gt;素材，少有採用「禁止改作」的例子，因為這些影片的價值即在作為剪輯使用；此外 VPRO 也將它的&lt;a class=&quot;newpage&quot; href=&quot;http://eeuwvandestad.nl/download&quot;&gt;部份紀錄片&lt;/a&gt;以創用 CC 授權釋出，絕大多數亦採「姓名標示-非商業性-相同方式分享」的方式授權。紀錄片會採用創用 CC 授權，原因是希望除了在電視之外提供更多的流通管道，而且作為公共廣播事業其亦有責任讓公眾可以盡可能的以各種方式使用其資源。&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-7&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-7&#039;)&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;02.JPG&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/02.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;另一個值得注意的案例，是總部在卡達的半島電視台 (Al Jazeera) 於2009年設立的 &lt;a class=&quot;newpage&quot; href=&quot;http://cc.aljazeera.net/&quot;&gt;Creative Commons Repository&lt;/a&gt;，雖然網站本身採用「姓名標示-非商業性-禁止改作」，但是其提供的下載的影片全部都是以創用 CC「姓名標示」的方式釋出，方便他人（包括商業媒體）改作與重製。其中有不少影片是在西方媒體無法進入的加薩地區所拍攝，相當珍貴。 這樣的授權方式有利於其影片被公眾廣為使用與知悉。不過，半島電視台另外在2009年設立的 &lt;a class=&quot;newpage&quot; href=&quot;http://blogs.aljazeera.net/&quot;&gt;Al Jazeera Blog&lt;/a&gt;，其中的報導文章採用的是「姓名標示-非商業性-禁止改作」。這可能是出自於轉貼文章時，不希望被節錄而保持完整性的考量，但是，與影片素材相較，文字報導採用「禁止改作」所造成的限制與不便，尚不太大，因為著作權僅保護文字的表達方式，而不保護其中傳達的事實與思想，所以即使禁止改作，在得悉這些資訊後，仍然可以參考其意旨而撰寫相關報導；相反地，影片如果禁止改作，不能剪輯實際的畫面，而僅能以文字敘述其中的事實，就喪失了最重要的功用。&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;03.JPG&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/03.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;其實，在&lt;a class=&quot;newpage&quot; href=&quot;http://zh.globalvoicesonline.org/hant/m&quot;&gt;全球之聲&lt;/a&gt;（Global Voice）這個部落客公民記者報導與翻譯的網路平台，採用的就是創用 CC「姓名標示」的授權條款。許多參與全球之聲公民報導的部落客，並不是第一手的報導者，而是扮演翻譯或協同翻譯的角色。如果全球之聲採用了含有 「禁止改作」的創用 CC 授權條款，其運作將會受到阻礙，這其實也透露了「禁止改作」的條件可能妨礙同儕生產的眾志與眾智實現的可能性。 全球之聲如此，作為全球之聲友好媒體的 PeoPo 公民新聞平台亦然。&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;04.JPG&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/04.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;h4&gt;肆、 未來方向的建議&lt;/h4&gt;
+
+&lt;p&gt;簡言之，我認為 PeoPo 公民新聞平台不應該將「姓名標示-非商業性-禁止改作」設為選項，而可以考慮將創用 CC「姓名標示-非商業性-相同方式分享」授權條款設為預設選項 ；「公視創用」甚至可以考慮採用「姓名標示」，讓這些影片可以更自由的流通。 就 PeoPo 公民新聞平台，因為有公民記者可能不希望其報導被作為商業使用，而「非商業性」可以避免此爭議，「相同方式分享」則可以確保改作後的影片同樣屬於共用資源。 至於公視創用，因為沒有確保生產誘因的互惠層面的問題，其考量的應該是讓資源可以被最自由的利用，因此甚至可以考慮採用創用 CC「姓名標示」的授權條款。&lt;/p&gt;
+
+&lt;blockquote&gt;本文為著作人接受中央研究院資訊科技創新研究中心台灣創用 CC 計畫「專題研究獎助計畫」的產出。本文內容不必然代表中央研究院資訊科技創新研究中心或台灣創用 CC 計畫的立場。本文的著作權利為著作人所有，且著作人（黃泰然）已同意採用創用 CC 「姓名標示」3.0 台灣版授權條款釋出。&lt;/blockquote&gt;
+
+&lt;div&gt;
+&lt;div&gt;Footnotes&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-1&#039;)&quot;&gt;1&lt;/a&gt;. 此為公視創用推動緣起的文字，參&lt;a class=&quot;newpage&quot; href=&quot;http://cc.pts.org.tw/about.html&quot;&gt;http://cc.pts.org.tw/about.html&lt;/a&gt; (last visited 2010/07/31)。&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-2&#039;)&quot;&gt;2&lt;/a&gt;. 參羅志宏，《眾智與眾志的想像：數位典藏、公民新聞與創用CC結合的可能性》，&lt;a class=&quot;newpage&quot; href=&quot;http://groups.google.com/group/cc-taiwan-newsletter/browse_thread/thread/6d02842bc6349848#&quot;&gt;創用 CC 電子報第13期&lt;/a&gt;，2007年5月。&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-3&#039;)&quot;&gt;3&lt;/a&gt;. See Generally YOCHAI BENKLER, THE WEALTH OF NETWORKS: HOW SOCIAL PRODUCTION TRANSFORM MARKETS AND FREEDOM (2006). available at &lt;a class=&quot;newpage&quot; href=&quot;http://cyber.law.harvard.edu/wealth_of_networks/Download_PDFs_of_the_book&quot;&gt;http://cyber.law.harvard.edu/wealth_of_networks/Download_PDFs_of_the_book&lt;/a&gt;.&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-4&#039;)&quot;&gt;4&lt;/a&gt;. See Generally MICHAEL HELLER, GRIDLOCK-ECONOMY: HOW TOO MUCH OWNERSHIP WRECKS MARKETS, STOPS INNOVATIONS, AND COSTS LIVES (2008)。&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-5&#039;)&quot;&gt;5&lt;/a&gt;. 因為在教育部全國創用 CC 諮詢中心工作之故，有些老師會向我反應他/她們對「禁止改作」的影片要運用在教材製作、甚至擷取「部份」影片播放會有疑慮。&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-6&#039;)&quot;&gt;6&lt;/a&gt;. Jim Gilles, “Special Report： Internet encyclopedias go head to head,” Nature, Dec 14, 2005.&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-7&#039;)&quot;&gt;7&lt;/a&gt;. See &lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/18128&quot;&gt;http://creativecommons.org/weblog/entry/18128&lt;/a&gt; (last visited 2010/07/29)&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 25 Oct 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">228 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20101025#comments</comments>
+</item>
+<item>
+ <title>論非營利組織於資訊共享環境中所扮演的角色（上）</title>
+ <link>https://creativecommons.tw/in-depth/430</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;李治安&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;知識及資訊的創造是一個累進式的社會過程，所有的創意活動都是植基於既有的資訊基礎之上，因此，共享資訊（intellectual commons）對於人類的創新及創意活動具有重要的社會功能，該等資訊是所有創意活動的素材來源，而維持一個健全的資訊共享環境已成為當代創新政策及資訊政策的重要考量之一。一般而言，社會上的正式組織形態有三種：政府、營利組織以及非營利組織，有趣的是，資訊共享運動的主要推手皆為非營利組織，該等組織包括創用CC（Creative Commons ）、Electronic Frontier Foundation （ EFF ）、Free Software Foundation （FSF）以及 Public Knowledge （PK）等。&lt;/p&gt;
+
+&lt;p&gt;非營利組織為共享資訊的生產提供了不可或缺的基礎結構，而該等結構迥異於支持專屬資訊（proprietary information）生產的其他社會結構。藉由提升共享資訊的生產、接近使用、可搜尋性以及受保護的程度，非營利組織對當今社會提供了重要的公共財 （public goods），並發揮了政府及營利組織無法發揮的社會功能。&lt;/p&gt;
+
+&lt;p&gt;要瞭解非營利組織與資訊共享運動之間的關係，先以非營利組織的概念談起。 非營利組織係指不得將利潤分配給任何組織相關人的私人組織，學者將此特性稱為「不分配限制」。多數的非營利組織理論認為，該等組織的存在是為了提供特定的公共財，本文以公共財作為分類依據，羅列出資訊共享環境中的各類非營利組織。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;1. 社會規範與授權條款&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;關於分享的社會規範其實存在於學術機構已久，但該規範於1980年代開始受到商業智慧財產權侵蝕，因此Richard Stallman成立了FSF捍衛該規範，FSF對於資訊共享運動最重要的貢獻在於制定了通用授權條款（GNU Public License， GPL），確保自由軟體不被商業軟體吞噬，並保障了分享的社會規範。Open Source Initiative （OSI）是另一個執行分享社會規範的非營利組織，該組織所做出的開放原始碼定義（Open Source Definition， OSD）目前已成為開放原始碼的共識基礎，所有經過該組織審核通過的授權條款才會被社群接受為開放原始碼授權。&lt;/p&gt;
+
+&lt;p&gt;在軟體以外的資訊共享環境，非營利組織CC提供了多種不同的授權條款供創作者選擇，Creative Commons目前已成功的推動了全球性的社會運動，並型塑出鼓勵資訊分享及資訊再利用的社會規範。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;2. 同儕生產所需的正式組織架構&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;參與開放原始碼開發及維基百科等資訊共享計畫的人都是自發性的個人所組成的社群，學者將這種分散式的資訊形成過程稱為「同儕生產」（peer production），在資訊共享環境中，非營利組織為這些同儕生產設群提供了必要的組織架構。一些非營利組織代表社群接受捐獻，並持有同儕生產所必需的資產。此外，該等組織亦是共享資訊所屬智慧財產權的管理人，由單一的非營利組織為社群管理共享資訊的智慧財產權具有許多優點，過去許多開放原始碼軟體的智慧財產權，都歸屬於主要程式開發者之僱主，或由該僱主管理，但由於此等僱主均為營利機構，所以對於該等智慧財產權的處理通常係以其商業利益，而非整體社群利益，作為優先考量。此外，由單一組織管理同儕生產的成果亦可節省交易成本， 如Apache Software Foundation （ASF）及 FSF 甚至要程式開發者將著作權移轉或授權給該等組織，以統一管理。&lt;/p&gt;
+
+&lt;p&gt;同儕生產社群並非法律主體，所以無法與他人形成法律關係，準此，非營利組織的法人身分可協助設群與其他組織形成法律關係，以有利於社群的長期發展。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;3. 法律扶助&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;承前所述，參與共享資訊協力生產的個人常面臨了被訴的法律風險及成本，因此一些非營利組織專為個人提供法律協助，一旦有個人被控侵害他人智慧財產權，這些組織即出面代為處理訴訟，在自由及開放原始碼軟體世界中，最著名的即是Software Freedom Law Center （SFLC），而在其他的資訊共享環境中，EFF則已代理過許多具指標性的智慧財產權訴訟。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;4. 公益遊說&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;由於許多商業團體、媒體集團、及智慧財產權密集產業的遊說，美國國內及國際智慧財產權法的範圍不斷擴張，面對此趨勢，包括PK、EFF及 Knowledge Ecology International （KEI）在內的非營利組織都致力於透過在國會及國際組織的遊說，遏止智慧財產權無止境的擴張。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;5. 資訊近用及典藏&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;許多非營利組織提供了網路上共享資訊的近用及典藏，如 Public Library of Science （PLoS）是一家專門出版生物、醫學方面的學術期刊出版社，該機構將期所出版的期刊文章皆以CC授權，至於網站上，供人下載使用。另外包含麻省裡工學院在內的許多知名學術機構，則將課程或教授著作，置於網站上，供人下載使用。Internet Archive則以建立全球最大的網路公共圖書館為目標，收錄了各類資訊。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;6. 財務支援&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;上述所有非營利組織皆需財務支援，而通常來自個人的小額捐款卻不足以支付組織所需的各項開支。事實上，有許多大型基金會在資訊共享運動中扮演了重要的角色，它們提供了前述各組織所需的大部分資金來源，這些基金會包括了 William and Flora Hewlett Foundation （Hewlett Foundation）、 John D. and Catherine T. MacArthur Foundation （MacArthur Foundation）及Open Society Institute等。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 04 Jun 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">430 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/430#comments</comments>
+</item>
+<item>
+ <title>創用 CC—華文地區現況的觀察與思考</title>
+ <link>https://creativecommons.tw/in-depth/365</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;XDite&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;前言：XDite，愛打電玩，以網路服務評論網誌聞名，擅長直率地寫出對網路服務商缺失的批評及看法。其網誌原先以 HiNet 的 Xuite 服務為主要評論對象，但隨後另一網路服務公司無名小站事件不斷、XDite 的筆鋒也轉而指向無名，更帶動了如「丁丁大站」一類的嘲諷流行語。比起其他類似的評論文章來說，本身底子深厚的她更能寫出一些技術細節，並輔以直接犀利的語句直指核心，大快讀者人心。此次邀請 XDite為我們撰寫專文，希望藉由其長久對網路的觀察，提供讀者一些創用CC使用的狀況與問題，並引起更多相關的討論。&lt;/p&gt;
+
+&lt;p&gt;創用CC授權（以下簡稱 CC 授權），是筆者去年開始以極狂熱的態度使用部落格發表大量文章後才開始使用的。選擇 CC 授權的當下，並不存著什麼耍炫趕流行的心態，純粹只是太常接到轉錄要求，實在懶得一一回信和抓侵權，所找的一個符合「請大家要轉就轉，不要再問我」，而同時又能保留彈性的授權聲明方式。&lt;/p&gt;
+
+&lt;p&gt;在此之前，我對 CC 非常陌生。更早之前，我還懷疑，為什麼我們需要 CC？&lt;/p&gt;
+
+&lt;p&gt;這個問題的答案，Jedi 在兩千零四年撰寫的一文「CC–賦予與支配的權利」便清楚回答過。不過筆者當時未歷應用情境，捧讀再三，只覺 CC 甚好。但卻不知對我有任何助益。&lt;/p&gt;
+
+&lt;p&gt;三年後，當我實際操作這個部落格與利用文章開始與讀者產生交流，衍生許多逗趣的效應與 重混(remix) 產物後。我才深深體悟到，為什麼我們需要 CC？CC 授權給的自由度如何對再創作產生什麼巨大的效應？以及 CC 授權方式在這一兩年在台灣普遍抬頭的原因？&lt;/p&gt;
+
+&lt;p&gt;CC 授權條款在 2002 年時誕生，台灣大約是在 2004 年引進，自 2006 年起逐漸廣泛被採用。比起西方國家是慢了一點，這當中的原因，根據筆者近年的觀察，應與網路基礎創作平台有極大的關係。&lt;/p&gt;
+
+&lt;p&gt;熟知國內網路發展歷史的讀者大概都清楚，在部落格觀念引進前，長達十數年，台灣與西方發展方向幾往兩個不同岔路走：別人傾力發展WEB，我們傾力發展 BBS。任何精彩創作物，盡在 BBS。&lt;/p&gt;
+
+&lt;p&gt;不過，BBS 受限於其特性，每篇創作物均不具有唯一位址（Unique Address）與 交叉連結（Cross Link） 特性。&lt;/p&gt;
+
+&lt;p&gt;不具備交叉連結、版與版、站與站的隔絕特性，使得文章難以追溯原出處，逕自轉錄的習慣蔚為風氣。當時雖有許多應用在原始碼（Source Code）上的授權條款，但文件授權方式卻幾乎付之闕如。而在當時發表創作物後，大眾也只有兩個觀念—對著作物放棄所有權利或是保留所有權利。因為，在 BBS 架構無網路搜尋引擎（Web Search Engine）的追蹤機制下，創作者要維護授權以及轉錄者要尊重、取得創作者的授權，都是非常耗費心神的事。此情形下，「保留所有權利」往往被使用者心底默默解讀為「轉了再說，被發現再補授權」。&lt;/p&gt;
+
+&lt;p&gt;即使 CC 授權已開始推動，在無強烈需求下，自然也無法體會到有什麼顯著的好處。&lt;/p&gt;
+
+&lt;p&gt;一直到近幾年，這種情形才被打破。部落格的引進與推廣，助長了創作風氣，全民以部落格為載體的諸多文字、多媒體創作物躍然網上，但至此還不是 CC 授權方式流行的主因。真正的原因是 CC 授權方式解決了 Web 2.0 蔚為成風的「Mash Up」觀念，所將引發的著作爭議。&lt;/p&gt;
+
+&lt;p&gt;筆者在運行部落格的這一兩年，使用 Google 與 Techronati 觀察到一些有趣的現象。其實，大部分人在轉載或重混時，都願意尊重原著作人的授權。未取得原著作人同意的多半是兩種情況，「出處佚失」或「取得授權曠日廢時」。在全有以及全無的的單選題下，轉載人通常做出的決定，十之八九都是授權後補、先衝了再說。而重混者為了怕遭受剽竊創意之罵名，九成九都是「算了，我放棄」，這樣的氛圍大大阻礙了創作的流通。因此， CC 授權所代表的第三選項「IF ON 『AAA』 CONDITION , YOU CAN USE IT TO DO 『BBBBB』『CCCCC』」的聲明方式與取得授權的速度和便利讓人易於接受。人類是一種很奇妙的動物，若只有一種權威律法橫在面前阻撓卻無罰則時，我們通常會選擇衝破或是繞過他。但若有一種折衷可讓人接受的規則，則所有人幾乎都會潛意識的去遵守它。這是我從 Techornati 上觀察的現象。&lt;/p&gt;
+
+&lt;p&gt;不過，雖然 CC 授權立意如此良善，但未讓天下從此太平。&lt;a class=&quot;newpage&quot; href=&quot;http://www.google.com.tw/intl/zh-TW/ads/&quot;&gt;Google Adsense&lt;/a&gt;的誕生與引進，攪亂了一池春水。CC 授權預設人性本善，因此原始制訂目標是冀望創意在良好授權規範下能夠不受諸多束縛限制。但卻未預料到在它之後誕生的 Adsense 所造成的人性衝擊。CC 授權中採的「非商業利用」是否也包含了 Adsense？以及為了使後人易於再創作往往為人所不採用的「禁止改作」，卻變成了惡意剪輯重混衝人氣點擊的漏洞？ Adsense 這塊灰色地帶，我想是 CC 下一個值得關注的所在。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 03 Aug 2007 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">365 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/365#comments</comments>
+</item>
+<item>
+ <title>《 當創用CC遇到Social Web 》</title>
+ <link>https://creativecommons.tw/in-depth/357</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;李取中、宋昆銘&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;全球資訊網拜新的觀念與技術之賜，在這幾年快速的發展，不僅成就了諸多平台，也藉由人與人之間的互動，繼而產生了大量的數位內容。Blog、Wiki以及Social Network Service等，都是在這波Social Web潮流中嶄露頭角，且最為人知的服務。&lt;/p&gt;
+
+&lt;p&gt;樂多身為一個部落格服務提供者，主要目的在於提供所有部落客們一個優質的個人出版平台，但論及內容的豐富性、深廣度以及多元化，則其功勞與榮耀大部分都應歸功於部落客們的苦心經營與樂於分享。釋放部份權利來達到資訊的充分傳播與知識分享的目的，不僅立意良好，同時保障了使用者自己選擇保留的權利。&lt;/p&gt;
+
+&lt;p&gt;創用CC授權可說在Social Web中扮演著關鍵性的角色之一。所以照例，我們不厭其煩地向Larwence Lessig與其著作《Free Culture》致敬。&lt;/p&gt;
+
+&lt;p&gt;數位內容平台在蒐集、彙整以及公佈資訊的方面有別於舊有的出版文化，再加上網際網路大幅縮短了互動的成本，數位內容平台媒體化的發展正值高峰。由少數壟斷與不對稱的資訊環境，轉變為由多數人互相分享、引用、評論、評鑑的資訊環境，這是我們所樂見的。在這演變當中，創用CC授權自然也是重要的碁石，因為它不僅保障使用者，也提供使用者分享創作的動機。樂多部落格平台在數年前便導入了創用CC授權，至今已經累積超過百萬件具有創用CC授權標章的部落格文章。而透過站內這些已經釋放了部分權利的文章，對站內資訊的創新、擴散、交流與再利用的影響，雖然未做過詳細的統計與評估，其成果仍是相當值得期待。&lt;/p&gt;
+
+&lt;p&gt;創用CC授權秉持著自由開放的精神，直接或間接地幫助了數位內容平台業者。商業的力量並不與開放精神牴觸，有時對商業運作更有推波助瀾的效果。那麼業者在受惠之餘，是否能有所回饋呢？業者除了推廣創用CC授權、提供使用者透明化的使用方式、資源顆粒更為細緻的設定外，並非毫無著墨之處。&lt;/p&gt;
+
+&lt;p&gt;舉例來說，網站經營者可以彙集具有創用CC授權標章的資源的後設資料(含公共領域的資源的後設資料更佳)，提供一個如 RSS feed中立介面，來達成資源的 mash up。甚至提供 Ping Service來與集中式彙整具有創用CC授權標章的資源入口平台溝通，當然前提是該入口平台也有制定相關的規範以及介面。有趣的是，台灣「創用CC」計畫並不對作品進行追蹤或登錄，那麼單純仰賴搜尋引擎來蒐集全世界全球資訊網上頭具有創用CC授權標章的資源的後設資料，似乎成效不彰。尤其是，有太多資訊是搜尋引擎無法深入，而 Social Web 時代的資訊成長速度比以前更具爆炸性，這樣的入口平台的能力與成本實在令人擔憂。即便完成了該入口平台，對於閱聽大眾或創作者來說，搜尋功能也只是資源存取的開始而已。&lt;/p&gt;
+
+&lt;p&gt;既然談到資訊彙整，也不能不談近年來風行的Folksonomy的觀念。網站經營者也許可以透過標籤系統來對於這些具有創用 CC 授權標章的資源提供路標。實際上，創用 CC 授權條款也是透過不同四種授權要素的排列組合形成六種的授權方式，這些授權要素的組合分式，也許可以利用既定的標籤加以標示。有了這些標籤所形成的路標，不僅提供閱聽大眾或創作者一個獲得欲尋找的資源管道，也提供了創用CC工具開發者與檢驗者一個可供追溯的途徑，甚至繪出作品間的取樣、重製以至於相互影響等作品的網路拓蹼也非難事。&lt;/p&gt;
+
+&lt;p&gt;最後，身為網站經營者，一方面要顧及使用者的便利性，一方面又要引導使用者選擇自己想保留或釋放的權利，往往是我們在規劃與開發時主要的拉鋸。除此之外，牽涉到營運考量的元素都會在使用者同意條款中註明，而使用者註冊使用平台前就必須同意這份條款。有趣的是，使用者同意條款與創用 CC 的權利釋放時常起衝突。那麼孰輕孰重呢？顯然會因人、事、時、地、物等不同的情境有不同的判決。只是目前並沒有看到相關議題的討論，在台灣也沒有類似的判例。我們期待有巨量的使用網路人口的台灣能夠在相關的領域訂出規範。&lt;/p&gt;
+
+&lt;p&gt;Social Web提供給人們多樣化的交流平台，創用 CC 提供給人們兼具法律效力的保障與釋放權利的彈性，兩者相遇後激盪出的火花與效應，我們都可以深刻地感受到。我們期待創用 CC 協助Social Web走向更完整的知識利用、更充分的資訊傳播、更優異的資源再造。&lt;/p&gt;
+
+&lt;p&gt;（筆者目前任職樂多網站的執行長，與政大 ENT Lab 研究生）&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 06 Apr 2007 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">357 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/357#comments</comments>
+</item>
+<item>
+ <title>開放內容 — 一場數位資訊的草根運動 （下）</title>
+ <link>https://creativecommons.tw/in-depth/346</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;李治安&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;壹、開放內容的社會意涵&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;前期所述許多開放內容的經營模式，均建構在網路社群的基礎上，該等社群成員的組成，跨越了年齡、性別、種族、國籍及空間等界限。社群成員彼此間，雖然可能未曾謀面，但是卻可以發展出一種以內容分享及共同的知識興趣為基礎的社會關係。社群成員間的互動，以資訊生產作為媒介，但是這種資訊生產不同於傳統的資訊生產，傳統的資訊生產通常是市場與價格機制下的產物，而開放內容的資訊生產，卻純粹是人與人之間自發性心智互動過程的記錄（註一）。&lt;/p&gt;
+
+&lt;p&gt;此外，過去傳統媒體以「一對多」的模式，片面的決定消費者得以接觸哪些資訊 ，並進而影響消費者的價值觀 ，甚至公共意見的形成。但是開放內容的經營模式，卻將資訊產生的過程轉化為「多對多」的互動模式，資訊生產的權力逐漸由少數的媒體公司，轉移到個人，商業媒體公司將越來越難操縱消費者的資訊取得，這種趨勢可說是資訊生產過程的民主化。&lt;/p&gt;
+
+&lt;p&gt;開放內容同時促成了一種實現集思廣益理想的動態資料庫，以Wikipedia 為例，透過易於使用的 wiki 軟體，社群成員可以不斷的更新、更正網站上的內容，藉以結合成千上萬的網路公民的集體智慧。此種技術使用上的簡易性，使得開放內容平台可以像部落格軟體一般，協助沒有資訊技術背景的使用者，輕易的編輯、修改線上內容；但是開放內容與個人部落格不同的是，部落格通常捕捉了某個使用者在某個時點的特定想法，而開放內容的網站卻可呈現在時間的洪流中，一群人的思考演進過程。因此，藉由開放內容的經營模式，使用者可以享受眾人智慧的結晶。&lt;/p&gt;
+
+&lt;h4&gt;貳、開放內容的經濟意涵&lt;/h4&gt;
+
+&lt;p&gt;傳統經濟分析以供給與需求的觀點，將市場參與者區分為生產者與消費者，但是在開放內容的生產模式中，內容的消費者通常也是內容的生產者，消費者已經逐漸被整合到生產過程中。&lt;/p&gt;
+
+&lt;p&gt;就企業經營的角度而言，由於人類的創意充滿了不確定性，所以一直是一種難以有效率地訂價、交易及管理的資源，但是開放內容的生產模式卻可以協助企業，跨越組織的界限，降低交易成本及生產成本，將潛在的創意資源導引到最佳的發揮空間，並進而協力生產出多元且豐富的內容產品。&lt;/p&gt;
+
+&lt;p&gt;舉例而言，Yahoo近來收購了諸如del.icio.us及Flickr等開放內容網站，並企圖結合社群力量與搜尋功能，運用開放內容的資源，提升本身的競爭力，誠如該公司資深技術發展總監Bradley Horowitz對Flickr的觀察：「雖然只有不到十人的員工，但他們卻有上百萬的使用者在生產並組織內容，成千上萬的使用者，自發性的為組織創造價值，如果 Yahoo也能學習到其中的精髓，善加利用既有的五億個客戶，為公司創造類似的價值，那麼公司未來的前途將不可限量。」（註二）&lt;/p&gt;
+
+&lt;p&gt;至於對企業經營者而言，採取開放內容的經營模式是組織內的策略性決定，Magnatune 的創辦人John Buckman曾說：「免費散布可增加內容的能見度，能見度提升後，則會創造出產品的商業需求，接著利潤自然隨之而來」。（註三）Buckman 的邏輯推論雖然仍有待檢驗，但是不可否認的，開放內容的經營模式，已為許多新創公司提供了能與大型媒體集團一搏的機會。&lt;/p&gt;
+
+&lt;h4&gt;參、開放內容的法律意涵&lt;/h4&gt;
+
+&lt;p&gt;過去傳統的內容產業多在嚴密的著作權控制下產出內容；然而，開放內容的經營者卻常以公眾授權的模式，將產出內容釋放給公眾做進一步使用。現行智慧財產權制度的基本假設是，智慧財產權所帶來的壟斷力量為創作者提供了不可或缺的誘因。但是從開放內容的生產模式中，我們看到許許多多的創作者，他們創作的目的並不是為了獲取這種壟斷力量，就此而言，傳統智慧財產權的制度性假設已經受到某種程度的弱化。&lt;/p&gt;
+
+&lt;p&gt;再者，目前包括我國在內的大陸法系國家著作權法中都有所謂著作人格權的概念。著作人格權主要是相對於著作財產權而言，前者是指著作人對於自己的著作所享有的人格上及精神上的權利，後者則是指著作人對著作物所得享有獨佔支配的財產上權利。其中著作人格權有一個相當重要的內涵稱為「同一性保持權」，該權利可禁止他人不當更改著作的內容，然而，在開放內容的環境中，將作品授權他人改作卻已經形成一種常態文化，大多數的公眾授權條款，都允許使用者就原作品從事改作，許多創作者也不再把作品視為絕對禁止他人修改的人格延伸，相反的，他們希望特過公眾授權條款，把作品提供給其他具有共同理念的創作者，作為進一步創作的基礎。&lt;/p&gt;
+
+&lt;p&gt;最後，由於開放內容的經營模式鼓勵所有的網路公民共同參與，所以存在不少潛在的法律風險：例如，有心人士可能會藉由內容平台散布毀謗他人名譽的不實資訊，或借用他人名氣為自己產出的內容背書，又或者當使用者不遵循原著作所採的授權規定時，可能由於參與創作人數過多且難以一一追及而產生誰才有權利提起訴訟的問題。諸如 Wikipedia 和 OhmyNews等網站，目前都在思考，在資訊的「量」已經不是問題時，應該要如何提升並維持資訊的「質」，以避免潛在的法律風險，並為提供使用者提供更正確的資訊。&lt;/p&gt;
+
+&lt;p&gt;註一： See Yochai Benkler, The Wealth of Networks—How Social Production Transforms Markets And Freedom 6 (2006).&lt;/p&gt;
+
+&lt;p&gt;註二： See Ben Elgin, Yahoo&#039;s Social Circle, Business Week, Jan. 23, 2006; Steven Levy &amp;amp; Brad Stone, The New Wisdom of&lt;br /&gt;
+the Web, Newsweek, Vol. 147, Iss. 14, Apr. 13, 2006.&lt;/p&gt;
+
+&lt;p&gt;註三： Andy Raskin, Give It Away (for Fun and Profit), BUSINESS 2.0, May 2004, at 112.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 05 Oct 2006 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">346 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/346#comments</comments>
+</item>
+<item>
+ <title>開放內容 — 一場數位資訊的草根運動 （上）</title>
+ <link>https://creativecommons.tw/in-depth/344</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;李治安&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;長久以來，出版社、製片商、唱片公司、電視台及其他大型的媒體公司為社會提供了大部分的資訊內容，當然也掌控了其中大部分的智慧財產權；然而，傳統集中化的資訊生產模式在數位時代中已經無法唯我獨尊，在網路世界許多分散式的資訊產出平台中，一場資訊媒體的草根運動正逐漸萌芽、茁壯。&lt;/p&gt;
+
+&lt;p&gt;開放原始碼暨自由軟體運動為這場草根運動帶來了重要的啟發，從資訊生產的角度而言，過去資訊的生產大部份是發生在少數創作者及媒體集團間的封閉過程，但是由於數位科技降低了資訊生產及傳遞的成本，現在一般人也可透過網路，在不同階段參與資訊的產出過程；從資訊使用的角度而言，過去由於受限於著作權法、科技保護措施及「版權所有、翻印必究」的制式著作權宣示方式，使用者得以自由重製、改作及從事其他衍生使用的內容其實相當有限，但是在現今的資訊社會中，有愈來愈多的內容以公眾授權的方式，開放給一般大眾無償使用。本文以下即以資訊生產及資訊使用這兩個構面為基礎，探討新興的開放內容(open content)生產方式。&lt;/p&gt;
+
+&lt;h4&gt;壹、 資訊生產過程的開放&lt;/h4&gt;
+
+&lt;p&gt;首先，就創作過程而言，過去知識創作是一個封閉的過程 ，在創作完成並發表以前，所有的思辨及心智活動都只發生在特定作者之間，但是一些新興的社會軟體（註一）結合網際網路以後，知識創作不再是絕對封閉的過程，散佈在世界各地的網路公民可以跨越時間與空間，共同協力撰寫一篇文章或一起發現並更正文章裡的錯誤，維基百科的成功證明了開放創作過程所帶來的集思廣益力量，經由志願者不斷的協力撰寫及修改，這部大型的線上百科全書至今已經有超過四百三十萬篇以不同語言撰寫的文章，其中包括了超過一百一十八萬篇英文文章。&lt;/p&gt;
+
+&lt;p&gt;其次，就資訊的生產而言，過去社會大眾所能接觸到的資訊大部分是出自於媒體工作者之手 ， 但是隨著資訊生產成本的降低，個人也可以將自行生產的資訊作品藉由網際網路與社會大眾分享，媒體公司的定位不再絕對是資訊的生產者，也有可能扮演資訊聚集者(aggregator)的角色。舉例而言，南韓新聞網站「我的新聞」 (&lt;a class=&quot;newpage&quot; href=&quot;http://www.ohmynews.com/&quot;&gt;OhmyNews&lt;/a&gt;) 強調「每個人都可以成為記者」，該網站上除了少部份的報導是由全職的專業新聞人員撰寫以外，其他大部分的報導是由讀者所撰寫， OhmyNews 近年來不僅獲利漸增，而且逐漸開始在韓國的新聞界扮演舉足輕重的角色；又例如知名的科技新知網站&lt;a class=&quot;newpage&quot; href=&quot;http://slashdot.org&quot;&gt;Slashdot&lt;/a&gt;及文摘網站 &lt;a class=&quot;newpage&quot; href=&quot;http://www.everything2.com&quot;&gt;Everything2 (E2)&lt;/a&gt;上所有的短文評論也都是由讀者而非專業記者所撰寫。&lt;/p&gt;
+
+&lt;p&gt;再者，就資訊分類而言，在網路世界中，如果沒有良好的資訊分類及搜尋方式，使用者很可能被淹沒在龐大的資訊洪流中，所幸現今一般的網路公民也可以自發性的將網路上的資訊訂定標籤分類(tagging)，以便其他使用者搜尋，這種分類方式稱為群眾分類(folksonomy)或社會分類(social classification)。舉例而言，書籤網站del.icio.us提供免費空間，供使用者儲存其設為書籤的網址，使用者還可以尋找和自己有相同網頁瀏覽偏好的人還設定了哪些書籤網址，經由使用者的共同協力，del.icio.us上所包含的所有網址都含有關鍵字標籤命名，del.icio.us以其作為分類依據，協助使用者輕易的搜尋到想找的網址；而知名的照片分享網站&lt;a class=&quot;newpage&quot; href=&quot;http://www.flickr.com&quot;&gt;Flickr&lt;/a&gt;就從del.icio.us獲得靈感，開放使用者參與所有照片的標籤關鍵字命名，經由這些關鍵字，使用者也更容易搜尋到他們想找的照片。&lt;/p&gt;
+
+&lt;p&gt;最後，就資訊的選取而言，過去哪些作品可以公開發表，多由專業的編輯或媒體人決定，但是在開放內容的時代，任何人都可以參與資訊選取與發表的決策過程。舉例而言，知名的科技文化網站&lt;a class=&quot;newpage&quot; href=&quot;http://www.kuro5hin.org/&quot;&gt;Kuro5hin (K5)&lt;/a&gt;為了與前述Slashdot網站區隔，除了由社群成員撰寫網站文章以外，K5並將文章刊登的決定權開放給所有的社群成員，社群成員可以投票決定文章是否刊登在網站上。&lt;/p&gt;
+
+&lt;h4&gt;貳、資訊使用方式的開放&lt;/h4&gt;
+
+&lt;p&gt;資訊使用方式的開放，是指創作者不再堅持全面保有著作權所賦予的權利，而以公眾授權的方式，將創作內容開放給社會大眾無償重製、修改、編輯或做其他衍生使用。資訊使用方式的開放與上述資訊生產過程的開放具有密切關係，例如，創作者須先將自己的作品內容開放給大眾修改、參與，才有可能促成廣泛參與的協力創作過程。&lt;/p&gt;
+
+&lt;p&gt;資訊使用方式的開放對於資訊社會中知識的擴散與傳遞有重要的影響，舉例而言， 麻省理工學院自2003年9月開始，逐步將研究所及大學部的課程內容及教材&lt;a class=&quot;newpage&quot; href=&quot;http://ocw.mit.edu/&quot;&gt;在網路上公開&lt;/a&gt;，以創用CC 2.5授權條款，授權社會大眾基於非商業目的，無償的使用或改作，但前提是改作後的作品也必須以相同的授權條款與他人分享；又例如頗受歡迎的科技文化網誌&lt;a class=&quot;newpage&quot; href=&quot;http://boingboing.net/&quot;&gt;BoingBoing&lt;/a&gt;，雖然沒有開放讀者參與撰寫或討論，但網站上的文章均以創用CC 1.0授權條款授權大眾使用；此外，前述維基百科採用了 GNU自由文件授權(GNU Free Documentation License, GFDL)，授權使用者重製、散布或改作，該授權對於改作後的作品也要求以相同的GFDL做公眾授權。&lt;/p&gt;
+
+&lt;p&gt;註一：社會軟體 (social software)是指協助使用者利用網際網路或其他通訊科技建立通訊社群或協力合作的軟體，社會軟體所強調的是一種由下而上 (bottom-up)的通訊方式，狹義的社會軟體通常指多對多(many-to-many)的協力軟體，如維基百科(&lt;a class=&quot;newpage&quot; href=&quot;http://www.wikipedia.org/&quot;&gt;Wikipedia&lt;/a&gt;)所使用的wiki軟體，廣義的社會軟體則還包括一對多 (one-to-many)的公告軟體如部落格(blog)軟體，及一對一(one-to-one)的聯繫軟體如電子郵件和及時傳訊(instant message)軟體。&lt;/p&gt;
+
+&lt;p&gt;（本期先就開放內容概念作一簡單介紹，下期將繼續探討有關開放內容的社會、經濟及法律意涵。）&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 01 Sep 2006 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">344 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/344#comments</comments>
+</item>
+</channel>
+</rss>

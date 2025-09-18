@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 授權工具</title>
+ <link>https://creativecommons.tw/category/tags/%E6%8E%88%E6%AC%8A%E5%B7%A5%E5%85%B7</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>2011年終回顧：創用CC授權工具現況整理</title>
+ <link>https://creativecommons.tw/blog/20111231</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ChiuHao Chen 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;%3Cimg%20src=&quot;&gt;&lt;img alt=&quot;Tool Users&quot; src=&quot;http://farm6.staticflickr.com/5043/5359290323_1559b102fc.jpg&quot; style=&quot;display:block; height:355px; margin-left:auto; margin-right:auto; width:500px&quot; /&gt;&lt;/a&gt; Kaptain Kobold from Flickr, &lt;a class=&quot;newpage&quot; href=&quot;http://www.flickr.com/photos/kaptainkobold/5359290323/&quot;&gt;http://www.flickr.com/photos/kaptainkobold/5359290323/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Creative Commons 走到2011的今天，也已經邁入了第九個年頭了。其中，除了理念的推廣與法條的與時俱進，在資訊技術上，提供方便好用的軟體介面(Web service, API, Library, Script) 讓更多的應用程式或是網站開發者能夠順利的導入創用CC授權工具，更是一個不可或缺的重要課題。CC美國的Chris在開發&lt;a class=&quot;newpage&quot; href=&quot;http://mediagoblin.org/&quot;&gt;MediaGoblin&lt;/a&gt;這個新專案的時候也整理了目前的授權工具現況，就讓我們一起來回顧與展望吧！各位開發者，對於授權工具的開發你有什麼想法/需求或是心得呢？歡迎與我們分享。&lt;br /&gt;
+&lt;br /&gt;
+在Creative Commons 網站上，目前提供了下列三種授權工具：&lt;br /&gt;
+1. &lt;a class=&quot;newpage&quot; href=&quot;http://api.creativecommons.org/docs/&quot;&gt;創用CC授權Web Service (API)&lt;/a&gt;&amp;nbsp;&lt;br /&gt;
+提供RESTful介面來存取授權資訊。如果你想要彈性的客製化你的網頁或是應用程式，基本上可以選用這個方法。可惜的是不支援很多人喜歡的JSON，而且每次授權都要向server要資料，似乎也忙碌了些？&lt;br /&gt;
+&lt;br /&gt;
+2.&amp;nbsp;&lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/Partner_Interface&quot;&gt;網頁整合介面&lt;/a&gt;&lt;br /&gt;
+這是個歷史最悠久的工具。基本上就是跳出一個網頁讓你選擇授權方式，當跳出網頁關閉的時候，Creative Commons 網站會回傳使用者選擇的授權種類，授權條款等等資訊，網頁應用程式開發者可以選擇處理傳回的字串。這種方式最簡單，但也比較缺乏彈性，而且也需要依賴CC伺服器。舉個例子，&lt;a class=&quot;newpage&quot; href=&quot;http://www.archive.org&quot;&gt;Internet Archive&lt;/a&gt;&amp;nbsp;就是用這種方法。&lt;br /&gt;
+&lt;br /&gt;
+3.&lt;a class=&quot;newpage&quot; href=&quot;http://labs.creativecommons.org/2011/08/31/summary-of-current-licensing-tools&quot;&gt;&amp;nbsp;LicenseChoose.js&lt;/a&gt;&lt;br /&gt;
+你可以參考這段java script建立你自己本地端的授權選擇器。當然，你就不需要每次都連上CC伺服器要資料了。但是，這個東西似乎有點久沒有更新了喔...&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;另外，也有些人這樣做！&lt;/strong&gt;&lt;br /&gt;
+1. &amp;nbsp;不用 Creative Commons 網站提供的授權工具，只把授權選項存在服務商自己的主機中&lt;br /&gt;
+最好的例子就是Flickr或是Youtube。 Flickr提供了六種主要授權(CC 2.0)，而 Youtube則只提供了一種授權讓授權者使用(CC-BY 3.0)。這裡有個問題產生，如果你想要讓使用者複製一份作品到他的電腦裡，而且你一點也不想要控制使用者怎麼使用，那怎麼辦呢？&lt;br /&gt;
+&lt;br /&gt;
+2. 你要什麼授權都行，但前提是要遵守網站的規矩&lt;br /&gt;
+WIKI就是走這個模式，你無法選擇授權，但通常WIKI可以讓使用者透過建立模版(template)在文章註腳處加入授權標示。&lt;br /&gt;
+&lt;br /&gt;
+但是，以上這兩種方法，對於想要讓使用者擁有更多自由選擇權利的授權者/創作者/服務提供者，似乎助益不大！&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;liblicense的實驗&lt;/strong&gt;&lt;br /&gt;
+綜覽了上述方法，Creative Commons 還想到了一個 liblicense 實驗計畫。&lt;br /&gt;
+&lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/Liblicense&quot;&gt;liblicense&lt;/a&gt;&amp;nbsp; 打包所有目前Creative Commons提供的授權，提供API讓授權者寫入/讀取metadata到媒體素材上。這種方法無需存取網站來取得創用CC授權。其實這是個寫入metadata的方法，不只是創用CC授權可以使用，有興趣的開發者，去把&lt;a class=&quot;newpage&quot; href=&quot;http://code.creativecommons.org/viewgit/liblicense.git&quot;&gt;code&lt;/a&gt;抓下來研究看看吧。&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;下一步，語意網路(Semantic Web)?&lt;/strong&gt;&lt;br /&gt;
+接下來呢？簡單說，就是希望能夠讓使用者直接利用URL指出授權資訊。這樣說好了，透過RDFa 指定 rel 屬性(&lt;a class=&quot;newpage&quot; href=&quot;http://www.certifiedchinesetranslation.com/openaccess/rdfa-primer.html#id84491&quot;&gt;參考這&lt;/a&gt;)&amp;nbsp;指向授權資訊，讓網頁都能透過metadata ”自己”描述自己，透過URL就可以直接取得/ 儲存授權資訊。這種方法讓新增授權更為彈性並與程式語言無關，也能提供授權資訊的單一組合(canonical set)；可以想見，未來，開發者在處理授權資訊會更容易一點。&lt;/p&gt;
+
+&lt;p&gt;關於授權工具，你有更好的想法嗎？歡迎與我們分享你的經驗喔！&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;原文出處&lt;/strong&gt;：&lt;a class=&quot;newpage&quot; href=&quot;http://labs.creativecommons.org/2011/08/31/summary-of-current-licensing-tools/&quot;&gt;http://labs.creativecommons.org/2011/08/31/summary-of-current-licensing-tools/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 31 Dec 2011 05:58:38 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">557 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20111231#comments</comments>
+</item>
+<item>
+ <title>CC Media Collector: 下載、整理並混搭CC授權的媒體檔案</title>
+ <link>https://creativecommons.tw/blog/20110330</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;笨笨的小B&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;CC Media Collector 是由台灣創用 CC 計畫開發的 Firefox 附加元件，用於收集並整理網路上採創用 CC 授權條款的媒體。這個元件可以從支援的網站中收藏並下載媒體內容，並在瀏覽器中管理已收藏的媒體。&lt;/p&gt;
+
+&lt;p&gt;「如何在混搭他人的內容時，確實標註必要的姓名標示」是此元件開發的原點，而此元件透過「讀取網站授權資料」和「將收藏的 Metadata 透過資料庫加以管理」兩大部分來達成這個目的：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;
+	&lt;p&gt;在瀏覽已支援的網站（目前包含 Flickr、SoundCloud 和 Vimeo）時，瀏覽器的介面上會顯示圖示，點擊時會提供姓名標示、授權資訊與收藏狀態。&lt;/p&gt;
+
+	&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/01.png&quot; style=&quot;height:203px; width:600px&quot; /&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	&lt;p&gt;在瀏覽器中提供簡易的收藏管理，目前提供的功能包含搜尋、以授權條款篩選、更改收藏項目標題、刪除項目、將收藏清單匯出為附 RDFa 標註的 XHTML（將收藏清單匯出為XHTML+RDFa格式的檔案後，使用者可以輕易透過壓縮整個收藏所在的資料夾來分享已有的媒體收藏。） 。這個介面可以從功能表的「工具 -&amp;gt; 媒體收藏」開啟。&lt;/p&gt;
+	&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/02.png&quot; style=&quot;height:377px; width:600px&quot; /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;這個元件的 Beta 版本與說明可以在創用CC Wiki找到：&lt;a href=&quot;http://wiki.creativecommons.org.tw/cc-media-collector&quot;&gt;http://wiki.creativecommons.org.tw/cc-media-collector&lt;/a&gt;，目前相容於 Firefox 3.6 和 4.0。由於其仍在測試階段，尚有許多功能仍在開發與加強之中。對於此套件的未來發展，也請持續關注創用CC Wiki 上的頁面。CC Media Collector 操作手冊，可以在&lt;a href=&quot;https://docs.google.com/document/pub?id=1SGZlryBYCqr3M5tfQlLrEq5J0Jv4Gtwk6BLxjpIMwwA&quot;&gt;這個網址&lt;/a&gt;找到。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h3&gt;CC Media Collector: Download, Organize, and Remix CC-licensed Media Files&lt;/h3&gt;
+
+&lt;p&gt;CC Media Collector is a Firefox addon to collect and manage Creative Commons-licensed media. This tool is proposed by the Creative Commons Taiwan team and has been implemented by littlebtc. With CC Media Collector, users can download media sources (such as image files, sound tracks,and video clips) from supported websites and manage the collection using the in-browser UI.&lt;/p&gt;
+
+&lt;p&gt;The list of the collected items can be exported as a folder indexed by a XHTML+RDFa list, so users can share their collections easily by archiving and sending their folders of CC-licensed media files. A brief manual on how to use CC Media Collector can be found&amp;nbsp;&lt;a href=&quot;https://docs.google.com/document/pub?id=1SGZlryBYCqr3M5tfQlLrEq5J0Jv4Gtwk6BLxjpIMwwA&quot;&gt;here&lt;/a&gt;&amp;nbsp;(sorry, in Traditional Chinese only).&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 30 Mar 2011 07:36:07 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">496 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20110330#comments</comments>
+</item>
+<item>
+ <title>SoundCloud: 充分支援創用CC授權的音樂交流平台</title>
+ <link>https://creativecommons.tw/blog/20100817</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Polley Wong&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;&lt;a href=&quot;http://soundcloud.com/&quot;&gt;&lt;img alt=&quot;soundcloud.jpg;&quot; class=&quot;image&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/soundcloud.jpg&quot; style=&quot;height:285px; width:500px&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://soundcloud.com/&quot;&gt;SoundCloud&lt;/a&gt; 是個媒體分享平台。它允許使用者透過網路介面輕易且快速地傳遞、發表及下載藝術家、唱片製作公司及專業音樂家的音樂。&lt;a class=&quot;newpage&quot; href=&quot;http://soundcloud.com/&quot;&gt;SoundCloud&lt;/a&gt; 靠著它社群導向的分享介面、點閱與討論的統計機制、允許發表音樂者使用創用CC授權標示其作品，及即陸續出爐的各種好用功能於2010年約五月達到一百萬名註冊用戶。&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://soundcloud.com/&quot;&gt;SoundCloud&lt;/a&gt; 於今年八月中發表了一篇&lt;a class=&quot;newpage&quot; href=&quot;http://blog.soundcloud.com/2010/08/19/reuse-soundcloud-style/&quot;&gt;文章 ( Find, Remix and Reuse–SoundCloud Style )&lt;/a&gt; 提到他們進階搜尋中，開放了可讓使用者以創用CC授權作為搜尋條件。&lt;/p&gt;
+
+&lt;div&gt;&lt;a href=&quot;http://soundcloud.com/search&quot;&gt;&lt;img alt=&quot;Adv-search.jpg;&quot; class=&quot;image&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/adv-search.jpg&quot; style=&quot;width:700px&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://soundcloud.com/creativecommons&quot;&gt;SoundCloud 中介紹創用CC的網頁&lt;/a&gt;中(雖然是英文但)非常清楚地介紹者創用CC授權標章及其所代表的涵義，引導使用者發掘多一個發佈作品授權選項。&lt;/p&gt;
+
+&lt;div&gt;&lt;a href=&quot;http://soundcloud.com/creativecommons&quot;&gt;&lt;img alt=&quot;CC.jpg;&quot; class=&quot;image&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/cc.jpg&quot; style=&quot;width:700px&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;上傳音樂時，SoundCloud提供了音樂發佈者一個相當簡單好懂的選取創用CC授權介面：&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;Dashboard-SoundCloud.jpg&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/dashboard-soundcloud.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;除了搜尋和音樂上傳的介面上增加了創用CC的選項之外，聆聽音樂的介面也加入了小小的創用CC授權的標章圖示：&lt;/p&gt;
+
+&lt;div&gt;&lt;a href=&quot;http://soundcloud.com/twistedtools/sets&quot;&gt;&lt;img alt=&quot;twistedtools-Sets-SoundCloud.jpg;&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/twistedtools-sets-soundcloud.jpg&quot; style=&quot;width:350px&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;SoundCloud 技術上，深度使用了Dropbox來當成音樂傳遞的媒介，筆者使用起來蠻順的。但道德上可猜想其中也或許會一些盜版疑慮，延續早幾年的P2P檔案分享議題。但SoundCloud似乎搭上了確定的趨勢，即這個資訊共享和個人發佈的潮流，讓各種地上地下的藝術家齊聚ㄧ堂，連嘻哈音樂大佬Snoop Dogg都大力擁抱SoundCloud，成為它們的註冊者。再加上SoundCloud把藝術創作自由的理念鮮明呈現在眾人面前，讓許多愛好自由的年輕藝術創作者將其與Flickr和Vimeo齊名為多媒體發佈的完美平台。不知這樣的平台，是否能在台灣的使用者中有同等的需求與受歡迎程度。你們覺得呢？寄信來 wt.gro.snommocevitaerctcatnoc#wt.gro.snommocevitaerctcatnoc 表達你的看法吧！&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 17 Aug 2010 04:00:00 +0000</pubDate>
+ <dc:creator>polley</dc:creator>
+ <guid isPermaLink="false">219 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20100817#comments</comments>
+</item>
+<item>
+ <title>Vimeo 的創用CC授權功能已開放！</title>
+ <link>https://creativecommons.tw/blog/20100708</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Polley Wong&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;為讓使用者更易為自己的影片標示授權及生名字申權益，線上影片分享網站 &lt;a class=&quot;newpage&quot; href=&quot;http://vimeo.com/&quot;&gt;Vimeo&lt;/a&gt; 與 &lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/&quot;&gt;Creative Commons&lt;/a&gt; 合作，於2010年7月13日開始開放它們的使用者可以透過易用的界面，將其作品以創用CC授權，以便他人使用、播放、複製或修改原創作者的作品。&lt;/p&gt;
+
+&lt;p&gt;依上傳者想賦予其他使用者的權利種類不同，&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/&quot;&gt;Creative Commons&lt;/a&gt; 提供了六種免費的授權條款（創用CC授權條款）供使用者選擇。上傳者可依「姓名標示」、「姓名標示─相同方式分享」、「姓名標示─禁止改作」、「姓名標示─非商業性」、「姓名標示─非商業性─相同方式分享」及「姓名標示─非商業性─禁止改作」方式授權其影像檔。&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;screen-shot-2010-07-12-at-12-57-30-pm.png&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/screen-shot-2010-07-12-at-12-57-30-pm.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;screen-shot-2010-07-12-at-3-11-07-pm.png&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/screen-shot-2010-07-12-at-3-11-07-pm.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;當瀏覽者觀賞 [[http://vimeo.com/|Vimeo]] 的影片時，那些採用 [[http://creativecommons.org/|Creative Commons]] 發布的授權條款的影片會有清楚的授權圖示在影片資訊當中，如同影片的種類、檔案大小、影片長度及上傳日期等資訊一般。&lt;/p&gt;
+
+&lt;p&gt;去年上半年，&lt;a class=&quot;newpage&quot; href=&quot;http://www.youtube.com/&quot;&gt;YouTube&lt;/a&gt; 公告他們正在測試讓某些特定合作夥伴的影片中加入&lt;a class=&quot;newpage&quot; href=&quot;creativecommons.tw/betacc/license&quot;&gt;創用 CC 授權&lt;/a&gt;標示並&lt;a class=&quot;newpage&quot; href=&quot;http://newteevee.com/2009/02/12/youtube-goes-offline-with-downloads/&quot;&gt;允許使用者下載這些影片&lt;/a&gt;的功能。這些特定合作夥伴包含一些大學如&lt;a class=&quot;newpage&quot; href=&quot;http://www.youtube.com/user/stanforduniversity&quot;&gt;史丹佛大學&lt;/a&gt;、&lt;a class=&quot;newpage&quot; href=&quot;http://www.youtube.com/user/dukeuniversitynews&quot;&gt;杜克大學&lt;/a&gt;、&lt;a class=&quot;newpage&quot; href=&quot;http://www.youtube.com/user/ucberkeley&quot;&gt;加州大學柏克萊分校&lt;/a&gt;、&lt;a class=&quot;newpage&quot; href=&quot;http://www.youtube.com/user/uclacourses&quot;&gt;加州大學洛杉磯分校&lt;/a&gt;及&lt;a class=&quot;newpage&quot; href=&quot;http://www.youtube.com/user/uctelevision&quot;&gt;加州大學電視臺&lt;/a&gt;。但 &lt;a class=&quot;newpage&quot; href=&quot;http://vimeo.com/&quot;&gt;Vimeo&lt;/a&gt; 的授權功能已可供使用了。&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+Vimeo網站開啟異常&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 08 Jul 2010 04:00:00 +0000</pubDate>
+ <dc:creator>polley</dc:creator>
+ <guid isPermaLink="false">213 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20100708#comments</comments>
+</item>
+<item>
+ <title>雜談 ccPlus 運作模式</title>
+ <link>https://creativecommons.tw/in-depth/416</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;趙柏強&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;自 iSummit 2008 回來後，筆者撰寫的 &lt;a class=&quot;newpage&quot; href=&quot;http://blog.bobchao.net/2008/09/isummit-08-open-business.html&quot;&gt;Open Business 心得&lt;/a&gt;裡提過 ccPlus 這項技術。時過境遷，ccPlus 已經成為 ccREL (為作品以數位方式標示 CC 授權條款的標準規格) 的一部份，當您前往 CC 網站選擇授權條款時若填入「其他授權方式網址」，則產生的程式碼裡就會包含 ccPlus 的資訊。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;File?id=atm74r78g3_15f2cjxksz_b&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/x8.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;簡言之，程式碼中的 rel=&quot;cc:morePermissions&quot; 相應標籤中，正標示了進一步連絡的網址。如果使用者需要更進一步洽談授權、點選這個網址就對了！事實上，經由按下網頁上的 CC 授權標章前往授權標章的說明網頁時，說明網頁上也會告知訪客該去哪裡洽談更多授權。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;File?id=atm74r78g3_14hrxhkzgg_b&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/x6.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h4&gt;授權代理實作方式&lt;/h4&gt;
+
+&lt;p&gt;ccPlus 的原理十分簡單，商業組織要實作相應的功能也不太難。當創作者為自己的作品標上 ccREL 資訊、並且在其中包含 morePermission 資訊後，支援 ccREL 的瀏覽工具應能直接辨識出授權代理商的連結並提示使用者；在使用者點選授權代理商的連結後，主機端再加以辨識 HTTP 標頭中的 refferer 資訊，得知來源網址、再依據來源網址的原始授權方式決定要提供哪些額外的權利供使用者購買即可。&lt;/p&gt;
+
+&lt;p&gt;舉個例子：創作人「小強」以創用 CC 姓名標示—非商業性—相同方式分享條款授權他人使用自己的歌曲，而聽眾「包柏」很喜歡這首歌、並且想用在自己的作品上，但基於種種因素無法遵守這個授權條 款，於是他點選小強網頁上的「其他授權方式請點選此處」，連到了授權代理商 &lt;a class=&quot;newpage&quot; href=&quot;http://morepermission.com/&quot;&gt;morepermission.com&lt;/a&gt; 的網頁。&lt;a class=&quot;newpage&quot; href=&quot;http://morepermission.com/&quot;&gt;morepermission.com&lt;/a&gt; 此時因為 HTTP refferer 的資訊得知包柏因小強的歌曲而來，並且從小強的原網頁查明小強採用 CC:BY-NC-SA 條款，因此自動列出下列購物選項供包柏選擇：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;除原條款授予之權利外、額外增加「商業使用」的權利：1000 元/單件作品&lt;/li&gt;
+	&lt;li&gt;除原條款授予之權利外、額外允許免去「相同方式分享」的權利：3000 元/單件作品&lt;/li&gt;
+	&lt;li&gt;直接購買一般性商業使用權利 (不需標示姓名、不需相同方式分享)： 20000 元/單件作品&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;包柏勾選第 1 及第 2 項，並且填寫相關資訊後結帳，便擁有在單件商業作品上利用小強的歌曲、且不需以相同方式分享的權利。每個月都有數十位像包柏這樣的人前來 &lt;a class=&quot;newpage&quot; href=&quot;http://morepermission.com/&quot;&gt;morepermission.com&lt;/a&gt; 購買小強作品的額外權利，而 &lt;a class=&quot;newpage&quot; href=&quot;http://morepermission.com/&quot;&gt;morepermission.com&lt;/a&gt; 則在月底與小強一次回報本月的銷售狀況及結算金額。包柏跟小強都免去了信件往來的等待時間與麻煩，而 &lt;a class=&quot;newpage&quot; href=&quot;http://morepermission.com/&quot;&gt;morepermission.com&lt;/a&gt; 則收取一定比例的服務費。&lt;/p&gt;
+
+&lt;h4&gt;衍生問題&lt;/h4&gt;
+
+&lt;p&gt;剛剛的流程看起來還不錯，但就技術面來說，其中會有幾個問題：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. 包柏要的，是小強網頁上的哪個作品？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;當同一個網頁上又有圖、又有文、又有音樂，程式如何判斷 ccREL 所指的東西是什麼？ccREL 可能出現在網頁上的任一處，即便授權代理商能循線回到來源網頁查驗、也無法用電腦程式準確判斷出網頁上的那個部份是授權的標的。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. &lt;a class=&quot;newpage&quot; href=&quot;http://morepermission.com/&quot;&gt;morepermission.com&lt;/a&gt; 怎麼自動提出購物選項？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;最簡單的想法是，原始的授權條款有哪些元素，就提出相對應的「取消」選項。例如本例中原始授權標的物採「姓名標示—非商業性—相同方式分享」授權大眾使用，那麼直接提出「不需姓名標示」、「允許商業利用」、「不需以相同方式分享」作為採購選項似乎便是可行的方式。&lt;/p&gt;
+
+&lt;p&gt;不過考慮到原始著作人的意願，那麼事情又有些不同：或許對小強來說，取消「相同方式分享」跟「非商業性」都還好說話，但很堅持必須保留「姓名標示」的權利，此時 &lt;a class=&quot;newpage&quot; href=&quot;http://morepermission.com/&quot;&gt;morepermission.com&lt;/a&gt; 還是必須提出相應的機制來回應著作人意願。&lt;/p&gt;
+
+&lt;p&gt;當然，也要考慮到我們並不需要在「more permission」的層面上被 CC 的各項元素綁死，而更可以直接將「一般性的商業使用權利」當成選項之一。選擇此項時，買賣雙方的關係就不是「我已經獲得著作人以 CC 某條款授權、且著作人對我額外免除某些條件」，而是「我已經獲得著作人以一般商業使用權利授權」，則此時就完全不需要看 CC 的條約內容，對於利用人來說或許更為簡便。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. 如何定價？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;取消各種權利時，該怎麼定價？且雖然範例裡「不需相同方式分享」的價碼較「可商業利用」來得高，但不同的著作人可能又有不同的看法。又，依據使用目的不同、定價方式也該有所差異：耗資千萬的電影與巷口的咖啡館要用你的音樂，應該就有不同的計價方法。&lt;/p&gt;
+
+&lt;p&gt;這 3 個問題都可以經由著作人與代理商先行約定來解決，也就是說小強在 &lt;a class=&quot;newpage&quot; href=&quot;http://morepermission.com/&quot;&gt;morepermission.com&lt;/a&gt; 上先註冊一個帳號，指定「由這個網址來時、代表著作物是這首歌」、選擇願意有條件除去的授權元素、再分別就各種情形自行給予定價。也或許小強可以指定「某 個網址來的著作、一律堅持保留姓名標示元素」、「某些特定網址的著作，一律僅給予『直接購買一般性商業使用權利』的選項」等等。&lt;/p&gt;
+
+&lt;p&gt;不過既然要「登記」，那麼又衍生出「如何知道帳號的所有人就是作品所有人」的問題，這個層面其實已經離 CC 所關心的事情有點遠，但又容易被牽扯為 CC 應該解決的問題。筆者認為，無論有沒有 CC、在世界上盜用別人作品自稱作者的事情也本來就存在，那麼原本怎麼解決就怎麼解決，原本難以解決的也不用在這個地方苛求 CC 有所作為。目前來說，服務商及購買者只能相信網頁提供者確實提供了自己擁有著作權的作品。&lt;br /&gt;
+其他玩法&lt;/p&gt;
+
+&lt;p&gt;上面舉的例子是獨立的授權代理商機制，也是筆者認為比較開放的玩法。依據這個作法，使用者可以自由選擇作品的發佈平台及授權代理商，避免被一家公司綁死。&lt;/p&gt;
+
+&lt;p&gt;不過，事實上在目前可見的 ccPlus 服務供應商裡，大多都是把著作發表平台 (content hosting) 直接結合金流，還沒有看到開放、接受外部作品一起販售的情形。以 Jamendo 為例，在平台上發表的音樂內含 ccPlus 資訊，但使用者沒辦法選擇授權代理商，而是會直接又連回 Jamendo 的授權網頁。&lt;/p&gt;
+
+&lt;p&gt;此外，能夠選擇的授權方式也不若 ccPlus 原先「可以隨選要減少的授權要素」的規劃，而大多是直接就作品要利用的層面來販售商業性使用授權。也以 Jamendo 為例，在選擇好要買的歌曲之後，網站會出現表單要求你描述作品的應用方式，並藉以決定要收多少費用。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;File?id=atm74r78g3_16ftzvm9dh_b&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/x9.jpg&quot; style=&quot;width:512px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;這種方式把剛剛提到的作品、購物選項、定價等問題，都直接由該平台幫你決定了。雖然一次解決了很多問題，但相對來講就不那麼自由，且使用者若想藉由多個平 台來增加曝光度，也無法選擇統一的授權代理商來簡化收費流程。但不可否認，這樣的實作方式對於服務提供者來講是比較方便，利益也比較高的，因此無怪乎大家 都以此種方式實作 ccPlus。&lt;/p&gt;
+
+&lt;p&gt;但就算作品發佈平台想兼營金流機制來收一點服務費，無可避免也必須付出相對的營運成本與代價。所以可以想見另一種模式很可能會在不久的將來出現：作品發佈 平台提供有限的選擇，讓著作人自三到四家的授權代理商中選擇其一，而發佈平台再與授權代理商分享手續費。這個模式可以讓發佈平台免去增加金流業務的麻煩、 且又能讓想合作的授權代理商自行「投標」加入合作伙伴，獲得一定利益，著作人也能因此獲得 (有限的) 選擇自由。若授權代理商增加到一定的數目，這個方式很可能在未來成為主流。&lt;/p&gt;
+
+&lt;h4&gt;那麼，目前有多少獨立授權代理商？&lt;/h4&gt;
+
+&lt;p&gt;在筆者有限的資訊裡，答案是零、一家都沒有。&lt;/p&gt;
+
+&lt;p&gt;ccPlus 概念推出已經超過兩年，目前實際支援這項技術的獨立授權代理商就是找不到。以全球作為市場範圍來講，這多少應該還是個有利可圖的行業，會造成毫無獨立廠商支援的理由，筆者隨便猜一下：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;CC 不紅，ccPlus 更不紅：也就是「這是個解決問題提升利益的好技術，但知道的人不多、實作的人當然更少」。其實這是最好的狀況，問題僅僅在推廣而已，而不是機制本身有問題。&lt;/li&gt;
+	&lt;li&gt;著作發表平台不支援：獨立授權代理商想賺錢，那麼自然希望有足量的著作人使用 ccPlus 技術、且願意指定自己為授權代理。但目前提供著作人發表著作的服務平台、似乎都沒看見能讓你選擇外部授權廠商的設定可填。&lt;/li&gt;
+	&lt;li&gt;雞生蛋蛋生雞：以著作發表平台的角度而言，現在這類授權代理機制還不風行，好像也沒有必要提供支援。上述兩點明顯為雞生蛋、蛋生雞的情境，讓支援 ccPlus 的獨立授權代理商在短期之內只能從自己架主機發表作品的著作人身上賺到服務費，吸引力太小。&lt;/li&gt;
+	&lt;li&gt;也或許，這個市場本來就小得可憐？筆者不這麼認為，但沒有統計數據支持的情形下這必須列為一個可能。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;其實應該再加一個「以上皆非」 —— 也或許其實 ccPlus 機制設計上有什麼問題，是我們這些太熟悉 CC 的人沒有注意到的？&lt;/p&gt;
+
+&lt;p&gt;無論如何，有更多的後設資料我們就有機會利用機器做更多的事，ccPlus 是後設資料的一種、與其相關的授權機制也有推動的價值。筆者在接下來的半年內將尋訪創作者及既有平台服務商 (包括著作發表平台及線上授權服務平台等)，希望能整理出 ccPlus 機制運作架構建議及目前的狀況分析，期待明年中有機會再與各位分享心得與成果。&lt;/p&gt;
+
+&lt;p&gt;如果您想了解更多關於 ccPlus 的資訊，請見 &lt;a href=&quot;http://wiki.creativecommons.org.tw/CC_Plus&quot;&gt;CCTW Wiki&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;如果您想參與這項研究或討論，請前往筆者&lt;a class=&quot;newpage&quot; href=&quot;http://blog.bobchao.net/2009/11/ccplus.html&quot;&gt;網誌&lt;/a&gt;留言指教。&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+morepermission.com連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 06 Nov 2009 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">416 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/416#comments</comments>
+</item>
+<item>
+ <title>Facebook 上的 Creative Commons 授權應用程式</title>
+ <link>https://creativecommons.tw/blog/20090831</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Polley W.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;你習慣用Facebook跟親友分享照片、文章或影片嗎? 你擔心你的創意或創作毫無控管地被散播出去嗎? &lt;a class=&quot;newpage&quot; href=&quot;http://freeculturenyu.org/&quot;&gt;Free Culture @ NYU&lt;/a&gt;發起人及現任美國 &lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/&quot;&gt;Creative Commons&lt;/a&gt; 產品經理 &lt;a class=&quot;newpage&quot; href=&quot;http://www.fredbenenson.com/&quot;&gt;Fred Benenson&lt;/a&gt; 於2009年5月18日發表了Facebook專用的 &lt;a class=&quot;newpage&quot; href=&quot;http://apps.facebook.com/creativecommons/&quot;&gt;Creative Commons License 應用程式(beta)&lt;/a&gt;&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-1&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-1&#039;)&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;CCforFB.png;&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/ccforfb.png&quot; style=&quot;margin-right:20px&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;此程式可讓使用者輕易地選擇一個分享Facebook照片、影片、個人資料及狀態更新的授權方式。使用者只需回答以下三個問題，便可將符合個人需求之CC授權標示嵌在Facebook的個人資料首頁：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;你想授權的內容有哪些？&lt;/li&gt;
+	&lt;li&gt;是否允許其他人作商業用途？&lt;/li&gt;
+	&lt;li&gt;是否允許其他人修改你的內容？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Facebook對其使用者的言行規範相當開放。根據Facebook的&lt;a class=&quot;newpage&quot; href=&quot;http://www.facebook.com/terms.php&quot;&gt;使用者條款&lt;/a&gt;中的第二條：&lt;strong&gt;&quot;使用者擁有其在Facebook上所發表的所有內容和資訊。使用者亦可從&lt;a class=&quot;newpage&quot; href=&quot;http://www.facebook.com/settings/?tab=privacy&quot;&gt;隱私設定&lt;/a&gt;及&lt;a class=&quot;newpage&quot; href=&quot;http://www.facebook.com/editapps.phpm&quot;&gt;應用程式設定&lt;/a&gt;自行控制內容的分享方式…&quot;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;換句話說，使用者可自行授予、管理、負責自身發表創造的授權規範。此應用程式的正當性無須疑慮。&lt;/p&gt;
+
+&lt;p&gt;技術上，雖然Facebook中的個人資料頁面並未開放給外部搜尋引擎建立檢索，Fred仍舊在CC授權標示的程式碼中包含了 &lt;a class=&quot;newpage&quot; href=&quot;http://www.certifiedchinesetranslation.com/openaccess/rdfa-primer.html&quot;&gt;RDFa&lt;/a&gt; 標籤，以利可能之內部搜尋引擎抓取或機器閱讀。此程式極易使用，但有一先天劣勢：此程式只能以單一使用者為單位授權，意即一個使用者只能針對屬於他的所有內容作授權，而無法以單一內容(例如: 一張照片、一段影片)授權。然而若欲針對單一內容授權，則非得修改Facebook內部現有系統不可，否則無法達成，因此也不算是Fred的失策。&lt;/p&gt;
+
+&lt;p&gt;目前Facebook的Creative Commons Application尚處於beta版：除了功能上仍處於實驗階段，台灣創用CC計畫正在接洽原作者以取得應用程式的翻譯權，以利繁體中文使用者使用。&lt;/p&gt;
+
+&lt;p&gt;資料來源：&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/?p=14563&quot;&gt;The Official Unofficial Creative Commons Facebook Application&lt;/a&gt;&lt;/p&gt;
+
+&lt;div&gt;
+&lt;div&gt;Footnotes&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-1&#039;)&quot;&gt;1&lt;/a&gt;. The Official Unofficial Creative Commons Facebook Application&lt;/div&gt;
+&lt;/div&gt;
+&amp;nbsp;
+
+&lt;p&gt;備註：&lt;br /&gt;
+Free Culture @ NYU、Creative Commons License 應用程式(beta) 連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 31 Aug 2009 04:00:00 +0000</pubDate>
+ <dc:creator>polley</dc:creator>
+ <guid isPermaLink="false">169 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20090831#comments</comments>
+</item>
+<item>
+ <title>新聞插播：YouTube (終於) 支援 CC 授權啦！</title>
+ <link>https://creativecommons.tw/blog/20090213</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;趙柏強 Po-chiang Chao&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;千呼萬喚始出來，YouTube 開始提供一些先期測試的合作伙伴在可下載的影片上標示授權條款，當然用了 CC 囉！&lt;/p&gt;
+
+&lt;p&gt;你可以連到 &lt;a class=&quot;newpage&quot; href=&quot;http://www.youtube.com/watch?v=6r2odXU9sa8&quot;&gt;Stanford 這段影片&lt;/a&gt;，按下影片播放器左下角的「Download this video」，就可以看到 CC 的授權聲明。Flickr 是 CC 最大的照片素材庫，看來我們也可以期待 YouTube 成為最大的影片素材庫。&lt;/p&gt;
+
+&lt;p&gt;YouTube 同時實作了結合 Google Checkout 的小額影片販售機制，很可惜的是還沒到 CC Plus 那樣的東西，但能這樣實在太好啦！關於影片下載及 CC 的官方發言，請&lt;a class=&quot;newpage&quot; href=&quot;http://youtubetwblog.blogspot.com/&quot;&gt;見其 Blog&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 13 Feb 2009 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">137 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20090213#comments</comments>
+</item>
+<item>
+ <title>創用 CC 網頁多媒體編撰套件（下）</title>
+ <link>https://creativecommons.tw/in-depth/394</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林克寰&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;前面這些都是運用素材時要注意的事項，那麼流程中最後一個階段 ── 實際編輯網頁時呢？&lt;/p&gt;
+
+&lt;p&gt;其實現在有很多的套件，能夠輕易製作出內容採創用 CC 授權的網頁，在網頁上加入超鏈結及標示，並且嵌入授權相關的詮釋資料──他們是各種部落格系統與圍紀系統，例如 Movable Type（*22）、MediaWiki（*23），以及各種部落格服務、圍紀服務、線上藝廊服務，像是 TypePad（*24）、Wikia（*25）、Flickr。有一些用來把整個圖檔資料夾做成相簿網頁的程式，例如 snapGallery（*26），也可以在操作流程當中，讓你選擇創用 CC 授權，並根據這項設定來調整製作出來的網頁。&lt;/p&gt;
+
+&lt;p&gt;不過對於真正要設計網頁的人來說，大概會嫌上述這些辦法都太過僵硬，做不出想要的東西來。如果你也是想要自己親手做網頁的人，那麼目前你祇能一切自己來 ── 各種 WYSIWYG 網頁設計套件如Dreamweaver、GoLive!、Expression Web 等，都還沒有內建跟創用 CC 授權有關的功能，所以你得徒手拿文字編輯軟體（或文字型網頁設計套件）來把有關的原始碼加進去。除了由創用 CC 所提供的 RDF 格式數位標籤外，你還可以用微格當中的 rel-license（*27）來標記授權文字、圖片說明，讓網頁更具語意。&lt;/p&gt;
+
+&lt;p&gt;當你做了這些事後，可以用創用 CC 提供的 MozCC 擴充套件（*28）來確認是否標記正確，也可以用 BlueOrganiser（*29）、Operator（*30）、Tails Export（*31）等擴充套件，來確認用微格標記的授權資訊是否能被加以利用。這些擴充套件通通都是用於 Firefox（*32）的 ── Firefox 仍舊是網頁設計的首選，有各種領先潮流的擴充套件，能夠彌補Firefox 的不足之處，讓 Firefox 有機會跟其他瀏覽器一較上下。（MozCC 也可以用於 Songbird（*33））&lt;/p&gt;
+
+&lt;p&gt;要讓網頁邁入 Web 2.0，上述這種 RDF 格式授權數位標籤以及微格都是少不了的，另外網站還得提供 RSS 或 Atom 源料，以便跟其他網站或服務交流內容。因為源料的目的使然，在源料上標記授權資訊又更為重要。處理源料最簡單的方法之一，就是交給 FeedBurner 來做，這個網頁服務有著諸多功能，包括統計訂閱數、修正源料瑕疵等，同時也能夠加入創用 CC 授權資訊，讓你的源料更能充分表達網頁內容，也讓網頁設計師可以把心力集中在實際的網頁上。&lt;/p&gt;
+
+&lt;p&gt;設計網頁時，有些設計師會採用以創用 CC 授權釋出的框架，例如Mollio（*35），這種時候要如何標示作者及授權資訊呢？使用網頁設計框架時，標記這些資訊也有兩種辦法：第一是跟圖片一樣，在「版權宣告」之類的網頁中，說明你所使用的框架資訊；第二則是把相關的資訊保留在網頁原始碼內──有些網站開發套件會在最後的最佳化程序中，刪除所有的原始碼註解、空格、換列，這時請務必確認這些授權資訊有保留下來。這兩種辦法並不互斥，如果能都做到，更是理想。&lt;/p&gt;
+
+&lt;p&gt;除了 Mollio 外，近年來越來越多人用的 YUI（*36）也是採取開放的授權方式；雖然 YUI 並不是用創用 CC 授權，而是 BSD 授權條款，但是創用 CC 計畫也有試著納入 BSD 授權（*37），並也致力於未來要與BSD 授權有更好的可互通性，因此使用 YUI 或其他框架時，要注意的地方、標示的方式，其實也是跟 Mollio 一樣：附在網頁上，並在原始碼中保留相關資訊。&lt;/p&gt;
+
+&lt;p&gt;歸納一下，我們在本文當中學到了：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;用 flickrCC、Behold、Flickr Color Selectr、Compfight 來搜尋 Flickr 上採創用 CC 授權的圖片&lt;/li&gt;
+	&lt;li&gt;用 ImageStamper 來存證圖片授權資訊&lt;/li&gt;
+	&lt;li&gt;用 Inkscape 將圖片包裝成 SVG，並嵌入創用 CC 授權數位標籤&lt;/li&gt;
+	&lt;li&gt;到 ccMixter、Revver、StreetVoice、Internet Archive 尋找採創用 CC 授權的其他影音素材&lt;/li&gt;
+	&lt;li&gt;用 SMIL 來整合多媒體素材並標記授權資訊&lt;/li&gt;
+	&lt;li&gt;用 OOXML 或 XMP 來幫文件檔案標記授權資訊&lt;/li&gt;
+	&lt;li&gt;使用採創用 CC 授權的素材來設計原型及最終的網頁&lt;/li&gt;
+	&lt;li&gt;善用現成的網頁服務來製作使用創用 CC 素材的網站&lt;/li&gt;
+	&lt;li&gt;使用微格與 RDF 格式來標記網頁上的創用 CC 資訊&lt;/li&gt;
+	&lt;li&gt;使用專門的頁面來說明各素材的授權資訊&lt;/li&gt;
+	&lt;li&gt;利用 FeedBurner 在網頁源料中加入創用 CC 授權資訊&lt;/li&gt;
+	&lt;li&gt;使用採創用 CC 授權的網頁設計框架來製作網頁&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;由此我們可以看出，創用 CC 已經悄悄地進入網頁設計的各個環節，從素材、框架到內容交換格式，處處都有創用 CC；但是目前對媒體素材的利用上，祇有圖片的部分較為成熟，其他媒體素材則不論是要搜尋還是要存證授權資訊，能利用的資源都較少，文件檔案格式所採用的 OOXML 或 XMP 等則更是少為普羅民眾所知。更重要的是，我們目前仍然缺少便於蒐集、整理各種素材的工具。&lt;/p&gt;
+
+&lt;p&gt;至於要在網頁上標示內容或素材的授權資訊，則有多種方法：在原始碼中標示、使用 RDF 格式數位標籤、運用微格、另做專用網頁等，這些方法並不互斥，甚至適於搭配混用；但另一方面也顯示了網頁編輯工具對此還沒有足夠的重視，這也是未來軟體開發者所應該使力的地方。&lt;/p&gt;
+
+&lt;p&gt;拉拉雜雜地講了一大堆東西，希望對於終日與網頁設計奮鬥的朋友們有所幫助，也更希望未來能有更強大好用的套件來處理這些細節，讓人們不用再辛苦地東拼西湊。&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;/p&gt;
+
+&lt;p&gt;*22 Movable Type: &lt;a class=&quot;newpage&quot; href=&quot;http://movabletype.org/&quot;&gt;http://movabletype.org/&lt;/a&gt;&lt;br /&gt;
+*23 MediaWiki: &lt;a class=&quot;newpage&quot; href=&quot;http://www.mediawiki.org/&quot;&gt;http://www.mediawiki.org&lt;/a&gt;&lt;br /&gt;
+*24 TypePad: &lt;a class=&quot;newpage&quot; href=&quot;http://typepad.com/&quot;&gt;http://typepad.com/&lt;/a&gt;&lt;br /&gt;
+*25 Wikia: &lt;a class=&quot;newpage&quot; href=&quot;http://wikia.com/&quot;&gt;http://wikia.com/&lt;/a&gt;&lt;br /&gt;
+*26 snapGallery: &lt;a class=&quot;newpage&quot; href=&quot;http://www.onfocus.com/snap/&quot;&gt;http://www.onfocus.com/snap/&lt;/a&gt;&lt;br /&gt;
+*27 Microformats rel-license: &lt;a class=&quot;newpage&quot; href=&quot;http://microformats.org/wiki/rel-license&quot;&gt;http://microformats.org/wiki/rel-license&lt;/a&gt;&lt;br /&gt;
+*28 MozCC: &lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/MozCC&quot;&gt;http://wiki.creativecommons.org/MozCC&lt;/a&gt;&lt;br /&gt;
+*29 BlueOrganiser: &lt;a class=&quot;newpage&quot; href=&quot;http://www.adaptiveblue.com/&quot;&gt;http://www.adaptiveblue.com/&lt;/a&gt;&lt;br /&gt;
+*30 Operator: &lt;a class=&quot;newpage&quot; href=&quot;https://addons.mozilla.org/firefox/4106/&quot;&gt;https://addons.mozilla.org/firefox/4106/&lt;/a&gt;(連結失效)&lt;br /&gt;
+*31 Tails Export: &lt;a class=&quot;newpage&quot; href=&quot;https://addons.mozilla.org/firefox/2240/&quot;&gt;https://addons.mozilla.org/firefox/2240/&lt;/a&gt;(連結失效)&lt;br /&gt;
+*32 Firefox: &lt;a class=&quot;newpage&quot; href=&quot;http://moztw.org/firefox/&quot;&gt;http://moztw.org/firefox/&lt;/a&gt;&lt;br /&gt;
+*33 Songbird: &lt;a class=&quot;newpage&quot; href=&quot;http://songbird.com/&quot;&gt;http://songbird.com/&lt;/a&gt;&lt;br /&gt;
+*34 FeedBurner: &lt;a class=&quot;newpage&quot; href=&quot;http://www.feedburner.com/&quot;&gt;http://www.feedburner.com/&lt;/a&gt;&lt;br /&gt;
+*35 Mollio: &lt;a class=&quot;newpage&quot; href=&quot;http://www.mollio.org/&quot;&gt;http://www.mollio.org/&lt;/a&gt;&lt;br /&gt;
+*36 YUI: &lt;a class=&quot;newpage&quot; href=&quot;http://developer.yahoo.com/yui/&quot;&gt;http://developer.yahoo.com/yui/&lt;/a&gt;&lt;br /&gt;
+*37 創用 CC BSD 授權: &lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/BSD/deed.zh_TW&quot;&gt;http://creativecommons.org/licenses/BSD/deed.zh_TW&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 05 Dec 2008 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">394 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/394#comments</comments>
+</item>
+<item>
+ <title>創用 CC 網頁多媒體編撰套件（中）</title>
+ <link>https://creativecommons.tw/in-depth/392</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林克寰&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;許多人在網頁上要使用採 CC 授權的圖片時，會因為不知道如何標示姓名而感到困惑──這裡說的不是「按作者指定的方式來標示姓名」的那個問題，而是用了一堆圖片時，這些標示要放在哪裡的問題。如果執著於一定要標示在圖片旁邊，很容易會破壞畫面美觀，讓許多設計師卻步；事實上可以比照一般編排書籍的辦法，另外做一個網頁（或併入「版權宣告」之類的網頁中），詳載網站內各網頁所有使用過的圖片縮圖、作者、原始出處網址、授權方式等資訊，然後祇要確保每一個網頁都能清楚容易地連到這個清單網頁即可。&lt;/p&gt;
+
+&lt;p&gt;除了這種方式之外，另外還有一種進階的標記方式：把點陣圖檔包進 SVG（*9）格式的圖檔中再使用。因為 SVG 是一種運用 XML 的圖形格式，而且可以在詮釋資料中嵌入創用 CC 授權的數位標籤，所以這麼一來就能夠在不動到原始檔案、不需要另外在網頁上標記的前提下，表達圖片的授權資訊、作者資訊等。如果你打算這麼做，那麼務必要試試看 Inkscape（*10）這套 SVG 編輯工具，它內建了創用 CC 授權的詮釋資料選項，而且還是一套在各平台、各語系都有得用的自由軟體。&lt;/p&gt;
+
+&lt;p&gt;網頁上往往不會祇有圖片，還會有其他的多媒體內容，例如聲音、音樂、動畫、影像等，這些媒體也會有其匯聚之處，像是 Revver（*11）上所有的影片，都是採用創用 CC 姓名標示─非商業性─禁止改作 2.5 版授權條款釋出，ccMixter（*12）上有大量採創用 CC 授權釋出的音樂、樂段、取樣，StreetVoice（*13）也有許多華文的影音串流採創用 CC 授權釋出，Internet Archive（*14）更是匯集了許多採公眾授權（也包括了創用 CC 授權）釋出的多媒體素材。&lt;/p&gt;
+
+&lt;p&gt;這些媒體內容都比圖片來得複雜，包括牽涉到的技術、使用方式、作者姓名與授權方式的標示等皆然。要在網頁上使用這些採創用 CC 授權的內容時，可以如圖片般另外表列這些素材的作者及授權資訊，也可以在編輯這些素材時加入聲音或畫面來說明（如果原本的作者並未加上這些標記，或者僅取用部分內容），另外也可以用 SMIL（*15）來標記 ── SMIL 也是一種 XML 檔案，也一樣可以嵌入創用 CC 的數位標籤。用 SVG 或 SMIL 的手法，好處是不會動到原始的數位檔案，保留日後再行邊修的彈性；但是缺點則是並非所有的瀏覽器都能 100％支援所有的功能，所以採用這個解決方案前，得要先評估考量一番。&lt;/p&gt;
+
+&lt;p&gt;這些多媒體素材併用時，還要考慮不同授權方式之間是否相容。授權條款之間的相容性及可互通性，一直都是創用 CC 努力的方向之一；除了創用 CC 本身提供的授權條款皆具有可互通性外，創用 CC 也致力於跟其他常見的授權方式如 GPL、GFDL、BSD 等的可互通性。使用創用 CC 授權條款的好處之一，即是未來將可望與更多採不同授權方式的內容互通（雖然此刻還沒有實現這個夢想）。&lt;/p&gt;
+
+&lt;p&gt;台灣創用 CC 計畫提供了一個授權相容性精靈（*16），能夠幫你檢查各種授權之間是否相容，以及用這些素材製做出來的網頁還可以採用哪些授權方式釋出。創用 CC 把「授權」這件事與一般人拉近了，因此我們更應該要正視「授權」這件事；也許未來哪一天，編輯網頁的開發環境，可以把搜尋、管理多媒體素材的功能也納入其中，而且還能依據預期的授權方式，來篩選可用的素材。&lt;/p&gt;
+
+&lt;p&gt;近來有些網頁還有一種做法，就是直接提供文件檔案（例如微軟 Word 的 .doc 格式、Adobe 的 PDF 格式等）讓使用者下載，這些檔案因此成了網頁的延伸。網頁本身可以嵌入創用 CC 授權的數位標籤，那麼這些檔案可以嗎？&lt;/p&gt;
+
+&lt;p&gt;微軟自己替 Office 2003 及 Office 2007 分別提供了一個叫「Creative Commons Add-in for Microsoft Office（*17）」的外掛模組，標示授權資訊時，同時也會用 OOXML（*18）嵌入相對應的數位標籤。Adobe 則是採用 XMP（*19）來處理這些詮釋資料，也可以用創用 CC 網站上提供的 XMP 模版，加入相對應的創用 CC 授權數位標籤。&lt;/p&gt;
+
+&lt;p&gt;與 XMP 的處理工具都還不多，不過還是有像 Proud Hill MetaGrove（*20）這種商業的 XMP 輔佐編撰管理工具；另外 Adobe 自己也釋出了 XMP 開發套件（*21），所以未來也應該會出現更多 XMP 處理工具。&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;/p&gt;
+
+&lt;p&gt;*8 ccMixter &lt;a class=&quot;newpage&quot; href=&quot;http://ccmixter.org/&quot;&gt;http://ccmixter.org/&lt;/a&gt;&lt;br /&gt;
+*9 SVG: &lt;a class=&quot;newpage&quot; href=&quot;http://www.w3.org/Graphics/SVG/&quot;&gt;http://www.w3.org/Graphics/SVG/&lt;/a&gt;&lt;br /&gt;
+*10 Inkscape: &lt;a class=&quot;newpage&quot; href=&quot;http://inkscape.org/&quot;&gt;http://inkscape.org/&lt;/a&gt;&lt;br /&gt;
+*11 Revver: &lt;a class=&quot;newpage&quot; href=&quot;http://revver.com/&quot;&gt;http://revver.com/&lt;/a&gt;&lt;br /&gt;
+*12 ccMixter: &lt;a class=&quot;newpage&quot; href=&quot;http://ccmixter.org/&quot;&gt;http://ccmixter.org/&lt;/a&gt;&lt;br /&gt;
+*13 StreetVoice: &lt;a class=&quot;newpage&quot; href=&quot;http;//streetvoice.com/&quot;&gt;http;//streetvoice.com/&lt;/a&gt;&lt;br /&gt;
+*14 Internet Archive: &lt;a class=&quot;newpage&quot; href=&quot;http://archive.org/&quot;&gt;http://archive.org/&lt;/a&gt;&lt;br /&gt;
+*15 SMIL: &lt;a class=&quot;newpage&quot; href=&quot;http://www.w3.org/AudioVideo/&quot;&gt;http://www.w3.org/AudioVideo/&lt;/a&gt;&lt;br /&gt;
+*16 創用 CC 授權相容精靈: &lt;a href=&quot;http://creativecommons.org.tw/licwiz/&quot;&gt;http://creativecommons.org.tw/licwiz/&lt;/a&gt;(連結失效)&lt;br /&gt;
+*17 Creative Commons Add-in for Microsoft Office 2007:&lt;br /&gt;
+&lt;a class=&quot;newpage&quot; href=&quot;http://www.microsoft.com/downloads/details.aspx?FamilyId=D1DDBDC8-627F&quot;&gt;http://www.microsoft.com/downloads/details.aspx?FamilyId=D1DDBDC8-627F&lt;/a&gt;&lt;br /&gt;
+*18 Office Open XML: &lt;a class=&quot;newpage&quot; href=&quot;http://msdn.microsoft.com/en-us/library/aa338205.aspx&quot;&gt;http://msdn.microsoft.com/en-us/library/aa338205.aspx&lt;/a&gt;&lt;br /&gt;
+*19 XMP: &lt;a class=&quot;newpage&quot; href=&quot;http://www.adobe.com/products/xmp/&quot;&gt;http://www.adobe.com/products/xmp/&lt;/a&gt;&lt;br /&gt;
+*20 Proud Hill MetaGrove: &lt;a class=&quot;newpage&quot; href=&quot;http://www.poundhillsoftware.net/&quot;&gt;http://www.poundhillsoftware.net/&lt;/a&gt;&lt;br /&gt;
+*21 Adobe XMP Toolkit: &lt;a class=&quot;newpage&quot; href=&quot;http://www.adobe.com/devnet/xmp/&quot;&gt;http://www.adobe.com/devnet/xmp/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 07 Nov 2008 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">392 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/392#comments</comments>
+</item>
+<item>
+ <title>CC Plus: 自力救濟版</title>
+ <link>https://creativecommons.tw/blog/20081106</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;趙柏強 Po-chiang Chao&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;曾在 &lt;a class=&quot;newpage&quot; href=&quot;http://blog.bobchao.net/2008/09/isummit-08-open-business.html&quot;&gt;iSummit &#039;08&lt;/a&gt; 筆記中提過 &lt;a href=&quot;http://wiki.creativecommons.org.tw/CC_Plus&quot;&gt;CC Plus&lt;/a&gt; 這個協定，有段幻想是這樣：&lt;/p&gt;
+
+&lt;blockquote&gt;某乙看到某甲的相片後，在瀏覽器上立刻出現了「此相片以創用 CC 姓名標示—相同方式分享授權您使用，如您需要其他授權方式，請點此」的說明。某乙直接點選該說明，則前往某丙公司網頁、選定自己需要的授權方式後立即購買。&lt;/blockquote&gt;
+
+&lt;p&gt;要完成這個幻想有幾個要點：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;當然，網頁上必須嵌入 CC 及 CC Plus 資訊&lt;/li&gt;
+	&lt;li&gt;瀏覽器能夠辨識網頁中的 CC/CC plus 資訊&lt;/li&gt;
+	&lt;li&gt;有線上授權代理商，能支援小額、高度自訂化的授權機制&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;嵌入 CC Plus 資訊非常輕鬆愉快，即便不會 HTML，也可以從 CC 提供的範本中修改。&lt;a class=&quot;newpage&quot; href=&quot;http://blog.bobchao.net/&quot;&gt;我的網誌&lt;/a&gt;邊欄上曾註明「其他使用範圍請來信詢問」，當時是簡單用個 mailto 連結來處理：&lt;/p&gt;
+
+&lt;blockquote&gt;其他使用範圍&lt;a href=&quot;mailto:bobchao@gmail.com&quot;&gt;請來信詢問&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;要加上 CC Plus 資訊並不需耗費太大力氣，只要說明這是溝通授權用的連結，就成了：&lt;/p&gt;
+
+&lt;blockquote&gt;其他使用範圍&lt;a href=&quot;mailto:bobchao@gmail.com&quot; rel=&quot;cc:morePermissions&quot;&gt;請來信詢問&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;這麼一來，當按下授權標章後所顯示的&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by-nc-sa/2.5/tw/&quot;&gt;授權說明網頁&lt;/a&gt;，就會蹦出一塊區域、說明其他授權範圍可以到哪裡去索取：&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;ccplus-DIY-1.png&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/ccplus-diy-1.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;當然，理想上這個連結目標該是第三方提供代收服務的線上授權代理商，不過目前這麼富有彈性的授權代理商、又有中文介面提供台幣代收服務的，目前是零 (誰要投資我 XD)。好在現在免費的服務那麼多，拼拼湊湊還是可以完成一個簡單的自力救濟版。於是我用 Google 文件做了張[[http://spreadsheets.google.com/viewform?key=pgCLmf2kXn6vwnw1w9AlKdQ&amp;amp;hl=zh-TW|簡單的表單]]，可以讓有需求的人按表填寫申請，並確實表達自己的授權需求。那麼，連結就該改連往申請書表單囉！&lt;/p&gt;
+
+&lt;blockquote&gt;其他使用範圍&lt;a href=&quot;http://spreadsheets.google.com/viewform?key=pgCLmf2kXn6vwnw1w9AlKdQ&amp;amp;hl=zh-TW&quot; rel=&quot;cc:morePermissions&quot;&gt;請填寫申請書依個案處理&lt;/a&gt;。&lt;/blockquote&gt;
+
+&lt;p&gt;於是點選授權標章後，顯示的連結也會一併變更：&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;ccplus-DIY-2.png&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/ccplus-diy-2.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;剩下就是瀏覽器自動辨識的問題了。雖然 &lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/MozCC&quot;&gt;MozCC&lt;/a&gt; 這個可以讓 Firefox 辨識 CC 資訊的套件已經無法在 Firefox 3.0 使用，但基於對網頁後設資料(metadata)的解析能力日漸重要、在可見未來內應該可以看到內建辨識授權資訊的瀏覽器出現。&lt;br /&gt;
+CC Plus 的資訊我已經整理到&lt;a href=&quot;http://wiki.creativecommons.org.tw/CC_Plus&quot;&gt;創用 CC Wiki&lt;/a&gt; 上了，歡迎前往查詢其他標示方法及應用實例，也期待國內能有良好的代收服務、完備 CC Plus 的整體服務鍊。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 06 Nov 2008 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">115 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20081106#comments</comments>
+</item>
+</channel>
+</rss>

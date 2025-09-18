@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 同儕生產</title>
+ <link>https://creativecommons.tw/category/tags/%E5%90%8C%E5%84%95%E7%94%9F%E7%94%A2</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>眾志與眾智？「禁止改作」與公民新聞的同儕生產</title>
+ <link>https://creativecommons.tw/blog/20101025</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;黃泰然&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;公視一直是台灣創用 CC 重要的推動者之一。&lt;a class=&quot;newpage&quot; href=&quot;http://cc.pts.org.tw/New_MainPage.aspx&quot;&gt;「公視創用」&lt;/a&gt;提供了許多公共電視製作的新聞影片，其影片都以創用 CC 授權釋出。&lt;a class=&quot;newpage&quot; href=&quot;http://www.peopo.org/&quot;&gt;「 PeoPo 公民新聞平台 」&lt;/a&gt;則是一個由註冊的公民記者上傳影片與撰寫報導的公民新聞的交流平台，在上傳影片與報導時，也提供了創用 CC 的授權選項。不過，很可惜的是，公視創用所有的新聞影片都是採用「姓名標示-非商業性-禁止改作」， 而 PeoPo 公民新聞平台在公民記者上傳影片時的預設選項也是「姓名標示-非商業性-禁止改作」，所以大部分的影片都是採用此種創用 CC 授權條款。&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;01.JPG&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/01.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;其實，「禁止改作」此一授權條件，與公視創用原本旨在「讓更多的衍生著作在此地分享、衍生、再分享、再衍生」&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-1&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-1&#039;)&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;的目的並不相符，也不利於創用 CC 和公民新聞原本結合的目標—-透過「眾志與眾智」由下而上的對議題發聲。&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-2&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-2&#039;)&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;這是因為「禁止改作」與「同儕生產」（peer-production）的模式是相衝突的，也與自由文化的理念不符。另外，採行「禁止改作」的疑慮，例如正確性與浮水印的問題，其實可以透過其他方式處理，不需要因此增加不必要的限制。 再從國外的例子來看，其他媒體以創用 CC 授權釋出的影片很少採用「禁止改作」的授權條件，而知名的公民新聞「全球之聲」（Global Voice），其生產模式同樣也是建立在「允許改作」，而非「禁止改作」的基礎上。本文認為公視應該考慮不包括禁止改作條件的其他創用 CC 授權條款。 以下，將詳細討論個別議題。&lt;/p&gt;
+
+&lt;h4&gt;壹、同儕生產與公民新聞&lt;/h4&gt;
+
+&lt;p&gt;「同儕生產」（peer-production）是 Yochai Benkler 提出的概念，此種生產模式與過去階層化組織的不同在於，參與者比較處於平行的關係，且可能素未謀面，其主要的生產誘因往往也不是金錢報酬&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-3&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-3&#039;)&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;。同儕生產於的經典例子是維基百科和自由軟體。兩者都是透過社群的合作，讓人們可以異時異地的共同產出一篇維基百科的條目、 或者像 Linux、 Gimp 等自由軟體。 維基百科與自由軟體的同儕生產所以可行，除了網路讓這些人得以連結與合作，以及社群的凝聚力等因素之外，授權條款（稱治理架構其實更適合）選擇得當，更是其生產模式得以運作不可或缺的要素。 維基百科原本採用的是「GNU 自由文件授權」（GNU Free Documentation Licenses）Licenses），2009年則轉換到相容的創用 CC「姓名標示-相同方式分享」，而自由軟體則大多是採用「GNU 通用公眾授權」（GNU General Public License），或者其他符合自由軟體定義的公眾授權 。 這些授權條款的共通特色之一是「允許改作」 ，其核心精神亦在此。 為了要「允許改作」，所有的自由軟體都要開放原始碼(目的碼沒「人」看得懂，其他人如何修改改善？)，改作之後的軟體，也要「相同方式分享」，允許社群的其他人繼續改作。 維基百科的情形也與此相類，沒有允許改作，同儕生產的力量就很難發生。 讓我們假設當初維基百科當初採用了「禁止改作」的授權方式，會是什麼的情況？首先，有位熱心的老師寫了一篇紫斑蝶的條目，但只有大致的介紹，另一名平日熱心生態觀察的人，在寫信取得原作者的同意後，補充了一些內容，於是這篇條目現在有了兩位共同作者，第三位作者要取得前兩位的同意，才可以透過授權的方式修改、第四位則要前面三位全部同意、第五位要四人同意…….。 很明顯地，採用這種授權條款的「維基百科」絕對不可能有今天的成就，它的條目會少得可憐，造成「反共用地悲劇」（anti-commons tragedy）。&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-4&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-4&#039;)&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;同樣地，像 PeoPo 公民新聞這樣的新聞平台，如果要透過「眾智與眾志」的公民新聞的生產，達成由下而上介入與實踐的力量，「禁止改作」的授權條件反而會妨礙其理想的實現。它讓大部分的影片一上傳之後，就不太會有人再去修改、或者和其他的影片與音樂混合，甚至剪輯到在自己影片中成為另外一篇公民新聞的一部份。另一方面，許多 PeoPo 公民新聞中的影片，往往還不是完整的報導但卻有可能是珍貴且取得困難的一手影像，其最具價值之處本來就是作為他人改作與報導的素材，但是 「禁止改作」卻妨礙了此種運用的實現。公視創用中的影片雖然是完整的報導，但因為仍不乏使用者可能只想要用其中部份的畫面或影片，&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-5&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-5&#039;)&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;「禁止改作」的限制條件，也降低了這些影片在運用上的價值。（因為在教育部全國創用 CC 諮詢中心工作之故，有些老師會向我反應他/她們對「禁止改作」的影片要運用在教材製作、 甚至擷取「部份」影片播放會有疑慮）。 簡言之，選擇「姓名標示-非商業性-禁止改作」，並不利於「同儕生產」，因此會使得公視創用與 PeoPo 公民新聞平台的發展，可能停留在在 web 1.0 的階段，只是作為個別作者典藏與出版的媒介，而不能實現 「眾智與眾志」的理想。 我想這也是熱心推動創用 CC 與公民新聞的公視所不樂見的。&lt;/p&gt;
+
+&lt;h4&gt;貳、 正確性與姓名標示的疑慮&lt;/h4&gt;
+
+&lt;p&gt;會採用或預設「姓名標示-非商業性-禁止改作」的創用 CC 授權條款，可能的顧慮是報導的「正確性」與「扭曲」的問題。 但是，同樣以維基百科為例，我們也可以發現任何人都可以匿名修改的條目，只要有適當的機制予以處理，正確性的問題並不嚴重。《科學》雜誌過去即有將維基百科與大英百科全書與科學有關的42個條目作比較，最後的結論是兩者「在正確性的差異並不特別顯著」。&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-6&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-6&#039;)&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;PeoPo 與公視創用，應該以更開放的角度來面對這個問題。 其實，與其讓作者/權利人「事前」自己決定，他人的改作與修改，是否有扭曲與正確性的問題，不如「事後」 透過同儕的與社群的公評來建立市場機制。 而這才是「自由文化」的精神所在，如果後來的創作者都要取得前人的「允准」才可以修改，不僅費時費力，也有事前內容審查的問題。 再者，與同儕生產可能產生的效益相比，即使偶有惡意扭曲之作，我們也不該因噎廢食。&lt;/p&gt;
+
+&lt;p&gt;公視創用另一個採用「姓名標示-非商業性-禁止改作」的理由，可能是考量到影片中公視創用的浮水印會被使用者以「改作」的方式移除。 但是，這層顧慮只要能清楚說明浮水印的保留是遵守「指定姓名標示方式」的條件之一即可。 如果使用者仍擅自移除浮水印，此時即等於未遵守「姓名標示」。我們不需要以「禁止改作」確保浮水印的存在，造成資源在利用上不必要的限制。&lt;/p&gt;
+
+&lt;h4&gt;參、 幾個國外的例子&lt;/h4&gt;
+
+&lt;p&gt;其實，就筆者的觀察，以荷蘭的公共廣播事業 VPRO (Vrijzinnig Protestantse Radio Omroep)為例，它在 eeuwvandestad 以創用 CC 授權釋出的&lt;a class=&quot;newpage&quot; href=&quot;http://eeuwvandestad.nl/archives/223&quot;&gt;歷史影片&lt;/a&gt;素材，少有採用「禁止改作」的例子，因為這些影片的價值即在作為剪輯使用；此外 VPRO 也將它的&lt;a class=&quot;newpage&quot; href=&quot;http://eeuwvandestad.nl/download&quot;&gt;部份紀錄片&lt;/a&gt;以創用 CC 授權釋出，絕大多數亦採「姓名標示-非商業性-相同方式分享」的方式授權。紀錄片會採用創用 CC 授權，原因是希望除了在電視之外提供更多的流通管道，而且作為公共廣播事業其亦有責任讓公眾可以盡可能的以各種方式使用其資源。&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-7&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-7&#039;)&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;02.JPG&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/02.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;另一個值得注意的案例，是總部在卡達的半島電視台 (Al Jazeera) 於2009年設立的 &lt;a class=&quot;newpage&quot; href=&quot;http://cc.aljazeera.net/&quot;&gt;Creative Commons Repository&lt;/a&gt;，雖然網站本身採用「姓名標示-非商業性-禁止改作」，但是其提供的下載的影片全部都是以創用 CC「姓名標示」的方式釋出，方便他人（包括商業媒體）改作與重製。其中有不少影片是在西方媒體無法進入的加薩地區所拍攝，相當珍貴。 這樣的授權方式有利於其影片被公眾廣為使用與知悉。不過，半島電視台另外在2009年設立的 &lt;a class=&quot;newpage&quot; href=&quot;http://blogs.aljazeera.net/&quot;&gt;Al Jazeera Blog&lt;/a&gt;，其中的報導文章採用的是「姓名標示-非商業性-禁止改作」。這可能是出自於轉貼文章時，不希望被節錄而保持完整性的考量，但是，與影片素材相較，文字報導採用「禁止改作」所造成的限制與不便，尚不太大，因為著作權僅保護文字的表達方式，而不保護其中傳達的事實與思想，所以即使禁止改作，在得悉這些資訊後，仍然可以參考其意旨而撰寫相關報導；相反地，影片如果禁止改作，不能剪輯實際的畫面，而僅能以文字敘述其中的事實，就喪失了最重要的功用。&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;03.JPG&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/03.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;其實，在&lt;a class=&quot;newpage&quot; href=&quot;http://zh.globalvoicesonline.org/hant/m&quot;&gt;全球之聲&lt;/a&gt;（Global Voice）這個部落客公民記者報導與翻譯的網路平台，採用的就是創用 CC「姓名標示」的授權條款。許多參與全球之聲公民報導的部落客，並不是第一手的報導者，而是扮演翻譯或協同翻譯的角色。如果全球之聲採用了含有 「禁止改作」的創用 CC 授權條款，其運作將會受到阻礙，這其實也透露了「禁止改作」的條件可能妨礙同儕生產的眾志與眾智實現的可能性。 全球之聲如此，作為全球之聲友好媒體的 PeoPo 公民新聞平台亦然。&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;04.JPG&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/04.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;h4&gt;肆、 未來方向的建議&lt;/h4&gt;
+
+&lt;p&gt;簡言之，我認為 PeoPo 公民新聞平台不應該將「姓名標示-非商業性-禁止改作」設為選項，而可以考慮將創用 CC「姓名標示-非商業性-相同方式分享」授權條款設為預設選項 ；「公視創用」甚至可以考慮採用「姓名標示」，讓這些影片可以更自由的流通。 就 PeoPo 公民新聞平台，因為有公民記者可能不希望其報導被作為商業使用，而「非商業性」可以避免此爭議，「相同方式分享」則可以確保改作後的影片同樣屬於共用資源。 至於公視創用，因為沒有確保生產誘因的互惠層面的問題，其考量的應該是讓資源可以被最自由的利用，因此甚至可以考慮採用創用 CC「姓名標示」的授權條款。&lt;/p&gt;
+
+&lt;blockquote&gt;本文為著作人接受中央研究院資訊科技創新研究中心台灣創用 CC 計畫「專題研究獎助計畫」的產出。本文內容不必然代表中央研究院資訊科技創新研究中心或台灣創用 CC 計畫的立場。本文的著作權利為著作人所有，且著作人（黃泰然）已同意採用創用 CC 「姓名標示」3.0 台灣版授權條款釋出。&lt;/blockquote&gt;
+
+&lt;div&gt;
+&lt;div&gt;Footnotes&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-1&#039;)&quot;&gt;1&lt;/a&gt;. 此為公視創用推動緣起的文字，參&lt;a class=&quot;newpage&quot; href=&quot;http://cc.pts.org.tw/about.html&quot;&gt;http://cc.pts.org.tw/about.html&lt;/a&gt; (last visited 2010/07/31)。&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-2&#039;)&quot;&gt;2&lt;/a&gt;. 參羅志宏，《眾智與眾志的想像：數位典藏、公民新聞與創用CC結合的可能性》，&lt;a class=&quot;newpage&quot; href=&quot;http://groups.google.com/group/cc-taiwan-newsletter/browse_thread/thread/6d02842bc6349848#&quot;&gt;創用 CC 電子報第13期&lt;/a&gt;，2007年5月。&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-3&#039;)&quot;&gt;3&lt;/a&gt;. See Generally YOCHAI BENKLER, THE WEALTH OF NETWORKS: HOW SOCIAL PRODUCTION TRANSFORM MARKETS AND FREEDOM (2006). available at &lt;a class=&quot;newpage&quot; href=&quot;http://cyber.law.harvard.edu/wealth_of_networks/Download_PDFs_of_the_book&quot;&gt;http://cyber.law.harvard.edu/wealth_of_networks/Download_PDFs_of_the_book&lt;/a&gt;.&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-4&#039;)&quot;&gt;4&lt;/a&gt;. See Generally MICHAEL HELLER, GRIDLOCK-ECONOMY: HOW TOO MUCH OWNERSHIP WRECKS MARKETS, STOPS INNOVATIONS, AND COSTS LIVES (2008)。&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-5&#039;)&quot;&gt;5&lt;/a&gt;. 因為在教育部全國創用 CC 諮詢中心工作之故，有些老師會向我反應他/她們對「禁止改作」的影片要運用在教材製作、甚至擷取「部份」影片播放會有疑慮。&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-6&#039;)&quot;&gt;6&lt;/a&gt;. Jim Gilles, “Special Report： Internet encyclopedias go head to head,” Nature, Dec 14, 2005.&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-7&#039;)&quot;&gt;7&lt;/a&gt;. See &lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/18128&quot;&gt;http://creativecommons.org/weblog/entry/18128&lt;/a&gt; (last visited 2010/07/29)&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 25 Oct 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">228 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20101025#comments</comments>
+</item>
+<item>
+ <title>論非營利組織於資訊共享環境中所扮演的角色（上）</title>
+ <link>https://creativecommons.tw/in-depth/430</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;李治安&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;知識及資訊的創造是一個累進式的社會過程，所有的創意活動都是植基於既有的資訊基礎之上，因此，共享資訊（intellectual commons）對於人類的創新及創意活動具有重要的社會功能，該等資訊是所有創意活動的素材來源，而維持一個健全的資訊共享環境已成為當代創新政策及資訊政策的重要考量之一。一般而言，社會上的正式組織形態有三種：政府、營利組織以及非營利組織，有趣的是，資訊共享運動的主要推手皆為非營利組織，該等組織包括創用CC（Creative Commons ）、Electronic Frontier Foundation （ EFF ）、Free Software Foundation （FSF）以及 Public Knowledge （PK）等。&lt;/p&gt;
+
+&lt;p&gt;非營利組織為共享資訊的生產提供了不可或缺的基礎結構，而該等結構迥異於支持專屬資訊（proprietary information）生產的其他社會結構。藉由提升共享資訊的生產、接近使用、可搜尋性以及受保護的程度，非營利組織對當今社會提供了重要的公共財 （public goods），並發揮了政府及營利組織無法發揮的社會功能。&lt;/p&gt;
+
+&lt;p&gt;要瞭解非營利組織與資訊共享運動之間的關係，先以非營利組織的概念談起。 非營利組織係指不得將利潤分配給任何組織相關人的私人組織，學者將此特性稱為「不分配限制」。多數的非營利組織理論認為，該等組織的存在是為了提供特定的公共財，本文以公共財作為分類依據，羅列出資訊共享環境中的各類非營利組織。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;1. 社會規範與授權條款&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;關於分享的社會規範其實存在於學術機構已久，但該規範於1980年代開始受到商業智慧財產權侵蝕，因此Richard Stallman成立了FSF捍衛該規範，FSF對於資訊共享運動最重要的貢獻在於制定了通用授權條款（GNU Public License， GPL），確保自由軟體不被商業軟體吞噬，並保障了分享的社會規範。Open Source Initiative （OSI）是另一個執行分享社會規範的非營利組織，該組織所做出的開放原始碼定義（Open Source Definition， OSD）目前已成為開放原始碼的共識基礎，所有經過該組織審核通過的授權條款才會被社群接受為開放原始碼授權。&lt;/p&gt;
+
+&lt;p&gt;在軟體以外的資訊共享環境，非營利組織CC提供了多種不同的授權條款供創作者選擇，Creative Commons目前已成功的推動了全球性的社會運動，並型塑出鼓勵資訊分享及資訊再利用的社會規範。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;2. 同儕生產所需的正式組織架構&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;參與開放原始碼開發及維基百科等資訊共享計畫的人都是自發性的個人所組成的社群，學者將這種分散式的資訊形成過程稱為「同儕生產」（peer production），在資訊共享環境中，非營利組織為這些同儕生產設群提供了必要的組織架構。一些非營利組織代表社群接受捐獻，並持有同儕生產所必需的資產。此外，該等組織亦是共享資訊所屬智慧財產權的管理人，由單一的非營利組織為社群管理共享資訊的智慧財產權具有許多優點，過去許多開放原始碼軟體的智慧財產權，都歸屬於主要程式開發者之僱主，或由該僱主管理，但由於此等僱主均為營利機構，所以對於該等智慧財產權的處理通常係以其商業利益，而非整體社群利益，作為優先考量。此外，由單一組織管理同儕生產的成果亦可節省交易成本， 如Apache Software Foundation （ASF）及 FSF 甚至要程式開發者將著作權移轉或授權給該等組織，以統一管理。&lt;/p&gt;
+
+&lt;p&gt;同儕生產社群並非法律主體，所以無法與他人形成法律關係，準此，非營利組織的法人身分可協助設群與其他組織形成法律關係，以有利於社群的長期發展。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;3. 法律扶助&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;承前所述，參與共享資訊協力生產的個人常面臨了被訴的法律風險及成本，因此一些非營利組織專為個人提供法律協助，一旦有個人被控侵害他人智慧財產權，這些組織即出面代為處理訴訟，在自由及開放原始碼軟體世界中，最著名的即是Software Freedom Law Center （SFLC），而在其他的資訊共享環境中，EFF則已代理過許多具指標性的智慧財產權訴訟。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;4. 公益遊說&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;由於許多商業團體、媒體集團、及智慧財產權密集產業的遊說，美國國內及國際智慧財產權法的範圍不斷擴張，面對此趨勢，包括PK、EFF及 Knowledge Ecology International （KEI）在內的非營利組織都致力於透過在國會及國際組織的遊說，遏止智慧財產權無止境的擴張。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;5. 資訊近用及典藏&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;許多非營利組織提供了網路上共享資訊的近用及典藏，如 Public Library of Science （PLoS）是一家專門出版生物、醫學方面的學術期刊出版社，該機構將期所出版的期刊文章皆以CC授權，至於網站上，供人下載使用。另外包含麻省裡工學院在內的許多知名學術機構，則將課程或教授著作，置於網站上，供人下載使用。Internet Archive則以建立全球最大的網路公共圖書館為目標，收錄了各類資訊。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;6. 財務支援&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;上述所有非營利組織皆需財務支援，而通常來自個人的小額捐款卻不足以支付組織所需的各項開支。事實上，有許多大型基金會在資訊共享運動中扮演了重要的角色，它們提供了前述各組織所需的大部分資金來源，這些基金會包括了 William and Flora Hewlett Foundation （Hewlett Foundation）、 John D. and Catherine T. MacArthur Foundation （MacArthur Foundation）及Open Society Institute等。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 04 Jun 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">430 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/430#comments</comments>
+</item>
+</channel>
+</rss>

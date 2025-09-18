@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - academic publishing</title>
+ <link>https://creativecommons.tw/taxonomy/term/3258</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>打破學術界的高牆—開放近用期刊的發展史</title>
+ <link>https://creativecommons.tw/blog/20161204</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;鄭婷宇／編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/6018618935_4a681b9635_o.jpg?itok=Hjf9493M&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;em&gt;2011 (CC) &lt;a href=&quot;https://www.flickr.com/photos/gagilas/&quot; target=&quot;_blank&quot;&gt;Petras Gagilas&lt;/a&gt;, &quot;&lt;a href=&quot;https://www.flickr.com/photos/gagilas/6018618935&quot; target=&quot;_blank&quot;&gt;breaking water&lt;/a&gt;&quot; @ flickr, &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/2.0/&quot; target=&quot;_blank&quot;&gt;CC BY-SA 2.0&lt;/a&gt;.&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;國家用納稅人的錢資助學術研究，但這些研究成果卻被禁錮在期刊出版商的付費高牆之後，除了繳稅，民眾還得再付費才能取得這些知識；研究者耗費心血的研究成果，無償送交出版商，但圖書館卻得付出大筆費用買回期刊供研究者使用。出版商所樹立的高牆，橫亙在知識的生產與散播過程之間。&lt;/p&gt;
+
+&lt;p&gt;網際網路的出現，為打破學術高牆的開放近用運動提供了新利器。從預印本的線上交流系統到摸索出開放期刊的商業生產模式，研究成果終於能自由流通。在打倒學術高牆的嘗試過程之中，距離讓任何人都能獲得知識的開放近用理想，又更近了一步。&lt;br /&gt;
+&amp;nbsp;&lt;br /&gt;
+&lt;strong&gt;開放近用運動的先驅：arXiv&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;arXiv 創立於 1991 年，創辦者 Paul Ginsparg 是物理學、計算機科學的教授，任教於康乃爾大學。對科學研究而言，知識流通的速度十分重要，研究成果若等到期刊正式發布才公布，不僅可能會讓他人搶先取得原屬於自己的光榮，對其他研究而言，耗費心血鑽研已知的發現亦是一種浪費。因此，Ginsparg 架設一個讓高能物理及數學家能上傳自己預印本（尚未發布於須經同行評審的科學期刊上的草稿）的伺服器，稱為 arXiv。&lt;/p&gt;
+
+&lt;p&gt;TeX 排版系統的發明，讓科學家得以用電腦排版自己的著作，大幅改善出版過程與產出的質量。同時，以 TeX 格式撰寫的文章可透過電子郵件傳送，促進了跨平台的兼容性。在此之前，作者通常以影印新作，郵寄給對方的方式交換資訊，但受限於實際因素，交換的文章量很少。透過電子郵件，一鍵寄送便可發送文章給上千位聯繫人，許多文章的第一版便是自電子郵件的往返中誕生。再者，電子郵件的交換能避免預印本分發系統中存在的不平等訪問問題。&lt;/p&gt;
+
+&lt;p&gt;原本，Ginsparg 只打算每年接收 100 份預印本，但在 ArXiv 剛成立的半年內，便收到 400 份。截至 2015 年止，arXiv 共收到 105,000 份預印本上傳，達到 1.39 億次的下載量。arXiv 成長快速，收錄的文章範圍從最初設定的高能物理，擴展到其他領域。arXiv 成功的建立起線上共享預印本的文化，這樣的轉變並不容易，對其他學術領域而言，邁向數位及開放化的路途仍然道阻且長。&lt;br /&gt;
+&amp;nbsp;&lt;br /&gt;
+&lt;strong&gt;知識生產的新革命：Scholarly skywriting&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;另一個推動開放近用運動的關鍵人物是 Stevan Harnad，是魁北克大學的心理學教授，以及南安普敦大學的電子及計算機科學的教授。Harnad 跟 Ginsparg 同樣對預印本的流通感興趣，後者架設的 arXiv 以文章的交流為出發點，而 Harnard 著眼的則是利用網路跨越時空的連結性，讓科學家得以在預印本階段就讓同行評審，幫助彼此進步的可能性。除了在研討會正式發布研究成果，學者們常在預印本階段進行許多非正式的同行評審，且預印本及技術報告的散播往往也比正式版本更廣泛。既然如此，Harnad 認為電子網絡有望組成一個橫跨全球規模的知識交換系統，將研究著作從投稿、同行評閱到出版的過程線上化，達到即時且開放評論的優點，他稱此機制為 Scholarly skywriting（空中學術寫作）。&lt;/p&gt;
+
+&lt;p&gt;「這是繼人類發明語言、文字及印刷出版之後，第四波生產知識的革命。」Harnad 如此評論空中學術寫作對學術出版帶來的突破性，並在 1989 年，以此方法出版了 Psycoloquy，堪稱學界第一本開放近用的期刊，雖然「開放近用」一詞在十年後才出現。空中學術寫作大幅增加知識交流的速度與廣度，透過網路的連結，研究者能即時討論發表的文章，給予及接收來自世界各地的同行的意見反饋，每一筆的貢獻都記錄在網路上，以便之後看見的同行能了解及追加回饋。&lt;br /&gt;
+&amp;nbsp;&lt;br /&gt;
+&lt;strong&gt;期刊出版線上化：SciELO&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;在拉丁美洲，開放近用運動隨著 SciELO 的成立而迅速興旺。Scientific Electronic Library Online（簡稱SciELO）成立於 1997 年，專門提供索引與國內十項書刊的免費內文。國際中普遍使用但爭議性高的 Impact Factor（影響因子）對發展中國家的學術研究很不利，為了提升巴西學術研究的國際能見度，SciELO 的項目案於焉誕生。SciELO 免費開放全文內容，提倡期刊交互運用，以文章下載和引用數來評價期刊。&lt;/p&gt;
+
+&lt;p&gt;由於 SciELO 的技術平台使用開源軟體，各方感興趣的貢獻者都能合作開發新功能，也允許非 SciELO 索引的期刊資料庫使用此平台，例如採用 SciELO 方式發布期刊的大學。開放源碼的採用，使此平台不僅獲得開發與維護的動能，也擴大了文章收錄與引用的範圍。&lt;/p&gt;
+
+&lt;p&gt;「SciELO 有兩個目標：其一是將期刊出版的作業線上化；其二為處理發展中國家的學術期刊長期知名度低落的問題。」一篇為慶祝 SciELO 成立 15 周年的文章如此評論。2013 年的 SciELO 已發展成一個分散式但可互相操作的網絡。目前，已有來自拉丁美洲及其他地區的 15 個國家參與 SciELO，出版超過一千份期刊的文章，並累積超過五十萬篇期刊文章的貯存量。隨著科學研究知識更新的速度不斷加快，SciELO 從起源地巴西邁向國際化的趨勢指日可待。&lt;br /&gt;
+&amp;nbsp;&lt;br /&gt;
+&lt;strong&gt;開放近用期刊之商業模式的創立&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;1997 年 8 月，美國國家衛生研究院 (NIH) 創辦 PubMed 數位圖書館計畫，收錄生科醫藥等領域的文章，供人們透過資料庫免費搜索。雖然 PubMed 並未免費提供全文，但摘要檢索使查詢者能概略掌握可能性，成為推動美國往後開放近用運動的重要動力。&lt;/p&gt;
+
+&lt;p&gt;隔年，英國出版商 Vitek Tracz 拜訪了同時經營 PubMed 與 GenBank（一個開放的 DNA 資料庫）的 David Lipman，表明自己認為建立一個研究論文的中央貯存庫的時機已成熟。搭配網路科技的成熟，學者只需將自己的論文存入中央貯存庫，就可繞過出版商，自行獨立出版。如此一來，研究的發布與取用將可擺脫過往的限制，免費且自由的取用將帶來可觀的效益。儘管 Lipman 對此有興趣，也掌握基礎設施、技術與經營大數據庫的經驗，但卻分身乏術，無法實現此一理想。&lt;/p&gt;
+
+&lt;p&gt;Tracz 其後發起一份完全線上化經營的期刊，收錄生科與醫藥領域的研究於一個開放的貯存庫。這是第一次由出版商創辦開放近用的期刊的嘗試，這創舉為學界的開放近用帶來關鍵的創新。雖然前述提及的 arXiv 已證明線上出版科學論文的優勢，但尚未出現任何穩定的商業模式可支撐論文免費釋出給大眾的成本，畢竟期刊經營仍有支出存在。Tracz 將商業模式反轉，從向讀者收費轉而向作者方收取服務費用。開放近用期刊將自己定位為中介者，媒合審稿者與投稿的文章，繼而向作者所在的研究機構收費。此模式不僅可供期刊維持營運，也能透過網路連結向大眾開放經過同行評審，品質把關過後的研究成果。Tracz 將依此模式建立的新期刊命名為 BioMed Central。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;自己的出版自己辦！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;NIH 的院長 Harold Varmus 對開放近用抱持讚許的態度，相信網路能重建出版與資訊流通的架構，提議讓 NIH 提供一個對所有人開放的科學研究資料庫的新服務，稱為 E-biomed。此計畫引來傳統出版商的強烈抨擊，擔心美國政府將成為威脅出版業命脈的強敵。畢竟，PubMed 僅提供書目資訊，但 E-biomed 會提供全文的免費連結。出版商不願提供論文出版六個月後的免費開放權限，將其擴展到一年，引起 Varmus 的批評「這是不可接受的阻礙。依靠國家資助的科學研究來獲利的期刊，卻不願意改善社會獲取研究成果的途徑。」&lt;/p&gt;
+
+&lt;p&gt;隨後，一群科學家們在 2000 年發起一場抵制出版商的運動，來自一百個國家、多達三萬名的科學家簽署聲明，表示不再投稿、提供審查與編輯服務及單獨訂購不同意將其文章存放在 PubMed Central 的期刊。然而，出版商對這威脅完全不為所動，只有不到一百家期刊響應，這在總計六千多家出版商的產業來說，只是九牛一毛罷了。沒多久，連原先簽署參與的三萬名科學家也紛紛放棄堅持抵制，這場翻轉運動就此告吹。&lt;/p&gt;
+
+&lt;p&gt;儘管吃了出版商的閉門羹，又遭科學研究同業背棄，但發起這場運動的公共科學圖書館 (PLoS) 並沒有灰心。既然出版商不願支持 PubMed Central，公共科學圖書館就自己作出版商！他們以 PLoS 為名規劃創辦計畫，採用 Tracz 辦理 BioMed Central 的商業模式，向學術機構索取支付其研究人員發表文章的費用，將出版費視為研究成本的一部份。此計畫得到 Gordon 與 Betty Moore 基金會贊助 900 萬美元，足夠 PLoS 自給自足五年。PLoS 在 2003 年推出第一刊的生物學，並於 2004 年推出醫學，漸漸步上軌道。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Open access: All human knowledge is there—so why can’t everybody access it?&lt;a href=&quot;http://arstechnica.co.uk/science/2016/06/what-is-open-access-free-sharing-of-all-human-knowledge/&quot; target=&quot;_blank&quot;&gt;http://arstechnica.co.uk/science/2016/06/what-is-open-access-free-sharing-of-all-human-knowledge/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;線上同儕評閱制度: &lt;a href=&quot;http://terms.naer.edu.tw/detail/1678945/&quot; target=&quot;_blank&quot;&gt;http://terms.naer.edu.tw/detail/1678945/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;SciELO - 15 Years of Open Access: an analytic study of Open Access and scholarly communication:&amp;nbsp;&lt;a href=&quot;http://www.scielo.org/php/level.php?lang=en&amp;amp;component=42&amp;amp;item=31&quot; target=&quot;_blank&quot;&gt;http://www.scielo.org/php/level.php?lang=en&amp;amp;component=42&amp;amp;item=31&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Taking open access one step further: The role of SciELO in the global publication landscape:&amp;nbsp;&lt;a href=&quot;http://www.editage.com/insights/taking-open-access-one-step-further-the-role-of-scielo-in-the-global-publication-landscape&quot; target=&quot;_blank&quot;&gt;http://www.editage.com/insights/taking-open-access-one-step-further-the-role-of-scielo-in-the-global-publication-landscape&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;【OA周特輯】區域期刊的影響力低於國際期刊-訪SciELO共同創辦人：&lt;a href=&quot;https://read01.com/J8J8Nz.html&quot; target=&quot;_blank&quot;&gt;https://read01.com/J8J8Nz.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 04 Dec 2016 15:27:58 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1243 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20161204#comments</comments>
+</item>
+</channel>
+</rss>

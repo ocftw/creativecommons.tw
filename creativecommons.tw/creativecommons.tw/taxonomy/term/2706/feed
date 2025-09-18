@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - CC0</title>
+ <link>https://creativecommons.tw/category/tags/cc0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>CC0 公眾領域貢獻宣告1.0版華語翻譯 正式上線</title>
+ <link>https://creativecommons.tw/blog/20180313</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Yihsuan Lin / 文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://www.creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/Creative%20Commons%20Legal%20Code.png&quot; style=&quot;height:421px; width:660px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;CC0 公眾領域貢獻宣告（以下簡稱 CC0）本文的華語翻譯於 2018 年 3 月 12&amp;nbsp;日正式上線了，內容請見&lt;a href=&quot;https://creativecommons.org/publicdomain/zero/1.0/legalcode.zh-Hant&quot;&gt;此連結&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;CC0，有別於其他的創用CC授權條款可選擇保留部分權利，例如可選擇「非商業性」此授權要素以保留作品獲取商業利益之可能，作品一旦採用CC0，即表示該作品之創作人或權利人，在法律允許的最大範圍內，拋棄其對於該作品的著作權及其相關權利，且此權利拋棄的宣告是不可撤回的，意即，一旦採用CC0，事後即不得對該採用CC的作品再主張著作權及其相關權利。&lt;/p&gt;
+
+&lt;p&gt;CC0的另一個特點是，如果前述的權利拋棄的任一部份依據相關法律，被認定為無效或不生效力，因此受到影響的CC0作品的使用者仍得繼續合法地使用該作品，因為此時，原本權利之拋棄的宣告應在相關法律允許的最大範圍內被保留之外，CC0 的「轉換為公眾授權」的機制，將使得作品採用CC0的創作人或權利人（即宣告者）「授權」每位受影響的使用者免權利金、但不得移轉、不得再授權的權利，來實行宣告者對此作品的著作權及其相關權利。&lt;/p&gt;
+
+&lt;p&gt;一作品採用CC0，該作品即進入了公眾領域，任何人皆得以任何方式，包含在使用到該作品時，完全不表彰原創作者的姓名；以任何目的，包含商業、廣告及促銷的目的使用該著作（但商標權及專利權並不在權利拋棄的範圍內）。因此，若有強烈的姓名表彰的需求，可考慮創用CC核心授權條款，因為不論是六種核心授權條款的哪一款，姓名標示是預設的必要選值，即使用者必須按照著作人或授權人所指定的方式，表彰其姓名。&lt;/p&gt;
+
+&lt;p&gt;2017年二月紐約大都會博物館(The Metropolitian Museum of Art)宣布將其375,000件已進入公眾領域(public domain)的館藏藝術品影像採用CC0釋出，供公眾利用（註一）。&lt;/p&gt;
+
+&lt;p&gt;註一：&lt;a href=&quot;http://www.metmuseum.org/press/news/2017/open-access&quot; target=&quot;_blank&quot;&gt;http://www.metmuseum.org/press/news/2017/open-access&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 13 Mar 2018 01:57:53 +0000</pubDate>
+ <dc:creator>ally</dc:creator>
+ <guid isPermaLink="false">1250 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20180313#comments</comments>
+</item>
+<item>
+ <title>你的網路有多快？ - MLab 把他們的調查分析都 Open Data 了！</title>
+ <link>https://creativecommons.tw/blog/20161207</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/Screen-Shot-2016-11-30-at-4.42.00-PM-1024x576.png?itok=-TWaaBdf&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;em&gt;Introduction to Measurement Lab: &lt;a href=&quot;https://youtu.be/RnIVMfBP4So&quot; target=&quot;_blank&quot;&gt;https://youtu.be/RnIVMfBP4So&lt;/a&gt;, 2011 New America, &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/&quot; target=&quot;_blank&quot;&gt;CC BY 3.0&lt;/a&gt;.&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;Open Data(開放資料)並不僅僅是政府的事！雖然近年在這個領域最常被討論的是政府資料開放、或稱開放政府資料 (Open Government Data)，事實上開放政府這個概念於 1950 年美國境內關於「資訊自由法 (Freedom of Information Act, FOIA）的辯論已經出現，只是在近代的浪潮裡被注入數位與網路提供的新元素。而近年在討論到 Open Data 時，初期多討論的是如何促進政府機關構以更開放的立場、態度，及格式來提供資料，那是因為大量資料被屯儲於公務單位裡，若能就此寶庫先行取得一些成果，對整體開放資料的發展能帶來很大的效益，然而，學術領域與商用領域也必須隨後跟進，如此 Open Data 才能在長期發展下，形成一個豐富應用的生態系 (ecosystem)，Measurement Lab 這個具有學術研究並商業發展雙重面向的單位，已率先將其調查分析所得的相關資料，自行採 CC0 - 公眾領域貢獻宣告的方式，Open Data 出來給不特定多數人皆可不受限制利用，非常具有長期觀察的價值！&lt;/p&gt;
+
+&lt;p&gt;Measurement Lab(以下簡稱 MLab)是一個由 New America 開放科技研究所、Google 開源研究、Princeton 大學 Planet 實驗室，及其他許多學術與商業機構共同合作的協力專案。當前我們都知道網際網路對人們的生活與影響力愈來愈大，所以網速與網路活動的分析，所能帶來的事務分析與說明亦極富價值，多數商業公司在進行相關的研究調查時，會將相關資料與資訊皆視為重要資產、不傳之秘，但 MLab 反其道而行，不但所使用的調查研究工具皆採開源授權的方案，供所有人能自由下載進行衍生開發，對近年調查所得的資料，亦採 CC0 - 公眾領域貢獻宣告，以權利人的角度將其進行著作權利拋棄的宣示，也就是說，相關資料不但能直接從網路取得，並且日後能被用於任何目的，而不會受到著作權利相關的限制。&lt;/p&gt;
+
+&lt;p&gt;Chris Ritzo、Georgia Bullen、Alison Yost、Collin Anderson，以及 Stephen Stuart 這些 MLab 的重要參與人員，近期接受 CC總部的訪問。其分享網路狀態的度量與分析 (Internet Measurement)，是一件基礎，卻對所有人都有高度影響力的事，消費者也許單純只是想知道他們租用的網路服務，是不是真正達到業者承諾的速度；但對網路提供者或網路服務業者來說，這些資料將有助其改善未來商業服務的架構，以有限的資源提供更好的服務；對於公民團體或人權組織來說，具體取得這些資料更有助於分析是否有網路監管或監視狀況產生，而鑑於近年多數這樣的量測結果，都是由商業公司主導，而未將成果與公眾共享，而這與網際網路公眾得以公開近用、不受特定限制的基本架構並不相合，而不同機構所作的調查，亦難以進行一個結合分析的綜效。&lt;/p&gt;
+
+&lt;p&gt;MLab 和許多研究機構合作，亦不是說要求每個研究機構都採用 CC0 全然拋棄資料可能有的著作權利，在個案上 MLab 有時會同意一些研究者暫不提供授權，等到其研究成果完成初始發表之後再來處理，不過整個大原則就是盡量採用資料需對公眾開放的態度來做這件事。至於 MLab 自己網路上託管的資料，則悉採 CC0 的主要原因，在於該專案一開始設立的緣由之一，就是希望資料來源及其應用方式可以客觀而多元，故而採行公眾授權的方式來釋出資料，能夠與參與者之間產生互信關係；另一個原因就是，科學客觀性的建立，在於實驗或分析數據能夠公開，所以研究成果的發表也必須有相關資料的輔助，才能建立其信度與效度，然而多數研究機構並無法從商業組織取得合法授權的網路分析資料，多數商業公司的使用條款皆禁止這些資料被做衍生應用，而即使依法解釋商業公司未必能全然做這樣的要求，然進一步使用資料，如何做去識別化處理，也可能耗時並充滿合法標準模糊的不確定性；而即使像 Princeton 大學研究室能自主建立一個網路資料的收集平台，但其分析範圍也不一定能廣及終端消費者的網路行為，在這種種前提下，MLab 應勢而生，MLab 一開始的設立目標就是要將研究分析成果與公眾共享，形成一個公眾皆可共享的公眾資材 (commons)，所以這是取用 CC0 的主要原因。&lt;/p&gt;
+
+&lt;p&gt;透過 MLab 專案設計的使用與隱私權條款，所有相關工具與網路服務的使用者，都清楚被告知相關資料將被除去個人資料 (Personal Data) 之後進行統計分析，而這些統計分析的成果，亦會歸公眾所用，而不會被限定在特定商業公司或政府機關構內部。與此相近的國內實例，有台灣野生動物路死觀察網 (Taiwan Roadkill Observation Network，路殺社)，路殺社相關資料透過自行量測與公眾貢獻等多元方式取得，統整驗證後的具體成果，多採用 創用CC 姓名標示 3.0 台灣版 條款 (CC BY 3.0 TW) 授權公眾使用。與這些少數的開放授權案例相較，目前網路撈取分析資料的實狀，仍較近於 2010 年 Pete Warden 發表部落格文 - 我如何被 Facebook 聯繫要告 (How I got sued by Facebook) 的狀態，該文說明 Pete Warden 因為驗證分析上的需求，依照 Facebook 揭露的 robot.txt 文件，撰寫了網路爬蟲程式在 Facebook 上捉取他需要的資訊，在他對公眾說明相關方式與成果後，卻為 Facebook 聘僱的律師告知，若不是因為 Pete Warden 之前曾善意舉報一些 Facebook 平台上的安全性漏洞，不然 Facebook 曾考量直接對他發動訴訟，因為即使 Pete Warden 依照 Facebook 主動揭露 robot.txt 文件的技術容許規格來撈取資訊，從使用條款的角度這仍然沒有取得 Facebook 正式的書面授權，而有違法侵權的疑慮必須解決，最後此事以和解收場，Pete Warden 無奈的將其觀測成果及其衍生分析全然銷毀。然而，如果能透過公私協力的角度，促生更多如 MLab 或路殺社這樣的公民科學、開放資料分享平台能推出，則網路資訊實證分析這件事，將能被做的更適法、適當，而不會讓使用者一直處於標準不一、難以放心的研究窘境。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;How fast is your internet? How MLab uses CC0 data for the public interest: &lt;a href=&quot;https://creativecommons.org/2016/11/30/mlab/&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/2016/11/30/mlab/&lt;/a&gt;, 2016 Jennie Rose Halperin, CC BY 4.0.&lt;/li&gt;
+	&lt;li&gt;Introduction to Measurement Lab: &lt;a href=&quot;https://youtu.be/RnIVMfBP4So, 2011 New America&quot; target=&quot;_blank&quot;&gt;https://youtu.be/RnIVMfBP4So, 2011 New America&lt;/a&gt;, CC BY 3.0.&lt;/li&gt;
+	&lt;li&gt;Measurement Lab: &lt;a href=&quot;https://www.measurementlab.net/&quot; target=&quot;_blank&quot;&gt;https://www.measurementlab.net/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;開放政府資料的基本原則與相關政策議題：&lt;a href=&quot;http://www.ndc.gov.tw/Content_List.aspx?n=77B170ACDA8F8252&quot; target=&quot;_blank&quot;&gt;http://www.ndc.gov.tw/Content_List.aspx?n=77B170ACDA8F8252&lt;/a&gt;，2014 李治安、林誠夏、莊庭瑞，公共治理季刊 103 年 3 月第二卷第一期。&lt;/li&gt;
+	&lt;li&gt;台灣野生動物路死觀察網 (Taiwan Roadkill Observation Network)：&lt;a href=&quot;https://roadkill.tw/&quot; target=&quot;_blank&quot;&gt;https://roadkill.tw/&lt;/a&gt;，網站內容採用 創用CC 姓名標示 3.0 台灣版 條款授權公眾使用。&lt;/li&gt;
+	&lt;li&gt;How I got sued by Facebook: &lt;a href=&quot;https://petewarden.com/2010/04/05/how-i-got-sued-by-facebook/&quot; target=&quot;_blank&quot;&gt;https://petewarden.com/2010/04/05/how-i-got-sued-by-facebook/&lt;/a&gt;, 2010 Pete Warden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 07 Dec 2016 05:26:40 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1246 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20161207#comments</comments>
+</item>
+<item>
+ <title>他山之石 - rightsstatements.org 對開放文化館藏的啟發與探討（下）</title>
+ <link>https://creativecommons.tw/blog/20161206</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/20161205.png?itok=DNqol-mL&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;em&gt;Three Categories of Rights Statements at: &lt;a href=&quot;http://rightsstatements.org&quot; target=&quot;_blank&quot;&gt;rightsstatements.org&lt;/a&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【Rights Statements十二款標準分項的簡介與說明】&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;基本上，Rights Statements 對其十二款標示分項，是先以三大分類為基礎，先將數位館藏素材大分為：一、素材仍受著作權利保護，二、素材已不受著作權利保護，以及三、素材著作權利狀態未明，等三個態樣，其後再依應用差異性，來劃分各分類裡的次要分項，以下羅列並提供這十二款標示的基礎簡介與說明。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;一、素材仍受著作權利保護 (Statements for works that are in copyright)&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;1. 著作權利所有-僅得以主張合理使用 (IN COPYRIGHT)：InC 指示該素材仍在著作權利保護範圍之內，其能提供公開披露的權利基礎，為依其著作權利人本身之意願，或已得其著作權利人同意，或者依各國著作專屬權例外及限制 (exception and limitation) 之規定，例如援引合理使用 (Fair Use) 以較低解析模式提供公眾瀏覽，故這類的素材，後續的引用及再利用，基本上利用人亦僅能在個案裡主張合理使用，並自負合理使用判定的法律風險。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;2. 著作權利所有-孤兒著作 (IN COPYRIGHT - EU ORPHAN WORK)：InC-OW-EU 指示該素材依歐盟 2012/28/EU 號法律指令，可被歸類於孤兒著作。故而文化館藏機構對於這些孤兒著作具有較高的公開披露地位，而使用者在踐履 2012/28/EU 號法律指令內國法化的法律流程後，亦有機會於歐盟境內，提存一筆核定的授權金額後，對這些孤兒著作進行核內範圍內的利用。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;3. 著作權利所有-僅供教育目的使用 (IN COPYRIGHT - EDUCATIONAL USE PERMITTED)：InC-EDU 指示該素材仍在著作財產權保護期間，然而依其著作權利人本身之意願，或已得其著作權利人同意，得公開披露並供一般使用者，基於教育目的來使用這些素材。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;4. 著作權利所有-僅供非商業目的使用 (IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED)：InC-NC 指示該素材仍在著作財產權保護期間，然而依其著作權利人本身之意願，或已得其著作權利人同意，得公開披露並供一般使用者，基於非商業性之目的來使用這些素材。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;5. 著作權利所有-無既存之著作權利人 (IN COPYRIGHT - RIGHTS-HOLDER(S) UNLOCATABLE OR UNIDENTIFIABLE)：InC-RUU 指示館藏機構確信該素材仍在著作財產權保護期間內，然而經過相當程度的調查後，仍無法確認其著作權利人身份，或無法聯繫到其著作權利人。此一標示與孤兒著作標示 InC-OW-EU 不會併行存在，在歐盟領域若文化素材可被認定為孤兒著作，則應依 2012/28/EU 號法律指令，將其標示為 InC-OW-EU，但在其他未建立孤兒著作彈性利用機制的國家，則可將這些孤兒狀態的著作，列入 InC-RUU 分項下。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;二、素材已不受著作權利保護 (Statements for works that are not in copyright)&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;6. 著作權利沒有-契約條件限制 (NO COPYRIGHT - CONTRACTUAL RESTRICTIONS)：NoC-CR 指示該素材原件於著作財產權的層次，已不再受到保護而進入到公眾領域，然而該素材的提供機構，於其數位重製格式上另加上契約性的限制條款，此種狀況舉例來說，提供機構可能基於類似我國的文化資產保存法，對該素材原件具有特別監製或其他管理地位，需要注意的是，使用該標示須明確提供限制利用條款的網頁連結，以供使用者進一步了解相關細節。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;7. 著作權利沒有-僅供非商業目的使用 (NO COPYRIGHT - NON-COMMERCIAL USE ONLY)：NoC-NC 指示該素材之數位重製格式雖位於公眾領域，然製作之初可能基於公私部門協力的契約關係，在一定期間之內不能逕行提供商業目的之使用，例如歐洲部份圖書館與 Google 在公眾領域館藏數位化的合作案，其成果部份即採此一模式進行公眾提供，但限定非商業性使用之目的，以相當程度保障 Google 提供技術、資財建置該數位資料庫的必要利益，此一權利標示可視為前一細項 NoC-CR 之變體。&lt;/p&gt;
+
+&lt;p&gt;8. 著作權利沒有-使用可能受其他法律限制 (NO COPYRIGHT - OTHER KNOWN LEGAL RESTRICTIONS)：NoC-OKLR 指示該素材之數位重製格式已位於公眾領域，然而是否能夠符合特定目的之利用，仍須評估其他相關法律之限制，例如文化資產保存、傳統文化表達 (Traditional cultural expression) 等相關法律。舉例來說，我國近年修訂通過的「原住民族傳統智慧創作保護條例」即為此類相關法律。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;9. 著作權利沒有-美國聯邦著作 (NO COPYRIGHT - UNITED STATES)：美國著作權法於其 105 條有個獨特設計，其律定美國聯邦政府所產出的所有作品，皆不受著作權利的保護，而能夠被不特定國民，自由的重製、散布、改作、公開展示。然而，基於智慧財產權領域的國際互惠原則，美國聯邦政府的作品對其國民不得主張著作權利的保護，不代表這些作品對其他國家的國民，也必然進入了使用上不受限制的公眾領域。故而 NoC-US 指示該素材為美國聯邦政府特別屬性之作品，美國國民在利用上不受著作權利限制，但在其他司法管轄領域仍需例外進行判斷。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;三、素材著作權利狀態未明 (Statements for works where the copyright status is unclear)&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;10. 著作權利不清-未經實質評估 (COPYRIGHT NOT EVALUATED)：CNE 指示該素材的著作權利狀態未明，且基本上仍未經任何合理流程的評估。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;11. 著作權利不清-重要評量要素未明 (COPYRIGHT UNDETERMINED)：UND 指示該素材的著作權利狀態未明，但館藏機構已盡合理流程進行評估，但當前進度是欠缺重要決定因素的確認，故暫時仍以未明來進行標示。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;12. 著作權利不清-無已知著作權利限制 (NO KNOWN COPYRIGHT)：NKC 指示該素材的著作權利狀態未明，館藏機構已盡合理流程進行評估，始終欠缺重要決定因素的確認，然亦有相當理由可推論其已逾著作權利保護期間，故以「無已知著作權利限制」之字句進行標示，此一權利狀態標示的著例，有 Flickr 進行有年，並得到相當數量文化館藏機構參與的公眾相簿計畫。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【Rights Statements 與創用CC 授權條款及相關宣告的競合關係】&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;
+&amp;nbsp;&lt;br /&gt;
+Rights Statements 和既存的公眾散布機制，是處於相輔相乘、互相填補的定位，進一步來說，Rights Statements 並沒有創設任何新的授權條款或權利宣告模組，它僅是在既成的架構下，疏導特色相近的授權模式能被統合分類，以讓使用者在瀏覽相關數位素材時，能收一目了然、快速領略其基礎使用狀態之效。故其白皮書裡明白表示，在「素材仍受著作權利保護」的分類，若館藏機構已就素材進行妥善盤點，則建議採用符合個案管理政策的創用CC 授權條款來釋出這些素材；而在「素材已不受著作權利保護」的分類，當素材在盤點過後很清楚已置於公眾領域，且無其他不必要的契約與相關法律限制利用，則應逕以公眾領域標章 (Public Domain Mark, PDM) 或公眾領域貢獻宣告 (CC0) 來進行散布，唯有在無法完全依照 PDM 或 CC0 散布時，才去額外以 Rights Statements，提醒使用者必須進一步知悉該素材額外受到限制的利用狀態；最後在「素材著作權利狀態未明」的分類，亦有論者指出，若是權利狀態未明，為何要逕行進行公眾披露？但從務實面與積極面而言，進行公開披露亦可視為透過公眾協力舉報、回報的模式，來協助託管藏品之文化機構，能夠進一步確認該素材的權利狀態，所以未經評估、要素未明，以及無已知著作權利限制，其實有其未明狀態的時序階段與差異，從未評、未明，到無已知限制，最後在相關期間未有異議，或群眾協助提供重要決定因素可供確認之後，則有機會正式讓該素材，得以被採公眾領域標章進行標示。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;基本上，Rights Statements 這三大分類、十二細項的文化館藏權利標示的模式，在我國亦多能被直接適用，在統合各個文化館藏自訂提供模式讓公眾了解的面向，更具有他山之石，可以攻錯的參考價值。且就現行普遍流通的創用CC 授權條款及其他公眾授權條款，得收相互輔助之效。唯有美國聯邦著作 - NoC-US 的標示，於我國著作權法框架上並無對應機制，除此之外，孤兒著作 - InC-OW 此一標示，亦有機會略加調整之後，改為適用近年新修訂之文化創意產業發展法，在二十四條項下提存使用報酬後經專責機關許可授權使用之配套。且其於權利盤點上揭示的分階機制，亦相當程度有助於文化館藏機構，據以學習先採輕簡盤點後進行素材公開披露，後續再集中資源釐清重要專案的權利狀態，以妥善文化素材開放授權的後續舉措，並收積極施政令民眾有感之效。&amp;nbsp;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Rightsstatements.org White Paper - Recommendations for Standardized International Rights Statements: &lt;a href=&quot;http://rightsstatements.org/files/160208recommendations_for_standardized_international_rights_statements_v1.1.pdf&quot; target=&quot;_blank&quot;&gt;http://rightsstatements.org/files/160208recommendations_for_standardized_international_rights_statements_v1.1.pdf&lt;/a&gt;, 2015 International Rights Statements Working Group, CC0-1.0.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Rightsstatements.org White Paper - Requirements for the Technical Infrastructure for Standardized International Rights Statements: &lt;a href=&quot;http://rightsstatements.org/files/160322requirements_for_the_technical_infrastructure_for_standardized_international_rights_statements_v1.1.pdf&quot; target=&quot;_blank&quot;&gt;http://rightsstatements.org/files/160322requirements_for_the_technical_infrastructure_for_standardized_international_rights_statements_v1.1.pdf&lt;/a&gt;, 2015 International Rights Statements Working Group, CC0-1.0.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;The Directive on the re-use of public sector information (Directive 2013/37/EU): &lt;a href=&quot;https://ec.europa.eu/digital-single-market/en/european-legislation-reuse-public-sector-information&quot; target=&quot;_blank&quot;&gt;https://ec.europa.eu/digital-single-market/en/european-legislation-reuse-public-sector-information&lt;/a&gt;, 2013 European Parliament and European Council.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Due Diligence, Futile Effort: Copyright and the Digitization of the Thomas E. Watson Papers: &lt;a href=&quot;http://americanarchivist.org/doi/pdf/10.17723/aarc.73.2.16rh811120280434&quot; target=&quot;_blank&quot;&gt;http://americanarchivist.org/doi/pdf/10.17723/aarc.73.2.16rh811120280434&lt;/a&gt;, 2010 Maggie Dickson.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;DPLA Licenses: &lt;a href=&quot;http://www.deanfarr.com/viz/rights.php&quot; target=&quot;_blank&quot;&gt;http://www.deanfarr.com/viz/rights.php&lt;/a&gt;.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Copyright Law of the United States of America, § 105. Subject matter of copyright: United States Government works: &lt;a href=&quot;http://www.copyright.gov/title17/92chap1.html#105&quot; target=&quot;_blank&quot;&gt;http://www.copyright.gov/title17/92chap1.html#105&lt;/a&gt;.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Flickr 公眾相簿計畫：&lt;a href=&quot;https://www.flickr.com/commons/usage/&quot; target=&quot;_blank&quot;&gt;https://www.flickr.com/commons/usage/&lt;/a&gt;。&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;文化創意產業發展法第 24 條：&lt;a href=&quot;http://law.moj.gov.tw/LawClass/LawSingle.aspx?Pcode=H0170075&amp;amp;FLNO=24&quot; target=&quot;_blank&quot;&gt;http://law.moj.gov.tw/LawClass/LawSingle.aspx?Pcode=H0170075&amp;amp;FLNO=24&lt;/a&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 06 Dec 2016 10:54:45 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1245 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20161206#comments</comments>
+</item>
+<item>
+ <title>他山之石 - rightsstatements.org 對開放文化館藏的啟發與探討（上）</title>
+ <link>https://creativecommons.tw/blog/20161205</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/20161205.png?itok=DNqol-mL&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;em&gt;Three Categories of Rights Statements at: &lt;a href=&quot;http://rightsstatements.org&quot; target=&quot;_blank&quot;&gt;rightsstatements.org&lt;/a&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;文化館藏基礎權利標示 (RightsStatements.org) 是一個由歐洲數位典藏平台 - Europeana Collections 與美國數位公眾圖書館 (Digital Public Library of America ,DPLA) 共同發起的協力專案，該專案目前由 Knight Foundation 及歐洲執行委員會 (European Commission) 共同浥注資金，建置與討論過程裡，也廣邀創用CC 總部與全球合作網絡的主要成員參與提供意見。此一文化館藏權利標示套件的主要建置目的，在於協助跨界跨域的美術館、圖書館、檔案館，以及博物館，能以最淺顯方便的標示模式，來述明自身數位館藏最基礎的權利狀態，從而便利、加速該數位素材的流通與被使用。簡要來說，Rights Statements 主要的服務對象，便是 Europeana 與 DPLA，這般會群聚各方數位文化素材的託管平台，因相關素材的貢獻者來自四面八方，其來源皆各有本來的授權配置，故若能統一以標準化、簡單化，並且輔以鍵結技術為索引基礎的 Rights Statements 來進行表述，便能相當程度強化文化館藏數位化分享上的深度與廣度。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【深度權利盤點曠日費時且不具全面執行性】&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;拜近年數位化科技進步之賜，許多美術館、圖書館、檔案館與博物館，得以逐步將其典藏素材進行數位化重製，以探究採遠端、彈性方式，提供是類素材能被便利欣賞或使用的可行性。而在歐洲的發展，因應歐盟公部門資訊再利用指令 (Directive 2013/37/EU) 於 2013 年的增補與修改，公部門資訊再利用的適用對象，已擴張到公有或公資營運的圖書館（包含大學裡設置之圖書館）、博物館，以及檔案館所典藏之文物，其諭令這些機構的數位化典藏素材，也應盡量以活化應用方式提供予公眾使用，然而，開放公務文化館藏的數位化運用，首當其衝必須解決的法律議題，就是權利盤點的實踐及其後的決策，爭議之處在於許多具歷史性的典藏文物，其依著作權法的基本預設，權利狀態應已進入眾人皆可不受限制利用的公眾領域 (Public Domain)，然而也正因為年代久遠，若缺乏直接證據或得以準據的捐獻文件，要確認此一狀態亦是充滿了不確定性，且全面盤點過程高度耗費人力、時間等相關資源，從而在預算相對受限的情況下，期待公務文化館藏機構，皆能於短期內進行收納文物全面的深度盤點，並不具有可執行性。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【公開披露不全然等價於開放提供】&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;簡要來說，Rights Statements 此一權利標示的實踐基礎，在於依照各國著作權法的預設框架，公開展示的素材並不代表其權利人已採開放式授權，將此素材提供予瀏覽者使用，事實上當代的著作權法擴充了許多著作權利的態樣，舉凡我國著作權法列示的重製、散布、出租、改作、公開口述、公開播送、公開上映、公開演出、公開傳輸、公開展示，皆為獨立、切割，具專屬於著作財產權利人的權利態樣，而再依著作權讓與約定不明之部分，推定為未讓與，著作權授權約定不明之部分，推定為未授權之原則，館藏機構於具公開性之網際網路披露其數位藏品時，亦不表示這些素材皆已容許公眾自行下載或得進行深度化利用。從而公開與開放之間，具有相當可操作的彈性空間，館藏機構若在政策上同意將數位藏品先行公開上網，當有助於文化素材提升曝光度，此時在僅供公開瀏覽的權利盤點上之舉措，可輔以要項式的初階處理，在清簡人力、時間等資源的前提下，以 Rights Statements 標準化的模組，就素材的基礎權利狀態簡要述明，而若上級機關構或社會大眾對於特定館藏，提出開放式提供深度利用之具體訴求，後續再撥付必要的資源進行細節的權利盤點，在驗證其權利狀態並取得確信之後，為這些特定的素材，標示相應的開放式授權條款進行公眾釋出。此種作法的優點在於，初階權利盤點所需耗費的相關資源較少，有利於數位館藏素材能被有效率的披露，進而提昇、啟發閱覽群眾的文化創作能力，而要處理的著作權利態樣，可聚焦於公開傳輸與公開展示，必要時亦得權衡以低解析度模式先行提供，以兼容合理使用情境來降低公開披露的法律爭議。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【Rights Statements 並非創用CC 授權條款或其他權利貢獻宣告之替代品】&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;嚴格來說，Rights Statements 並不是創用CC 授權條款，或公眾領域標章 (Public Domain Mark)、公眾領域貢獻宣告 (CC0) 等任何一款權利宣告文件的替代品，就其設立的自我定位來說，Rights Statements 和既存的公眾散布機制，是處於相輔相乘、互相填補的定位。也就是說，依 Rights Statements 分門別類進行的這十二款權利態樣，其自我設限於基礎標示的定位，以創用CC 授權條款來比擬解說，Rights Statements 僅羅列這十二款基礎權利標示的權利標章 (common deed)，而並沒有產生對應的授權條款法律文字 (legal code)，應該說，這些 Rights Statements 羅列的個別標章，同一標章背後可能指向同一份授權法律文字，或相近的授權法律文字，這是因為 Rights Statements 設立的最主要目的，在於解決公務美術館、圖書館、檔案館與博物館，其數位藏品提供利用的授權狀態分殊，而不利於彼此交流的困境，舉 DPLA 的實證調查為例，提供素材供其作網路公開披露的機關、組織，綜合使用了近 87,000 份以上不同的權利標示來貢獻藏品，這些權利標示背後還依附有內容差異性更高的法律文件，這讓 DPLA 這樣的託管平台宥於人力，已無法對素材的權利狀態進行有效管理，故而 Rights Statements，並無意跨越或取代相關素材原始的授權法律文件，僅是導引其能夠依原始法律文件的授權特性，百川匯流到十二款主要的支流，從而讓使用者閱覽到限定十二款的基礎權利標示時，便對其可能的被利用狀態有所認識。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Rightsstatements.org White Paper - Recommendations for Standardized International Rights Statements: &lt;a href=&quot;http://rightsstatements.org/files/160208recommendations_for_standardized_international_rights_statements_v1.1.pdf&quot; target=&quot;_blank&quot;&gt;http://rightsstatements.org/files/160208recommendations_for_standardized_international_rights_statements_v1.1.pdf&lt;/a&gt;, 2015 International Rights Statements Working Group, CC0-1.0.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Rightsstatements.org White Paper - Requirements for the Technical Infrastructure for Standardized International Rights Statements: &lt;a href=&quot;http://rightsstatements.org/files/160322requirements_for_the_technical_infrastructure_for_standardized_international_rights_statements_v1.1.pdf&quot; target=&quot;_blank&quot;&gt;http://rightsstatements.org/files/160322requirements_for_the_technical_infrastructure_for_standardized_international_rights_statements_v1.1.pdf&lt;/a&gt;, 2015 International Rights Statements Working Group, CC0-1.0.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;The Directive on the re-use of public sector information (Directive 2013/37/EU): &lt;a href=&quot;https://ec.europa.eu/digital-single-market/en/european-legislation-reuse-public-sector-information&quot; target=&quot;_blank&quot;&gt;https://ec.europa.eu/digital-single-market/en/european-legislation-reuse-public-sector-information&lt;/a&gt;, 2013 European Parliament and European Council.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Due Diligence, Futile Effort: Copyright and the Digitization of the Thomas E. Watson Papers: &lt;a href=&quot;http://americanarchivist.org/doi/pdf/10.17723/aarc.73.2.16rh811120280434&quot; target=&quot;_blank&quot;&gt;http://americanarchivist.org/doi/pdf/10.17723/aarc.73.2.16rh811120280434&lt;/a&gt;, 2010 Maggie Dickson.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;DPLA Licenses: &lt;a href=&quot;http://www.deanfarr.com/viz/rights.php&quot; target=&quot;_blank&quot;&gt;http://www.deanfarr.com/viz/rights.php&lt;/a&gt;.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Copyright Law of the United States of America, § 105. Subject matter of copyright: United States Government works: &lt;a href=&quot;http://www.copyright.gov/title17/92chap1.html#105&quot; target=&quot;_blank&quot;&gt;http://www.copyright.gov/title17/92chap1.html#105&lt;/a&gt;.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Flickr 公眾相簿計畫：&lt;a href=&quot;https://www.flickr.com/commons/usage/&quot; target=&quot;_blank&quot;&gt;https://www.flickr.com/commons/usage/&lt;/a&gt;。&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;文化創意產業發展法第 24 條：&lt;a href=&quot;http://law.moj.gov.tw/LawClass/LawSingle.aspx?Pcode=H0170075&amp;amp;FLNO=24&quot; target=&quot;_blank&quot;&gt;http://law.moj.gov.tw/LawClass/LawSingle.aspx?Pcode=H0170075&amp;amp;FLNO=24&lt;/a&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Dec 2016 10:47:05 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1244 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20161205#comments</comments>
+</item>
+<item>
+ <title>已經置於公眾領域的作品還能發動司法救濟嗎？ - 公眾授權討論系列（四）</title>
+ <link>https://creativecommons.tw/blog/20161130</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/04152v.jpg?itok=lYoVujcy&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;em&gt;This photo by Carol Highsmith shows shuttlecock sculptures designed by Claes Oldenburg and Coosje van Bruggen on the lawn of the Nelson-Atkins Museum of Art in Kansas City, Mo.: &lt;a href=&quot;https://www.loc.gov/item/2010630148/&quot; target=&quot;_blank&quot;&gt;https://www.loc.gov/item/2010630148/&lt;/a&gt;, 2009 Carol Highsmith, No known restrictions on publication.&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;公眾領域 (Public Domain)，一般用來指稱已經不受到著作財產權利保護的著作。原則上各國著作權法，對於著作財產權的保護期間皆設有限制，當保護期間已經屆滿，該著作財產權利就不再受到著作權法保護，此時便流入公眾領域。也就是說，公眾領域裡的著作，任何人都可以自由使用。一般來說，流入公眾領域的作品，概念上是因為年代久遠而不再受到保護，然而亦有部份的著作權利人，會在保護期間屆滿前，主動依照 CC0 - 公眾領域貢獻宣告，或其他類似的聲明，宣布其拋棄對自己著作的利益，而讓這些作品提早進入眾人皆可自由利用的公眾領域，而若原作者已經做這樣的聲明，後續有非原作者的其他人，聲稱這些作品都是其私人的著作，轉而向該公眾領域作品的利用人索取授權金額，原作者還能對這樣的錯置行為展開司法救濟嗎？&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【Carol M. Highsmith v. Getty Images (US), INC. 一案的劇情發展】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Carol M. Highsmith 女士是美國知名的攝影家，目前年歲已長，從 1988 年開始，其逐年分次提供自己拍攝的照片予美國國會圖書館 (United States Library of Congress)，累積逾萬幅以上，並向國會圖書館言明這些照片可以提供給所有人使用，只要使用者為原作者標註相當的名譽，並說明來源資訊為美國國會圖書館藏品。後來這些照片在美國國會圖書館的網站上被標註為公眾領域 (Public Domain)，並被自由流通給所有人使用。然而近期，Carol M. Highsmith 收到，來自 Getty Images 這家圖庫授權公司的著作權利侵害警告信，該信函指責 Carol M. Highsmith 在其自行架設的網站上，分享 Getty Images 擁有著作權利的照片，並要求 Carol M. Highsmith 支付一筆為數不小的侵權和解金，此時 Carol M. Highsmith 女士才發現，原來自己提供給美國國會圖書館的照片，出處資訊已被 Getty Images 或其合作廠商移除，並為該公司聲稱為其自己的著作權利，並刻上數位浮水印來向人兜售，甚至透過類似的警告信函，要求其他合法使用自己照片的無辜者，必須償付侵權和解金給 Getty Images 及其商業合作夥伴。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【Carol M. Highsmith 的訴求與 Getty Images 的反應】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Carol M. Highsmith 女士委任律師向美國紐約南區聯邦地區法院 (United States District Court for the Southern District of New York) 提出著作權利侵害的告訴，其於訴狀裡表示，Getty Images 與其合作廠商，以虛偽手法聲稱自己是這些照片的權利擁有者，並進而向使用到這些照片的一般使用者及公司，以威脅式的手段詐取著作權侵權的賠償金，然而這些廠商根本不具這樣的法律地位，故其透過司法訴訟的手段要扼止這樣錯誤且惡意的行為。而後 Getty Images 公開聲稱這是一連串的誤會，他們將主動聯繫 Carol M. Highsmith 來矯正這樣的誤會，並說明其法遵公司 (License Compliance Services, LCS) 是受到合作廠商 Alamy 公司的委託來維護這批照片的權利，在 Carol M. Highsmith 回應該批照片為其自行拍攝之後，LCS 也已告知 Alamy 公司他們不會再進行這樣的請求。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【已經將作品置於公眾領域的原作者還剩下什麼請求權基礎？】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;此爭訴案最大的討論點在於，已經將作品置於公眾領域的原作者還剩下什麼請求權基礎？在 Carol M. Highsmith 委任律師提出的訴狀裡，其表示該批照片 Carol M. Highsmith 應該仍然擁有著作權利，因 Carol M. Highsmith 將照片提供給美國國會圖書館時，雖同意照片可以不受限制提供所有人利用，但仍要為原作者標註名譽 (with proper accreditation)，故從其立場，在那個還沒有創用CC 授權條款得以運用的年代，這其實就是最基礎「姓名標示 (attribution)」的授權要求與義務性規範。然而，美國國會圖書館在這些照片的釋出網頁上，曾有部份資訊將其標註為公眾領域，所以若採取照片已然進入公眾領域的立場，Carol M. Highsmith 訴請援引美國著作權法第 1202 條及 1203 條，對原作者著作權利資訊正確性的延伸保護，來主張對 Getty Images 及其合作廠商課予民事賠償責任。美國著作權法第 1202 條：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;u&gt;&lt;em&gt;(a) 項規定，不得明知並有意的提供錯誤著作權利管理資訊 (copyright management information)，或散布或輸入錯誤著作權利管理資訊供散布，以引發、導致、促成，或掩蓋著作權利侵權。&lt;/em&gt;&lt;/u&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;u&gt;&lt;em&gt;(b) 項規定，未經法律或著作權利人之許可，不得故意移除或修改任何著作權利資訊，或散布前列不當被移除或修改的著作權利資訊，或散布、公開演播前列不當被移除或修改著作權利資訊的作品。&lt;/em&gt;&lt;/u&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;em&gt;明知或合理應知其行為將依本條引發、導致、促成，或掩蓋著作權利侵權者，可依同法 1203 條被課予民事賠償責任。&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;附帶一提，依照我國著作權法，於第 80-1 條項下，亦條列了相關規定：「著作權人所為之權利管理電子資訊，不得移除或變更；明知著作權利管理電子資訊，業經非法移除或變更者，不得散布或意圖散布而輸入或持有該著作原件或其重製物，亦不得公開播送、公開演出或公開傳輸。」&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【爭議的發展與利用公眾領域素材的標示建議】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;不過，依照 Getty Images 委任律師向美國紐約南區聯邦地區法院提出的不受理聲請，Getty Images 主要的辯解理由是，該批照片經 Carol M. Highsmith 聲明貢獻至公眾領域後，便不當再有「著作權利資訊」保護的適格，因著作權利資訊是用來維護著作權利人相關權利資訊，才有不得被變更與維持的必要性。而早先於美國加州南區聯邦地區法院 (United States District Court for the Southern District of California) 審理的 Stevens v. CoreLogic, Inc. 一案，也裁示非故意移除他人作品裡的著作權利資訊，並不該當 1202 條及 1203 條所能導致的民事賠償。然而，多數論者目前認為這樣的聲明並不能在體系解釋上過關，首先，依照歐洲議會專案補助設立，提倡與擴大公眾領域近用與再利用的國際合作網絡 - COMMUNIA 的政策宣言，任何對公眾領域素材權利狀態的錯誤與誤導標示都應視為違法，故意聲稱公眾領域素材為其專有權利的舉動必須被制裁，因此類行為雖表面上沒有侵害特定著作權利人，但反過來說卻是侵害了社會大眾的公共利益，因公眾領域素材的成果本就應歸於公眾所享有，惡意的妨害這個狀態應該要被法律相應的課責。再者，就「散布或輸入錯誤著作權利管理資訊供散布」此一行為，Getty Images 在過去三年已數次因此涉訟，甚至形成慣犯，故其要援引 Stevens v. CoreLogic, Inc. 一案的法律見解，聲明其為「非故意」移除他人作品裡的著作權利資訊，對承審法官恐怕缺乏太高的說明力，故 Carol M. Highsmith 的委任律師在核算損害後，具狀向 Getty Images 要求約 46,887,500 美金的賠償金，並建請法院能核可三倍約 10 億美金的數額，換算過來約為新台幣 320 億之譜。&lt;/p&gt;
+
+&lt;p&gt;不論此案最後是否真能如 Carol M. Highsmith 律師提出的訴求，獲償鉅額的損害賠償金，然透露出來的訊息是，已進入公眾領域的素材，確實可以被拿來進行再次創作，而再次創作的成果，也能被再創作者聲明為一個新的著作權客體，並受到著作權法的保護。然而，若並未進行再次創作，則原作的相關資訊聲明，建議盡量以徵而可信的方式，予以保留和尊重，以讓公眾領域的素材，能在法律預設與期許的狀態下，為多數公眾所共享，而不致被少數商業公司故植或誤植錯誤的權利管理資訊，反過來向合法利用這些素材、作品的使用者，索取不當的授權費用。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Photographer Sues Getty Images For $1 Billion For Claiming Copyright On Photos She Donated To The Public: &lt;a href=&quot;https://www.techdirt.com/articles/20160727/11243335088/photographer-sues-getty-images-1-billion-claiming-copyright-photos-she-donated-to-public.shtml&quot; target=&quot;_blank&quot;&gt;https://www.techdirt.com/articles/20160727/11243335088/photographer-sues-getty-images-1-billion-claiming-copyright-photos-she-donated-to-public.shtml&lt;/a&gt;, 2016 Mike Masnick.&lt;/li&gt;
+	&lt;li&gt;Getty Makes Nonsensical Statement On Photographer Carol Highsmith&#039;s Lawsuit For Falsely Claiming Copyright: &lt;a href=&quot;https://www.techdirt.com/articles/20160729/13362135105/getty-makes-nonsensical-statement-photographer-carol-highsmiths-lawsuit-falsely-claiming-copyright.shtml&quot; target=&quot;_blank&quot;&gt;https://www.techdirt.com/articles/20160729/13362135105/getty-makes-nonsensical-statement-photographer-carol-highsmiths-lawsuit-falsely-claiming-copyright.shtml&lt;/a&gt;, 2016 Mike Masnick.&lt;/li&gt;
+	&lt;li&gt;Statement regarding Highsmith claim: &lt;a href=&quot;http://press.gettyimages.com/statement-regarding-highsmith-claim/,&quot; target=&quot;_blank&quot;&gt;http://press.gettyimages.com/statement-regarding-highsmith-claim/,&lt;/a&gt; 2016 gettyimages.&lt;/li&gt;
+	&lt;li&gt;Stevens v. Corelogic, Inc.: Automated Metadata Scrubbing Does Not Violate CMI Provisions of the DMCA: &lt;a href=&quot;http://blog.digitalmedialicensing.org/?p=3447&quot; target=&quot;_blank&quot;&gt;http://blog.digitalmedialicensing.org/?p=3447&lt;/a&gt;, 2016 Scott Sholder &amp;amp; Sydney Kipen; Cowan, DeBaets, Abrahams &amp;amp; Sheppard LLP.&lt;/li&gt;
+	&lt;li&gt;Carol M. Highsmith v. Getty Images (US), INC., COMPLAINT: &lt;a href=&quot;https://assets.documentcloud.org/documents/2999429/Highsmith-v-Getty-Images.pdf&quot; target=&quot;_blank&quot;&gt;https://assets.documentcloud.org/documents/2999429/Highsmith-v-Getty-Images.pdf&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;Carol M. Highsmith v. Getty Images (US), INC., MOTION TO DISMISS: &lt;a href=&quot;https://www.plagiarismtoday.com/wp-content/uploads/2016/09/Getty-Highsmith.pdf&quot; target=&quot;_blank&quot;&gt;https://www.plagiarismtoday.com/wp-content/uploads/2016/09/Getty-Highsmith.pdf&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;COMMUNIA Policy Recommendations: &lt;a href=&quot;http://www.communia-association.org/recommendations/&quot; target=&quot;_blank&quot;&gt;http://www.communia-association.org/recommendations/&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;17 U.S.C. § 1202: &lt;a href=&quot;https://www.copyright.gov/title17/92chap12.html&quot; target=&quot;_blank&quot;&gt;https://www.copyright.gov/title17/92chap12.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Highsmith (Carol M.) Archive at US Library of Congress website: &lt;a href=&quot;http://www.loc.gov/pictures/collection/highsm/&quot; target=&quot;_blank&quot;&gt;http://www.loc.gov/pictures/collection/highsm/&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;著作權法第 80-1 條：&lt;a href=&quot;http://law.moj.gov.tw/LawClass/LawSingle.aspx?Pcode=J0070017&amp;amp;FLNO=80-1&quot; target=&quot;_blank&quot;&gt;http://law.moj.gov.tw/LawClass/LawSingle.aspx?Pcode=J0070017&amp;amp;FLNO=80-1&lt;/a&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 30 Nov 2016 15:59:54 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1241 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20161130#comments</comments>
+</item>
+<item>
+ <title>為什麼美國政府要用 CC0 來拋棄其資料集與軟體專案的著作權利？ - 公眾授權討論系列（三）</title>
+ <link>https://creativecommons.tw/blog/2016112802</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/20161115.png?itok=HovCs6CK&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;New Trademark App Open Source Code on Github: &lt;a href=&quot;https://content.govdelivery.com/accounts/USPTO/bulletins/172b0eb&quot; target=&quot;_blank&quot;&gt;https://content.govdelivery.com/accounts/USPTO/bulletins/172b0eb&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;因應美國聯邦資訊長 Tony Scott 在 2016 年 8 月公布的「聯邦程式開源政策 (Federal Source Code Policy)」，及配合白宮開放政府促進專案 (Open Government Initiative) 的施政舉措，美國專利及商標局 (United States Patent and Trademark Office, USPTO)，近期將其提供民眾查詢商標及追蹤商標狀態的應用程式 APP 給開放源碼，並置於 GitHub 託管平台上供人下載，所使用的授權條款，嚴格來說並不是授權條款，因為已無任何授權行為產生，究其要理，是在法律容許最大限度內將著作財產權利拋棄的「CC0 公眾領域貢獻宣告 (CC0 Public Domain Dedication)」；其實，這並不是美國聯邦機關構首次採用 CC0 來拋棄素材的著作權利，早在 2014 年美國聯邦政府即公開表態，支持適用 CC0 於一些聯邦政府著作，例如美國開放資料行動計畫 (U.S. Open Data Action Plan) 的相關文件，皆以 CC0 的方式發布。&lt;/p&gt;
+
+&lt;p&gt;所謂 CC0，是讓科學家、教育工作者、藝術家、其他創作者及著作權人，或內容受資料庫特別權保護的權利人等，拋棄他們對各自著作的財產權利，並盡可能將這些著作釋出到公眾領域 (Public Domain)，讓其他人可以任何目的自由地以該著作為基礎，從事創作、提升或再使用等行為，而不再受到著作權或是資料庫相關法律的限制。故美國聯邦政府下個別機關構的這些舉措，也引發了相當的討論和疑惑，而究竟為什麼美國聯邦政府，要用 CC0 來拋棄其資料集與軟體專案的相關著作權利？&lt;/p&gt;
+
+&lt;p&gt;其實，美國聯邦政府的作品，依其著作權法第 105 條，必須適用一個獨特設計，該條規定美國聯邦政府產出之作品，並不能受到著作權利的保護，故能夠在最大容許範圍內，供不特定多數人皆可自由利用，包括重製、散布、改作、公開演播等面向。然而，同法亦規定，若該作品是透過委任或其他法律關係，之後再轉讓、贈予，而讓美國聯邦政府成為著作權利特有者，則已非此條規定的涵攝範圍。再者，基於智慧財產權領域的國際互惠原則，美國聯邦政府的作品對其國民不得主張著作權利的保護，不代表對其他國家的國民，也直接作一樣狀況的解讀，因其他國家的政府作品，並沒有拋棄其對自國國民著作權利的主張，也就是說，互惠原則沒辦法保障美國國民，亦可不受限制近用他國政府的作品，故基於互惠衡平的立場，美國聯邦政府的作品，並不直接能為他國國民自由使用。&lt;/p&gt;
+
+&lt;p&gt;Tony Scott 於 2016 年 8 月 8 日發布的「聯邦程式開源政策」時，便是採取上述觀點，認為聯邦政府產出的程式源碼，雖在國內已近於公眾領域，但此除外規定並不能直接全球適用，故個別專案的執事者，便依其偏好，主動選擇適合的自由開放源碼授權 (Free and Open Source Software Licenses)，將相關程式源碼釋出，以利這些程式源碼可以在不產生疑慮的狀況下全球流通。但這樣的處理方式，也就代表個別美國聯邦政府持有的開源專案，是以政府本身擁有著作權利的角度來自我看待，從而才有地位擇用自由開放源碼授權來散布軟體，這般的解讀方式，也引發部份論者的批評，因若程式專案本身確實是由美國聯邦政府直接聘僱人員所撰寫，則回到其著作權法第 105 條的原始規定，美國聯邦政府不得主張任何著作權利，從而亦無立場，將其添加使用限制之後，採自由開放源碼授權提供予自己國人。&lt;/p&gt;
+
+&lt;p&gt;故而部份專案的處理方式，就是類同 USPTO，將所釋出的程式源碼或其他素材，標示以 CC0 進行公眾領域貢獻的宣告，以消弭所有可能產生的爭議。雖然從嚴格法律分析來看，要將自身持有的素材以 CC0 貢獻，前提是宣告者必須先擁有著作財產權利，然而 CC0 已經是法律上最接近跨國跨界公眾領域狀態的宣告，故在許多的狀況下，其便成為多方意見爭議者，所能共同接受的權衡方案。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;「公眾領域貢獻宣告」（CC0）: &lt;a href=&quot;http://creativecommons.tw/cc0&quot; target=&quot;_blank&quot;&gt;http://creativecommons.tw/cc0&lt;/a&gt;。&lt;/li&gt;
+	&lt;li&gt;白宮支持運用CC0於聯邦政府資料集: &lt;a href=&quot;http://creativecommons.tw/blog/20141001&quot; target=&quot;_blank&quot;&gt;http://creativecommons.tw/blog/20141001&lt;/a&gt;，2014 劉芊影/編譯，CC BY-SA 3.0 TW。&lt;/li&gt;
+	&lt;li&gt;White House supports CC0 for federal government datasets: &lt;a href=&quot;https://creativecommons.org/2014/05/09/white-house-supports-cc0-for-federal-government-datasets/&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/2014/05/09/white-house-supports-cc0-for-federal-government-datasets/&lt;/a&gt;, 2014 Timothy Vollmer, CC BY 4.0.&lt;/li&gt;
+	&lt;li&gt;New Trademark App Open Source Code on Github: &lt;a href=&quot;https://content.govdelivery.com/accounts/USPTO/bulletins/172b0eb&quot; target=&quot;_blank&quot;&gt;https://content.govdelivery.com/accounts/USPTO/bulletins/172b0eb&lt;/a&gt;, 2016 United States Patent and Trademark Office.&lt;/li&gt;
+	&lt;li&gt;Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software: &lt;a href=&quot;https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf&quot; target=&quot;_blank&quot;&gt;https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf&lt;/a&gt;, 2016 United States Chief Information Officer.&lt;/li&gt;
+	&lt;li&gt;USPTO/TrademarkStatusApp: &lt;a href=&quot;https://github.com/USPTO/TrademarkStatusApp&quot; target=&quot;_blank&quot;&gt;https://github.com/USPTO/TrademarkStatusApp&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Open Government Initiative: &lt;a href=&quot;https://www.whitehouse.gov/open&quot; target=&quot;_blank&quot;&gt;https://www.whitehouse.gov/open&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Copyright Law of the United States of America, § 105. Subject matter of copyright: United States Government works: &lt;a href=&quot;http://www.copyright.gov/title17/92chap1.html#105&quot; target=&quot;_blank&quot;&gt;http://www.copyright.gov/title17/92chap1.html#105&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 27 Nov 2016 17:09:13 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1238 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/2016112802#comments</comments>
+</item>
+<item>
+ <title>CC0 法律條款中譯已近定稿：即日起歡迎大家貢獻您的評論！</title>
+ <link>https://creativecommons.tw/blog/20160214</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/sites/creativecommons.tw/files/imagecache/blog-img/Creative%20Commons%20CC0%201.0%20%E9%80%9A%E7%94%A8%20-%20%E8%AB%8BAlly%E5%B9%AB%E5%BF%99%E4%B8%8A%E5%9C%96.png&quot; style=&quot;height:400px; width:700px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;台灣創用CC 計畫協助進行的 CC0 1.0 Universal（CC0 1.0 通用）公眾領域貢獻宣告，已到了緊鑼密鼓的確認階段，即日起自 2016 年 2 月 15 日開始，進入了為期一個月的公眾評論期 (public comments period)。CC0 是一個非常重要的法律工具，可以協助著作權人，或內容受資料庫保護的權利人等，拋棄他們對各自著作的利益，並盡可能將這些著作釋出到公眾領域 (public domain)，讓其他人可以任何目的自由地以該著作為基礎，從事創作、提升或再使用等行為，而不受著作權或是資料庫相關法律的限制。非常歡迎有意願提出您反饋與修正意見的朋友，可以協助閱覽右列連結提供的&amp;nbsp; CC0 法律條款 (Legal Code) 中英對照全文草稿：&lt;a href=&quot;http://creativecommons.tw/draft.cc0&quot; target=&quot;_blank&quot;&gt;http://creativecommons.tw/draft.cc0&lt;/a&gt;，或透過本文附件下載其純文字檔，在閱覽之後將您寶貴的想法透過電子郵件，在信件標題上標註[cc0-draft]作為識別之後，投遞到 legal@creativecommons.tw 給我們！&lt;/p&gt;
+
+&lt;p&gt;事實上，近代不少的公眾授權條款 (General Public License)，包括 GPL-3.0、MPL-2.0、還有創用CC 授權條款 (Creative Commons Licenses)，因為要形塑一個公眾皆可分享、公眾皆可取用的開放氛圍，除了協作專案本身是以公眾參與的方式來進行，就連規劃協作成果應當如何互助分享的授權條款，也多是盡量以讓公眾能夠參與的模式來編撰與更新！進一步來說，公眾授權條款其使用者，就是廣大的大眾協作參與群眾，故相關授權規範在制定與討論之初，如果能夠適時、適份的導入公眾的評論與力量，那未來所建立出來的協力模式，將會是最為穩健而能夠聚集最大共識的成果。&lt;/p&gt;
+
+&lt;p&gt;本次要為大家推出的 CC0 - 公眾領域貢獻宣告，經歷了長時間的確認與討論，主要是 CC組織 (CC headquarters) 與其簽署備忘錄的全球各地團隊 (CC affiliates)，正歷經從本地化 (porting project) 遷移至翻譯化 (translation project) 的合作模式，3.0 版之前的各式 CC 授權條款，為了在各司法管轄區域 (jurisdiction)，以最切合當地法律制度的模式與語言呈現，多會在翻譯進行時，一併進行本地化的法規調適工作，也就是說過去的本地化，並不是單純的翻譯，若有條款內容在各地有窒礙難行或與法律預設規定存有落差時，CC 全球的協力團隊將會在過程中協助修潤部份翻譯文句，並將修潤過的翻譯文句與 CC組織進行討論後確認，以讓各司法管轄區域裡的 CC授權條款，能以最有效的法律文件形式進行散布；然而這樣的作法在 4.0 版之後進行了調整，目前的觀點是，CC 各式的授權與宣告文件，盡量在編撰之時就以白話淺顯的方式來行文，以避免落入既定法律框架的窠臼與限制，故與此種改變相對應的作法，就是逕予對其進行翻譯，而若翻譯的條款在各司法管轄區域裡，與當地法律制度之間存有落差時，再有賴司法審判時由承審法官來做適用幅度的確認。這樣的轉變立場，是著眼於 CC授權條款已漸漸成為具全球通用性的公眾授權條款，其交流的素材常常都有跨地、跨域的性質，故「同中存異 - 通用翻譯條款配合各地解讀」的模式，是目前討論之後確定的最大公約數。&lt;/p&gt;
+
+&lt;p&gt;也因為這樣的原因，CC0 中譯條款裡，將會出現相關權利 (related rights)、鄰接權利 (neighboring rights)、資料庫權利 (database rights) 等我國著作權法裡所未見之詞，不過，這些詞彙固然於法典中未被直接指定，但我國的作法是將許多其他各國列為鄰接權利的客體，都編入著作權利的特別類型中，故相應的 CC授權條款，經過解釋都還是可以被適用而不會產生應用上的漏洞。&lt;/p&gt;
+
+&lt;p&gt;參考資料：&lt;br /&gt;
+&lt;a href=&quot;http://creativecommons.tw/cc0&quot; target=&quot;_blank&quot;&gt;http://creativecommons.tw/cc0&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://creativecommons.tw/blog/20120711&quot; target=&quot;_blank&quot;&gt;http://creativecommons.tw/blog/20120711&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://gplv3.fsf.org/gpl-draft-2007-05-31.html&quot; target=&quot;_blank&quot;&gt;http://gplv3.fsf.org/gpl-draft-2007-05-31.html&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://blog.lizardwrangler.com/2010/03/10/updating-the-mozilla-public-license/&quot; target=&quot;_blank&quot;&gt;https://blog.lizardwrangler.com/2010/03/10/updating-the-mozilla-public-license/&lt;/a&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/20160215-cc0_tc_draft-plain_text.txt&quot;&gt;下載CC0-1.0通用法律條款中譯草稿純文字檔&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 14 Feb 2016 00:14:38 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1206 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20160214#comments</comments>
+</item>
+<item>
+ <title>開放圖像可以帶給創作人什麼好處？</title>
+ <link>https://creativecommons.tw/blog/20151221</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;使用開放授權會帶給圖像創作者好處嗎？其實許多圖像創作者就是意識到開放授權能帶來符合其需求的好處，才決定採用創用CC授權的。一起來看看這些圖像創作者怎麼說。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;開放授權讓圖像乘載的訊息廣為流傳&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://visualizingpalestine.org/&quot;&gt;視覺化巴勒斯坦(Visualizing Palestine)&lt;/a&gt;是一個資訊圖表(infographics)計畫，他們以圖像及資料精簡扼要地呈現巴勒斯坦發生的各種不公平，像是巴勒斯坦土地持續消失、巴勒斯坦人未受審判就被關等問題。雖然之前有一些這方面的報告，但都不是以容易理解及取用的方式與大眾溝通。&lt;/p&gt;
+
+&lt;p&gt;由於在阿拉伯世界裡公開與報導某些故事有時會遭遇困難，而且許多資料難以取得，他們希望藉由採用創用CC 姓名標示—非商業性—禁止改作的授權條款，讓更多人傳播這些資訊，進而帶來改變。&lt;/p&gt;
+
+&lt;p&gt;視覺化巴勒斯坦的資訊圖表確實帶來改變，喚起更多人對於特定議題的重視並出現相關的社會運動。他們的資訊圖表被用於書籍、線上刊物、公告欄、課堂及許多報紙上，而且還有人付費申請它們製作特定主題的資訊圖表。&lt;/p&gt;
+
+&lt;p&gt;共同創辦人Ramzi Jaber說：「做這類事情，我們是阿拉伯世界第一個也是規模最大的。創用CC對於我們的作品相當重要，我們相當感激。因為它喚起了大家的覺知。」、「我想要成為使用創用CC這類工具來終結歧視與種族主義的政策、尋求公平與尊嚴的生態體系一環。」接下來，他們將會進一步發展視覺化埃及計畫。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;開放授權讓作品被更多人使用&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/Box%20icons%20-%20Noun%20Project.clipular.png?itok=v2sOa3JN&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(&lt;a href=&quot;https://thenounproject.com/term/box/259066/&quot;&gt;Sara Quintana以創用CC 姓名標示 授權釋出的盒子圖像&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://thenounproject.com/&quot;&gt;The Noun Project&lt;/a&gt;分享向量格式的高品質圖標讓眾人自由免費的使用，在國內外都非常知名。&lt;/p&gt;
+
+&lt;p&gt;最初在討論要使用什麼授權時，計畫人員希望能採取一個全世界通行的授權條款，最後發現了創用CC。由於他們認為過多的限制會使圖標難以被他人良好運用，因此很快就決定採用創用CC 姓名標示的授權條款。使用者若願意支付一些費用，甚至可以移除圖標的姓名標示。&lt;/p&gt;
+
+&lt;p&gt;Sofya Polyakov是共同創辦人之一，他說：「對於我們多數的設計師而言，這不只是他們熱情之所在，這也是他們的工作。他們貢獻高品質的作品是因為他們希望作品能被使用，而開放授權相當於免費的行銷與廣告。」創用CC讓作品廣為利用的同時，也讓設計師被注意到。&lt;/p&gt;
+
+&lt;p&gt;另外，The Noun Project會舉辦&lt;a href=&quot;http://iconathon.org/&quot;&gt;「圖標馬拉松(Iconathon)」&lt;/a&gt;活動，讓設計師將設計技能應用在&lt;a href=&quot;http://iconathon.org/2013/04/15/investigative-journalism-icons-now-available/&quot;&gt;新聞&lt;/a&gt;與&lt;a href=&quot;http://iconathon.org/2013/09/16/new-health-care-icons-added-to-public-domain/&quot;&gt;健康照護&lt;/a&gt;改革之領域。他們希望將這些嚴肅議題透過圖像讓人簡單理解，甚至連不識字或不懂特定語言的人都可以看懂。這些設計會以公眾領域貢獻宣告CC0授權釋出，藉由移除所有條件限制來促成更多使用機會。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;開放授權促使可自由使用的圖像增加&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;南韓藝術家Miyoung Yi在2012年發布了&lt;a href=&quot;http://traveldrawing.cc/download-the-book/&quot;&gt;一本群眾募資關於東歐與地中海旅行的繪圖書&lt;/a&gt;，採用創用CC姓名標示授權，讓任何人都可以重複使用與混搭。&lt;/p&gt;
+
+&lt;p&gt;Miyoung在大學與研究所念的是工程學與社會學，並不是專業的插畫家，然而他一直很想邊旅行邊繪畫，接下來還會出南美旅行的繪圖書。他選擇開放授權，其實與2008年在CC韓國工作的經驗有關。當時，Miyoung遇到很多渴望使用免費創作內容的藝術家、政府官員、商務人士，然而他也發現免費分享作品內容在韓國並非慣例。有鑑於很難找到韓國採用創用CC授權的成功案例來說服他人開始使用開放授權，他便決定由自己開始嘗試。&lt;/p&gt;
+
+&lt;p&gt;在他釋出繪圖書後，有超過4000人下載電子書，紙本書也賣了400本。有些機構開始和他接洽雜誌、電子書、廣告的計畫案。kozaza.com的執行長就請他提供傳統南韓房屋hanok的插畫，用來當成紀念品在Kozaza的禮賓室販售。另外，他也參加了一些與分享文化相關的工作坊或演講並藉此獲利。&lt;/p&gt;
+
+&lt;p&gt;Miyoung說：「我可以看到人們受到我的啟發，而且他們還在我的基礎上更進一步。」他覺得藉此可以清楚傳遞「開放作品真的可行」以及「任何人都可以是藝術家」的訊息。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;開放授權讓作者與客戶共同創作&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Steven Sanders以創用CC姓名標示—非商業性—相同方式分享授權他的漫畫書&lt;a href=&quot;https://www.kickstarter.com/projects/570044257/symbiosis-a-creative-commons-art-book/description&quot;&gt;Symbiosis&lt;/a&gt;。他認為每個客戶的內心都是一個創作者，粉絲跟創作者一樣在故事創作過程中扮演重要角色。這本書的目的就是讓讀者成為共同創作者，希望最終會變成一個由世界各地的人共同建構的作品，讓他人可以將他的漫畫用在RPG遊戲、漫畫、cosplay等用途。&lt;/p&gt;
+
+&lt;p&gt;參考資料：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://teamopen.cc/miyoung/&quot;&gt;http://teamopen.cc/miyoung/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://teamopen.cc/ramzi/&quot;&gt;http://teamopen.cc/ramzi/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://static1.squarespace.com/static/558c40bde4b02743ade83b67/t/55bfbbd2e4b0146b44a5d5c8/1438628829042/?format=750w&quot;&gt;http://static1.squarespace.com/static/558c40bde4b02743ade83b67/t/55bfbbd2e4b0146b44a5d5c8/1438628829042/?format=750w&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.blog.thenounproject.com/celebrate-creative-commons/&quot;&gt;http://www.blog.thenounproject.com/celebrate-creative-commons/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://teamopen.cc/sofya/&quot;&gt;http://teamopen.cc/sofya/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www.kickstarter.com/projects/570044257/symbiosis-a-creative-commons-art-book/description&quot;&gt;https://www.kickstarter.com/projects/570044257/symbiosis-a-creative-commons-art-book/description&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 20 Dec 2015 20:26:34 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1184 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151221#comments</comments>
+</item>
+<item>
+ <title>為什麼他們想使用公眾領域貢獻宣告(CC0)？</title>
+ <link>https://creativecommons.tw/blog/20151217</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;公眾領域貢獻宣告的英文是CC0，也就是比創用CC姓名標示的條款更進一步，移除掉所有使用限制，讓以CC0授權的作品可以任意使用於各種用途，而且連作者姓名都不用標示，讓作品提早進入公眾領域。&lt;/p&gt;
+
+&lt;p&gt;想像一下辛辛苦苦創作出來的作品，可能會被其他人輕鬆用在他們的作品中，就好像作業被抄襲一樣的感覺，怎麼會有人願意以CC0授權釋出自己的作品呢？&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;首先，有些人發現在網路上可用的數位公眾領域越來越少，希望能以CC0是出一些作品來彌補這個缺陷。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Thomas Bonte和同學Nicolas Froment、Werner Schweer是開放資源樂譜計畫&lt;a href=&quot;http://musescore.org/&quot; target=&quot;_blank&quot;&gt;MuseScore&lt;/a&gt;的人員，MuseScore讓人們可以上傳自己的演奏影片，讓他人能搭配樂譜一起觀看，許多演奏影片都採用創用CC授權。&lt;/p&gt;
+
+&lt;p&gt;多數古典音樂都是公眾領域，但是高品質的當代錄音並不是。因此，他們在Kickstarter發起一個&lt;a href=&quot;http://www.kickstarter.com/projects/293573191/open-goldberg-variations-setting-bach-free&quot; target=&quot;_blank&quot;&gt;募資計畫&lt;/a&gt;，會將朋友Kimiko Ishizaka演奏的郭德堡變奏曲錄製下來以CC0釋出。希望能讓這個演奏版本就像是原本進入公眾領域的原曲一樣，不限制任何使用方式，使作品能盡可能地被使用。&lt;/p&gt;
+
+&lt;p&gt;Thomas總是鼓勵合作的音樂人能想想開放授權的力量。他說：「你不只透過你的藝術作品與觀眾溝通，你也藉由允許他們使用你的藝術作品來與他們溝通，而且這件事就和藝術本身同等重要。」Kimiko接下來錄製&lt;a href=&quot;https://www.kickstarter.com/projects/opengoldberg/open-well-tempered-clavier-bah-to-bach&quot; target=&quot;_blank&quot;&gt;巴哈的平均律鋼琴曲&lt;/a&gt;也將會以CC0授權釋出，而且他們這次還會製作盲人音樂家在braille可用的樂譜。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;其次，以CC0授權作品可能會帶來意想不到的知名度及流傳度。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;知名的照片網站&lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;每10天會分享10張以CC0釋出的高品質照片，現在已經有越來越多網站都使用他們的照片作為素材。&lt;/p&gt;
+
+&lt;p&gt;Unsplash是Crew公司的分項計畫，其實並非公司業務的重點。Crew公司的Mikael Cho在受訪時表示，當時他們正在建立公司網站，由於不滿於網路上低品質的照片，就聘請一個攝影師拍攝一組咖啡店的照片。最後，他們只挑選其中一張使用，便把剩下的照片上傳到tumblr讓他人免費下載，供其他也找不到好照片的人使用。沒想到，他們將網站連結貼到設計師、工程師和創業者的社群網站Hacker News後，立刻成為Hacker News排名第一的網站，而且有超過1千萬次的照片下載次數。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/bag-and-hands.jpg?itok=-VKQ2CMc&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;br /&gt;
+(這是Unplash最初以CC0釋出的十張照片中最受喜愛的一張，攝影師是Alejandro Escamilla，他也因為Unplash增加知名度。)&lt;/p&gt;
+
+&lt;p&gt;由於很多人好奇是誰提供這些照片，就會點連結到Crew的官方網頁，使他們在短短幾天內獲得前所未有的知名度，他們從來沒想到上傳照片所花費的19元美金與3小時可以帶來這樣的宣傳成效。甚至，後來他們也從Unsplash的使用者中招募到他們需要的優秀員工。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;第三，以CC0授權的資料可以在無任何阻礙的情況下傳播得更快更廣。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;2011年，日本311大地震帶來了嚴重災害，福島核電廠周圍地區的放射物質對於居民十分不利。一個月後，Sean Bonner與Joi Ito展開了Safecast計畫，透過志工以集體力量蒐集到的資料，建立日本輻射地區的即時資訊系統。他們採用CC0授權，確保他人在使用這些資料時絕對不會有任何阻礙。發布計畫後，資料貢獻者與使用者確實都大幅成長，也在媒體及政府以外，成為正確度與完整度較高的資訊來源。&lt;/p&gt;
+
+&lt;p&gt;最後，選擇CC0授權釋出作品也可以是一個人生目標。Toper Domingo不是專業攝影師，他知道自己的照片品質比不上專業，所以他不打算販售照片，而是讓人們可以盡量使用。Toper為自己設定了一個目標，計畫要每天捐獻100張照片進入公眾領域，這樣30年累積下來將會有一百萬左右的照片。而他的網站名稱就是&lt;a href=&quot;http://www.1millionfreepictures.com/&quot; target=&quot;_blank&quot;&gt;1 Million Free Pictures&lt;/a&gt;，目前仍持續朝他的目標邁進中。&lt;/p&gt;
+
+&lt;p&gt;相關連結：&lt;a href=&quot;http://pd4pd.org/zh-hant/blog/86&quot; target=&quot;_blank&quot;&gt;為什麼他們願意在網路上提供公眾領域素材？&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;參考資料&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.1millionfreepictures.com/&quot; target=&quot;_blank&quot;&gt;http://www.1millionfreepictures.com/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.wpclipart.com/about.html&quot; target=&quot;_blank&quot;&gt;http://www.wpclipart.com/about.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://teamopen.cc/thomas/&quot; target=&quot;_blank&quot;&gt;http://teamopen.cc/thomas/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://teamopen.cc/sean/&quot; target=&quot;_blank&quot;&gt;http://teamopen.cc/sean/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://naomihattaway.com/2014/06/mikael-cho-from-unsplash/&quot; target=&quot;_blank&quot;&gt;http://naomihattaway.com/2014/06/mikael-cho-from-unsplash/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://blog.crew.co/how-side-projects-saved-our-startup/&quot; target=&quot;_blank&quot;&gt;http://blog.crew.co/how-side-projects-saved-our-startup/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 17 Dec 2015 01:13:37 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1180 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151217#comments</comments>
+</item>
+<item>
+ <title>詮釋資料以CC0宣告進入公眾領域</title>
+ <link>https://creativecommons.tw/blog/20151214</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;文化機構除了分享數位化後的公共領域館藏，其實也可以將他們描述館藏的詮釋資料(metadata)以CC0釋出。書目上的書名、作者姓名、出版社、出版年、所屬類別等，就是一種詮釋資料。開放眾人任意使用的詮釋資料將有利於「連結開放資料(Linked Open Data)」的發展，讓網路上各種相關的資源得以互相串連。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://farm6.staticflickr.com/5637/20846726543_45950ce277_b.jpg&quot; style=&quot;height:587px; width:700px&quot; /&gt;&lt;br /&gt;
+此為大英圖書館的中文館藏目錄，&lt;a href=&quot;https://www.flickr.com/photos/132066275@N04/20732986155/in/photostream/&quot; target=&quot;_blank&quot;&gt;以CC0授權釋出&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;想像一下，未來只要在網站上搜尋梵谷的星空，你就可以得到由文化機構專業館員提供的創作年代、地點、典藏館等資料，甚至是關於星空的各種版本資訊及簡單的說明。由於這些資訊來自文化機構的權威專業，將會比網路上隨便找的部落格等更為正確，你不用再擔心會不會找到錯誤資料害報告內容出錯。而且，這些文化機構釋放出來的館藏詮釋資料還能再與其他網站提供的梵谷生平、星空的創作背景、梵谷故居的旅遊景點說明等資訊相連結，你可以想像成好像有一條線串起散落在各處與梵谷相關的資訊，文化機構提供的這些詮釋資料可能就能作為這條線，幫你一網打盡所需的相關資訊。&lt;/p&gt;
+
+&lt;p&gt;有鑑於連結開放資料的發展趨勢，許多&lt;a href=&quot;https://wiki.creativecommons.org/CC0_use_for_data&quot; target=&quot;_blank&quot;&gt;知名的博物館、圖書館&lt;/a&gt;都已經採用CC0授權釋出詮釋資料。像是大英圖書館、美國數位公共圖書館(DPLA)、Europeana、德國國家圖書館、哈佛大學圖書館、西班牙國家圖書館、瑞典國家圖書館、英國泰特美術館(Tate)、佛羅里達州大學思維爾圖書館、紐約公共圖書館、英國研究圖書館、瑞典國家圖書館、密西根大學圖書館等。而且，2011年歐洲國家圖書館員會議(Conference of European National Librarians)決定要以CC0授權資料，2012年OCLC和Europeana也達成共識要讓其會員圖書館都以CC0授權詮釋資料，更是使進入公眾領域的詮釋資料大幅成長。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://wiki.creativecommons.org/Case_Studies/British_Library&quot; target=&quot;_blank&quot;&gt;大英圖書館詮釋資料服務領導人Neil Wilson有言&lt;/a&gt;：「我們相信，大英圖書館幾世紀以來所創造與匯編的大量書目記錄還有許多超乎編目當時所預期的應用方式，能找出組織與個人善用這些資料的新方法，是件令人興奮的事情。」&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://wiki.creativecommons.org/Case_Studies/Harvard_Library&quot; target=&quot;_blank&quot;&gt;哈佛圖書館的副館長Mary Lee Kennedy也說&lt;/a&gt;：「哈佛圖書館致力於與他人合作及開放近用，我們希望此種貢獻乃進一步與眾人分享圖書館重要文化知識的初步嘗試。」&lt;/p&gt;
+
+&lt;p&gt;開放詮釋資料的文化機構遠多於開放數位化公眾領域的機構。這是因為，數位化的公眾領域作品仍可能被主張著作人格權(即該作品的使用者不得冒充作者或有損作者聲譽)以及攝影權(即攝影者對於公眾領域館藏的攝影作品能主張著作權)，導致在館方擬定開放政策時會遭遇較多阻礙。&lt;/p&gt;
+
+&lt;p&gt;雖然在決定是否開放詮釋資料時，不會有著作人格權及攝影權的顧慮。然而，也有人認為，是否要採取CC0授權是值得討論的。因為詮釋資料如果只是姓名、年份、地點等事實類的文字，其實自始不屬於著作權的保護範圍。現在的文化機構，是在詮釋資料受到著作權保護的前提下才採用CC0的「授權」條款，相當於賦予著作權給本來就不被保護的資料，反而增加資料的使用門檻。&lt;/p&gt;
+
+&lt;p&gt;不過，現在的詮釋資料越來越豐富，除了事實性資料，摘要、評論、封面、試聽試看的影音檔等都有發揮原創性之處，而且每個編目員對於同一本書的類別判斷也未必相同，代表仍有主觀判斷的空間。只是這些詮釋資料的作者往往以文化機構為代表而不具名，難以一一判斷個別詮釋資料的著作權歸屬。&lt;/p&gt;
+
+&lt;p&gt;另外，在歐洲，若對資料進行系統性的彙整，就可以針對組織方式主張權利。在此情況下，當有人以同樣方式組織這些資料，就會侵犯該資料庫的資料庫權。現在先以CC0授權詮釋資料，也就是明白昭告拋棄一切可能主張的權利，即便不確定是否詮釋資料存在資料庫權，使用者都可以確信這是公眾領域而安心使用。&lt;/p&gt;
+
+&lt;p&gt;總而言之，不論目前有哪些爭議，都可以CC0授權詮釋資料，昭告眾人其進入公眾領域的定位。&lt;/p&gt;
+
+&lt;p&gt;參考資料：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.librarytechnology.org/ltg-displaytext.pl?RC=17487&quot; target=&quot;_blank&quot;&gt;http://www.librarytechnology.org/ltg-displaytext.pl?RC=17487&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://wiki.creativecommons.org/CC0_use_for_data&quot; target=&quot;_blank&quot;&gt;https://wiki.creativecommons.org/CC0_use_for_data&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://linkedheritage.cab.unipd.it/training/LO-06/en/01.html&quot; target=&quot;_blank&quot;&gt;http://linkedheritage.cab.unipd.it/training/LO-06/en/01.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://en.wikibooks.org/wiki/Open_Metadata_Handbook/Open_Metadata&quot; target=&quot;_blank&quot;&gt;http://en.wikibooks.org/wiki/Open_Metadata_Handbook/Open_Metadata&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://lj.libraryjournal.com/2013/02/opinion/peer-to-peer-review/metadata-and-copyright-peer-to-peer-review/&quot; target=&quot;_blank&quot;&gt;http://lj.libraryjournal.com/2013/02/opinion/peer-to-peer-review/metadata-and-copyright-peer-to-peer-review/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 13 Dec 2015 22:49:13 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1176 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151214#comments</comments>
+</item>
+</channel>
+</rss>

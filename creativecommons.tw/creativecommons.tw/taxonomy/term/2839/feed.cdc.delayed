@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 資訊共享</title>
+ <link>https://creativecommons.tw/category/tags/%E8%B3%87%E8%A8%8A%E5%85%B1%E4%BA%AB</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>﻿創用CC 之用--輔助創意我們需要什麼？ </title>
+ <link>https://creativecommons.tw/in-depth/562</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;王浩全[註] /文 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;作為一個人機互動(human-computer interaction)領域的研究者，人造物(artifact)諸如人為設計的物件、工具與系統如何影響人們的感受、思考與行為是我的研究焦點所在。我對創用CC的興趣也始自於對授權條款其人造(man-made)本質的觀察。這個觀察讓我不時想著，為什麼創用CC的設計是這樣而不是那樣，要鼓勵與輔助創意工作我們需要怎樣的設計？&lt;/p&gt;
+
+&lt;p&gt;談到「人造物」與「設計」，我想先談Herbert Simon&lt;strong&gt;[1]&lt;/strong&gt;在其經典著作The Sciences of the Artificial (人造物的科學)&lt;strong&gt;[2]&lt;/strong&gt;所談到的一些對今天人機互動、電腦資訊科學以及其他工程設計與社會科學領域的發展具深遠影響的想法。Simon 注意到今天人們所生活互動的環境充滿了人造物，從具體的物件如柏油路到抽象的 概念如社會組織與符號語言。人造物的共同特徵在於其遵守自然定律但卻為人類目的服務的本質，也因 此傳統自然科學並不能全然解釋與人造物相關的現象或有效引領人造物的設計。Simon 用了幾個很生動 的例子來區分自然現象與人造現象的不同。例如森林大多是自然現象，但農場顯然不是單純的自然現象， 農場裡的作物不僅是人為種植的，而且還是為了人類飲食生存所需而規劃的。&lt;/p&gt;
+
+&lt;p&gt;正因為人造物設計有其為人類目的服務的性質，設計活動所需要的不僅是技術，或者是個別設計者的直覺，同樣重要的是關於人類活動的目標、過程與限制的深度知識。這樣的觀察統一了各種不同類型的人造物的設計過程，不論是科技、政策、教育方案或者法律條款等的設計，設計者都應進行「社會科學探究」去了解問題是什麼，目標在哪裡，而合理可行的設計方案可能又是什麼&lt;strong&gt;[3]&lt;/strong&gt;？&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;創用&lt;/strong&gt;&lt;strong&gt;CC&lt;/strong&gt;&lt;strong&gt;的設計目標&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;透過人造物設計這個概念框架，一個觀察是，創用CC的設計目標及其所可能影響改變的現象主要有兩個，一個是資訊的使用，另一個則是資訊的創造或創意的產生。&lt;/p&gt;
+
+&lt;p&gt;創用CC的授權條款允許著作人以保留部分權利的方式對作品進行授權，提供了一套較傳統授權方式更彈性，以及與數位內容特性更為匹配的授權方式。在資訊使用的面向上，這樣的設計試圖去解決授權條款為保護著作人權利而過度限縮了公眾取得與利用資訊的自由的問題。從今天在網路上已有越來越多的資訊以創用CC的方式釋出(例如部落格文章及透過網路相簿分享的照片等)，創用CC在資訊使用的面向上似乎已帶來正面的影響。&lt;/p&gt;
+
+&lt;p&gt;另一方面，創用CC也隱含了促進資訊創造與創意發展的意圖。一個證據是其考慮授權條款如何因應對既有作品進行組合或改作的創作方式。創用CC的設計特別將「是否允許改作」列為一項核心授權要素，如果著作人在授權時未表明禁止改作，使用者便可編輯原作來產生新的創作(例如音樂與影像的剪接與拼貼等)。 然而在改作或組合的創作方式之外，我們也看到了可能的疑問。創用CC將著作權人的權利開放的特性是否會降低了創作動機乃至於創意的產生？常見的傳統著作權論述認為保護著作者權利才能鼓勵創意的說法是否又有其道理？&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;創&lt;/strong&gt;&lt;strong&gt;意產生的基礎研究&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;目前創用CC對於創意的本質的討論與掌握似乎仍然有限。要區辨「部分權利保留」與「所有權利保留」對創意產生孰好孰壞，我們其實可以先問「人們是如何能產生創意？」，再從中推理授權條款設計對創意產生的可能影響為何。&lt;/p&gt;
+
+&lt;p&gt;大致上影響創作者的創意產生主要有幾個的因素，包括個體的固有差異、動機、以及外在資訊的影響。首先，創造性思考是一種心智歷程，所以個體的背景知識與人格特質是一個重要因素。 但由於個體固有創造力的差異主要牽涉到教育歷程、社會文化經驗、乃至基因遺傳等長期因素，短時間內似乎不可能以任何方法增進，因此與設計較無關聯。相對而言，動機與外在資訊屬於可操弄的情境因素，與授權條款的設計較直接相關。&lt;/p&gt;
+
+&lt;p&gt;在動機方面，研究表明不同的創作動機影響作品的創意程度。如果是自發性的內在動機(例如個人興趣或好奇)驅使創作的活動，其創作成果的創意程度可能優於外在動機(例如社會規範或報酬)的驅使。例如社會心理學家Teresa Amabile 在一個實驗裡曾要求兩組寫作能力相似的受試者進行詩詞創作。在創作之 前，受試者被要求先對一些事先準備好的「為什麼要寫作」的理由進行重要性排序以刻意去喚起特定類 型的創作動機。其中一組所排序的均為以「內在動機」導向的理由，例如「寫作很有趣」「寫作是一個 自我表達的機會」等，而另一組所排序的則均為「外在動機」導向的理由，例如「寫作是一個賺錢的行 業」「老師和家長認為寫作能力很重要」等。一群專業詩人接著對受試者的創作成果進行評分，結果發 現接受內在動機操弄的受試者所寫的詩詞明顯優於接受外在動機操弄者的創作，表明內在動機對創意工 作的重要性&lt;strong&gt;[4]&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;此外，創意思考的社會認知研究也注意到，外在資訊的刺激可能觸發創新想法的產生。一個基本發現是人們的思考歷程容易受到已出現過或所接收的資訊的引導，因此如果創作者從外界接收到的訊息與自身想法過於類似，創作者可能很難擺脫既有窠臼，因而持續產生類似的創作。相反的，如果能確保外在資訊的多樣性，將可能可以刺激創新想法的產生&lt;strong&gt;[5]&lt;/strong&gt;。這個發現可以應用在創意輔助工具的設計上，例如筆者的研究設計了一套腦力激盪工具將團隊工作的對話「視覺化」為相關圖片以作為創意思考的輔助線索。實驗比較不同類型的圖片，一種其圖片內容與原始句子的內容高度相關(例如以車子的圖片代表含「車子」的句子)，另一種強調圖片內容包含多樣不同的概念(例如以高速公路、塞車等照片代替)。結果發現具多樣性的圖片確實能激發更多的想法&lt;strong&gt;[6]&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;結語：以授權條款設計作為&lt;/strong&gt;&lt;strong&gt;創&lt;/strong&gt;&lt;strong&gt;意輔助？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;透過創意基礎研究的發現，我們應可依此考慮授權條款的設計如何能透過提升內在動機與資訊多樣性兩個途徑來促進創作的創意品質。&lt;/p&gt;
+
+&lt;p&gt;在動機面向，一個衍生觀察是「所有權利保留」的授權方式或許可以因其潛在報酬驅策更多的創作數量，但此類動機屬外在動機，可能並無法激勵更好的創意品質。而創用CC其「姓名標示需求」確實為一巧思，但似乎仍有可能維護了部分「以個人聲譽驅動創作」的外在動機結構。由此看來，似乎「公眾領域」之類的授權方式能比較完整的從結構上去避免在報酬對創意品質的干擾。&lt;/p&gt;
+
+&lt;p&gt;而在外在資訊多樣性上，創用CC似乎可能有正反兩面的效果。首先，創用CC其強調自由共享的特質其目的正是使資訊能為公眾所用，這增加了資訊的易獲性，對資訊的多樣化與創意的提升應屬正面貢獻。但在另一方面，一個隱憂是創用CC會不會僅吸引特定類型的創作者而造成所授權的創作或資訊同質性過高？&lt;/p&gt;
+
+&lt;p&gt;授權條款其文字內容主要在規範使用者的行為，也因此要透過授權條款的設計去間接影響創作者的創意確實構成設計上與學理上的一個挑戰。回到Herbert Simon，我想我們仍然需要進行更多「創用CC的科學」，去釐清基礎研究與設計間銜接的一些模糊之處，並實際瞭解不同的設計對於創意的影響。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[&lt;/strong&gt;&lt;strong&gt;註]&lt;/strong&gt;&amp;nbsp;作者資訊：&lt;a href=&quot;http://www.cs.cornell.edu/%7Ehaochuan&quot; target=&quot;_blank&quot;&gt;http://www.cs.cornell.edu/~haochuan&lt;/a&gt;。&lt;br /&gt;
+&lt;strong&gt;[1]&lt;/strong&gt;&amp;nbsp;1916-2001，生前為卡內基美隆大學(Carnegie Mellon University)教授，1975年圖靈奬，1978年諾貝爾經濟學奬得主。&lt;br /&gt;
+&lt;strong&gt;[2]&lt;/strong&gt;&amp;nbsp;Simon, H. A. (1999). The sciences of the artificial (3rd ed.). MIT Press.&lt;br /&gt;
+&lt;strong&gt;[3]&lt;/strong&gt;&amp;nbsp;把「設計」與「社會科學」聯結在一起可能讓人意外。但若參與研究或實務社群，可以發現這樣的結合已經運作多年。相關論述甚多，這裡僅列一二供作參考：&lt;br /&gt;
+- Carroll, J. M. (Ed.) (2003). HCI models, theories, and frameworks: Toward a multidisciplinary science. Morgan Kaufmann.&lt;br /&gt;
+- Newell, A., &amp;amp; Card, S. (1985). The prospects for psychological sciences in human-computer interaction. Human- Computer Interaction, 1, 209-242.&lt;br /&gt;
+&lt;strong&gt;[4]&lt;/strong&gt;&amp;nbsp;Amabile, T. M. (1985). Motivation and creativity: Effects of motivational orientation on creative writers. Journal of Personality and Social Psychology, 48, 393-399.&lt;br /&gt;
+&lt;strong&gt;[5]&lt;/strong&gt;&amp;nbsp;Nijstad, B. A., Stroebe, W., &amp;amp; Lodewijkx, F. M. (2002). Cognitive stimulation and interference in groups: Exposure effects in an idea generation task. Journal of Experimental Social Psychology, 38, 535-544.&lt;br /&gt;
+&lt;strong&gt;[6]&lt;/strong&gt;&amp;nbsp;Wang, H-C., Fussell, S. R., &amp;amp; Cosley, D. (2011). From diversity to creativity: Stimulating group brainstorming with cultural differences and conversationally-retrieved pictures. Proceedings of ACM CSCW 2011 (pp. 265-274). ACM Press.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 04 Nov 2011 01:30:00 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">562 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/562#comments</comments>
+</item>
+<item>
+ <title>論非營利組織於資訊共享環境中所扮演的角色（下）</title>
+ <link>https://creativecommons.tw/in-depth/432</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;李治安&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;在(上)篇中，筆者以公共財作為分類依據，羅列出資訊共享環境中的各類非營利組織後，(下)篇中本文選擇以當今非營理組織學說中最具影響力的兩個理論，解釋資訊共享運動中的各參與組織。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;一、契約失靈理論：&lt;/strong&gt;第一個理論是 Henry Hansmann 提出的契約失靈理論 (contract failure theory)，該理論指出，在交易雙方之間存在著資訊不對稱的情況時，買方無法檢驗商品的品質，因此賣方可能會提供劣質的服務或產品。此時，如果由非營利組織扮演賣方的角色，該等組織的「不分配限制」特質將可適度防止其濫用優勢資訊，欺壓買方。&lt;/p&gt;
+
+&lt;p&gt;契約失靈理論在資訊共享環境中有傳統的應用角度，亦即非營利組織可代社群接受並管理他人捐贈。與營利事業相較，非營利組織較不會濫用該等捐贈，此外，亦存在以下三種新形態的契約失靈情境：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;(一)、近用失靈&lt;/strong&gt;&lt;br /&gt;
+許多個人創作者都希望其作品能廣為流傳，但並非所有的潛在讀者都能接近使用該等作品，當作者無法為其讀者提供理想的近用資訊時，即發生了近用失靈的情況。以學術文章為例，作者通常希望自己的文章能夠廣為流傳，因為該等文章被引用率可一定程度的象徵作者的學術聲望，而著作權通常不是學術作者所需要的創作誘因；但以營利為目的的出版商卻希望控制期刊的流傳數量以獲取最大的利潤，就此而言，出版商和作者具有相當程度的利害衝突。像 Public Library of Science (PLoS) 般的非營利組織出版社，因為不追求最大利潤，所以無須控制期刊內容的著作權，如此反而符合學術作者的利益，也解決了近用失靈的不效率。其他處理近用失靈的機構包括了 Internet Archive、Television Archive、免費提供課程資訊的麻省裡工學院、以及支持維基百科的 Wikimedia Foundation 等機構。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;(二)、協力失靈&lt;/strong&gt;&lt;br /&gt;
+協力失靈可能發生於個人間或組織間。個人間的協力失靈指的是在同儕生產社群中，如果沒有正式組織作後盾，協力工作將因欠缺集體產權管理、交易主體、承擔潛在責任主體、制度化決策程序及標準等問題而無法完成，而如維基基金會(Wikimedia Foundation)及阿帕契基金會(Apache Software Foundation)等非營利組織的存在即適度解決了該等問題。通常大型的同儕生產社群才會成立非營利組織，因為社群須有相當規模，才有足夠的資源成立正式組織；而且規模大使得資訊內容逐漸複雜，才會需要組織的存在。&lt;/p&gt;
+
+&lt;p&gt;某些非營利組織則是專注於處理組織間的協力失靈問題，像 Eclipse Foundation 和 Linux Foundation 都是商會型的非營利組織，他們是由營利機構所組成，可視為各公司會員為了構築商業基礎設施（如標準）、分擔成本而採取的集體行動。因為對所有會員公司而言，如果基礎設施被單一營利機構所掌握，則公司的經營將被鎖死(lock-in)，產品成本也勢必大幅增加。除了商會型的非營利組織以外，一些負責智慧財產權公益遊說的團體如 Public Knowledge 也扮演了統合各組織共同利益的角色，就此而言，這些組織都解決了組織間協力失靈的問題。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;(三)、授權失靈&lt;/strong&gt;&lt;br /&gt;
+授權失靈分成兩種形態，第一種授權失靈是由於著作權法的規定，使得創作人無法隨心所欲的讓他人使用其創作，針對該種失靈，Creative Commons 提供了一系列的授權條款，協助創作人依其喜好，授權其作品。&lt;/p&gt;
+
+&lt;p&gt;第二種授權失靈則是指授權條款間的不相容，導致資訊的使用人不能隨心所欲的使用依據不同授權條款授權的共享資訊，就此問題，包括 Creative Commons 及 Free Software Foundation (FSF)組織已開始推動授權條款間的相容性。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;二、市場與政府失靈理論：&lt;/strong&gt;第二個關於非營利組織的理論是市場與政府失靈理論(market and government failure theory)，此理論認為市場及政府對於某些公共財的供給都會發生失靈，因此為非營利組織提供了生存利基，市場失靈主要是因為經濟學上的搭便車現象，使得生產者欠缺誘因從事生產活動；而政府失靈則是因為在民主社會中，政府只能提供有限的資源，因此其通常會選擇滿足部分人的需求，而捨棄其他人的需求。&lt;/p&gt;
+
+&lt;p&gt;在資訊共享環境中，政府失靈與著作權法有密切的關係，對許多非營利組織言，著作權法本身就是一種政府失靈，而被商業利益控制的著作權法立法過程，則是另一種政府失靈。許多非營利組織及與其密切相關的自由文化運動，都是因為不滿國會通過數位千禧著作權法(Digital Millennium Copyright Act, DMCA)及著作權期限延長法案(Copyright Term Extension Act, CETA) 通過而形成。市場失靈則包含了前述的契約失靈，以及資訊公共財過度受到獨佔及生產不足所導致的不效率情況。&lt;/p&gt;
+
+&lt;p&gt;非營利組織型塑了當今的資訊訊共享生態系統，本文以上係以當代兩個主流的非營利組織理論分析相關非營利組織於資訊共享環境中所扮演的角色，這兩個理論對於理解該等組織於資訊共享運動中之價值及功能，具有相當助益，當然，各理論均有其不足之處，而各理論間也可互補其不足。本文中界定出近用失靈、協力失靈及授權失靈三種新型態的契約失靈。&lt;/p&gt;
+
+&lt;p&gt;此外，非營利組織的出現與存在亦與市場失靈及政府失靈有關，該等失靈包括了著作權法本身、著作權法的立法過程以及公共財的過度壟斷及供給不足。在可預見的未來，相信各種組織形態將繼續在不同的資訊環境中，扮演不同的角色，其互動及相關發展亦值得繼續關注。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 02 Jul 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">432 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/432#comments</comments>
+</item>
+<item>
+ <title>論非營利組織於資訊共享環境中所扮演的角色（上）</title>
+ <link>https://creativecommons.tw/in-depth/430</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;李治安&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;知識及資訊的創造是一個累進式的社會過程，所有的創意活動都是植基於既有的資訊基礎之上，因此，共享資訊（intellectual commons）對於人類的創新及創意活動具有重要的社會功能，該等資訊是所有創意活動的素材來源，而維持一個健全的資訊共享環境已成為當代創新政策及資訊政策的重要考量之一。一般而言，社會上的正式組織形態有三種：政府、營利組織以及非營利組織，有趣的是，資訊共享運動的主要推手皆為非營利組織，該等組織包括創用CC（Creative Commons ）、Electronic Frontier Foundation （ EFF ）、Free Software Foundation （FSF）以及 Public Knowledge （PK）等。&lt;/p&gt;
+
+&lt;p&gt;非營利組織為共享資訊的生產提供了不可或缺的基礎結構，而該等結構迥異於支持專屬資訊（proprietary information）生產的其他社會結構。藉由提升共享資訊的生產、接近使用、可搜尋性以及受保護的程度，非營利組織對當今社會提供了重要的公共財 （public goods），並發揮了政府及營利組織無法發揮的社會功能。&lt;/p&gt;
+
+&lt;p&gt;要瞭解非營利組織與資訊共享運動之間的關係，先以非營利組織的概念談起。 非營利組織係指不得將利潤分配給任何組織相關人的私人組織，學者將此特性稱為「不分配限制」。多數的非營利組織理論認為，該等組織的存在是為了提供特定的公共財，本文以公共財作為分類依據，羅列出資訊共享環境中的各類非營利組織。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;1. 社會規範與授權條款&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;關於分享的社會規範其實存在於學術機構已久，但該規範於1980年代開始受到商業智慧財產權侵蝕，因此Richard Stallman成立了FSF捍衛該規範，FSF對於資訊共享運動最重要的貢獻在於制定了通用授權條款（GNU Public License， GPL），確保自由軟體不被商業軟體吞噬，並保障了分享的社會規範。Open Source Initiative （OSI）是另一個執行分享社會規範的非營利組織，該組織所做出的開放原始碼定義（Open Source Definition， OSD）目前已成為開放原始碼的共識基礎，所有經過該組織審核通過的授權條款才會被社群接受為開放原始碼授權。&lt;/p&gt;
+
+&lt;p&gt;在軟體以外的資訊共享環境，非營利組織CC提供了多種不同的授權條款供創作者選擇，Creative Commons目前已成功的推動了全球性的社會運動，並型塑出鼓勵資訊分享及資訊再利用的社會規範。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;2. 同儕生產所需的正式組織架構&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;參與開放原始碼開發及維基百科等資訊共享計畫的人都是自發性的個人所組成的社群，學者將這種分散式的資訊形成過程稱為「同儕生產」（peer production），在資訊共享環境中，非營利組織為這些同儕生產設群提供了必要的組織架構。一些非營利組織代表社群接受捐獻，並持有同儕生產所必需的資產。此外，該等組織亦是共享資訊所屬智慧財產權的管理人，由單一的非營利組織為社群管理共享資訊的智慧財產權具有許多優點，過去許多開放原始碼軟體的智慧財產權，都歸屬於主要程式開發者之僱主，或由該僱主管理，但由於此等僱主均為營利機構，所以對於該等智慧財產權的處理通常係以其商業利益，而非整體社群利益，作為優先考量。此外，由單一組織管理同儕生產的成果亦可節省交易成本， 如Apache Software Foundation （ASF）及 FSF 甚至要程式開發者將著作權移轉或授權給該等組織，以統一管理。&lt;/p&gt;
+
+&lt;p&gt;同儕生產社群並非法律主體，所以無法與他人形成法律關係，準此，非營利組織的法人身分可協助設群與其他組織形成法律關係，以有利於社群的長期發展。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;3. 法律扶助&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;承前所述，參與共享資訊協力生產的個人常面臨了被訴的法律風險及成本，因此一些非營利組織專為個人提供法律協助，一旦有個人被控侵害他人智慧財產權，這些組織即出面代為處理訴訟，在自由及開放原始碼軟體世界中，最著名的即是Software Freedom Law Center （SFLC），而在其他的資訊共享環境中，EFF則已代理過許多具指標性的智慧財產權訴訟。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;4. 公益遊說&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;由於許多商業團體、媒體集團、及智慧財產權密集產業的遊說，美國國內及國際智慧財產權法的範圍不斷擴張，面對此趨勢，包括PK、EFF及 Knowledge Ecology International （KEI）在內的非營利組織都致力於透過在國會及國際組織的遊說，遏止智慧財產權無止境的擴張。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;5. 資訊近用及典藏&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;許多非營利組織提供了網路上共享資訊的近用及典藏，如 Public Library of Science （PLoS）是一家專門出版生物、醫學方面的學術期刊出版社，該機構將期所出版的期刊文章皆以CC授權，至於網站上，供人下載使用。另外包含麻省裡工學院在內的許多知名學術機構，則將課程或教授著作，置於網站上，供人下載使用。Internet Archive則以建立全球最大的網路公共圖書館為目標，收錄了各類資訊。&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;6. 財務支援&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;上述所有非營利組織皆需財務支援，而通常來自個人的小額捐款卻不足以支付組織所需的各項開支。事實上，有許多大型基金會在資訊共享運動中扮演了重要的角色，它們提供了前述各組織所需的大部分資金來源，這些基金會包括了 William and Flora Hewlett Foundation （Hewlett Foundation）、 John D. and Catherine T. MacArthur Foundation （MacArthur Foundation）及Open Society Institute等。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 04 Jun 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">430 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/430#comments</comments>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - new america</title>
+ <link>https://creativecommons.tw/taxonomy/term/3283</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>你的網路有多快？ - MLab 把他們的調查分析都 Open Data 了！</title>
+ <link>https://creativecommons.tw/blog/20161207</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/Screen-Shot-2016-11-30-at-4.42.00-PM-1024x576.png?itok=-TWaaBdf&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;em&gt;Introduction to Measurement Lab: &lt;a href=&quot;https://youtu.be/RnIVMfBP4So&quot; target=&quot;_blank&quot;&gt;https://youtu.be/RnIVMfBP4So&lt;/a&gt;, 2011 New America, &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/&quot; target=&quot;_blank&quot;&gt;CC BY 3.0&lt;/a&gt;.&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;Open Data(開放資料)並不僅僅是政府的事！雖然近年在這個領域最常被討論的是政府資料開放、或稱開放政府資料 (Open Government Data)，事實上開放政府這個概念於 1950 年美國境內關於「資訊自由法 (Freedom of Information Act, FOIA）的辯論已經出現，只是在近代的浪潮裡被注入數位與網路提供的新元素。而近年在討論到 Open Data 時，初期多討論的是如何促進政府機關構以更開放的立場、態度，及格式來提供資料，那是因為大量資料被屯儲於公務單位裡，若能就此寶庫先行取得一些成果，對整體開放資料的發展能帶來很大的效益，然而，學術領域與商用領域也必須隨後跟進，如此 Open Data 才能在長期發展下，形成一個豐富應用的生態系 (ecosystem)，Measurement Lab 這個具有學術研究並商業發展雙重面向的單位，已率先將其調查分析所得的相關資料，自行採 CC0 - 公眾領域貢獻宣告的方式，Open Data 出來給不特定多數人皆可不受限制利用，非常具有長期觀察的價值！&lt;/p&gt;
+
+&lt;p&gt;Measurement Lab(以下簡稱 MLab)是一個由 New America 開放科技研究所、Google 開源研究、Princeton 大學 Planet 實驗室，及其他許多學術與商業機構共同合作的協力專案。當前我們都知道網際網路對人們的生活與影響力愈來愈大，所以網速與網路活動的分析，所能帶來的事務分析與說明亦極富價值，多數商業公司在進行相關的研究調查時，會將相關資料與資訊皆視為重要資產、不傳之秘，但 MLab 反其道而行，不但所使用的調查研究工具皆採開源授權的方案，供所有人能自由下載進行衍生開發，對近年調查所得的資料，亦採 CC0 - 公眾領域貢獻宣告，以權利人的角度將其進行著作權利拋棄的宣示，也就是說，相關資料不但能直接從網路取得，並且日後能被用於任何目的，而不會受到著作權利相關的限制。&lt;/p&gt;
+
+&lt;p&gt;Chris Ritzo、Georgia Bullen、Alison Yost、Collin Anderson，以及 Stephen Stuart 這些 MLab 的重要參與人員，近期接受 CC總部的訪問。其分享網路狀態的度量與分析 (Internet Measurement)，是一件基礎，卻對所有人都有高度影響力的事，消費者也許單純只是想知道他們租用的網路服務，是不是真正達到業者承諾的速度；但對網路提供者或網路服務業者來說，這些資料將有助其改善未來商業服務的架構，以有限的資源提供更好的服務；對於公民團體或人權組織來說，具體取得這些資料更有助於分析是否有網路監管或監視狀況產生，而鑑於近年多數這樣的量測結果，都是由商業公司主導，而未將成果與公眾共享，而這與網際網路公眾得以公開近用、不受特定限制的基本架構並不相合，而不同機構所作的調查，亦難以進行一個結合分析的綜效。&lt;/p&gt;
+
+&lt;p&gt;MLab 和許多研究機構合作，亦不是說要求每個研究機構都採用 CC0 全然拋棄資料可能有的著作權利，在個案上 MLab 有時會同意一些研究者暫不提供授權，等到其研究成果完成初始發表之後再來處理，不過整個大原則就是盡量採用資料需對公眾開放的態度來做這件事。至於 MLab 自己網路上託管的資料，則悉採 CC0 的主要原因，在於該專案一開始設立的緣由之一，就是希望資料來源及其應用方式可以客觀而多元，故而採行公眾授權的方式來釋出資料，能夠與參與者之間產生互信關係；另一個原因就是，科學客觀性的建立，在於實驗或分析數據能夠公開，所以研究成果的發表也必須有相關資料的輔助，才能建立其信度與效度，然而多數研究機構並無法從商業組織取得合法授權的網路分析資料，多數商業公司的使用條款皆禁止這些資料被做衍生應用，而即使依法解釋商業公司未必能全然做這樣的要求，然進一步使用資料，如何做去識別化處理，也可能耗時並充滿合法標準模糊的不確定性；而即使像 Princeton 大學研究室能自主建立一個網路資料的收集平台，但其分析範圍也不一定能廣及終端消費者的網路行為，在這種種前提下，MLab 應勢而生，MLab 一開始的設立目標就是要將研究分析成果與公眾共享，形成一個公眾皆可共享的公眾資材 (commons)，所以這是取用 CC0 的主要原因。&lt;/p&gt;
+
+&lt;p&gt;透過 MLab 專案設計的使用與隱私權條款，所有相關工具與網路服務的使用者，都清楚被告知相關資料將被除去個人資料 (Personal Data) 之後進行統計分析，而這些統計分析的成果，亦會歸公眾所用，而不會被限定在特定商業公司或政府機關構內部。與此相近的國內實例，有台灣野生動物路死觀察網 (Taiwan Roadkill Observation Network，路殺社)，路殺社相關資料透過自行量測與公眾貢獻等多元方式取得，統整驗證後的具體成果，多採用 創用CC 姓名標示 3.0 台灣版 條款 (CC BY 3.0 TW) 授權公眾使用。與這些少數的開放授權案例相較，目前網路撈取分析資料的實狀，仍較近於 2010 年 Pete Warden 發表部落格文 - 我如何被 Facebook 聯繫要告 (How I got sued by Facebook) 的狀態，該文說明 Pete Warden 因為驗證分析上的需求，依照 Facebook 揭露的 robot.txt 文件，撰寫了網路爬蟲程式在 Facebook 上捉取他需要的資訊，在他對公眾說明相關方式與成果後，卻為 Facebook 聘僱的律師告知，若不是因為 Pete Warden 之前曾善意舉報一些 Facebook 平台上的安全性漏洞，不然 Facebook 曾考量直接對他發動訴訟，因為即使 Pete Warden 依照 Facebook 主動揭露 robot.txt 文件的技術容許規格來撈取資訊，從使用條款的角度這仍然沒有取得 Facebook 正式的書面授權，而有違法侵權的疑慮必須解決，最後此事以和解收場，Pete Warden 無奈的將其觀測成果及其衍生分析全然銷毀。然而，如果能透過公私協力的角度，促生更多如 MLab 或路殺社這樣的公民科學、開放資料分享平台能推出，則網路資訊實證分析這件事，將能被做的更適法、適當，而不會讓使用者一直處於標準不一、難以放心的研究窘境。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;How fast is your internet? How MLab uses CC0 data for the public interest: &lt;a href=&quot;https://creativecommons.org/2016/11/30/mlab/&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/2016/11/30/mlab/&lt;/a&gt;, 2016 Jennie Rose Halperin, CC BY 4.0.&lt;/li&gt;
+	&lt;li&gt;Introduction to Measurement Lab: &lt;a href=&quot;https://youtu.be/RnIVMfBP4So, 2011 New America&quot; target=&quot;_blank&quot;&gt;https://youtu.be/RnIVMfBP4So, 2011 New America&lt;/a&gt;, CC BY 3.0.&lt;/li&gt;
+	&lt;li&gt;Measurement Lab: &lt;a href=&quot;https://www.measurementlab.net/&quot; target=&quot;_blank&quot;&gt;https://www.measurementlab.net/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;開放政府資料的基本原則與相關政策議題：&lt;a href=&quot;http://www.ndc.gov.tw/Content_List.aspx?n=77B170ACDA8F8252&quot; target=&quot;_blank&quot;&gt;http://www.ndc.gov.tw/Content_List.aspx?n=77B170ACDA8F8252&lt;/a&gt;，2014 李治安、林誠夏、莊庭瑞，公共治理季刊 103 年 3 月第二卷第一期。&lt;/li&gt;
+	&lt;li&gt;台灣野生動物路死觀察網 (Taiwan Roadkill Observation Network)：&lt;a href=&quot;https://roadkill.tw/&quot; target=&quot;_blank&quot;&gt;https://roadkill.tw/&lt;/a&gt;，網站內容採用 創用CC 姓名標示 3.0 台灣版 條款授權公眾使用。&lt;/li&gt;
+	&lt;li&gt;How I got sued by Facebook: &lt;a href=&quot;https://petewarden.com/2010/04/05/how-i-got-sued-by-facebook/&quot; target=&quot;_blank&quot;&gt;https://petewarden.com/2010/04/05/how-i-got-sued-by-facebook/&lt;/a&gt;, 2010 Pete Warden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 07 Dec 2016 05:26:40 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1246 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20161207#comments</comments>
+</item>
+</channel>
+</rss>

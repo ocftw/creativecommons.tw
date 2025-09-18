@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 公眾領域</title>
+ <link>https://creativecommons.tw/category/tags/%E5%85%AC%E7%9C%BE%E9%A0%98%E5%9F%9F</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>創用CC授權條款 4.0 繁中譯文已近定稿：即日起歡迎大家貢獻您的評論！</title>
+ <link>https://creativecommons.tw/blog/20160605</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林懿萱、林誠夏／文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/CC_BY-NC-SA-4.0-common_deed.png&quot; style=&quot;height:422px; width:700px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;台灣創用CC 計畫協助進行的創用CC 授權條款 4.0 繁體中文翻譯，即日起至 2016 年 7&amp;nbsp;月 31&amp;nbsp;日止，進入了為期約一個月的公眾評論期 (public comments period)。此一模組化式的創用CC 授權條款 4.0 版，是因應 Open Data 及跨國協作專案所升級改版的法律工具，其適用對象包括具資料庫權利保護地位的素材 (material)，可以協助創作、素材的提供者，選擇他們偏好的授權組合，再依其規劃，讓這些作品與素材，可以採授權文字全球均一化的方式釋出，裨利於跨域與跨界合作共工，以產生更完整、更具影響力的公眾參與式創作！&lt;/p&gt;
+
+&lt;p&gt;Creative Commons 組織於 2013 年 11 月 25 日，便已推出現行 4.0 版的授權條款，然而因為此一版本與全球各地合作網絡的互動模式改變，故整體更新的進度較為慎重而緩慢，但目前也已取得頗多進展，主要是，創用CC 4.0 版授權條款最大的改變特點有三：第一、走的是國際化路線，僅有推出時的英文版本為具有正式法律準據力的授權文本，故其條款原則上不再進行「本地化 (porting)」的法規調適，而是建議一個語言一個翻譯版本；第二、納入資料庫權利保護 (sui generis database rights)，明定其為創用CC 新版條款的授權所及客體，以讓創用CC 授權條款，正式前進到開放資料 (Open Data) 的應用環境下；第三、參酌若干常見自由開源軟體授權條款的設計，以為創用CC 授權條款日後再改版，或在實際運用環境下，能與自由開源軟體授權條款結合運用，例如 4.0 新增的 30 天即時更正自動復權條款、編撰時以白話淺顯的方式來行文，還有於 2015 年 10 月初確定，CC BY-SA 4.0 授權素材能單向轉換為 GPL-3.0 授權被使用在軟體專案裡，在在都是在與自由開源軟體授權條款進行的相容性規劃。&lt;/p&gt;
+
+&lt;p&gt;由於此次 CC-4.0 的繁體中文翻譯，並不設限以臺灣一地的創作人與使用者為預設採用族群，而是著眼讓全球各地的繁體中文使用者，有相關需求時都可以自主採用，故如香港、北美，或其他有機會使用繁體中文文本來釋出或使用作品的朋友，亦非常歡迎能夠提出您對翻譯的反饋與修正意見出來。以下為您簡介此段時間進行 CC-4.0 繁體中文翻譯的重要要點或爭點，相關項目將會在未來近一個月的討論期間進行最後的決斷，亦非常歡迎您能就這些項目要點，提供您真灼的評論意見：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;Creative Commons public licenses 是否仍然中譯為 3.0 本地化版本時使用之「創用CC 授權條款」？維持原創用CC 授權條款之譯文，在傳達上最不易造成誤會，然此一翻譯方式，並不受香港及北美一地的潛在使用者所熟悉。目前暫訂為求譯文上的連續性與一致性，且原「創用CC 授權條款」用詞已具一定之識別性，將建議保留之並以英文加註。&lt;/li&gt;
+	&lt;li&gt;CC 授權作品、改用作品等詞彙是否配合 CC-4.0 通俗化之用字，改稱之為 CC 授權素材、改用素材？此一作法尊重新版條款以素材 (material) 一字統合作品 (work) 與資料庫權利 (Sui Generis Database Rights) 之設計；然「素材」固為尊重 CC-4.0 新版條款之新創字，於國內外著作權法尚屬較不常見之表達方式。&lt;/li&gt;
+	&lt;li&gt;權利之例外與限制條款裡，是否將英制之 Fair Dealing 及其他多數國家慣用之 Fair Use 統稱合理使用？因此兩者在細部上固有不同內涵，然多數國家之著作權法析之並無過大差異，或是分譯讓「合理使用、合理處置」並列，也是一個可資考量的作法。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;本文附件為創用CC「姓名標示─非商業性─相同方式分享」4.0 國際 公眾授權條款之法律條款 (Legal Code) 的中英對照全文草稿，您可協助閱覽之後，透過右列開放文化基金會 (Open Culture Foundation, OCF) 與台灣創用CC 計畫一同協作的「CC社群授權討論室：&lt;a href=&quot;https://groups.google.com/forum/#!forum/cctw-discussion&quot; target=&quot;_blank&quot;&gt;https://groups.google.com/forum/#!forum/cctw-discussion&lt;/a&gt;」，直接公開發布您的寶貴評論與看法！或者，您希望以英文為主進行評論的編寫時，可透過電子郵件的方式，於信件標題上標註[cc-4.0-tc-draft]作為識別之後，將您的英文評論寄到 cc-licenses AT lists.ibiblio.org&amp;nbsp;給全球 CC 授權的討論群組，亦可。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/20160606-cc-4.0_tc_draft-plain_text_0.txt&quot; target=&quot;_blank&quot;&gt;下載 CC BY-NC-SA 4.0 法律條款繁中草稿純文字檔&lt;/a&gt;、&lt;a href=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/20160606-cc-4.0_tc_draft-odt_format_3.odt&quot; target=&quot;_blank&quot;&gt;下載 CC BY-NC-SA 4.0 法律條款繁中草稿 odt 檔&lt;/a&gt;、&lt;a href=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/20160606-cc-4.0_tc_draft-pdf_format_3.pdf&quot; target=&quot;_blank&quot;&gt;下載 CC BY-NC-SA 4.0 法律條款繁中草稿 pdf 檔&lt;/a&gt;。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;參考資料：&lt;br /&gt;
+&lt;a href=&quot;http://creativecommons.tw/blog/20131127&quot; target=&quot;_blank&quot;&gt;http://creativecommons.tw/blog/20131127&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.fsf.org/blogs/licensing/creative-commons-by-sa-4-0-declared-one-way-compatible-with-gnu-gpl-version-3&quot; target=&quot;_blank&quot;&gt;https://www.fsf.org/blogs/licensing/creative-commons-by-sa-4-0-declared-one-way-compatible-with-gnu-gpl-version-3&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://creativecommons.org/faq/#should-i-choose-an-international-license-or-a-ported-license&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/faq/#should-i-choose-an-international-license-or-a-ported-license&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 05 Jun 2016 14:32:45 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1221 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20160605#comments</comments>
+</item>
+<item>
+ <title>CC0 法律條款中譯已近定稿：即日起歡迎大家貢獻您的評論！</title>
+ <link>https://creativecommons.tw/blog/20160214</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/sites/creativecommons.tw/files/imagecache/blog-img/Creative%20Commons%20CC0%201.0%20%E9%80%9A%E7%94%A8%20-%20%E8%AB%8BAlly%E5%B9%AB%E5%BF%99%E4%B8%8A%E5%9C%96.png&quot; style=&quot;height:400px; width:700px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;台灣創用CC 計畫協助進行的 CC0 1.0 Universal（CC0 1.0 通用）公眾領域貢獻宣告，已到了緊鑼密鼓的確認階段，即日起自 2016 年 2 月 15 日開始，進入了為期一個月的公眾評論期 (public comments period)。CC0 是一個非常重要的法律工具，可以協助著作權人，或內容受資料庫保護的權利人等，拋棄他們對各自著作的利益，並盡可能將這些著作釋出到公眾領域 (public domain)，讓其他人可以任何目的自由地以該著作為基礎，從事創作、提升或再使用等行為，而不受著作權或是資料庫相關法律的限制。非常歡迎有意願提出您反饋與修正意見的朋友，可以協助閱覽右列連結提供的&amp;nbsp; CC0 法律條款 (Legal Code) 中英對照全文草稿：&lt;a href=&quot;http://creativecommons.tw/draft.cc0&quot; target=&quot;_blank&quot;&gt;http://creativecommons.tw/draft.cc0&lt;/a&gt;，或透過本文附件下載其純文字檔，在閱覽之後將您寶貴的想法透過電子郵件，在信件標題上標註[cc0-draft]作為識別之後，投遞到 legal@creativecommons.tw 給我們！&lt;/p&gt;
+
+&lt;p&gt;事實上，近代不少的公眾授權條款 (General Public License)，包括 GPL-3.0、MPL-2.0、還有創用CC 授權條款 (Creative Commons Licenses)，因為要形塑一個公眾皆可分享、公眾皆可取用的開放氛圍，除了協作專案本身是以公眾參與的方式來進行，就連規劃協作成果應當如何互助分享的授權條款，也多是盡量以讓公眾能夠參與的模式來編撰與更新！進一步來說，公眾授權條款其使用者，就是廣大的大眾協作參與群眾，故相關授權規範在制定與討論之初，如果能夠適時、適份的導入公眾的評論與力量，那未來所建立出來的協力模式，將會是最為穩健而能夠聚集最大共識的成果。&lt;/p&gt;
+
+&lt;p&gt;本次要為大家推出的 CC0 - 公眾領域貢獻宣告，經歷了長時間的確認與討論，主要是 CC組織 (CC headquarters) 與其簽署備忘錄的全球各地團隊 (CC affiliates)，正歷經從本地化 (porting project) 遷移至翻譯化 (translation project) 的合作模式，3.0 版之前的各式 CC 授權條款，為了在各司法管轄區域 (jurisdiction)，以最切合當地法律制度的模式與語言呈現，多會在翻譯進行時，一併進行本地化的法規調適工作，也就是說過去的本地化，並不是單純的翻譯，若有條款內容在各地有窒礙難行或與法律預設規定存有落差時，CC 全球的協力團隊將會在過程中協助修潤部份翻譯文句，並將修潤過的翻譯文句與 CC組織進行討論後確認，以讓各司法管轄區域裡的 CC授權條款，能以最有效的法律文件形式進行散布；然而這樣的作法在 4.0 版之後進行了調整，目前的觀點是，CC 各式的授權與宣告文件，盡量在編撰之時就以白話淺顯的方式來行文，以避免落入既定法律框架的窠臼與限制，故與此種改變相對應的作法，就是逕予對其進行翻譯，而若翻譯的條款在各司法管轄區域裡，與當地法律制度之間存有落差時，再有賴司法審判時由承審法官來做適用幅度的確認。這樣的轉變立場，是著眼於 CC授權條款已漸漸成為具全球通用性的公眾授權條款，其交流的素材常常都有跨地、跨域的性質，故「同中存異 - 通用翻譯條款配合各地解讀」的模式，是目前討論之後確定的最大公約數。&lt;/p&gt;
+
+&lt;p&gt;也因為這樣的原因，CC0 中譯條款裡，將會出現相關權利 (related rights)、鄰接權利 (neighboring rights)、資料庫權利 (database rights) 等我國著作權法裡所未見之詞，不過，這些詞彙固然於法典中未被直接指定，但我國的作法是將許多其他各國列為鄰接權利的客體，都編入著作權利的特別類型中，故相應的 CC授權條款，經過解釋都還是可以被適用而不會產生應用上的漏洞。&lt;/p&gt;
+
+&lt;p&gt;參考資料：&lt;br /&gt;
+&lt;a href=&quot;http://creativecommons.tw/cc0&quot; target=&quot;_blank&quot;&gt;http://creativecommons.tw/cc0&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://creativecommons.tw/blog/20120711&quot; target=&quot;_blank&quot;&gt;http://creativecommons.tw/blog/20120711&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://gplv3.fsf.org/gpl-draft-2007-05-31.html&quot; target=&quot;_blank&quot;&gt;http://gplv3.fsf.org/gpl-draft-2007-05-31.html&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://blog.lizardwrangler.com/2010/03/10/updating-the-mozilla-public-license/&quot; target=&quot;_blank&quot;&gt;https://blog.lizardwrangler.com/2010/03/10/updating-the-mozilla-public-license/&lt;/a&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/20160215-cc0_tc_draft-plain_text.txt&quot;&gt;下載CC0-1.0通用法律條款中譯草稿純文字檔&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 14 Feb 2016 00:14:38 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1206 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20160214#comments</comments>
+</item>
+<item>
+ <title>如何利用公眾領域作品營利？</title>
+ <link>https://creativecommons.tw/blog/20151225</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;進入公眾領域的作品不受到著作權法的保護，可以將這些作品用於各種用途，當然也包含賺錢！&lt;/p&gt;
+
+&lt;p&gt;開放知識基金會的&lt;a href=&quot;http://publicdomainreview.org/&quot; target=&quot;_blank&quot;&gt;公眾領域評論網站(The Public Domain Review)&lt;/a&gt;就有一個線上商店，專門販售利用公眾領域圖像做成的紀念品，包含衣服、提袋、明信片，還有一個&lt;a href=&quot;http://33.media.tumblr.com/5fef6c954cdeb9e2b9f23efc732dcf38/tumblr_n944tcmAFz1sn8ptvo1_500.gif&quot; target=&quot;_blank&quot;&gt;手動的動畫播放器&lt;/a&gt;，這些收入將用來支持網站的運作。&lt;a href=&quot;http://antiqueclipart.com/image.php/romantic-pink-roses.html&quot; target=&quot;_blank&quot;&gt;Antique clipart&lt;/a&gt;、&lt;a href=&quot;http://grandmasgraphicsgifts.com/&quot; target=&quot;_blank&quot;&gt;Grandmas&#039;s graphics&lt;/a&gt;兩個網站在分享公眾領域作品之際同樣也有販賣周邊商品。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/The%20Public%20Domain%20Review%20Store-%20Gifts%20-%20Zazzle.com%20Store.clipular.png?itok=2pDYyThR&quot; style=&quot;height:250px; width:690px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;除了利用公眾領域圖像來做紀念品，也有人建議可以將進入公眾領域的影片與書籍重新以自己的方式出版販售。美國一位知名的自售食譜達人Ron Douglas，在&lt;a href=&quot;http://writeacookbook.publisheracademy.com/&quot; target=&quot;_blank&quot;&gt;傳授他人食譜出版秘訣&lt;/a&gt;時，就提到可以參考屬於公眾領域的食譜，將食譜內容化為己用。Douglas在推銷食譜出版秘訣時，甚至將三十篇公眾領域的食譜電子檔當作免費贈品來吸引顧客。其他人則是販售一些古老的心靈成長、勾針針織樣式、摔角說明手冊等書籍，或是NASA的免費圖像。Matt LaClear靠著這種出版模式，每個月可以有2萬5千元美金的收入。&lt;/p&gt;
+
+&lt;p&gt;除了直接販售公眾領域作品內容，在自己的網站上提供公眾領域素材，也可以增加網站的流量和廣告點擊率，這也是一種營利方式。&lt;/p&gt;
+
+&lt;p&gt;雖然利用公眾領域的圖像、書籍、影片賺錢，很像是占了前人的便宜。然而，這些人為了將公眾領域的古老作品變成當代會受青睞的商品，也都投入了各自的心血。舉例來說，公眾領域評論網站需要接洽合作廠商、調整圖畫的展現方式，Ron Douglas也在他人的食譜之外增加一些更能吸引人的內容，並善用美編軟體讓食譜看起來更有賣相，而且他們都需要行銷，想辦法遊說他人購買。&lt;/p&gt;
+
+&lt;p&gt;在這些公眾領域作品的使用者獲利之際，這些公眾領域作品其實也因此再次以不同面貌展現在當代人面前，讓當時的創作想法隔代活了過來。而且當人們發現這些公眾領域作品還有營利價值，也許就會引發動機想保存及數位化更多公眾領域作品，使網路上能找到更多古老的作品內容。&lt;/p&gt;
+
+&lt;p&gt;其實，每個人都可以免費取用公眾領域作品，因此這場公眾領域作品加值大賽的起跑點是相同的。當更多人開始使用公眾領域作品開發產品，自然會形成競爭，其中若有人能以低成本、高品質的方式加值，並成為最受買家歡迎的商品，那他就會成為最後的贏家。在這樣的過程中，除了眾人會更主動的想認識公眾領域，也可能會形成一種專門加值公眾領域作品的新行業，或產生一些新的研究主題，激發現在無法想像的互動火花。&lt;/p&gt;
+
+&lt;p&gt;參考資料&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://publicdomainreview.org/shop/&quot; target=&quot;_blank&quot;&gt;http://publicdomainreview.org/shop/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://blog.okfn.org/2013/11/12/announcing-the-launch-of-the-public-domain-review-store/&quot; target=&quot;_blank&quot;&gt;http://blog.okfn.org/2013/11/12/announcing-the-launch-of-the-public-domain-review-store/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.nichepursuits.com/do-public-domain-works-provide-a-good-business-opportunity/&quot; target=&quot;_blank&quot;&gt;http://www.nichepursuits.com/do-public-domain-works-provide-a-good-business-opportunity/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://money.cnn.com/magazines/business2/business2_archive/2006/12/01/8394975/&quot; target=&quot;_blank&quot;&gt;http://money.cnn.com/magazines/business2/business2_archive/2006/12/01/8394975/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.1millionfreepictures.com/2014/07/how-to-make-money-from-my-public-domain.html&quot; target=&quot;_blank&quot;&gt;http://www.1millionfreepictures.com/2014/07/how-to-make-money-from-my-public-domain.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;p.s. Udemy就有一堂MOOC就在&lt;a href=&quot;https://www.udemy.com/profiting-with-public-domain/&quot; target=&quot;_blank&quot;&gt;教人如何善用公眾領域營利&lt;/a&gt;，有興趣的人可以看看。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 25 Dec 2015 02:49:51 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1178 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151225#comments</comments>
+</item>
+<item>
+ <title>六間博物館的開放館藏圖像現況</title>
+ <link>https://creativecommons.tw/blog/20151222</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;在之前一系列對於特定博物館、藝術館開放政策或經驗分享的介紹後，本文將一次介紹六間文化機構的開放館藏現況。許多文化機構雖然沒有採用公眾領域標章PDM、公眾領域貢獻宣告CC0或是創用CC的授權條款，然而在網站上公布的圖像使用條款或開放政策都是符合開放原則的。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;德國數位圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://C:\Users\RU\Desktop\CC\(http:\www.deutsche-digitale-bibliothek.de\)&quot;&gt;德國數位圖書館&lt;/a&gt;是1913年才成立的圖書館，沒有很多公眾領域素材，只能將數位化後的館藏置於圖書館內供讀者使用。不過，他們提供了100本進入公眾領域的席勒及歌德經典著作給Europeana。普魯士文化資產基金會領導人Herman Parzinger指出，「德國數位圖書館的目標是提供每個人能不受任何限制的取用德國的文化及科學資產，也就是說，要讓整個德國都能取用上萬本書籍、典藏物品、圖像、雕像、音樂與聲音檔，以及影片與配樂。」&lt;/p&gt;
+
+&lt;p&gt;另一方面，德國數位圖書館在2010年就已經以自己制定的授權條款釋出權威檔案作為連結資料(linked data)，希望使用者要標示出處且不能有營利行為。2011年，由於歐洲國家圖書館員會議(Conference of European National Librarians)決定要採用公眾領域貢獻宣言CC0，德國數位圖書館也開始以CC0釋出他們的詮釋資料。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;立陶宛美術館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;立陶宛美術館乃1997年由立陶宛政府資助的國家博物館，其目標在於蒐集、保存、研究和推廣藝術。他們為了展現開放性及提升可見度而加入Europeana，希望能因此和其他國家就文化資產的保存和散佈進行合作。&lt;/p&gt;
+
+&lt;p&gt;立陶宛美術館提供的多數數位內容都標上了公眾領域標章PDM，希望因此讓這些作品更容易被取用、讓更多人看到。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;保羅蓋提博物館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;保羅蓋提博物館(J. Paul Getty Museum)的開放圖像十分有名，網站上有超過9萬9千張開放內容圖像(open content image)，允許基於個人、教育、非商業目的之使用者直接下載。研究用途、印刷出版、電子媒體三種用途則必須提出申請依據個案審核，使用者需要支付一定費用，且館方保留對於出版品最終使用圖像的同意權。&lt;/p&gt;
+
+&lt;p&gt;蓋提博物館信託主席James Cuno&lt;a href=&quot;https://artouch.com/m/artco/story.aspx?aid=2015030516984&quot;&gt;受訪時表示&lt;/a&gt;，數位化可以讓分散在各地的藝術品於線上團聚，也可以讓不同地方的人同時使用一幅作品，促使藝術圖像能更為有效地被機構及個人利用。&lt;/p&gt;
+
+&lt;p&gt;他們在當初評估是否要開放館藏時，除了基於開放藝術作品有利人們進一步創作的理想，也發現可以因此節省成本。博物館可以不用將人力與經費用在確認是誰使用圖像、基於何種理由使用、用於何處。而且他們也發現網站上線後，實際到館的人數不減反增，因為大家看了網路上的圖像後會更渴望看到真實的東西，畢竟實際觀賞館藏與線上觀賞館藏是兩種不同的體驗。&lt;/p&gt;
+
+&lt;p&gt;不過，James也說，有些博物館認為數位化典藏的開銷過大，有些博物館則是投資於當代作品。不同館會因為各自的館藏及著重點不同，而有不同考量。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;洛杉磯郡立美術館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;洛杉磯郡立美術館(Los Angeles County Museum of Art, LACMA)已經將2萬張左右高解析度的公眾領域館藏圖像置於網路，供使用者免費下載使用於各種用途。不過，館方主張對於這些公眾領域作品的數位圖像擁有著作權。&lt;/p&gt;
+
+&lt;p&gt;一開始，想使用洛杉磯郡立美術館的圖像必須向館員申請。後來，他們先將目錄數位化放到網站上供人使用，接著再把一些並未註明著作權歸屬的作品放到網路上，看看開放後會發生什麼事情。逐步嘗試都沒有什麼問題後，館方便制定並公開了清楚的圖像取用政策。&lt;/p&gt;
+
+&lt;p&gt;館內並沒有出現對於開放取用政策的反對聲浪。其中一個原因是，他們認為未來圖像的商業性及非商業性用途會越來越難判斷，博物館沒有這麼多資源可以去監控的情況下，開放是一個不錯的選項。&lt;/p&gt;
+
+&lt;p&gt;員工認為執行開放取用前需要考量三件事：1.博物館要承擔風險—人們可能會以傷及博物館品牌或博物館不允許的方式使用圖像。2.博物館必須解決技術問題以讓介面便於使用。3.要做好準備，開放取用是很耗費金錢的。另外，博物館領導人的支持度也是關鍵。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/British_Museum#/media/File:British_museum_entrance.jpg&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/440px-British_museum_entrance.jpg&quot; style=&quot;height:450px; width:600px&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://en.wikipedia.org/wiki/British_Museum#/media/File:British_museum_entrance.jpg&quot;&gt;本照片&lt;/a&gt;屬公眾領域。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;耶魯大學—英國藝術中心、大學藝廊&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;耶魯大學於2011年5月宣布館藏開放近用的政策，這是耶魯大學內的博物館、圖書館與校長辦公室、總顧問辦公室、主要資訊長、耶魯大學出版社等單位共同達成的共識。制定開放政策的時間長達一年，希望有足夠的時間確保大學職員都能理解此政策，並且知道要如何實施。&lt;/p&gt;
+
+&lt;p&gt;耶魯大學了解數位化並散佈館藏圖像需要成本，因此允許館藏徵集部門就他們提供的服務收費，但是這些費用並非來自著作權。而且在諸多分館中，耶魯英國藝術中心(The Yale Center for British Art)及耶魯大學藝廊(Yale University Art Gallery)不會收取任何費用。&lt;/p&gt;
+
+&lt;p&gt;耶魯英國藝術中心有超過5萬幅畫作、雕像、印刷品，其中八成都屬於公眾領域，將近45%都已經完成數位化，但尚未盡數上線。圖像提供三種不同大小的檔案供下載，下載時沒有額外的要求。尚未上線的作品可以在網站上提出申請。該館並未要求使用者要註明出處，但是建議使用者標示來源以便讓其他人可以來此使用更多資源。&lt;/p&gt;
+
+&lt;p&gt;耶魯英國藝術中心在在耶魯大學還未發布開放近用政策前，就已經允諾可以免費將圖像用於各種目的。他們認為提供公眾領域作品的圖像及這些物件的相關資訊供大眾取用，有利於鼓勵藝術創意的發想。&lt;/p&gt;
+
+&lt;p&gt;耶魯大學藝廊和耶魯英國藝術中心有密切的合作關係，他們在2013年發布網站，允許使用者可以無條件下載圖像。同樣的，若是需要的圖像還未上線，使用者可以提出申請，目前多數申請來自學術用途。&lt;/p&gt;
+
+&lt;p&gt;起初有一些人擔心會因此失去對於館藏圖像的控制權，然而這些擔憂現已經消失，職員很期待能盡可能地提供使用者更多館藏取用管道。在開放圖像的同時，館方也使用學術印刷圖像(IAP)服務來回應商業性用途的圖像申請，尋找處理「付費與免費」兩難的最佳方案。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;大英博物館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;大英博物館提供超過73萬幅數位化的作品供民眾使用。不過，使用者需要先完成簡單的註冊流程並承諾不會用於商業用途，兩天後館方才會將檔案透過電子郵件寄給使用者，使用時需要標示出處。現在目前有差不多100萬人使用圖像資料庫，且數字仍在持續上升中。&lt;/p&gt;
+
+&lt;p&gt;大英博物館不太擔心會失去館藏圖像的控制權，認為博物館的館藏圖像應該要讓公眾使用。然而博物館的營利單位仍會在乎營利損失，因此要求商業性用途仍需簽訂授權協議及支付費用。&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;參考資料&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://openglam.org/2012/12/12/why-the-german-digital-library-should-learn-from-europeana/&quot;&gt;http://openglam.org/2012/12/12/why-the-german-digital-library-should-learn-from-europeana/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://openglam.org/2013/04/19/one-year-later-linked-open-data-in-the-german-national-library/&quot;&gt;http://openglam.org/2013/04/19/one-year-later-linked-open-data-in-the-german-national-library/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://pro.europeana.eu/blogpost/how-the-lithuanian-art-museum-shares-their-culture-with-the-worl&quot;&gt;http://pro.europeana.eu/blogpost/how-the-lithuanian-art-museum-shares-their-culture-with-the-worl&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.getty.edu/art/collection/&quot;&gt;http://www.getty.edu/art/collection/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.getty.edu/about/opencontent.html&quot;&gt;http://www.getty.edu/about/opencontent.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.getty.edu/about/opencontentfaq.html&quot;&gt;http://www.getty.edu/about/opencontentfaq.html &lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://artouch.com/m/artco/story.aspx?aid=2015030516984&quot;&gt;https://artouch.com/m/artco/story.aspx?aid=2015030516984&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://ydc2.yale.edu/documentation/faq-open-access-digital-representations-works-public-domain-museum-library-and-archive&quot;&gt;http://ydc2.yale.edu/documentation/faq-open-access-digital-representations-works-public-domain-museum-library-and-archive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 22 Dec 2015 00:13:09 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1185 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151222#comments</comments>
+</item>
+<item>
+ <title>為什麼他們想使用公眾領域貢獻宣告(CC0)？</title>
+ <link>https://creativecommons.tw/blog/20151217</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;公眾領域貢獻宣告的英文是CC0，也就是比創用CC姓名標示的條款更進一步，移除掉所有使用限制，讓以CC0授權的作品可以任意使用於各種用途，而且連作者姓名都不用標示，讓作品提早進入公眾領域。&lt;/p&gt;
+
+&lt;p&gt;想像一下辛辛苦苦創作出來的作品，可能會被其他人輕鬆用在他們的作品中，就好像作業被抄襲一樣的感覺，怎麼會有人願意以CC0授權釋出自己的作品呢？&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;首先，有些人發現在網路上可用的數位公眾領域越來越少，希望能以CC0是出一些作品來彌補這個缺陷。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Thomas Bonte和同學Nicolas Froment、Werner Schweer是開放資源樂譜計畫&lt;a href=&quot;http://musescore.org/&quot; target=&quot;_blank&quot;&gt;MuseScore&lt;/a&gt;的人員，MuseScore讓人們可以上傳自己的演奏影片，讓他人能搭配樂譜一起觀看，許多演奏影片都採用創用CC授權。&lt;/p&gt;
+
+&lt;p&gt;多數古典音樂都是公眾領域，但是高品質的當代錄音並不是。因此，他們在Kickstarter發起一個&lt;a href=&quot;http://www.kickstarter.com/projects/293573191/open-goldberg-variations-setting-bach-free&quot; target=&quot;_blank&quot;&gt;募資計畫&lt;/a&gt;，會將朋友Kimiko Ishizaka演奏的郭德堡變奏曲錄製下來以CC0釋出。希望能讓這個演奏版本就像是原本進入公眾領域的原曲一樣，不限制任何使用方式，使作品能盡可能地被使用。&lt;/p&gt;
+
+&lt;p&gt;Thomas總是鼓勵合作的音樂人能想想開放授權的力量。他說：「你不只透過你的藝術作品與觀眾溝通，你也藉由允許他們使用你的藝術作品來與他們溝通，而且這件事就和藝術本身同等重要。」Kimiko接下來錄製&lt;a href=&quot;https://www.kickstarter.com/projects/opengoldberg/open-well-tempered-clavier-bah-to-bach&quot; target=&quot;_blank&quot;&gt;巴哈的平均律鋼琴曲&lt;/a&gt;也將會以CC0授權釋出，而且他們這次還會製作盲人音樂家在braille可用的樂譜。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;其次，以CC0授權作品可能會帶來意想不到的知名度及流傳度。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;知名的照片網站&lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;每10天會分享10張以CC0釋出的高品質照片，現在已經有越來越多網站都使用他們的照片作為素材。&lt;/p&gt;
+
+&lt;p&gt;Unsplash是Crew公司的分項計畫，其實並非公司業務的重點。Crew公司的Mikael Cho在受訪時表示，當時他們正在建立公司網站，由於不滿於網路上低品質的照片，就聘請一個攝影師拍攝一組咖啡店的照片。最後，他們只挑選其中一張使用，便把剩下的照片上傳到tumblr讓他人免費下載，供其他也找不到好照片的人使用。沒想到，他們將網站連結貼到設計師、工程師和創業者的社群網站Hacker News後，立刻成為Hacker News排名第一的網站，而且有超過1千萬次的照片下載次數。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/bag-and-hands.jpg?itok=-VKQ2CMc&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;br /&gt;
+(這是Unplash最初以CC0釋出的十張照片中最受喜愛的一張，攝影師是Alejandro Escamilla，他也因為Unplash增加知名度。)&lt;/p&gt;
+
+&lt;p&gt;由於很多人好奇是誰提供這些照片，就會點連結到Crew的官方網頁，使他們在短短幾天內獲得前所未有的知名度，他們從來沒想到上傳照片所花費的19元美金與3小時可以帶來這樣的宣傳成效。甚至，後來他們也從Unsplash的使用者中招募到他們需要的優秀員工。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;第三，以CC0授權的資料可以在無任何阻礙的情況下傳播得更快更廣。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;2011年，日本311大地震帶來了嚴重災害，福島核電廠周圍地區的放射物質對於居民十分不利。一個月後，Sean Bonner與Joi Ito展開了Safecast計畫，透過志工以集體力量蒐集到的資料，建立日本輻射地區的即時資訊系統。他們採用CC0授權，確保他人在使用這些資料時絕對不會有任何阻礙。發布計畫後，資料貢獻者與使用者確實都大幅成長，也在媒體及政府以外，成為正確度與完整度較高的資訊來源。&lt;/p&gt;
+
+&lt;p&gt;最後，選擇CC0授權釋出作品也可以是一個人生目標。Toper Domingo不是專業攝影師，他知道自己的照片品質比不上專業，所以他不打算販售照片，而是讓人們可以盡量使用。Toper為自己設定了一個目標，計畫要每天捐獻100張照片進入公眾領域，這樣30年累積下來將會有一百萬左右的照片。而他的網站名稱就是&lt;a href=&quot;http://www.1millionfreepictures.com/&quot; target=&quot;_blank&quot;&gt;1 Million Free Pictures&lt;/a&gt;，目前仍持續朝他的目標邁進中。&lt;/p&gt;
+
+&lt;p&gt;相關連結：&lt;a href=&quot;http://pd4pd.org/zh-hant/blog/86&quot; target=&quot;_blank&quot;&gt;為什麼他們願意在網路上提供公眾領域素材？&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;參考資料&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.1millionfreepictures.com/&quot; target=&quot;_blank&quot;&gt;http://www.1millionfreepictures.com/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.wpclipart.com/about.html&quot; target=&quot;_blank&quot;&gt;http://www.wpclipart.com/about.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://teamopen.cc/thomas/&quot; target=&quot;_blank&quot;&gt;http://teamopen.cc/thomas/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://teamopen.cc/sean/&quot; target=&quot;_blank&quot;&gt;http://teamopen.cc/sean/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://naomihattaway.com/2014/06/mikael-cho-from-unsplash/&quot; target=&quot;_blank&quot;&gt;http://naomihattaway.com/2014/06/mikael-cho-from-unsplash/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://blog.crew.co/how-side-projects-saved-our-startup/&quot; target=&quot;_blank&quot;&gt;http://blog.crew.co/how-side-projects-saved-our-startup/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 17 Dec 2015 01:13:37 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1180 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151217#comments</comments>
+</item>
+<item>
+ <title>開放教育資源姓名標示大哉問</title>
+ <link>https://creativecommons.tw/blog/20151210</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;數位學習研究者Brenda Padilla在他的&lt;a href=&quot;https://brendapadilla.wordpress.com/2015/02/27/the-nightmare-of-attributing-oers/&quot;&gt;部落格&lt;/a&gt;裡，指出幾個在利用開放教育資源時的姓名標示困擾，或許也是國內一些開放教育使用者正面臨的問題。&lt;/p&gt;
+
+&lt;p&gt;首先，Brenda同時開設兩門MOOC，會同時準備兩堂課程的教學活動與素材。雖然兩門課程並不相同，但是內容是相似的。這讓他感到困惑，不知道是否要註明其中一門課程來自自己的另一門課程。而且他在一門課裡會使用非常多由他人創造的資源，不清楚是否所有使用到的開放教育資源都必須標示出處。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/14783266675_1fe39d213c_b.jpg&quot; style=&quot;height:446px; width:650px&quot; /&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.flickr.com/photos/internetarchivebookimages/14783266675/in/photolist-owm79c-owmi8g-ow9aUS-oy6TFR-owjwnU-oeRDL7-oeSktT-oeRBk5-oeJ3et-oeRCz9-owjfyj-oy71sg-oujoFY-owmcG6-oeQWN5-owmc4c-ovWF32-oujqhJ-oujnYL-oeReQU-ouF2WY-c3KgPf-ow5bzp-owjq9w-owcVAV-odiVCs-owm3FF-ow56Nk-oeRu28-oeRisy-oeJYwg-ow8sNU-apx3Zt-owb7Qj-oce3kR-oce4Pc-4i8nAD-orEUAA-otGLy6-e8uzsz-5HiL3B-4i8nFk-4TPx7X-orEJwN-4TaNiD-7vfa57-6SM9Tk-fF6DvA-6SR71S-pzusFp&quot;&gt;此照片：無已知著作權&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;另外，他也發現他使用的開放教育資源在標示出處時十分混亂。像是他發現A使用某作品，說某作品是由B所創作的，但同時發現同一件作品在其他地方變成說是由C所創作的。Brenda認為，這可能是因為使用者在某網站上發現一個沒有標示出處的作品時，會假設該作品由該網站作者創作，但是很可能該作品的作者另有其人，只是該網站沒有善加標示而已。&lt;/p&gt;
+
+&lt;p&gt;再者，Brenda承認他自己有許多教學活動是在開放教育資源的啟發下所設計的，他覺得好像也應該要標示這些資源，以感謝這些教材對於自己的貢獻。但是他也常常遇到自己和他人想到類似的教學活動，看起來好像自己抄襲其他開放教育資源一樣，實際上他們只是剛好想到同一處而已。&lt;/p&gt;
+
+&lt;p&gt;Brenda認為應該避免改變開放教育資源，直接完整的使用整份檔案，可以有助於減少姓名標示錯誤的問題。或是多加使用早已超過著作權保護期限的公眾領域資源，就不用擔心任何標示問題。&lt;/p&gt;
+
+&lt;p&gt;針對他的第一個問題，就保險起見，還是應該將所有使用到的開放教育資源都標示出處。雖然可能很麻煩，甚至有些已經很難追溯到出處，但是至少比使用後被他人檢舉好。如果發現這些資源其實在課程中並非必要存在，像是只是作為插圖使用，缺少了也不會影響實質教學內容，就可以乾脆移除掉不使用。至於如果是自己使用自己的作品，由於著作權人都是自己，其實是否要標示出處都是由自己衡量。&lt;/p&gt;
+
+&lt;p&gt;第二個問題則是非常難解也非常普遍的問題。華盛頓州局社區與技術學院(SBCTC)基於此問題，推出「&lt;a href=&quot;http://www.openwa.org/open-attrib-builder/&quot; target=&quot;_blank&quot;&gt;OPEN姓名標示產生器&lt;/a&gt;」，簡化了姓名標示流程，方便眾人能更輕易且正確的使用開放教育資源，進而使更多教學場合採用開放教育資源。另外，在尋找素材時，則可以多加使用「&lt;a href=&quot;https://commons.wikimedia.org/wiki/Main_Page&quot; target=&quot;_blank&quot;&gt;維基共享資源&lt;/a&gt;」的素材，這裡會提供素材的完整履歷，清楚說明來源以及素材上傳者的資料，出處標示錯誤的機率會較其他網站減少許多。&lt;/p&gt;
+
+&lt;p&gt;至於Brenda的第三個問題，其實著作權法保障表達而不保障觀念。因此想到相同的教學活動，或是受到概念上的啟發，其實都不會涉及著作權法的相關議題。除非他的教材裡對於教學活動的描述和舉例都與另一份教材如出一轍，才會有著作權的糾紛。若是Brenda真的想要感謝其他開放教育資源帶給他的啟發，也是可以用文字另行感謝，但是不是強制性的，也不會有法律爭議。&lt;/p&gt;
+
+&lt;p&gt;Brenda對於多加採用公眾領域的建議很好，不過在使用公眾領域作品時要注意不同國家對於著作權法保障期限的規定不同，像是目前在臺灣是保障作者過世後五十年、在美國則是保障作者過世後七十年，因此有些作品在臺灣屬於公眾領域在美國則仍在保障期限。還有，有些公眾領域作品來自博物館的數位典藏，他們在館藏作品的使用上會有一些要求(像是要標示出處或非商業性使用)，使用時也應特別注意。(想要使用公眾領域素材嗎？可以來&lt;a href=&quot;http://pd4pd.org/zh-hant#about&quot; target=&quot;_blank&quot;&gt;這裡&lt;/a&gt;找！)&lt;/p&gt;
+
+&lt;p&gt;最後，千萬不要因為覺得姓名標示很麻煩就不改編開放教育資源喔！有任何創用CC授權方面的問題，都可以到[&lt;a href=&quot;https://groups.google.com/forum/#!forum/cctw-general&quot;&gt;CCTW General 創用CC社群論壇區&lt;/a&gt;（公開討論群組）] 提問或瞭解前人的問題，千萬別侷限自己善用開放素材發揮創意的潛力！&lt;/p&gt;
+
+&lt;p&gt;參考：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;https://brendapadilla.wordpress.com/2015/02/27/the-nightmare-of-attributing-oers/&quot; target=&quot;_blank&quot;&gt;https://brendapadilla.wordpress.com/2015/02/27/the-nightmare-of-attributing-oers/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://thesubtimes.com/2014/12/12/new-website-simplifies-use-of-open-educational-resources/&quot; target=&quot;_blank&quot;&gt;http://thesubtimes.com/2014/12/12/new-website-simplifies-use-of-open-educational-resources/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 10 Dec 2015 06:36:59 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1170 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151210#comments</comments>
+</item>
+<item>
+ <title>公眾領域帶給社會、創作者與使用者的價值</title>
+ <link>https://creativecommons.tw/blog/20151208</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;著作權法讓創作者能全權決定作品的用途並因而保障由作品獲利的權益，但同時也增加了他人取用其作品的成本。若是作品的著作權保障期限太長，他人就難以利用該作品進行改編或創新，對於整個社會文明與知識的進展都會形成不利影響。在著作權法保障範圍之外的公眾領域 (Public Domain)，是任何人無須詢問、不用付費就可以任意用於各種用途的資訊資源，希望大眾能因而降低取用成本，產生更多取用文化及進行創新的機會。&lt;/p&gt;
+
+&lt;p&gt;公眾領域帶給社會一個很明顯的正向影響，就是讓群眾協力完成的維基百科詞條更為豐富。&lt;a href=&quot;http://www.create.ac.uk/publications/copyright-and-the-value-of-the-public-domain/&quot; target=&quot;_blank&quot;&gt;研究&lt;/a&gt;發現，維基百科有圖片的文章，比起沒有圖片的文章會吸引到更多讀者(約17-19%)，一方面可能是因為讀者喜歡圖文並茂的文章，另一方面則是許多資訊在沒有圖片時其實很難加以說明。公眾領域的圖片既然可以任意使用，就讓維基百科的創作人能搭配更多圖片寫出更詳盡的文章，也導致維基百科上1880年前出生的人有比較多圖片、比較完整的人物介紹。&lt;/p&gt;
+
+&lt;p&gt;公眾領域不僅對於社會文明與知識創造產生好處，對於原創者其實也會帶來好處。雖然失去著作權保障會讓原創者無法控管作品的用途，也無法獲得權利金，但是可以讓作品更快速的流傳，並重新喚起眾人對於作品和作者的興趣。&lt;/p&gt;
+
+&lt;p&gt;從歷史上已有許多案例可以見證：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;英國浪漫時期詩人與小說家如拜倫、雪萊、濟慈、華茲華斯等人，因為當時(1774-1841年)的著作權保護期限較短，加上當時印刷技術興起，促使他們的作品快速進入公眾領域、大量散佈。英國在1841年起，逐步將著作權保護期限延長25-50年，導致其後的作品無法在短期內接觸到大量觀眾，也就無法像浪漫時期的這些作家產生這麼巨大的影響力。&lt;/li&gt;
+	&lt;li&gt;1974年，Frank Capra導演、Jimmy Stewart主演的電影「風雲人物(It&#039;s a Wonderful Life)」進入公眾領域，之前這部電影已經被忽視許久，1975年有一家電視台發現他可以免費播放便在聖誕佳節上映，短短幾年內，每逢聖誕節這部電影就會在美國各地電視台播放，使觀看這部電影成為聖誕節的傳統。&lt;/li&gt;
+	&lt;li&gt;2007年為法國知名管風琴家及作曲家Louis Vierne去世後的70周年。Louis Vierne有先天性白內障而將近失明，導致他的樂譜有許多錯誤，然而之前出版社受限於著作權的保障都未改正這些錯誤。值到超過著作權保障期限(70年)後，兩家德國出版社終於能發行糾正錯誤後的新版本樂譜。&lt;/li&gt;
+	&lt;li&gt;佛洛伊德雖然是知名的心理學大師，然而他在1999-2009年間僅發行了16本著作。2010年，佛洛伊德的作品在義大利成為公眾領域，該年短短的九個月內就有10家出版社發行了佛洛伊德36本著作。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/It%27s_a_Wonderful_Life_finish.jpg?itok=pVdYvIbR&quot; style=&quot;height:250px; width:690px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(圖片來源：&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:It%27s_a_Wonderful_Life_finish.jpg&quot;&gt;National Telefilm Associates&lt;/a&gt;，電影It&#039;s a Wonderful Life截圖，&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:It%27s_a_Wonderful_Life_finish.jpg&quot; target=&quot;_blank&quot;&gt;為公眾領域&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;至於博物館、檔案館等收藏作品的文化機構，同樣也能因為公眾領域獲利。文化機構將屬於公眾領域的作品置於網路上開放眾人使用，可以讓館藏被更多人看到、增加網站流量與機構知名度。同時，機構及使用者也能對於這些館藏進行加值，產生新的館藏使用方式，並產生與其他機構館藏進行連結與對比的可能性。&lt;/p&gt;
+
+&lt;p&gt;許多文化機構除了開放館藏，其實也將館藏的詮釋資料貢獻給公眾領域。當這些描述館藏作者、創作年代、創作素材、所在地等的資訊開放後，使用者就有機會能修改這些資訊，並且可以根據各自的生活用途發想如何使用這些資料開發應用服務。無形間增加了文化機構與服務對象的多種互動機會與互動方式，讓文化機構與其服務內容能更貼近大眾。&lt;/p&gt;
+
+&lt;p&gt;最後，公眾領域真的可以創造新的營利價值。&lt;a href=&quot;http://www.create.ac.uk/publications/copyright-and-the-value-of-the-public-domain/&quot; target=&quot;_blank&quot;&gt;2015年1月英國剛出爐的一份研究&lt;/a&gt;分析了使用公眾領域創作者在募資網站上的資金達標狀態，發現募資計劃成功率和使用第三方授權素材創作者差不多，但是如果是直接將公眾領域文學印刷出版並不會吸引大眾投資，需要將公眾領域素材改編成不同的形式才會吸引人。另外，他們也訪問了使用公眾領域創造營利產品的商家，商家指出，公眾領域素材的圖像解析度及數位檔案格式對於多媒體內容的呈現會造成很大的問題，很少人會因為公眾領域素材不具排他性而擔心競爭更為激烈。&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;參考資料&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.create.ac.uk/publications/copyright-and-the-value-of-the-public-domain/&quot; target=&quot;_blank&quot;&gt;http://www.create.ac.uk/publications/copyright-and-the-value-of-the-public-domain/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/415014/Copyright_and_the_value_of_the_public_domain.pdf&quot; target=&quot;_blank&quot;&gt;https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/415014/Copyright_and_the_value_of_the_public_domain.pdf&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.epsiplatform.eu/sites/default/files/Final%20TR%20Open%20Data%20in%20Cultural%20Heritage%20Institutions.pdf&quot; target=&quot;_blank&quot;&gt;http://www.epsiplatform.eu/sites/default/files/Final%20TR%20Open%20Data%20in%20Cultural%20Heritage%20Institutions.pdf&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://communia-project.eu/final-report/value-public-domain.html&quot; target=&quot;_blank&quot;&gt;http://communia-project.eu/final-report/value-public-domain.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 08 Dec 2015 01:23:27 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1152 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151208#comments</comments>
+</item>
+<item>
+ <title>Europeana：為數位文化遺產營造公眾空間</title>
+ <link>https://creativecommons.tw/blog/20151207</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Europeana的願景是：「建立一個歐洲數位文化遺產的公眾取用處，讓其成為所有對其有興趣者的公共財。」2012年，他們跨出重要一步，讓完整的資料集進入公眾領域，每個人因此可以免費而自由的重複使用這些由歐洲文化遺產機構提供的歷史、藝術、文學、音樂、電影、設計與時尚諸多面向的豐富資料。Europeana基金會執行長Jill Cousins將在本文介紹Europeana的下一步，指出現階段他們思考中並試圖解決的問題。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/GLAMWIKI.jpg?itok=KE4DLU3_&quot; style=&quot;height:250px; width:690px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;圖說：照片中為本文作者Jill Cousins。取自 &lt;a href=&quot;http://commons.wikimedia.org/wiki/File:GLAMWIKI_UK_2010-33.jpg&quot; target=&quot;_blank&quot;&gt;wikimedia commons,&lt;/a&gt;，&lt;a href=&quot;https://commons.wikimedia.org/wiki/User:Mike_Peel&quot; title=&quot;User:Mike Peel&quot;&gt;Mike Peel 拍攝,&lt;/a&gt; CC BY-SA 4.0.&lt;/p&gt;
+
+&lt;p&gt;Europeana聚集了歐洲的藝術館、圖書館、博物館、檔案館、影音館藏的數位內容。目前，Europeana藉著合作計畫，提供來自2300個內容提供者的三億件書籍、影片、畫作、博物館物件與檔案。其核心目標是建立新管道，讓人們可以為了工作、學習或是娛樂等目的參與文化及歷史。事實上，藉由數位開放文化遺產的近用，並鼓勵想法及資訊的交流，將有利於我們更理解我們的文化多元性，進而造就蓬勃的知識經濟。&lt;/p&gt;
+
+&lt;p&gt;Europeana的願景宏大，且已經取得一些明顯成就，像是以CC0釋出Europeana詮釋資料，使其可以在商業與非商業用途下重複使用。不過，若要使這些完全發揮潛能，就需要有進一步的加乘作用。也就是說，要從原本少數有志者形成的成員網絡轉變為一場群體參與的大規模運動。&lt;/p&gt;
+
+&lt;p&gt;Europeana成員網絡由900多位代表文化遺產及數位科技部門的成員組成，同時也和歐盟會員國的內容提供者合作，一起為了歐洲公眾的利益發展Europeana。在眾志成城之際，我們必須問個問題：「要怎麼做才可以讓我們最佳化管理這個過程及我們創造出的資源？」&lt;/p&gt;
+
+&lt;p&gt;起初，我們被「匯集」資源的需要所推動，而現在我們更關注的是「散布」，要使這些內容被維基百科編輯者、軟體與應用程式開發者、學校及文創產業等使用者取用。&lt;/p&gt;
+
+&lt;p&gt;之前以CC0釋出詮釋資料，讓我們可以根據「&lt;a href=&quot;http://pro.europeana.eu/linked-open-data&quot; target=&quot;_blank&quot;&gt;鏈結開放資料(linked open data)&lt;/a&gt;」原則取用資料。這意味著任何人可以將Europeana的詮釋資料及搜尋功能融入自己的網站和應用程式，讓我資料可以在HistoryPin與維基百科等網站上重新使用，且打開商業重複使用的大門。雖然這是好消息，但是原本的Europeana模型是單方向將資訊推給使用者，並不符合擴展式散佈的新型態。目前，共享權利及合作的程度還不夠，使用者並沒有在管理結構裡扮演重要角色。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;給歐洲的文化公共財(Cultural Commons)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;2012年三月，我們問自己，是否Europeana可以和內容提供者、Europeana網絡成員及使用者形成一個相互支持並不斷尋找新方式吸引使用者的社群，共同為歐洲建構一個文化公眾資產？另外，藉由將Europeana形塑成文化公共財，我們可以達成聯繫起歐洲民眾與文化的共享目標嗎？&lt;/p&gt;
+
+&lt;p&gt;要回答這些問題，我們需要先理解公共財的基本原則。試想人人都享受其中的綠草如茵或潺潺清水，這些並不屬於任何人，也可以說它們屬於每個人，而且我們都對其負有責任。為什麼我們不會破壞綠地，也不會將垃圾丟到附近的水庫？因為我們知道，好好為他人對待共享資源，就是在為我們自己預留更多使用機會。&lt;/p&gt;
+
+&lt;p&gt;根據Charlotte Hess，公共財(Common)是一個廣泛的概念，指的是「一群人共享的資源」。此概念提供一種「看待哪些是共享的，或哪些是應該在世界被共享的」之新方式，且著重於集體行動及對於「誰分享了什麼、如何分享、如何為了下個世代維持」之重要性的理解。&lt;/p&gt;
+
+&lt;p&gt;自然資源是很明顯的公共財，其實在許多其他領域也都有公共財。像是分享學術文章的&lt;a href=&quot;http://arxiv.org/&quot; target=&quot;_blank&quot;&gt;ArXiv&lt;/a&gt;就是研究公共財，&lt;a href=&quot;http://www.library.manchester.ac.uk/aboutus/locationsandopeninghours/learningcommons/&quot; target=&quot;_blank&quot;&gt;曼徹斯特大學&lt;/a&gt;及&lt;a href=&quot;http://library.illinois.edu/ugl/lc/&quot; target=&quot;_blank&quot;&gt;伊利諾大學&lt;/a&gt;都提供教育公共財，還有巴塞隆納數位文化計畫&lt;a href=&quot;http://citilab.eu/&quot; target=&quot;_blank&quot;&gt;Citilan&lt;/a&gt;與英國的&lt;a href=&quot;http://www.bbc.co.uk/blogs/bbcinternet/2011/10/digital_public_space_idea.html&quot; target=&quot;_blank&quot;&gt;數位公眾空間&lt;/a&gt;這些文化公共財。&lt;/p&gt;
+
+&lt;p&gt;若我們把數位文化遺產視為公共財，就意味著我們將藝術作品、文學、音樂與影片的數位版本及它們的詮釋資料當成我們有興趣取用及維持的公眾資源。一但開始做此思考，一些難以回答的問題便接踵而來：&lt;/p&gt;
+
+&lt;p&gt;「如果使用者有近用並參與其文化的權利，在這個總是彼此連結、無時無刻不開放、多種平台並存的數位世界中，我們可以怎麼在最符合使用者需求及期望的情況下傳遞文化？這會對我們的機構及其在文化景觀的地位產生何種意義？數位化可以如何為徵集、保存及提供內容的傳統活動增加進一步價值？在一些形式的開放內容支持下，是否有機會與私人企業文化部門產生新關係？這些產品與服務將如何影響出版者及其他內容供應商的商業報價？」&lt;/p&gt;
+
+&lt;p&gt;雖然要回答這些問題需要花不少時間，但是文化公共財預期可帶來的好處將激勵我們產生更高目標。&lt;/p&gt;
+
+&lt;p&gt;假如我們可以建構歐洲文化公共財，那我們就能讓文創產業、開發者及創新者使用我們的內容、發揮我們所缺乏的技巧。就像Michael Edson所說的，「當創作者可以藉由公眾領域、合理使用、公共財或其他方法，自由免費且無限制的取用他人作品，創新就會被激發。」未來將會出現以嶄新方式使用文化遺產內容的出版品、應用程式、網站和遊戲，這些可以反過來回饋文化遺產機構(藝術館、圖書館、檔案館、博物館)，帶來新的使用者群及引發更多工作及經濟成長機會。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;歐洲文化公共財的五項原則&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;目前我們已有了明顯的進展。首先，專案小組就文化公共財的概念做了一番探究，在經過一系列和歐洲政策制定者合作的工作坊以及多次Europeana成員網絡的聚會後，專案小組對於歐洲文化公共財達成了五項原則共識：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;相互性(Mutuality)：基於獲取共同利益的想法建立社群，出於善意並假定自己代表他人的做出行動。&lt;/li&gt;
+	&lt;li&gt;近用(Access)：提供可以重複使用的高品質內容、工具、服務以引發創意及創新。&lt;/li&gt;
+	&lt;li&gt;標示出處(Attribution)：承諾透過標示出處表達對於智慧財產權或著作權的尊重。&lt;/li&gt;
+	&lt;li&gt;一致性(Consistency)：在原部門的既有價值及原則做出進一步發展。&lt;/li&gt;
+	&lt;li&gt;參與(Engagement)：社群成員應該承諾積極使用及貢獻公共財。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;我們不僅將公共財當作內容，我們認為它還牽涉到所有相關人士可以如何共同行動，以及要如何達成協議、共享技術、處理權利標示議題。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Europeana公共財前導計畫&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;為了測試上述這些原則，我們提出三個公共財前導計畫。希望能了解哪些原則可以發揮作用、哪些不行、哪些需要協商。公共財強調合作及相互性，因此這些前導計畫將會回報文化公共財專案小組他們的經驗，分享他們的發現，並與Europeana成員網絡進行討論。&lt;/p&gt;
+
+&lt;p&gt;前兩項前導計畫屬於2013年3月展開的三年計畫Europeana Cloud。&lt;/p&gt;
+
+&lt;p&gt;第一項前導計畫是發展基礎設備(infrastructure)。Europeana會將240萬筆詮釋資料紀錄及500萬件數位物件置於雲端基礎設備，發揮雲端運算技術的潛力產生更佳的近用機會及可持續性，讓Europeana更好使用，並盡量滿足每個想要近用內容與工具的使用者。&lt;/p&gt;
+
+&lt;p&gt;在發展雲端技術基礎建設時，將會應用文化公共財的原則，並著眼於我們必然無法避免的管理、法律、經濟議題，發展出能有利於整體Europeana生態體系的基礎建設，及找出能克服文化遺產機構內容和工具分享困境的方法。&lt;/p&gt;
+
+&lt;p&gt;第二項前導計畫是研究公共財。Europeana Research是提供給人文社會科學研究者使用資料、內容與工具貢獻新研究給平台的服務。其目標是應用公共財原則服務研究者這群特殊觀眾。&lt;/p&gt;
+
+&lt;p&gt;會提出此計畫，其實是因為發現許多擔心商業利用的內容提供者其實都樂於提供研究者使用。透過這項前導計畫將會讓我們更了解內容提供者在定義開放內容的使用者時遭遇哪些議題，同時也可能因為此計畫限縮於研究用途，而能提升內容貢獻者的數量。另外，我們將會探討要如何釋出內容給研究社群，要如何在公共財原則的基礎上，奠定支持歐洲共享研究環境之基礎。&lt;/p&gt;
+
+&lt;p&gt;最後一個前導計畫是文化旅遊公共財，這是2013年2月展開的Europeana Creative之一部分。文化遺產機構與開發者將和旅遊業者及營利公司合作，重新檢視這些與景點、遺址的相關內容可以如何被重新使用。這樣做將可能強化機構在網路上的公眾存在感與重要性。在此計畫中，只有邀請能接受此執行方式的機構。&lt;/p&gt;
+
+&lt;p&gt;隨著Europeana Cloud與Europeana Creative計畫的展開，我們即將把到目前為止純然理論性的討論轉變為對於公共財思維的實務應用。無疑的，我們將會遇到挑戰並發現許多未知的問題，但是我們將學習並調整，同時繼續堅信我們欲使公眾能免費自由使用文化遺產的目標。我們鄭重發誓，將捍衛並持續發展我們的這片茵茵綠地，鼓勵人們使用它們，在上面嬉戲、野餐，並為了今日及未來的所有歐洲人珍藏之。&lt;/p&gt;
+
+&lt;p&gt;原文/ Europeana基金會執行長Jill Cousins、Europeana基金會公關及編輯部Beth Daley&lt;br /&gt;
+出處/ &lt;a href=&quot;http://www.smk.dk/fileadmin/user_upload/Billeder/forsiden/94124_sharing_is_Caring_UK.pdf&quot; target=&quot;_blank&quot;&gt;Sharing is Caring 2014: Openness and sharing in the cultural heritage sector&lt;/a&gt; 以創用CC BY授權釋出&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 07 Dec 2015 00:26:34 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1149 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151207#comments</comments>
+</item>
+<item>
+ <title>文化機構開放館藏時會面臨的挑戰</title>
+ <link>https://creativecommons.tw/blog/20151201</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;2014年7月，在創用CC舉辦的「&lt;a href=&quot;http://creativecommons.tw/blog/20140714&quot; target=&quot;_blank&quot;&gt;公眾領域實務座談與展示會&lt;/a&gt;」中，國立臺灣歷史博物館的黃凱祥先生提到，博物館在數位化典藏及決定是否開放時，其實面臨很多實務上的問題。像是他們無法判斷館藏權利人是誰、無法判斷物件是否已經超過著作權保障期限。&lt;/p&gt;
+
+&lt;p&gt;讓屬於公眾領域的作品繼續以公眾領域的姿態在網路上現身，使這些見證人類歷史文明的館藏被更多人看到，是個美好的理想。然而，不禁使人好奇，落實下來真的那麼容易嗎？&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/6950672326_7c741a4f1c_o.jpg?itok=yMMrdFmc&quot; style=&quot;height:250px; width:690px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(圖片來源：&lt;a href=&quot;https://www.flickr.com/photos/north-carolina-state-archives/&quot; target=&quot;_blank&quot;&gt;State Archives of North Carolina Raleigh, NC&lt;/a&gt;，&lt;a href=&quot;https://www.flickr.com/photos/north-carolina-state-archives/6950672326/in/photolist-bAd1J3-ebsDmR-xLkwqZ-5SGRGj-5ndido-aWmpHv-6715TQ-8CymdX-bP7ETH-ebycyE-6v5CR2-6v9FTs-6v4MsK-6v4Poe-6v9ipf-ocqxYr-6v93NA-4ARuFY-p4bJXB-cAoEwy-wbiUPK-5SGTjf-6v8UdE-rJ5gvB-cCZ9HN-chbJmj-4Tt5Fh-nizFsb-jYWMqr-cMk5eA-5SGRDG-7ewziC-6v5cEa-cXaguY-oeSyNm-pnjEHJ-oyb15V-7g9n6J-nizxoq-bAd2zJ-dNLWau-nayjHb-9HzRjx-7v1UvY-6B6yVd-5SCvTP-8Droq9-oen5Zm-owavWJ-ncANMk&quot; target=&quot;_blank&quot;&gt;無已知版權&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;根據國外文化機構的經驗分享，開放館藏的問題主要有四類：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.法律上的不確定性&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;館方無法確定數位化館藏後，館藏作品的法律地位。像是拍攝館藏的人(數位化再製者)是否會產生新的著作權？找不到著作人的孤兒作品(orphan work)該如何處理？而且，多數情況下，文化機構缺乏法律專業背景和經驗，難以和作品權利人進行有利的斡旋。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.館藏開放的成本與效益議題&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;文化機構除了付出大量成本在館藏的數位化過程，分類、格式化、管理、發布資料也都需要行政與技術成本。而且，機構在判斷館藏的著作權狀態時，往往需要投入大量時間心力與金錢。種種成本加總後，文化機構很難輕易答應免費開放。&lt;/p&gt;
+
+&lt;p&gt;另外，開放館藏可能會對文化機構現存營利管道產生不利影響。舉例來說，文化機構原本可能靠著販賣數位化後的作品圖像及紀念品獲利，於網路上開放館藏後，使用者便無需付費就能取用。甚至，可能會有其他人或企業，自行將開放後的館藏開發成產品販賣，更是會直接影響文化機構的營利收入。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3.館藏流向與品質的控制問題&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;當文化機構決定開放館藏時，意味著同意讓非專業人士參與策展過程，而且他們可以完全自主的決定館藏運用方式。這通常會引起專業人士的顧慮，擔心這些館藏可能會被惡意使用，或在使用過程中被降低了館藏原本的品質。&lt;/p&gt;
+
+&lt;p&gt;另一方面，開放館藏可能讓原本創造、管理、保存館藏資料的文化機構不再被重視，即便是由他們進行數位化及作出開放的決策，卻也不會有人注意到這是他們的貢獻。&lt;/p&gt;
+
+&lt;p&gt;還有，開放後的館藏對於具有較佳網路環境的使用者而言其實比較有利。原本文化機構可以確保館藏會平等的展示在大眾面前，透過網路傳播的館藏卻限制了服務對象範圍。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4.技術性限制&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;目前，在開放文化資產資料時還有一些技術問題，需要進一步釐清能讓文化資產資料集更開放、更容易使用和互通有無的標準。&lt;/p&gt;
+
+&lt;p&gt;這四種問題，目前都還沒有妥善的解決方式。以下整理一些因應方式供國內有興趣的文化機構參考：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.法律問題的處理&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;除了促成著作權法的修改外，文化機構可以參考以下三種著作權處理方式：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;在權利人還未允許的情況下，就將數位化館藏放到網路上，待權利人提出要求時，才移除作品或支付費用。許多機構在實務上都這麼執行，館方不用投入太多人力與財力在著作權狀態判斷上，又能快速將館藏上線，但是很可能會因此面對法律制裁。不過，如果文化機構有大量無法判斷權利人的孤兒作品，或是有很多低商業價值、權利人申請支付費用意願較低的館藏，那可能適合採用這種處理方式。&lt;/li&gt;
+	&lt;li&gt;文化機構釐清館藏的著作權狀態後，只將不受著作權保護或權利人同意授權的作品上線。好處是可以避免侵權造成的後續法律問題，壞處是文化機構要花費較多時間和成本，而且每個作品的授權方式可能都不一樣，對於使用者並不方便。若文化機構的館藏規模小、同質性高、容易清點，或是機構組織完善、有充分資源能用於著作權狀態的釐清，就很適合這種處理方式。&lt;/li&gt;
+	&lt;li&gt;請第三方協助釐清館藏的著作權狀態，像是集體權利管理機構(Collective rights management organizations)，他們會替權利人向文化機構請求授權費。如此一來，文化機構便不需要去特別了解著作權議題或請教著作權專家。然而這種模式的成本很難預測，文化機構未必能夠承擔得了所有支出，有些權利人則未必會相信第三方機構。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;另外，「三個臭皮匠勝過一個諸葛亮」，文化機構在多方面合作下，將有利於開放館藏的法律處理。首先，文化機構可以共同組成一個公眾資料庫，匯集各館收到的權利人意見，避免對於同一作品耗費兩次時間處理著作權。其次，不論是對於權利人的協商或是立法的修正方向，文化機構都可以透過合作提升談判優勢。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.實務環節的設計&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;一旦決定開放館藏或館藏相關資料，就很難去追蹤與限制後續發展。因此，如果要避免人們誤用，文化機構可以提供館方希望這些資料被如何運用的說明文件，同時準備好溝通管道，隨時回答使用者關於館藏利用的問題。&lt;/p&gt;
+
+&lt;p&gt;一些比較敏感的博物館，如戰爭博物館，館方最好特別註明：「使用者不得使用照片誤導人，不得將館藏用於非法或不恰當的用途」。&lt;/p&gt;
+
+&lt;p&gt;然而，這樣做可能無法防範真的想以之為惡的人，卻讓欲用於適當場合者心生猶豫。而且，若真的有人將這些素材用在不恰當處，或許也可以採取其他反歧視之類的法律進行追訴。&lt;/p&gt;
+
+&lt;p&gt;從我們一系列開放館藏經驗談的分享中，可以發現很多文化機構也曾為了上述問題掙扎過，然而他們最終都因為相信開放館藏的價值高於它帶來的種種不便，而決定採取開放政策。雖然不同社會有不同問題要考量，不同機構有不同實務上的限制要面對，但是他們對於價值的信仰卻是如出一轍，而且實施後都沒有出現原本擔心會發生的糟糕狀況。&lt;/p&gt;
+
+&lt;p&gt;或許國內文化機構可以先放下種種憂慮從小型實驗開始做起，如果在實際開放館藏後，發現真的會有許多無法化解的問題，再做出館內開放政策的調整，或是與文化機構以外的單位合作。畢竟在還沒親身經歷前，不論好的壞的，一切都只是猜想，沒有人能在空談中見識到真正的利弊得失。&lt;/p&gt;
+
+&lt;p&gt;參考資料&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.den.nl/art/uploads/files/Publicaties/BusModIn_eng_final.pdf&quot; target=&quot;_blank&quot;&gt;http://www.den.nl/art/uploads/files/Publicaties/BusModIn_eng_final.pdf&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://openglam.org/2012/05/15/obstacles-to-opening-up-content-and-data-in-the-cultural-heritage-sector/&quot; target=&quot;_blank&quot;&gt;http://openglam.org/2012/05/15/obstacles-to-opening-up-content-and-data-in-the-cultural-heritage-sector/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://openglam.org/2013/06/21/concerns-and-reasons-not-to-open-up-glam-data-part-1-fear-of-misuse/&quot; target=&quot;_blank&quot;&gt;http://openglam.org/2013/06/21/concerns-and-reasons-not-to-open-up-glam-data-part-1-fear-of-misuse/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 01 Dec 2015 01:03:40 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1151 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151201#comments</comments>
+</item>
+<item>
+ <title>OpenGLAM：開放美術館、圖書館、檔案館與博物館</title>
+ <link>https://creativecommons.tw/blog/20151123</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;OpenGLAM全名為「開放美術館、圖書館、檔案館與博物館」，乃&lt;a href=&quot;https://okfn.org/&quot; target=&quot;_blank&quot;&gt;開放知識基金會&lt;/a&gt;的計畫，由歐盟執委會的&lt;a href=&quot;http://dm2e.eu/&quot; target=&quot;_blank&quot;&gt;DM2E計畫&lt;/a&gt;贊助。其透過工作坊、指導原則、文件、工作小組來協助文化機構開放內容和資料，希望能建立全球文化共享資源，讓每個人都能使用、取用和享受這些文化資產。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/OpenGLAM.ch_Logo.png?itok=sr_ntMBL&quot; style=&quot;height:250px; width:690px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(&lt;a href=&quot;http://commons.wikimedia.org/wiki/File:OpenGLAM.ch_Logo.png&quot; target=&quot;_blank&quot;&gt;資料來源：wikicommons&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;OpenGLAM認為，美術館、圖書館、典藏館和博物館是文化資產的看管人，守護館藏就是守護整體人類的記錄，這些文化機構在協助人類知識進步上扮演關鍵角色。網路提供文化資產機構一個前所未見的機會，讓他們能吸引來自全世界的觀眾、使館藏比以往更容易被發現和連結，並讓使用者能成為主動的貢獻、參與、分享者。&lt;/p&gt;
+
+&lt;p&gt;開放館藏的第一步是採用開放授權，如果文化資產機構理解網路在近用、創新和數位學術傳播上的潛能，就會知道最終最重要的其實是開放合作機會及讓使用者產生嶄新的參與方式。&lt;/p&gt;
+
+&lt;p&gt;根據開放知識基金會的定義，「開放」意味著這些內容或資料是「任何人都可以免費使用、再利用和散佈的，頂多需要滿足姓名標示或相同方式分享之要求」。美術館、圖書館、檔案館與博物館逐漸開始採用許多和此定義相符的授權條款，像是詮釋資料常用的「公眾領域貢獻宣告」（CC0），以及內容常用的「創用CC 姓名標示」、「創用CC姓名標示—相同方式分享」條款。&lt;/p&gt;
+
+&lt;p&gt;透過開放館藏，文化機構可以增加館藏在維基共享資源(Wikimedia Commons)、網際網路檔案館(Internet Archive)、Europeana、google等管道的曝光度，提高公眾對於館藏的注意、讓公眾更容易找到館藏，並提升觀眾參與策展館藏的機會。&lt;/p&gt;
+
+&lt;p&gt;對於整體社會而言，不論是在課堂中被用來傳遞知識，或是被研究者善用資料探勘或視覺化等新技術發現人、事、物間的新關係，還是讓世界各地的人欣賞、增加理解、用以創作。就像牛頓所言「如果我能看得更遠，是因為我站在巨人的肩膀上。」以及歌德說的「我總是在收割前人所播的種」，開放館藏可以激發更多社會創新。&lt;/p&gt;
+
+&lt;p&gt;OpenGLAM在各地舉辦許多工作坊推動開放館藏，於網站上整裡許多對於開放文化很重要的&lt;a href=&quot;http://openglam.org/documentation/&quot; target=&quot;_blank&quot;&gt;參考資料&lt;/a&gt;，並在&lt;a href=&quot;http://openglam.org/blog/&quot; target=&quot;_blank&quot;&gt;部落格&lt;/a&gt;更新開放文化的最新動態，網站上的原創內容都以「創用CC 姓名標示」授權分享。在OpenGLAM的&lt;a href=&quot;http://openglam.org/culture-labs/&quot; target=&quot;_blank&quot;&gt;開放文化實驗室&lt;/a&gt;中，則可以看到一些簡單好用且開放資源碼的小工具，協助老師、研究者及公眾能與數位文化內容及資料進行更多互動。&lt;/p&gt;
+
+&lt;p&gt;同樣由開放知識基金會發展的「&lt;a href=&quot;http://publicdomainreview.org/&quot; target=&quot;_blank&quot;&gt;公眾領域評論&lt;/a&gt;」，是OpenGLAM的姊妹計畫。在這個網站上可以看到來自&lt;a href=&quot;http://publicdomainreview.org/collections/&quot; target=&quot;_blank&quot;&gt;不同機構&lt;/a&gt;、&lt;a href=&quot;http://publicdomainreview.org/collections/&quot; target=&quot;_blank&quot;&gt;不同類型&lt;/a&gt;的公眾領域素材，顯現擁抱開放的數位公眾領域作品是多麼棒的資源，也可以&lt;a href=&quot;http://publicdomainreview.org/shop/&quot; target=&quot;_blank&quot;&gt;直接購買利用公眾領域素材做成的文創產品&lt;/a&gt;。另外，他們還邀請世界各地文化遺產機構策展人&lt;a href=&quot;http://openglam.org/curators-choice/&quot; target=&quot;_blank&quot;&gt;每個月寫一篇文章來介紹一組開放數位作品&lt;/a&gt;。除了讓使用者更了解這些館藏的故事，也能藉此展現當數位公眾領域作品能被重新置於不同脈絡下使用時，將帶來何種效益，希望能因此激發更多人重新編排這些數位公眾領域作品成為不一樣的新故事。&lt;/p&gt;
+
+&lt;p&gt;最後，附上OpenGLAM工作小組起草的第四版原則，身為OpenGLAM的機構將會擁護以下原則：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. 使用如CC0的合適法律工具發布關於物件的數位資訊（即詮釋資料），使其成為公眾領域。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;這將促成資料盡可能得被再次利用，並讓資源可以與Europeana及美國數位公共圖書館(DPLA)這些主流文化資料聚合器(aggregator)相容，因而能被更容易的找到。&lt;/li&gt;
+	&lt;li&gt;開放詮釋資料授權政策請見：&lt;a href=&quot;http://pro.europeana.eu/files/Europeana_Professional/Publications/Europeana Licensing Framework.pdf&quot; target=&quot;_blank&quot;&gt;Europeana Licensing Framework&lt;/a&gt;、&lt;a href=&quot;http://dp.la/info/wp-content/uploads/2013/04/DPLAMetadataPolicy.pdf&quot; target=&quot;_blank&quot;&gt;Digital Public Library of America&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;2. 讓超過著作權保障期限的作品數位化後仍然維持公眾領域的狀態，而不會對期主張額外的新權利。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;超過著作權保障期限的作品的數位化複本或再現，應該明確以「創用CC公眾領域標章」等合適的法律工具標示。這將促使這些數位內容有機會能最大程度的被再次利用。&lt;/li&gt;
+	&lt;li&gt;開放內容授權政策請參考：&lt;a href=&quot;https://www.rijksmuseum.nl/en/api/terms-and-conditions-of-use&quot; target=&quot;_blank&quot;&gt;The Rijksmuseum&lt;/a&gt;、&lt;a href=&quot;http://www.bl.uk/catalogues/illuminatedmanuscripts/reuse.asp&quot; target=&quot;_blank&quot;&gt;The British Library&lt;/a&gt;、&lt;a href=&quot;http://thewalters.org/rights-reproductions.aspx&quot; target=&quot;_blank&quot;&gt;The Walters Art Museum&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;欲了解數位公眾領域眾要性的深入文件請見：&lt;a href=&quot;http://pd4pd.org/zh-hant/blog/82&quot; target=&quot;_blank&quot;&gt;Europeana公眾領域憲章&lt;/a&gt;、&lt;a href=&quot;http://pd4pd.org/zh-hant/blog/47&quot; target=&quot;_blank&quot;&gt;Communia公眾領域宣言&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;3. 發布資料時，要將對於資料描述、整體資料館藏、館藏附屬品被重複使用及賦予新用途的期望，做出清楚且堅定的宣言。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;這類宣言的範例請參考：&lt;a href=&quot;https://www.rijksmuseum.nl/en/api/terms-and-conditions-of-use&quot; target=&quot;_blank&quot;&gt;The Rijksmuseum&lt;/a&gt;、&lt;a href=&quot;http://www.bl.uk/catalogues/illuminatedmanuscripts/reuse.asp&quot; target=&quot;_blank&quot;&gt;The British Library&lt;/a&gt;、&lt;a href=&quot;http://thewalters.org/rights-reproductions.aspx&quot; target=&quot;_blank&quot;&gt;The Walters Art Museum&lt;/a&gt;、&lt;a href=&quot;http://natlib.govt.nz/about-us/strategy-and-policy/collection-use-and-reuse-policy&quot; target=&quot;_blank&quot;&gt;National Library of New Zealand&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;4. 發布資料時，使用可供機讀的開放檔案格式。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;機讀格式是能讓資料被電腦程式擷取的一種格式。如果以封閉的檔案格式釋出資訊，會造成重新使用資訊的嚴重阻礙，導致想要使用資訊的人必須購買特定軟體才能開啟。另外，資料的結構及可能使用方式應該在&lt;a href=&quot;http://www.dnb.de/EN/Service/DigitaleDienste/LinkedData/linkeddata_node.html&quot; target=&quot;_blank&quot;&gt;網頁&lt;/a&gt;或&lt;a href=&quot;http://translate.google.com/translate?sl=nl&amp;amp;tl=en&amp;amp;js=n&amp;amp;prev=_t&amp;amp;hl=en&amp;amp;ie=UTF-8&amp;amp;layout=2&amp;amp;eotf=1&amp;amp;u=http%3A%2F%2Fwww.opencultuurdata.nl%2F%3Fincsub_wiki%3Damsterdam-museum&quot; target=&quot;_blank&quot;&gt;datablog&lt;/a&gt;中妥善說明清楚。&lt;/li&gt;
+	&lt;li&gt;欲了解更多開放格式的資訊請見：&lt;a href=&quot;http://opendatahandbook.org/en/appendices/file-formats.html&quot; target=&quot;_blank&quot;&gt;Open Data Handbook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;5. 應該追求以創新方式在網路上吸引觀眾投入的機會。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;清楚說明所提供的開放資料、內容和服務，以便讓他人可以輕易再利用、建立、提升這些已開放的事物。&lt;/li&gt;
+	&lt;li&gt;發布資料時，積極回應有興趣的團體所提出的資料及支持資料取用的相關問題。&lt;/li&gt;
+	&lt;li&gt;提供觀眾機會由這些館藏中蒐集物件並組織策展。Rijksmuseum的&lt;a href=&quot;https://www.rijksmuseum.nl/en/rijksstudio?ii=7&amp;amp;p=0&quot; target=&quot;_blank&quot;&gt;Rijksstudio&lt;/a&gt;是一個好例子。&lt;/li&gt;
+	&lt;li&gt;有可能的話，透過人力外包的工具讓使用者能豐富和強化詮釋資料。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;資料來源：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://openglam.org/faq/&quot; target=&quot;_blank&quot;&gt;http://openglam.org/faq/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://openglam.org/principles/#sthash.cCLIztCb.dpuf&quot; target=&quot;_blank&quot;&gt;http://openglam.org/principles/#sthash.cCLIztCb.dpuf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 23 Nov 2015 01:52:25 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1147 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151123#comments</comments>
+</item>
+</channel>
+</rss>

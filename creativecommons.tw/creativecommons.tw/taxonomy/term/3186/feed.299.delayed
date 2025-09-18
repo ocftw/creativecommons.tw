@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - open government data</title>
+ <link>https://creativecommons.tw/taxonomy/term/3186</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>你的網路有多快？ - MLab 把他們的調查分析都 Open Data 了！</title>
+ <link>https://creativecommons.tw/blog/20161207</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/Screen-Shot-2016-11-30-at-4.42.00-PM-1024x576.png?itok=-TWaaBdf&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;em&gt;Introduction to Measurement Lab: &lt;a href=&quot;https://youtu.be/RnIVMfBP4So&quot; target=&quot;_blank&quot;&gt;https://youtu.be/RnIVMfBP4So&lt;/a&gt;, 2011 New America, &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/&quot; target=&quot;_blank&quot;&gt;CC BY 3.0&lt;/a&gt;.&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;Open Data(開放資料)並不僅僅是政府的事！雖然近年在這個領域最常被討論的是政府資料開放、或稱開放政府資料 (Open Government Data)，事實上開放政府這個概念於 1950 年美國境內關於「資訊自由法 (Freedom of Information Act, FOIA）的辯論已經出現，只是在近代的浪潮裡被注入數位與網路提供的新元素。而近年在討論到 Open Data 時，初期多討論的是如何促進政府機關構以更開放的立場、態度，及格式來提供資料，那是因為大量資料被屯儲於公務單位裡，若能就此寶庫先行取得一些成果，對整體開放資料的發展能帶來很大的效益，然而，學術領域與商用領域也必須隨後跟進，如此 Open Data 才能在長期發展下，形成一個豐富應用的生態系 (ecosystem)，Measurement Lab 這個具有學術研究並商業發展雙重面向的單位，已率先將其調查分析所得的相關資料，自行採 CC0 - 公眾領域貢獻宣告的方式，Open Data 出來給不特定多數人皆可不受限制利用，非常具有長期觀察的價值！&lt;/p&gt;
+
+&lt;p&gt;Measurement Lab(以下簡稱 MLab)是一個由 New America 開放科技研究所、Google 開源研究、Princeton 大學 Planet 實驗室，及其他許多學術與商業機構共同合作的協力專案。當前我們都知道網際網路對人們的生活與影響力愈來愈大，所以網速與網路活動的分析，所能帶來的事務分析與說明亦極富價值，多數商業公司在進行相關的研究調查時，會將相關資料與資訊皆視為重要資產、不傳之秘，但 MLab 反其道而行，不但所使用的調查研究工具皆採開源授權的方案，供所有人能自由下載進行衍生開發，對近年調查所得的資料，亦採 CC0 - 公眾領域貢獻宣告，以權利人的角度將其進行著作權利拋棄的宣示，也就是說，相關資料不但能直接從網路取得，並且日後能被用於任何目的，而不會受到著作權利相關的限制。&lt;/p&gt;
+
+&lt;p&gt;Chris Ritzo、Georgia Bullen、Alison Yost、Collin Anderson，以及 Stephen Stuart 這些 MLab 的重要參與人員，近期接受 CC總部的訪問。其分享網路狀態的度量與分析 (Internet Measurement)，是一件基礎，卻對所有人都有高度影響力的事，消費者也許單純只是想知道他們租用的網路服務，是不是真正達到業者承諾的速度；但對網路提供者或網路服務業者來說，這些資料將有助其改善未來商業服務的架構，以有限的資源提供更好的服務；對於公民團體或人權組織來說，具體取得這些資料更有助於分析是否有網路監管或監視狀況產生，而鑑於近年多數這樣的量測結果，都是由商業公司主導，而未將成果與公眾共享，而這與網際網路公眾得以公開近用、不受特定限制的基本架構並不相合，而不同機構所作的調查，亦難以進行一個結合分析的綜效。&lt;/p&gt;
+
+&lt;p&gt;MLab 和許多研究機構合作，亦不是說要求每個研究機構都採用 CC0 全然拋棄資料可能有的著作權利，在個案上 MLab 有時會同意一些研究者暫不提供授權，等到其研究成果完成初始發表之後再來處理，不過整個大原則就是盡量採用資料需對公眾開放的態度來做這件事。至於 MLab 自己網路上託管的資料，則悉採 CC0 的主要原因，在於該專案一開始設立的緣由之一，就是希望資料來源及其應用方式可以客觀而多元，故而採行公眾授權的方式來釋出資料，能夠與參與者之間產生互信關係；另一個原因就是，科學客觀性的建立，在於實驗或分析數據能夠公開，所以研究成果的發表也必須有相關資料的輔助，才能建立其信度與效度，然而多數研究機構並無法從商業組織取得合法授權的網路分析資料，多數商業公司的使用條款皆禁止這些資料被做衍生應用，而即使依法解釋商業公司未必能全然做這樣的要求，然進一步使用資料，如何做去識別化處理，也可能耗時並充滿合法標準模糊的不確定性；而即使像 Princeton 大學研究室能自主建立一個網路資料的收集平台，但其分析範圍也不一定能廣及終端消費者的網路行為，在這種種前提下，MLab 應勢而生，MLab 一開始的設立目標就是要將研究分析成果與公眾共享，形成一個公眾皆可共享的公眾資材 (commons)，所以這是取用 CC0 的主要原因。&lt;/p&gt;
+
+&lt;p&gt;透過 MLab 專案設計的使用與隱私權條款，所有相關工具與網路服務的使用者，都清楚被告知相關資料將被除去個人資料 (Personal Data) 之後進行統計分析，而這些統計分析的成果，亦會歸公眾所用，而不會被限定在特定商業公司或政府機關構內部。與此相近的國內實例，有台灣野生動物路死觀察網 (Taiwan Roadkill Observation Network，路殺社)，路殺社相關資料透過自行量測與公眾貢獻等多元方式取得，統整驗證後的具體成果，多採用 創用CC 姓名標示 3.0 台灣版 條款 (CC BY 3.0 TW) 授權公眾使用。與這些少數的開放授權案例相較，目前網路撈取分析資料的實狀，仍較近於 2010 年 Pete Warden 發表部落格文 - 我如何被 Facebook 聯繫要告 (How I got sued by Facebook) 的狀態，該文說明 Pete Warden 因為驗證分析上的需求，依照 Facebook 揭露的 robot.txt 文件，撰寫了網路爬蟲程式在 Facebook 上捉取他需要的資訊，在他對公眾說明相關方式與成果後，卻為 Facebook 聘僱的律師告知，若不是因為 Pete Warden 之前曾善意舉報一些 Facebook 平台上的安全性漏洞，不然 Facebook 曾考量直接對他發動訴訟，因為即使 Pete Warden 依照 Facebook 主動揭露 robot.txt 文件的技術容許規格來撈取資訊，從使用條款的角度這仍然沒有取得 Facebook 正式的書面授權，而有違法侵權的疑慮必須解決，最後此事以和解收場，Pete Warden 無奈的將其觀測成果及其衍生分析全然銷毀。然而，如果能透過公私協力的角度，促生更多如 MLab 或路殺社這樣的公民科學、開放資料分享平台能推出，則網路資訊實證分析這件事，將能被做的更適法、適當，而不會讓使用者一直處於標準不一、難以放心的研究窘境。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;How fast is your internet? How MLab uses CC0 data for the public interest: &lt;a href=&quot;https://creativecommons.org/2016/11/30/mlab/&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/2016/11/30/mlab/&lt;/a&gt;, 2016 Jennie Rose Halperin, CC BY 4.0.&lt;/li&gt;
+	&lt;li&gt;Introduction to Measurement Lab: &lt;a href=&quot;https://youtu.be/RnIVMfBP4So, 2011 New America&quot; target=&quot;_blank&quot;&gt;https://youtu.be/RnIVMfBP4So, 2011 New America&lt;/a&gt;, CC BY 3.0.&lt;/li&gt;
+	&lt;li&gt;Measurement Lab: &lt;a href=&quot;https://www.measurementlab.net/&quot; target=&quot;_blank&quot;&gt;https://www.measurementlab.net/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;開放政府資料的基本原則與相關政策議題：&lt;a href=&quot;http://www.ndc.gov.tw/Content_List.aspx?n=77B170ACDA8F8252&quot; target=&quot;_blank&quot;&gt;http://www.ndc.gov.tw/Content_List.aspx?n=77B170ACDA8F8252&lt;/a&gt;，2014 李治安、林誠夏、莊庭瑞，公共治理季刊 103 年 3 月第二卷第一期。&lt;/li&gt;
+	&lt;li&gt;台灣野生動物路死觀察網 (Taiwan Roadkill Observation Network)：&lt;a href=&quot;https://roadkill.tw/&quot; target=&quot;_blank&quot;&gt;https://roadkill.tw/&lt;/a&gt;，網站內容採用 創用CC 姓名標示 3.0 台灣版 條款授權公眾使用。&lt;/li&gt;
+	&lt;li&gt;How I got sued by Facebook: &lt;a href=&quot;https://petewarden.com/2010/04/05/how-i-got-sued-by-facebook/&quot; target=&quot;_blank&quot;&gt;https://petewarden.com/2010/04/05/how-i-got-sued-by-facebook/&lt;/a&gt;, 2010 Pete Warden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 07 Dec 2016 05:26:40 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1246 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20161207#comments</comments>
+</item>
+<item>
+ <title>為什麼美國政府要用 CC0 來拋棄其資料集與軟體專案的著作權利？ - 公眾授權討論系列（三）</title>
+ <link>https://creativecommons.tw/blog/2016112802</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/20161115.png?itok=HovCs6CK&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;New Trademark App Open Source Code on Github: &lt;a href=&quot;https://content.govdelivery.com/accounts/USPTO/bulletins/172b0eb&quot; target=&quot;_blank&quot;&gt;https://content.govdelivery.com/accounts/USPTO/bulletins/172b0eb&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;因應美國聯邦資訊長 Tony Scott 在 2016 年 8 月公布的「聯邦程式開源政策 (Federal Source Code Policy)」，及配合白宮開放政府促進專案 (Open Government Initiative) 的施政舉措，美國專利及商標局 (United States Patent and Trademark Office, USPTO)，近期將其提供民眾查詢商標及追蹤商標狀態的應用程式 APP 給開放源碼，並置於 GitHub 託管平台上供人下載，所使用的授權條款，嚴格來說並不是授權條款，因為已無任何授權行為產生，究其要理，是在法律容許最大限度內將著作財產權利拋棄的「CC0 公眾領域貢獻宣告 (CC0 Public Domain Dedication)」；其實，這並不是美國聯邦機關構首次採用 CC0 來拋棄素材的著作權利，早在 2014 年美國聯邦政府即公開表態，支持適用 CC0 於一些聯邦政府著作，例如美國開放資料行動計畫 (U.S. Open Data Action Plan) 的相關文件，皆以 CC0 的方式發布。&lt;/p&gt;
+
+&lt;p&gt;所謂 CC0，是讓科學家、教育工作者、藝術家、其他創作者及著作權人，或內容受資料庫特別權保護的權利人等，拋棄他們對各自著作的財產權利，並盡可能將這些著作釋出到公眾領域 (Public Domain)，讓其他人可以任何目的自由地以該著作為基礎，從事創作、提升或再使用等行為，而不再受到著作權或是資料庫相關法律的限制。故美國聯邦政府下個別機關構的這些舉措，也引發了相當的討論和疑惑，而究竟為什麼美國聯邦政府，要用 CC0 來拋棄其資料集與軟體專案的相關著作權利？&lt;/p&gt;
+
+&lt;p&gt;其實，美國聯邦政府的作品，依其著作權法第 105 條，必須適用一個獨特設計，該條規定美國聯邦政府產出之作品，並不能受到著作權利的保護，故能夠在最大容許範圍內，供不特定多數人皆可自由利用，包括重製、散布、改作、公開演播等面向。然而，同法亦規定，若該作品是透過委任或其他法律關係，之後再轉讓、贈予，而讓美國聯邦政府成為著作權利特有者，則已非此條規定的涵攝範圍。再者，基於智慧財產權領域的國際互惠原則，美國聯邦政府的作品對其國民不得主張著作權利的保護，不代表對其他國家的國民，也直接作一樣狀況的解讀，因其他國家的政府作品，並沒有拋棄其對自國國民著作權利的主張，也就是說，互惠原則沒辦法保障美國國民，亦可不受限制近用他國政府的作品，故基於互惠衡平的立場，美國聯邦政府的作品，並不直接能為他國國民自由使用。&lt;/p&gt;
+
+&lt;p&gt;Tony Scott 於 2016 年 8 月 8 日發布的「聯邦程式開源政策」時，便是採取上述觀點，認為聯邦政府產出的程式源碼，雖在國內已近於公眾領域，但此除外規定並不能直接全球適用，故個別專案的執事者，便依其偏好，主動選擇適合的自由開放源碼授權 (Free and Open Source Software Licenses)，將相關程式源碼釋出，以利這些程式源碼可以在不產生疑慮的狀況下全球流通。但這樣的處理方式，也就代表個別美國聯邦政府持有的開源專案，是以政府本身擁有著作權利的角度來自我看待，從而才有地位擇用自由開放源碼授權來散布軟體，這般的解讀方式，也引發部份論者的批評，因若程式專案本身確實是由美國聯邦政府直接聘僱人員所撰寫，則回到其著作權法第 105 條的原始規定，美國聯邦政府不得主張任何著作權利，從而亦無立場，將其添加使用限制之後，採自由開放源碼授權提供予自己國人。&lt;/p&gt;
+
+&lt;p&gt;故而部份專案的處理方式，就是類同 USPTO，將所釋出的程式源碼或其他素材，標示以 CC0 進行公眾領域貢獻的宣告，以消弭所有可能產生的爭議。雖然從嚴格法律分析來看，要將自身持有的素材以 CC0 貢獻，前提是宣告者必須先擁有著作財產權利，然而 CC0 已經是法律上最接近跨國跨界公眾領域狀態的宣告，故在許多的狀況下，其便成為多方意見爭議者，所能共同接受的權衡方案。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;「公眾領域貢獻宣告」（CC0）: &lt;a href=&quot;http://creativecommons.tw/cc0&quot; target=&quot;_blank&quot;&gt;http://creativecommons.tw/cc0&lt;/a&gt;。&lt;/li&gt;
+	&lt;li&gt;白宮支持運用CC0於聯邦政府資料集: &lt;a href=&quot;http://creativecommons.tw/blog/20141001&quot; target=&quot;_blank&quot;&gt;http://creativecommons.tw/blog/20141001&lt;/a&gt;，2014 劉芊影/編譯，CC BY-SA 3.0 TW。&lt;/li&gt;
+	&lt;li&gt;White House supports CC0 for federal government datasets: &lt;a href=&quot;https://creativecommons.org/2014/05/09/white-house-supports-cc0-for-federal-government-datasets/&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/2014/05/09/white-house-supports-cc0-for-federal-government-datasets/&lt;/a&gt;, 2014 Timothy Vollmer, CC BY 4.0.&lt;/li&gt;
+	&lt;li&gt;New Trademark App Open Source Code on Github: &lt;a href=&quot;https://content.govdelivery.com/accounts/USPTO/bulletins/172b0eb&quot; target=&quot;_blank&quot;&gt;https://content.govdelivery.com/accounts/USPTO/bulletins/172b0eb&lt;/a&gt;, 2016 United States Patent and Trademark Office.&lt;/li&gt;
+	&lt;li&gt;Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software: &lt;a href=&quot;https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf&quot; target=&quot;_blank&quot;&gt;https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf&lt;/a&gt;, 2016 United States Chief Information Officer.&lt;/li&gt;
+	&lt;li&gt;USPTO/TrademarkStatusApp: &lt;a href=&quot;https://github.com/USPTO/TrademarkStatusApp&quot; target=&quot;_blank&quot;&gt;https://github.com/USPTO/TrademarkStatusApp&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Open Government Initiative: &lt;a href=&quot;https://www.whitehouse.gov/open&quot; target=&quot;_blank&quot;&gt;https://www.whitehouse.gov/open&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Copyright Law of the United States of America, § 105. Subject matter of copyright: United States Government works: &lt;a href=&quot;http://www.copyright.gov/title17/92chap1.html#105&quot; target=&quot;_blank&quot;&gt;http://www.copyright.gov/title17/92chap1.html#105&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 27 Nov 2016 17:09:13 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1238 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/2016112802#comments</comments>
+</item>
+<item>
+ <title>成功讓創用CC 等公眾授權條款在印尼持續有效</title>
+ <link>https://creativecommons.tw/blog/2016112801</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/20161128.png?itok=A5C7gmdR&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Making Creative Commons Licensing Work In Indonesia at: &lt;a href=&quot;https://creativecommons.org/2016/11/28/making-creative-commons-licensing-work-indonesia/&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/2016/11/28/making-creative-commons-licensing-work-indonesia/&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;創用CC 授權條款 (Creative Commons Licenses) 等公眾授權機制，主要的創立目標是要將重要的資訊、知識，透過權利人認同後主動授權的機制，彈性化普及到最多的社會群體，然而因其新穎和與傳統不同的授權提供模式，推行者和支持者也必須在相關法律調整時，主動參與法律制度的修改建言，近期，CC Indonesia 在印尼進行的努力，就是一個最好的示範。這個事件肇因於 2014 年底，印尼著作權辦公室提出了其建議的著作權法修法草案，此次修改的重點在於：「擴充著作權相關保護到資料庫權利 (database right)，並讓著作權利得以成為質押性質契約的擔保品，並進一步規劃了強制性的授權協議登錄制度。」&lt;/p&gt;
+
+&lt;p&gt;也就是說，該法若經修改並正式施行後，所有在印尼當地的著作權利授權行為，都必須至業管的權責機構進行登錄，以確定該授權內容的正確性與嚴縝性。這樣的法律機制並不乏見，如同我國民法第 166-1 條，亦律定「契約以負擔不動產物權之移轉、設定或變更之義務為標的者，應由公證人作成公證書。」然而，將著作權授權行為律定為要式行為，必須經登錄才能成立生效，卻大為傷害與阻礙了創用CC 等公眾授權條款在印尼當地的適用性，因為公眾授權條款在近年能被大舉推展並普及化的基礎在於，權利人宣告其授權規則，任何人願意遵守這些規則來使用作品者，就可以依該條款成為被授權人，此一模式大舉降低了授權行為的時間成本與複雜性。而這樣的便利機制，在印尼政府執行強制性的授權協議登錄制度後，在當地將不復存在。&lt;/p&gt;
+
+&lt;p&gt;有趣的是，同樣戮力於推動政府資料開放 (Open Government Data) 的印尼政府，其於 &lt;a href=&quot;http://data.go.id/&quot; target=&quot;_blank&quot;&gt;data.go.id&lt;/a&gt; 此一官方資料釋出平台上，已經大量的使用 CC BY 4.0 的授權方式來提供資料，那麼，有論者提出，是不是這些政府機關依創用CC 授權條款釋出的資料庫或資料集，在新法修正通過後，也必須進行登錄程序的補正呢？依照印度尼西亞共和國 2014 年 28 號法律修正案所披露的內容，該項登錄制度的要點有：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;每一份著作權授權協議的內容，都必須繳付規費後登錄於權責機構；&lt;/li&gt;
+	&lt;li&gt;若該著作權授權協議的內容不符合新法 82 條的格式與標準，權責機構將不予登錄；&lt;/li&gt;
+	&lt;li&gt;如果著作權授權協議未經登錄或未予登錄，則該協議內容不生法律效力，相關內容皆不得以之對抗第三人。&lt;/li&gt;
+	&lt;li&gt;更多登錄制度的細節與方式，將由權責機關另訂法規命令執行之。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;CC Indonesia 了解此一法案正式修改通過後，對於創用CC 等公眾式、開放式授權條款在當地的衝擊將會是全面與巨大的，故其先與 CC總部與全球合作網絡的協作者進行討論，並於 2016 年 5 月 23 日會唔印尼著作權辦公室的執事官員，9 月 21 日展開第二次會談，並準備提交書面補充報告，一直到 11 月 1 日，終於獲得權責機構明確的肯定回覆，那就是在日後的修改提案裡，創用CC 授權條款與其他開放授權條款 (Open Licenses)，將會被列入強制登錄制度的除外名單，因為他們意識到開放授權常建立在無償授權的基礎上，而該法案的修訂理由，主要是希望在商務協議契約裡進行把關，避免權利與義務高度傾斜傷害一般民眾的狀況發生。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Making Creative Commons Licensing Work In Indonesia: &lt;a href=&quot;https://creativecommons.org/2016/11/28/making-creative-commons-licensing-work-indonesia/&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/2016/11/28/making-creative-commons-licensing-work-indonesia/&lt;/a&gt;, 2016 Alifia Qonita Sudharto and Hilman Fathoni, CC BY 4.0.&lt;/li&gt;
+	&lt;li&gt;DATA INDONESIA DALAM SATU PORTAL: &lt;a href=&quot;http://data.go.id/group/c49a2d15-bb70-4ecf-addb-0d555a492117?license_id=cc-by&quot; target=&quot;_blank&quot;&gt;http://data.go.id/group/c49a2d15-bb70-4ecf-addb-0d555a492117?license_id=cc-by&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;印度尼西亞共和國 2014 年 28 號法律修正案：&lt;a href=&quot;http://eodb.ekon.go.id/download/peraturan/undangundang/UU_28_2014.PDF&quot; target=&quot;_blank&quot;&gt;http://eodb.ekon.go.id/download/peraturan/undangundang/UU_28_2014.PDF&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 27 Nov 2016 16:01:02 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1237 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/2016112801#comments</comments>
+</item>
+<item>
+ <title>何種權利吸納能轉以政府資料開放進行應用？ - 公眾授權討論系列（二）</title>
+ <link>https://creativecommons.tw/blog/20161127</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林誠夏／文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/Taiwan%20Open%20Government%20Data%20License-1.0.png?itok=uXpVpsE5&quot; style=&quot;height:217px; width:600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;政府資料開放授權條款－第 1 版: &lt;a href=&quot;http://data.gov.tw/license&quot; target=&quot;_blank&quot;&gt;http://data.gov.tw/license&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;「&lt;a href=&quot;http://data.gov.tw/license&quot; target=&quot;_blank&quot;&gt;政府資料開放授權條款－第 1 版&lt;/a&gt;&amp;nbsp;(Open Government Data License version 1.0, OGDL-1.0)」，已於 2015 年 7 月 27 日訂定並公告生效，此一版本為行政院國家發展委員會邀集中央各部會集思廣益，並廣納民間建議進行討論後，取得共識的革新版本。OGDL-1.0 與過往「使用規範」在授權處理上，亦具有極大的差異，並提供使用者極高的應用空間與自由。整體而言，OGDL-1.0 的革新性有三大要點：1、明訂所提供之資料，在著作權領域的授權不會被撤回，且不限制使用時間、地域，與目的，讓使用者都能夠安心使用這些資料；2、使用者得以自己名義，對這些資料以再轉授權之模式進行利用，有助於開放資料被用於任何情境，包括商業目的之脈絡；3、於第 4 條第 2 項新增「創用CC 授權轉換條款」，讓原以 OGDL-1.0 提供的資料，必要時得轉以「創用CC 姓名標示 4.0 國際版本授權條款 (Creative Commons Attribution License 4.0 International, CC BY 4.0)」的方式進行利用。綜合上述三點，OGDL-1.0 是一個對使用者非常親善，且鼓勵再行衍生利用的授權模式。只不過，對於公務單位來說，要提供如此大範圍的授權利用，依傳統模式原則上僅有公務人員自行產製的編輯著作，或是採購契約上明定機關取得所有權利的素材，才適合採用 OGDL-1.0 進行公眾授權。&lt;/p&gt;
+
+&lt;p&gt;然而，若是在採購、補助之初，即可透過契約附款的方式，明確表示公務機關構，得採非專屬 (non-exclusive)、不可撤回 (irrevocable)、得再轉授權 (sublicensable) 之模式，取得專案相關著作財產權利之授權，且嗣後亦得進行任何目的之利用(for any purpose)，則即使在非專屬授權之基礎，亦不妨礙取得素材之機關構，嗣後將其轉以 OGDL-1.0 授權，並置於 data.gov.tw 平台上進行不限制對象之流通！在必要時，亦得以選擇任一組合的創用CC 授權條款，進行後續的公眾釋出。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【非專屬授權吸納卻不限制使用目的、期間之國際先例】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;從商用領域與社群發展的著例來看，Google Android 與全球擴散的「開放街圖專案 (OpenStreetMap)」，其用於著作權利吸納的貢獻條款，皆是以非專屬、不可撤回、不限制使用目的、時間、地域，得再轉授權方式取得貢獻後，再由被授權之統轄法人，以接續得允許再轉授權方式將這些成果以集合方式釋出予公眾使用。前者依此條件取得貢獻者授權後，是 Google 採自身名義，以 Apache-2.0 開源授權釋出軟體專案的集合成果，而後者則採「開放資料庫授權條款 1.0 (Open Database License, ODbL-1.0)」，由開放街圖基金會 (OpenStreetMap Foundation，OSMF) 為授權人，釋出所編撰的地圖資料庫。&lt;/p&gt;
+
+&lt;p&gt;此外，國外政府就公部門這端，亦開始靈活運用授權吸納與再轉授權機制，以較低廉的價金取得著作權利授權，嗣後亦得在必要時指定改採公眾授權模式來釋出相關素材。例如美國聯邦政府勞動部，透過補助契約要求 1 億 5000 萬美元的失業人口再就職輔導計畫成果，明示保留其「已償付、非專屬、不可撤回」的被授權地位；而美國國家地理資訊局 (National Geospatial-Intelligence Agency, NGA) 與民間廠商，透過圖資授權契約取得之被授權地位，原本僅得用於公務目的之使用，然註記一旦發生重大災難，其可援引附約規定，將國家地理資訊局本來取得的授權，轉予其他協助災難救助的州政府、地方政府、國際協助組織，或其他協力救災的相關機構進行使用。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;【改採政府資料開放授權條款提供素材之吸納要點】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;可知國際上政府機構或大型機構，透過著作權指定或讓予取得權利，並非唯一方式，而以非專屬、不可撤回、得再轉授權、不限制目的；或在特殊狀況如急難救助的名義下，開啟得再轉授權與不限制目的之特殊地位，是一個更靈活與便利被授權者未來舉措的模式與趨勢。一般來說，要達到這樣的授權吸納，於最初的著作權及相關權利授權同意書，應具體述明下列的權利吸納要點：&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;茲將本人／公司提交之_XXXXX專案_之著作財產權，採非專屬 (non-exclusive)、不可撤回 (irrevocable)、得再轉授權 (sublicensable) 之模式，授權予「機關構名稱」嗣後進行任何目的之利用 (for any purpose)，包括但不限於以本人／公司名義、被授權人名義，或其他合法經被授權人依本同意書再授權者，採「政府資料開放授權條款-第 1 版 (http://data.gov.tw/license)」或其他開放授權條款向外釋出。&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;如未涉及著作人格之污衊，本人／公司同意不向被授權人及其後續授權對象，行使著作人格權。&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;設此，則被授權之公務機關構，即取得一個雖基於非專屬的基礎，但無礙將相關素材未來改以開放授權提供予公眾使用之地位，並且必要時，得逕以提交者本身名義，或公務機關構名義進行授權散布。從實而言，過去我國多數的公務機關，並未知曉是類契約的訂立方式，然隨著開放資料、開源軟體的逐年推廣與加深應用，未來勢必將有部份重要的資料、素材，應透此種吸納模式取得，一方面能夠讓原權利人繼續深度活化應用其創作或編輯成果，另一方面則亦可在必要時，將最符合公眾需求的素材，酌採開放授權的模式進行散布，以收權利保障與推展應用相合益彰之效果。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;相關連結：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;政府資料開放授權條款－第1版：&lt;a href=&quot;http://data.gov.tw/license&quot; target=&quot;_blank&quot;&gt;http://data.gov.tw/license&lt;/a&gt;，2015 行政院國家發展委員會。&lt;/li&gt;
+	&lt;li&gt;Google Individual Contributor License Agreement: &lt;a href=&quot;https://cla.developers.google.com/clas/new?domain=DOMAIN_GOOGLE&amp;amp;kind=KIND_INDIVIDUAL&quot; target=&quot;_blank&quot;&gt;https://cla.developers.google.com/clas/new?domain=DOMAIN_GOOGLE&amp;amp;kind=KIND_INDIVIDUAL&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;OpenStreetMap Contributor Terms 1.2.4: &lt;a href=&quot;https://wiki.osmfoundation.org/w/index.php?title=Licence/Contributor_Terms&amp;amp;redirect=no&quot; target=&quot;_blank&quot;&gt;https://wiki.osmfoundation.org/w/index.php?title=Licence/Contributor_Terms&amp;amp;redirect=no&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;Notice of Availability of Funds and Solicitation for Grant Applications for H-1B Ready to Work Partnership Grants: &lt;a href=&quot;https://www.doleta.gov/grants/pdf/SGA_DFA_PY_13_07.pdf, 2014 U.S. DEPARTMENT OF LABOR&quot; target=&quot;_blank&quot;&gt;https://www.doleta.gov/grants/pdf/SGA_DFA_PY_13_07.pdf, 2014 U.S. DEPARTMENT OF LABOR&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;NextView Imagery End User License Agreement: &lt;a href=&quot;http://geocenterusaid.org/rswebpage/NextView.html&quot; target=&quot;_blank&quot;&gt;http://geocenterusaid.org/rswebpage/NextView.html&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Nov 2016 17:39:47 +0000</pubDate>
+ <dc:creator>lucien</dc:creator>
+ <guid isPermaLink="false">1236 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20161127#comments</comments>
+</item>
+</channel>
+</rss>

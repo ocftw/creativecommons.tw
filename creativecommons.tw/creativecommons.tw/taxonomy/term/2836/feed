@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 網站易用性</title>
+ <link>https://creativecommons.tw/category/tags/%E7%B6%B2%E7%AB%99%E6%98%93%E7%94%A8%E6%80%A7</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>初探創用CC網站之改版 - 從使用者需求談起</title>
+ <link>https://creativecommons.tw/in-depth/428</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;黃寶莉&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;現在的台灣創用CC計畫網站架構是從2004年開始，歷經 &lt;a class=&quot;newpage&quot; href=&quot;http://jedi.org/&quot;&gt;Jedi (林克寰)&lt;/a&gt; 、&lt;a class=&quot;newpage&quot; href=&quot;http://www.far.tw/&quot;&gt;far(曾皇霖)&lt;/a&gt; 、和&lt;a class=&quot;newpage&quot; href=&quot;http://www.bobchao.net/&quot;&gt;Bob（趙柏強）&lt;/a&gt;等人的努力與規劃所建構出來的。然而，為了讓使用者更容易找到所需資料，並且讓網站資料分類更具彈性，因此有了網站改版的規劃。不過，網站改版並非一蹴可即，所以將採取漸進的方式分階段進行改版。本篇專文將透過分析使用者資訊需求與查找資料的習慣，讓各位讀者瞭解計畫網站改版設計的思考依據。&lt;/p&gt;
+
+&lt;p&gt;網站改版第一階段的兩大重點是「資料重整」與「網站穩定度提升」。因此，重整網站上的資料為改版首要目標。此外，我們也會進行主機、硬體的升級，以提高網站的穩定度。因為連不上的優秀網站，一點用也沒有。&lt;/p&gt;
+
+&lt;p&gt;討論如何改版網站前，我想先來談談此網站使用者的需求，以及該如何利用網路易用性(Web Usability)的概念，與使用者介面設計(User Interface Design)來提供解決之道。&lt;/p&gt;
+
+&lt;p&gt;目前台灣創用CC計畫網站平均一日有300-400名非重複性訪客造訪，初次造訪者佔所有訪客的56%，為網站主要使用群。另外，若根據網頁中的功能或內容統計，前五名依序為「首頁-部落格」、「授權條款一覽」、「作品搜尋」、「出版品與媒體素材」及「核心授權」功能。&lt;/p&gt;
+
+&lt;p&gt;由此，我們可粗略瞭解使用者有哪些，他們想從網站得到哪些資訊，或使用哪些功能。所以，網站改版就會竭盡所能地將這些功能，以最明顯易懂的方式提供給使用者。而明顯易懂的資料呈現方式，在網站工程裡有專門的名詞，叫做網路易用性(Web Usability) &lt;strong&gt;[註1]&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;網站建置應該使用日常生活的普及概念，來引導使用者並與之互動。具體實踐易用性時，有四個對使用者的考量，第一，資訊呈現應「清楚」並「直覺」；第二，給予使用者「明顯」且「正確」的引導；第三，除去操作順程序上「模稜兩可」之處；最後，最重要的資訊或功能應放在「合理」之處。而「使用者介面設計」則是為要達到網路易用性的實作技巧，若能善用此技術便可解決網站使用不易及內容搜尋不易的問題了。設計使用者介面，首先，要分析使用者類型，然後思考每種使用者的常態動線。由上述統計內容延伸而得，目前台灣創用CC計畫網站的使用者大略可區分為：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;初次造訪者：第一次接觸創用CC的朋友，多會先瀏覽「FAQ」或「關於我們」等網頁，以迅速有效地得到初步的概念或解答。&lt;/li&gt;
+	&lt;li&gt;利用人：想尋找以創用CC授權著作的利用人，需要的是快速且定義明確的「搜尋」介面。&lt;/li&gt;
+	&lt;li&gt;創作者：欲將其作品以創用CC授權者必須提供簡單易懂的「步驟」導引。&lt;/li&gt;
+	&lt;li&gt;法律研究者：針對對創用CC授權條款本身，有研究興趣的朋友或法律人，需要清楚的創用CC法律條款，並且透過「國內外案例研究與探討」的互動功能區塊，累積研究成果與交流意見。&lt;/li&gt;
+	&lt;li&gt;各領域觀察研究者：對於想探討自由文化與創用CC在台灣發展過程，對各領域生態影響的觀察研究者，會需要閱讀相關論文研究以及案例報導，並且也希望瞭解相關的使用數據。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;其中，初次造訪的使用者(56%)超過半數以上，對FAQ有很高的需求，因為它能讓使用者在第一時間獲得疑問上的解答。所以，結合前面提及的網頁功能使用度排名，除了首頁的連結外，「授權條款一覽」與「作品搜尋功能」都將是網站改版第一階段的首要重點。&lt;/p&gt;
+
+&lt;p&gt;當分析歸納出主要使用者，並且將其常態動線定妥後，網站的必要功能、每個頁面的優先順序、其該有的內容及連結，都將一目了然。把每頁示意圖畫出來之後，就可以結合美術設計背景人員，來做色彩及風格定調。在訂立風格與色彩時，由於顧及到各層級的使用者，因此用色上就採取中庸的調性，避免過分新潮大膽，以免造成不必要的使用者排擠。&lt;/p&gt;
+
+&lt;p&gt;此外，我們透提高過文字與背景色的對比，來增添易讀性；導引性內容則會儘可能使用圖片，因圖片較易取得使用者的注意力；突顯使用者興趣高低的標籤雲(Tag Cloud)設計；網頁透過留白讓使用者在閱讀上減少壓力等細節，都是結合使用者界面設計原則的概念，成為新版網站的規劃特色。&lt;strong&gt;[註2]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;從前的網站多為「架構」導向，基本要求是先把網站架設起來，讓網站有網站該有的功能，而資料呈現方式，則交由具有美術設計背景的設計師安排。但網頁美感有別於網頁實用度，這時就需要一位精通網路社群生態、熟知多數網路使用者操作模式(pattern)以及模式所代表的意義的專家來給予意見。設計者要滿足使用者需求的終極方法，就是成為使用者，或給與使用者設計的能力，這也是Web2.0的依歸。&lt;/p&gt;
+
+&lt;p&gt;台灣創用CC計畫花了數週時間整理網站內容、重整架構並設計界面，期待帶給使用者全新的體驗。若有任何意見，也歡迎您寄信至wt.gro.snommocevitaerctcatnoc#wt.gro.snommocevitaerctcatnoc，讓我們可為您提供更完善的服務。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;註1：&lt;/strong&gt;易用性(Usability)，是一種以使用者為中心的設計概念，易用性設計的重點在於讓產品的設計能夠符合使用者的習慣與需求。易用性導向的網站設計則是讓使用者在瀏覽的過程中不會產生壓力或感到挫折，並能讓使用者在使用網站功能時，能用最少的努力發揮最大的效能的設計概念。（參考自&lt;a class=&quot;newpage&quot; href=&quot;http://zh.wikipedia.org/wiki/%E6%98%93%E7%94%A8%E6%80%A7&quot;&gt;維基百科&lt;/a&gt;）&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;註2：&lt;/strong&gt;可在 &lt;a class=&quot;newpage&quot; href=&quot;http://ui-patterns.com/&quot;&gt;UI Patterns&lt;/a&gt;、&lt;a class=&quot;newpage&quot; href=&quot;http://patterntap.com/&quot;&gt;Pattern Tap&lt;/a&gt;、&lt;a class=&quot;newpage&quot; href=&quot;http://ilkeryoldas.com/&quot;&gt;ilker yoldas&lt;/a&gt; 和&lt;a class=&quot;newpage&quot; href=&quot;http://mrmo.cc/mouson/146&quot;&gt;阿修的部落格&lt;/a&gt;等網站習得。&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+far(曾皇霖)的網站連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 07 May 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">428 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/428#comments</comments>
+</item>
+<item>
+ <title>2010 新年特刊</title>
+ <link>https://creativecommons.tw/in-depth/424</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;創用CC計畫同仁&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;莊庭瑞（計畫主持人）：&lt;/strong&gt;時間過得好快，已經是三月初了！在這裡跟大家拜個晚年，祝各位創用CC電子報的讀者，新春愉快，萬事如意！身為台灣創用CC計畫的主持人 ，也藉這個機會，跟您簡短回顧一下台灣創用CC計畫去年我們完成的事情與未來一年的新工作。&lt;/p&gt;
+
+&lt;p&gt;Creative Commons (CC) 於去年12月剛慶祝CC授權條款問世7周年。CC簡易明示的公眾授權方式，方便眾人之間彼此著作的流通，目前已獲得廣泛的採用。台灣華語版本的CC授權條款，我們稱為「創用CC」授權條款，於2004年九月首次發佈（2.0版）；去年十月底，很高興3.0版本的台灣華語版，也正式上線了。創用CC授權條款3.0版本的本地化工作，能夠順利完成，要特別感謝陳曉慧、謝銘洋兩位教授的鼎力協助，以及在公開預覽階段提供諸項寶貴意見的朋友。&lt;/p&gt;
+
+&lt;p&gt;搭配3.0本地版本的問世，台灣創用CC計畫與公共電視、經濟部智慧財產局合作，製作了一支關於公眾授權的&lt;a href=&quot;http://go2cc.tw/&quot;&gt;30秒短片&lt;/a&gt;，去年十一月份在全國無線電視頻道的公益時段播出。去年我們也分別與數位典藏與數位學習國家型科技計畫、國際科學與技術資料委員會中華民國委員會、以及行政院研考會等單位合作，舉辦了多場研討會，推廣公眾授權的理念與實務作法。&lt;/p&gt;
+
+&lt;p&gt;今年我們規劃了多場「動手作」的工作坊，希望在例行的推廣講習活動之外，能以協力創作與研討的方式，體驗探討自由文化的議題。計畫同仁也規劃了許多工作（可能會累壞他們），更有一些不顧成本的想法要實現（等成了再說吧），請大家拭目以待。說到這裡，要特別感謝中央研究院資訊科技創新研究中心的支持，於去年與今年提供諸多資源給計畫，讓這些工作得以完成（是的，去年初起我們換單位了，從資訊科學研究所轉台到資訊科技創新研究中心）。而各位創用CC授權的使用者，更是支撐我們工作的動力來源。您有任何想法、建議、或抱怨，寫 e-mail 來就對了。我們盼望與您有更多的互動！&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;周文茵（計畫專案經理）：&lt;/strong&gt;恭喜新年好！在這裡跟創用CC電子報的朋友們拜個晚年，祝各位虎年平安健康、順心如意。我在計畫中除了負責整體的統籌與規劃，目前也擔任推廣講師的角色。回顧過去的一年，林林總總也完成了不少的工作。&lt;/p&gt;
+
+&lt;p&gt;本年度計畫仍將持續技術（研發管理工具）、法律（研析授權條款本地化情況）、推廣諮詢（提供課程與諮詢服務）等基礎工程。除此之外，網站平台也將於今年分階段進行改版！我們嘗試透過「協力」概念的導入與實踐，強化平台的互動性，以期讓更多有興趣的朋友，能夠來此獲取有用的資訊，希冀建構即時互動的園地，讓大家匯聚於此擊發創意，甚或在未來激起一些有趣的嘗試。&lt;/p&gt;
+
+&lt;p&gt;而計畫主持人提及的工作坊系列，則是今年另一項重頭戲。不同於研討會或演講單向的傳遞模式，我們將透過互動性極強的工作坊型態，讓參與者親身體驗協力創作的魔力 。台灣創用CC計畫耕耘公眾授權領域已經邁入第6個年頭，我們在今年暑假將提供短期研究獎助名額，希望藉此開始擴大研究領域的參與風氣，拓展更多的觀察視角。&lt;/p&gt;
+
+&lt;p&gt;另外，今年六月將會推出第50期電子報，為了紀念這連續50個月不間斷的堅持，我們規劃在今年推出紀念專書特別企畫。除了精選電子報專文，也會網羅「自由文化」 領域具代表性的好文，希望嘗試思考不同傳統的出版型態，製作出一本深入淺出的特輯。&lt;/p&gt;
+
+&lt;p&gt;我想，今年，將會是充滿有趣嘗試的實驗年！歡迎大家鬥陣來玩喔～&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;江易原 (博士後研究)：&lt;/strong&gt;雖是筆者是台灣創用CC計畫的新手，但對創用CC授權不陌生。在2005年從跌跌撞撞的摸索到改用Linux、從學著找尋套件庫的教育軟體 (絕大多數是公眾授權的)，到參與的翻譯計畫，可以感受到自己從單純的使用者慢慢地進步可以協助一點東西。筆者有興趣的是公眾授權的教育類軟體與教材，漸漸地，無法滿足在Debian/Ubuntu的套件庫撈東西時，就開始向其他地方找尋，也開拓了自己的視野，因為對於教育有幫助的不只是收錄到套件庫的軟體，其他公眾授權的素材或是教材更是有幫助。(不過，在此不清楚為何教材類的東西無法收錄到套件庫，是因為教材不是軟體嗎？)&lt;/p&gt;
+
+&lt;p&gt;有次筆者嘗試著在搜尋引擎上輸入 “physics animations Creative Commons”，出現的前幾筆資料中，有些的確是筆者想要的東西。筆者同時另外也嘗試過使用BSD, public domain, GPL, GNU FDL等字取代 Creative Commons進行搜尋，但是搜尋的成果還是不如使用Creative Commons。因此單就個人的查詢經驗來說，的確加上Creative Commons比較容易在前幾筆看到自己想要的教材。個人推測雖然Creative Commons出現的晚 (2001年，而GPL及BSD是在80年代出現)，會超越其他公眾授權而被多數創作者採用，有幾個可能的原因。一是屬性問題，對許多人來說，他們不會寫程式也不會遇到程式碼，因此GPL或是BSD離他們太遠了，而進行一般創作的人比例較多，也較容易採用體質偏向一般創作而非電腦程式的創用CC授權。二是時機問題，在 80年代有Richard Stallman領導的自由軟體運動，但是當時不是家家戶戶都有電腦，因此極少人會去關心。三是環境問題，筆者發現所查詢到創用CC授權的教材，多數是來自大學教職員的創作，或許這群人比一般人更有機會接觸到創用CC的觀念，也有可能是為了自己的教學而進行教材的製作，其中一小部份的人知道並願意使用CC將教材分享出來。&lt;/p&gt;
+
+&lt;p&gt;因此，在新的年度，筆者希望持續找尋公眾授權的教材或是素材 (也包括 public domain)，希望帶給使用者一個觀感：原來這些好用、高品質的教材是公眾授權的，或許這樣可以引起更多人採公眾授權分享其創作，正如台灣創用CC計畫的宗旨 ：「用善意換取善意」。&lt;/p&gt;
+
+&lt;p&gt;附註說明：筆者所寫的教育軟體使用手冊等，從採創用CC授權到近來就連授權都不用了而直接置於public domain，筆者的文件請&lt;a class=&quot;newpage&quot; href=&quot;http://idv.sinica.edu.tw/iychiang/talk.html&quot;&gt;點此連結&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;黃寶莉(Polley Wong)（技術管理）：&lt;/strong&gt;大家好，我是 2009年七月中旬加入台灣創用CC計畫。在此之前，我在美國紐約一家財經報社裡擔任網頁工程師。加入台灣創用CC計畫後，擔任技術管理 (Technology Manager)一職，主要負責計畫內所有硬體主機的維護，及軟體工程、網站建置等事務。簡單將上任後的大紀事簡列如下：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;2009年8至10月，我將台灣CC計畫的官網所在之主機作了數次整頓；在時間允許範圍內，解決了資料庫設計混亂、網站服務的模組載入錯誤、無使用快取記憶、過度分頁(paging)導致主機易掛或網頁回覆緩慢的問題。網站服務主機的設定優化將於2010年繼續進行。&lt;/li&gt;
+	&lt;li&gt;2009年10月下旬，參與協助推動CC 3.0版本地化授權條款上線。&lt;/li&gt;
+	&lt;li&gt;2009年11月，除了為台灣創用CC計畫與公共電視、經濟部智慧財產局合作製作的30秒短片架設一個簡單的 WordPress 網站。&lt;/li&gt;
+	&lt;li&gt;2009年12月，開始為台灣創用CC官網改版一事作初步規劃及佈局。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;2010年的大事就是實踐台灣創用CC計畫官網改版一事。我的想法是，目前官網內容上，有不易尋找及結構混亂的問題；功能上，與使用者的互動應加強，網頁回應速度亦有進步空間；介面設計上應重新從使用者角度出發作設計，簡化繁亂的多餘功能連結、圖文並用，並善用色彩對比以降低使用者閱讀及尋找的負擔。&lt;/p&gt;
+
+&lt;p&gt;為避免改版時可能出現因我們的認知與使用者的認知不同而修改方向錯誤，及開始改版到上線時間過長等問題，我決定採納敏捷式開發 (Agile Development) 的概念，將改版週期大幅縮短，原本改版的規模將細分成許多的小改版，小改版與小改版之間隨時可作方向性或順序性的改變調動。此方針目的有四：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;只有對使用者「有用」的我們才做 。(網頁工程師的夢魘一 - 客戶要的功能網站裡沒有)&lt;/li&gt;
+	&lt;li&gt;「沒用」的修改或功能不做 。(夢魘二 - 網站裡的功能不是客戶需要的)&lt;/li&gt;
+	&lt;li&gt;使用者認為「急迫」的地方盡可能優先著手。 (夢魘三：工程師以為很重要的其實不太重要，以為不重要的其實很重要)&lt;/li&gt;
+	&lt;li&gt;「有也不錯」的功能要清楚記錄下來 。(夢魘四 - 客戶：「XX工程師，你可以幫我加OO功能嗎？」工程師「好好好，我等一下弄。」等一下…忘記了)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;我期待台灣創用CC的新官網不會流於自我滿足，而是一個跟使用者一起合作完成的作品，因此我們極需要您的意見與指教，幫助我們為您預備一個真正符合您的需要的工具，即使只是簡單的回應「很爛」或是「內容有幫助」都是重要的參考資訊。以上是網站的建置方式，至於細部有許多技術上、內容架構上的決策仍陸續在評估和定型中。若有新消息，我將透過電子報和部落格告知各位，並期待您對新站改版的任何回應，無論是支持或批判都大力歡迎！&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;趙柏強（社群發展）：&lt;/strong&gt;新年快樂！去年中起我的職務內容有所變更，變更後，我的工作除了保持與CC 社群的聯絡外，也要主動對外出擊，協助國內各式平台導入創用CC授權條款，很可惜去年談的一個計畫到最後沒有成功，但今年又是個新的開始，目前也有特定的「候選人」準備接觸。連同去年在網誌上提過商業利用研究，希望在年中之後可以有成果跟大家報告。&lt;/p&gt;
+
+&lt;p&gt;除了上述工作外，我自己對於 CC 後設資料與人互動的部份也有興趣，在去年除了製作資料授權管理的 ccZotero 原形外，也另外用Firefox 的新套件架構 Jetpack 打造了「JetCC」，重現好久不見的 MozCC 部分功能。ccZotero以及相關軟體的開發預計在今年中會繼續延續下去，而 JetCC 也獲得 CC Labs 注目，在下個月起預計將在 CC Labs 每月發表一篇Jetpack 與 Google Chrome 擴充套件相關的文章，向 CC技術開發社群介紹這一類新式瀏覽器擴充套件開發方式，以及一些協助使用者利用後設資料的想法。這或許是柏強加入創用CC計畫以來的英語最大考驗，敬請拭目以待！&lt;/p&gt;
+
+&lt;p&gt;總之，又是個忙碌的一年，這也是我第三次寫新年特刊啦！希望各位在今年氣勢虎虎生風，再展新高囉！&lt;/p&gt;
+
+&lt;p&gt;編按：以上順序除計畫主持人、計畫經理外，其餘按姓氏筆畫排列 。&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+江易原所著文件連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 05 Mar 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">424 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/424#comments</comments>
+</item>
+</channel>
+</rss>

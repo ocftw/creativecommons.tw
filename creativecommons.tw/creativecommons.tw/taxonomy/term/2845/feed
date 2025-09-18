@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 醫療</title>
+ <link>https://creativecommons.tw/category/tags/%E9%86%AB%E7%99%82</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>下一個創業寶藏--政府開放資料</title>
+ <link>https://creativecommons.tw/in-depth/705</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;S.H. Shih /文 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;美國前總統雷根（Ronald Reagan）應該沒想到任期內的一道行政命令，會打開政府公開資料的寶藏。&lt;/p&gt;
+
+&lt;p&gt;1983年，大韓航空民航機誤闖蘇聯領空，遭擊射落海。事件發生後，雷根下令開放美國軍用全球衛星導航系統（GPS）給民間使用，避免同樣的悲劇再次發生。&lt;/p&gt;
+
+&lt;p&gt;一道開放令，在19年後，2011年由民間提供的GPS服務，已為美國帶來9千萬美元的收入，而這樣的經濟效益還在持續擴大中。 等於說，政府先將軟性基礎建設打下基礎，再進一步開放給民眾加值利用，背後帶來的創新及創業機會不容忽視。 這也難怪美國資訊長（Chief Technology Officer）陶德‧帕克（Todd Park）於2012年3月上任後，大力推動政府開放資料只是其一， 在「&lt;a href=&quot;http://www.opendatainitiative.org/&quot; target=&quot;_blank&quot;&gt;開放資料倡議（Open data initiative）&lt;/a&gt;」計畫中，帕克也特別強調，希望藉由政府開放資料、將資料轉換為機器可讀（machine-readable）模式後，能陸續帶動創新應用和創業活動，藉此創造工作機會（create jobs）。&lt;/p&gt;
+
+&lt;p&gt;帕克並不是空談。在他上任後，已大量舉辦橫跨政府部門、創業家、資料科學專家的聚會，希望透過跨界交流，激盪火花，等於是政府帶頭衝開放資料的金礦。 到目前為止，成效最好、並明顯增加就業機會的團隊，就屬下面3組：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.&lt;a href=&quot;https://www.itriagehealth.com/&quot; target=&quot;_blank&quot;&gt;iTriage&lt;/a&gt;&lt;/strong&gt;（採醫療機構公開資料）：&lt;br /&gt;
+&lt;strong&gt;商業模式：&lt;/strong&gt;兩名急診室的醫生，利用美國衛生及公共服務部門（Department of Health and Human Services）開放的醫療機構資料，讓使用者能根據所在位置，透過手機應用程式iTriage，立刻搜尋鄰近的診所及醫院。&lt;br /&gt;
+&lt;strong&gt;效應：&lt;/strong&gt;超過600家醫院與iTriage簽約，全美有800萬人次使用iTriage服務，公司也已聘僱90位人力。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.&lt;a href=&quot;http://opower.com/&quot; target=&quot;_blank&quot;&gt;OPower&lt;/a&gt;&lt;/strong&gt;（採能源和天氣公開資料）：&lt;br /&gt;
+&lt;strong&gt;商業模式：&lt;/strong&gt;透過政府開放的能源和天氣資料，為使用者量身訂做「家庭能源管理方案」，如果使用能源超過客戶預先設定的額度，OPower會發送通知，以協助各個家庭做好節能生活。&lt;br /&gt;
+&lt;strong&gt;效應：&lt;/strong&gt;OPower目前雇用超過200名人力，預估已幫使用者至少省下美金1.65億元的帳單。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3.&lt;a href=&quot;https://www.billguard.com&quot; target=&quot;_blank&quot;&gt;BillGuard&lt;/a&gt;&lt;/strong&gt;（採信用分數公開資料）：&lt;br /&gt;
+&lt;strong&gt;商業模式：&lt;/strong&gt;BillGuard 利用美國消費者金融保護局（Consumer Financial Protection Bureau）的信用卡客訴資料庫，向註冊的使用者每日免費發送信用卡檢測通知，讓使用者清楚知道自己口袋中的信用卡今天有沒有被盜用、被收取額外費用、 或產生錯誤收費。如有可疑的信用卡交易產生，BillGuard也會協助使用者索回金額。&lt;br /&gt;
+&lt;strong&gt;效應：&lt;/strong&gt;BillGuard已雇用21名員工。&lt;/p&gt;
+
+&lt;p&gt;這些團隊到底是如何把政府開放資料，轉化成具有市場性的應用和服務？社交平台LinkedIn前任科學家暨資料產品負責人派提爾（DJ Patil）特別撰寫的專文——「資料柔術（Data Jujitsu）」，或許可以提供一個方向。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;用「資料柔術」找機會&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;所謂「&lt;a href=&quot;https://en.wikipedia.org/wiki/Jujutsu&quot; target=&quot;_blank&quot;&gt;柔術（Jujitsu）&lt;/a&gt;」，就是將對方的攻擊力量，有效轉化為制服對方的技術。面對龐大的資料，也許你想到的是統計學、資料剖析等高深的技術，去攻擊資料的困難點，但派提爾卻建議：「大問題都要從小地方著手，所以首先要問的是：有任何人會需要你的資料產品（data product）嗎？」&lt;/p&gt;
+
+&lt;p&gt;派提爾借用「&lt;a href=&quot;http://theleanstartup.com/principles&quot; target=&quot;_blank&quot;&gt;最精簡可行產品（Minimum Viable Product）&lt;/a&gt;」的開發概念，以自己過去在Linkedin服務時，透過使用者測試，先提供初步適切的服務，再陸續調整資料探勘的流程和目標。&lt;/p&gt;
+
+&lt;p&gt;「把產品放第一，資料放第二，」派提爾強調，就算有超過8成的時間得花在整理、分析資料上，但思考資料產品的創新點子時，不妨先回到下面3個基本問題：&lt;/p&gt;
+
+&lt;p&gt;1. 你希望使用者從產品中得到什麼？&lt;br /&gt;
+2. 你希望使用者因為產品而進行什麼樣的行動？&lt;br /&gt;
+3. 使用者在使用產品時和使用產品後，分別感覺到什麼？&lt;/p&gt;
+
+&lt;p&gt;台灣政府開放資料平台已於日前正式上線，要如何從一筆筆的數字中挖掘創新點子、甚至是創業機會？透過以上美國的例子，希望能帶給你不一樣的刺激。&lt;/p&gt;
+
+&lt;p&gt;---&lt;br /&gt;
+&lt;strong&gt;延伸閱讀：&lt;/strong&gt;&lt;br /&gt;
+1. “&lt;a href=&quot;http://www.scientificamerican.com/article.cfm?id=how-to-kick-start-innovaton&amp;amp;fb_action_ids=10151575754633698&amp;amp;fb_action_types=og.likes&amp;amp;fb_source=timeline_og&amp;amp;action_object_map=%7B%2210151575754633698%22%3A344140802354738%7D&amp;amp;action_type_map=%7B%2210151575754633698%22%3A%22og.likes%22%7D&amp;amp;action_ref_map=&quot; target=&quot;_blank&quot;&gt;How to Kick-Start Innovation with Free Data&lt;/a&gt;”，available at 《Scientific America》,last visited 06/14/2013.&lt;br /&gt;
+2. &lt;a href=&quot;http://radar.oreilly.com/2012/07/data-jujitsu.html&quot; target=&quot;_blank&quot;&gt;資料柔術（Data Jujitsu）&lt;/a&gt;,last visited 06/14/2013.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 05 Jul 2013 01:48:22 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">705 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/705#comments</comments>
+</item>
+<item>
+ <title>彷彿沒有明天的資料狂歡會（datapalooza）</title>
+ <link>https://creativecommons.tw/in-depth/671</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;S.H. Shih /文 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;2010年，美國華盛頓。&lt;/p&gt;
+
+&lt;p&gt;在美國資訊長（U.S. Chief Technology Officer）陶德‧帕克（Todd Park）的號招下，來自軟體工程，醫療產業還有創投背景的45位高手聚在一起， 仔細挖掘美國國家科學院醫學研究所（Institute of Medicine）提供的開放資料（open data），試圖從中解決目前醫療問題，甚至，找出下一個可能的創業點子。&lt;/p&gt;
+
+&lt;p&gt;他們的碰面，並不是偶然，而是為了美國白宮第一次舉辦的「資料狂歡會」（datapalooza），這樣的活動形式，正成為目前開放資料界的流行語。但，到底什麼是資料狂歡會？&lt;/p&gt;
+
+&lt;p&gt;翻開美國俚語字典，&lt;a href=&quot;http://www.urbandictionary.com/define.php?term=palooza&quot; target=&quot;_blank&quot;&gt;palooza&lt;/a&gt;指的是「彷彿沒有明天」的聚會。資料狂歡會並沒有那麼迷幻，反而是場紮紮實實的討論會，主要可以分成3個階段：&lt;/p&gt;
+
+&lt;p&gt;1. 挖掘資料（Priming the pump）：所有創新者（innovators）得花上8小時聚在一起，仔細思考，究竟需要哪些資料才能推動新應用程式的產生？如同搖滾樂團練習時， 透過 “jam”，一種實驗性的摸索過程，來找尋適合的旋律及和旋，這一個階段也被稱為：“data jam”。&lt;/p&gt;
+
+&lt;p&gt;2. 展示發現（Showcasing the results）：第二階段則是讓創新者們在創投和其他可能的投資者前展示第一階段的發現成果。 過程中，為了確保討論的熱烈度，主辦單位也會宣布，若創新計畫實現，未來可能獲得的獎勵。&lt;/p&gt;
+
+&lt;p&gt;3. 持續投入（Continuing the work）：展示會結束後，接下來有一系列的見面會、視訊會議或程式馬拉松（hackathons）等活動， 除了能繼續挖掘需要解決的問題，這個階段也提供創新者進行使用者測試，持續修正產品。&lt;/p&gt;
+
+&lt;p&gt;和過往的程式馬拉松（hackathon）等開放資料活動相比，資料狂歡會以現有公共問題為出發點， 尋求創新解決方案，還有商業化的機會。簡單而言，這項活動背後事實上也代表了3個新意義。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;首先，活動以創新者為中心。&lt;/strong&gt;在 2012年 Personal Democracy Forum 會議上，帕克特別強調，既然目前趨勢是專業分工細緻，每一位專家擅長的領域個不同，大家更應該去思考如何配對不同領域的專家。這當中，政府面對創新者時， 應該是提供關鍵資料的角色，就好比把各類資料攤開在桌面上， 詢問各領域專家有沒有哪些資料是值得注意？剩下的工作，就交由這群創新者負責後續的開發。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;第二，強調資料的可應用性。&lt;/strong&gt;在2010年第一場的資料狂歡會上，歷經8小時的腦力激盪後，第一階段就已產出超過20個關於新興應用程式和產品的點子。「我們告訴與會的人，在90天後將會舉辦一場成果發表會， 看看你們從今天的基礎上還能繼續做什麼努力，」帕克接受採訪時提到，「3個月後，這些創新者研發出超過20個應用程式，所有人都很驚訝。」&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;最後，狂歡會不能只有3分鐘熱度，得有後續的組織和活動延續討論熱度。&lt;/strong&gt;在第一場資料狂歡會後，一些關於醫療產業的創業組織和活動，如&lt;a href=&quot;http://www.startuphealth.com/&quot; target=&quot;_blank&quot;&gt;StarUp Health&lt;/a&gt;, &lt;a href=&quot;http://rockhealth.com/&quot; target=&quot;_blank&quot;&gt;RockHealth&lt;/a&gt; 也隨之升起。 又如2012年，兩位約翰霍普金斯的醫學院學生，也接續利用疾病管制局的資料，建立網路和手機應用程式&lt;a href=&quot;http://symcat.com/&quot; target=&quot;_blank&quot;&gt;Symcat&lt;/a&gt;， 病人可從中查詢自己可能罹患的疾病和原因，這項程式也已獲得美金10萬美元的獎金。&lt;/p&gt;
+
+&lt;p&gt;短短兩年，資料狂歡會目前已不止發生於美國政府單位，非營利組織和私人企業也開始流行舉辦類似活動；討論焦點也從醫療產業，跨足教育,能源, 貧窮等議題， 皆以政府開放資料為基礎，鼓勵跨界合作和應用資料的機會。&lt;/p&gt;
+
+&lt;p&gt;「帕克的模式告訴我們，不是只要把資料公開、丟在那兒期待好事發生就好，」知名公益投資組織 Omidyar Network 政策負責人馬丁‧帝斯內（Martin Tisné）特別&lt;a href=&quot;http://hbr.org/special-collections/insight/scaling-social-impact/an-all-out-crazy-party-of-data&quot; target=&quot;_blank&quot;&gt;撰文&lt;/a&gt; 分析，「相反的，帕克的團隊鼓勵非營利組織和私人企業勇於使用和應用政府公開資料。」儘管資料狂歡會的活動概念仍算年輕， 能否擴大活動規模，需要再觀察，但「資料狂歡會」的確讓人看到政府開放資料的另一種可能性。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;延伸閱讀：&lt;/strong&gt;&lt;br /&gt;
+1. Health datapalooza 官方網站：&lt;br /&gt;
+&lt;a href=&quot;http://healthdatapalooza.org&quot; target=&quot;_blank&quot;&gt;http://healthdatapalooza.org&lt;/a&gt;&lt;br /&gt;
+2. 2012年美國教育部第一場 datapalooza 活動記錄：&lt;br /&gt;
+&lt;a href=&quot;http://storify.com/usedgov/education-datapalooza&quot; target=&quot;_blank&quot;&gt;http://storify.com/usedgov/education-datapalooza&lt;/a&gt;&lt;br /&gt;
+3. 2012年美國交通運輸部門第一場 Safety datapalooza 活動影音全紀錄：&lt;br /&gt;
+&lt;a href=&quot;http://www.youtube.com/user/whitehouse/videos?query=safety+datapalooza&quot; target=&quot;_blank&quot;&gt;http://www.youtube.com/user/whitehouse/videos?query=safety+datapalooza&lt;/a&gt;&lt;br /&gt;
+4. 2012年美國能源部首場 Energy datapalooza 成果展示：&lt;br /&gt;
+&lt;a href=&quot;http://energy.gov/articles/celebrating-innovation-and-open-data-energy-datapalooza&quot; target=&quot;_blank&quot;&gt;http://energy.gov/articles/celebrating-innovation-and-open-data-energy-datapalooza&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 05 Apr 2013 01:39:09 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">671 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/671#comments</comments>
+</item>
+<item>
+ <title>OPEN的力量：建構衛生保健合作</title>
+ <link>https://creativecommons.tw/blog/20130220</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Heather LaGarde，INTRAHEALTH / 華盛頓特區（ 更多資訊：&lt;a class=&quot;newpage&quot; href=&quot;http://www.intrahealth.org&quot;&gt;http://www.intrahealth.org&lt;/a&gt;）&lt;/p&gt;
+
+&lt;p&gt;要追蹤身在非洲的社區衛生保健工作者的足跡，並非易事。因此在 2009 年 IntraHealth International 發起了 IntraHealth Open，該計劃旨在開發開放源碼技術以支持和衛生保健工作者之間的溝通。透過這項專案，社區衛生保健提供者能透過文字傳訊分享指示，提供訓練與測驗，並追蹤疾病與醫療用品。&lt;br /&gt;
+&lt;br /&gt;
+&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/9575336314_5e81f682cb_z.jpg?itok=Ui9GNgHh&quot; style=&quot;height:250px; width:690px&quot; /&gt;&lt;br /&gt;
+(圖片來源：&lt;a href=&quot;https://www.flickr.com/photos/usaidethiopia/&quot; title=&quot;移至 USAID Ethiopia 的所有相片&quot;&gt;USAID Ethiopia&lt;/a&gt;，&lt;a href=&quot;https://www.flickr.com/photos/usaidethiopia/9575336314&quot; target=&quot;_blank&quot;&gt;以CC BY授權釋出&lt;/a&gt;，圖中為IntraHealth計畫中的工作人員)&lt;/p&gt;
+
+&lt;p&gt;IntraHealth International 合作顧問 Heather LaGarde 說「我們期盼在技術與全球衛生的結合下，技術進步能夠伴隨更高的在地相關性、影響、效率而發生，並在現實應用中發揮更大功能。我們使用開放源碼作為基礎，開放源碼讓他人得以分享創新，並可在 IntraHealth 最小支持下為各國進行客制化。」&lt;/p&gt;
+
+&lt;p&gt;為了宣布釋出該產品，IntraHealth 找來贏得葛萊美獎的塞內加爾歌手 Youssou N’Dour，以及包括 Nas、Duncan Sheik 在內的其他藝人，錄製了 N’Dour 歌曲「Wake Up (It’s Africa Calling)」的 CC 授權混音版本。隨後的混音大賽中來自全球超過 500 件作品，也全以 CC 加以授權。透過創用 CC 工具的使用，這些歌曲可以自由地散佈，並喚起對 IntraHealth 及其使命的認識與支持。&lt;/p&gt;
+
+&lt;p&gt;圖文出自 &lt;a class=&quot;newpage&quot; href=&quot;http://thepowerofopen.org/&quot;&gt;The Power of Open&lt;/a&gt; P29&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 20 Feb 2013 09:36:33 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">664 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20130220#comments</comments>
+</item>
+<item>
+ <title>讓好病人遇上好醫生</title>
+ <link>https://creativecommons.tw/blog/20070424</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;趙柏強 Po-chiang Chao&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;「&lt;a class=&quot;newpage&quot; href=&quot;http://ucareicare.net/index.php&quot;&gt;ucareicare&lt;/a&gt;」是以改善醫病關係為目的的行動。這個行動相信：每一位病人都該得到其應得的照顧與治療。每一位醫護人員都該得到其應有之專業尊嚴與待遇。每一個人都有責任與能力來維護、改善自己的健康。&lt;/p&gt;
+
+&lt;p&gt;這個活動的義工林強與他的夥伴們寫了首主題曲「交心」，以&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by-nc-sa/2.5/tw/&quot;&gt;創用 CC 姓名標示-非商業性-共同方式分享&lt;/a&gt;釋出，歡迎大夥&lt;a class=&quot;newpage&quot; href=&quot;http://tw.beta.streetvoice.com/music/CABACA/song/44756/&quot;&gt;聽聽看&lt;/a&gt;：&lt;/p&gt;
+
+&lt;p&gt;交心&lt;/p&gt;
+
+&lt;p&gt;詞曲：林強 編曲:董運昌 吉他: 董運昌 bass: 金木義則&lt;/p&gt;
+
+&lt;p&gt;交心 不用講出嘴 關心別人 疼惜自己&lt;br /&gt;
+面對日頭 向前去 勇敢體驗 生活滋味&lt;br /&gt;
+人生 難得結緣 愛別人 親像愛自己&lt;br /&gt;
+陰暗烏影不如意 像露水遇到日頭 會化無去&lt;/p&gt;
+
+&lt;p&gt;雖然外頭風雨不止 雖然心頭猶然怨氣&lt;br /&gt;
+凡事看得開 順其自然歡歡喜喜&lt;br /&gt;
+保佑咱身邊所有的人都平安順遂&lt;/p&gt;
+
+&lt;p&gt;人生親像一齣戲 愛心滿天邊&lt;br /&gt;
+敬愛自然心善意 宇宙萬物同慈悲&lt;br /&gt;
+You care I care&lt;br /&gt;
+生.老.病痛 好心善報終有時&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 24 Apr 2007 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">85 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20070424#comments</comments>
+</item>
+</channel>
+</rss>

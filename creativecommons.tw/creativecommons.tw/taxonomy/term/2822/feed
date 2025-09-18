@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 歐洲</title>
+ <link>https://creativecommons.tw/category/tags/%E6%AD%90%E6%B4%B2</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>詮釋資料以CC0宣告進入公眾領域</title>
+ <link>https://creativecommons.tw/blog/20151214</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;文化機構除了分享數位化後的公共領域館藏，其實也可以將他們描述館藏的詮釋資料(metadata)以CC0釋出。書目上的書名、作者姓名、出版社、出版年、所屬類別等，就是一種詮釋資料。開放眾人任意使用的詮釋資料將有利於「連結開放資料(Linked Open Data)」的發展，讓網路上各種相關的資源得以互相串連。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://farm6.staticflickr.com/5637/20846726543_45950ce277_b.jpg&quot; style=&quot;height:587px; width:700px&quot; /&gt;&lt;br /&gt;
+此為大英圖書館的中文館藏目錄，&lt;a href=&quot;https://www.flickr.com/photos/132066275@N04/20732986155/in/photostream/&quot; target=&quot;_blank&quot;&gt;以CC0授權釋出&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;想像一下，未來只要在網站上搜尋梵谷的星空，你就可以得到由文化機構專業館員提供的創作年代、地點、典藏館等資料，甚至是關於星空的各種版本資訊及簡單的說明。由於這些資訊來自文化機構的權威專業，將會比網路上隨便找的部落格等更為正確，你不用再擔心會不會找到錯誤資料害報告內容出錯。而且，這些文化機構釋放出來的館藏詮釋資料還能再與其他網站提供的梵谷生平、星空的創作背景、梵谷故居的旅遊景點說明等資訊相連結，你可以想像成好像有一條線串起散落在各處與梵谷相關的資訊，文化機構提供的這些詮釋資料可能就能作為這條線，幫你一網打盡所需的相關資訊。&lt;/p&gt;
+
+&lt;p&gt;有鑑於連結開放資料的發展趨勢，許多&lt;a href=&quot;https://wiki.creativecommons.org/CC0_use_for_data&quot; target=&quot;_blank&quot;&gt;知名的博物館、圖書館&lt;/a&gt;都已經採用CC0授權釋出詮釋資料。像是大英圖書館、美國數位公共圖書館(DPLA)、Europeana、德國國家圖書館、哈佛大學圖書館、西班牙國家圖書館、瑞典國家圖書館、英國泰特美術館(Tate)、佛羅里達州大學思維爾圖書館、紐約公共圖書館、英國研究圖書館、瑞典國家圖書館、密西根大學圖書館等。而且，2011年歐洲國家圖書館員會議(Conference of European National Librarians)決定要以CC0授權資料，2012年OCLC和Europeana也達成共識要讓其會員圖書館都以CC0授權詮釋資料，更是使進入公眾領域的詮釋資料大幅成長。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://wiki.creativecommons.org/Case_Studies/British_Library&quot; target=&quot;_blank&quot;&gt;大英圖書館詮釋資料服務領導人Neil Wilson有言&lt;/a&gt;：「我們相信，大英圖書館幾世紀以來所創造與匯編的大量書目記錄還有許多超乎編目當時所預期的應用方式，能找出組織與個人善用這些資料的新方法，是件令人興奮的事情。」&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://wiki.creativecommons.org/Case_Studies/Harvard_Library&quot; target=&quot;_blank&quot;&gt;哈佛圖書館的副館長Mary Lee Kennedy也說&lt;/a&gt;：「哈佛圖書館致力於與他人合作及開放近用，我們希望此種貢獻乃進一步與眾人分享圖書館重要文化知識的初步嘗試。」&lt;/p&gt;
+
+&lt;p&gt;開放詮釋資料的文化機構遠多於開放數位化公眾領域的機構。這是因為，數位化的公眾領域作品仍可能被主張著作人格權(即該作品的使用者不得冒充作者或有損作者聲譽)以及攝影權(即攝影者對於公眾領域館藏的攝影作品能主張著作權)，導致在館方擬定開放政策時會遭遇較多阻礙。&lt;/p&gt;
+
+&lt;p&gt;雖然在決定是否開放詮釋資料時，不會有著作人格權及攝影權的顧慮。然而，也有人認為，是否要採取CC0授權是值得討論的。因為詮釋資料如果只是姓名、年份、地點等事實類的文字，其實自始不屬於著作權的保護範圍。現在的文化機構，是在詮釋資料受到著作權保護的前提下才採用CC0的「授權」條款，相當於賦予著作權給本來就不被保護的資料，反而增加資料的使用門檻。&lt;/p&gt;
+
+&lt;p&gt;不過，現在的詮釋資料越來越豐富，除了事實性資料，摘要、評論、封面、試聽試看的影音檔等都有發揮原創性之處，而且每個編目員對於同一本書的類別判斷也未必相同，代表仍有主觀判斷的空間。只是這些詮釋資料的作者往往以文化機構為代表而不具名，難以一一判斷個別詮釋資料的著作權歸屬。&lt;/p&gt;
+
+&lt;p&gt;另外，在歐洲，若對資料進行系統性的彙整，就可以針對組織方式主張權利。在此情況下，當有人以同樣方式組織這些資料，就會侵犯該資料庫的資料庫權。現在先以CC0授權詮釋資料，也就是明白昭告拋棄一切可能主張的權利，即便不確定是否詮釋資料存在資料庫權，使用者都可以確信這是公眾領域而安心使用。&lt;/p&gt;
+
+&lt;p&gt;總而言之，不論目前有哪些爭議，都可以CC0授權詮釋資料，昭告眾人其進入公眾領域的定位。&lt;/p&gt;
+
+&lt;p&gt;參考資料：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.librarytechnology.org/ltg-displaytext.pl?RC=17487&quot; target=&quot;_blank&quot;&gt;http://www.librarytechnology.org/ltg-displaytext.pl?RC=17487&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://wiki.creativecommons.org/CC0_use_for_data&quot; target=&quot;_blank&quot;&gt;https://wiki.creativecommons.org/CC0_use_for_data&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://linkedheritage.cab.unipd.it/training/LO-06/en/01.html&quot; target=&quot;_blank&quot;&gt;http://linkedheritage.cab.unipd.it/training/LO-06/en/01.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://en.wikibooks.org/wiki/Open_Metadata_Handbook/Open_Metadata&quot; target=&quot;_blank&quot;&gt;http://en.wikibooks.org/wiki/Open_Metadata_Handbook/Open_Metadata&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://lj.libraryjournal.com/2013/02/opinion/peer-to-peer-review/metadata-and-copyright-peer-to-peer-review/&quot; target=&quot;_blank&quot;&gt;http://lj.libraryjournal.com/2013/02/opinion/peer-to-peer-review/metadata-and-copyright-peer-to-peer-review/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 13 Dec 2015 22:49:13 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1176 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151214#comments</comments>
+</item>
+<item>
+ <title>Europeana：為數位文化遺產營造公眾空間</title>
+ <link>https://creativecommons.tw/blog/20151207</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Europeana的願景是：「建立一個歐洲數位文化遺產的公眾取用處，讓其成為所有對其有興趣者的公共財。」2012年，他們跨出重要一步，讓完整的資料集進入公眾領域，每個人因此可以免費而自由的重複使用這些由歐洲文化遺產機構提供的歷史、藝術、文學、音樂、電影、設計與時尚諸多面向的豐富資料。Europeana基金會執行長Jill Cousins將在本文介紹Europeana的下一步，指出現階段他們思考中並試圖解決的問題。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/GLAMWIKI.jpg?itok=KE4DLU3_&quot; style=&quot;height:250px; width:690px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;圖說：照片中為本文作者Jill Cousins。取自 &lt;a href=&quot;http://commons.wikimedia.org/wiki/File:GLAMWIKI_UK_2010-33.jpg&quot; target=&quot;_blank&quot;&gt;wikimedia commons,&lt;/a&gt;，&lt;a href=&quot;https://commons.wikimedia.org/wiki/User:Mike_Peel&quot; title=&quot;User:Mike Peel&quot;&gt;Mike Peel 拍攝,&lt;/a&gt; CC BY-SA 4.0.&lt;/p&gt;
+
+&lt;p&gt;Europeana聚集了歐洲的藝術館、圖書館、博物館、檔案館、影音館藏的數位內容。目前，Europeana藉著合作計畫，提供來自2300個內容提供者的三億件書籍、影片、畫作、博物館物件與檔案。其核心目標是建立新管道，讓人們可以為了工作、學習或是娛樂等目的參與文化及歷史。事實上，藉由數位開放文化遺產的近用，並鼓勵想法及資訊的交流，將有利於我們更理解我們的文化多元性，進而造就蓬勃的知識經濟。&lt;/p&gt;
+
+&lt;p&gt;Europeana的願景宏大，且已經取得一些明顯成就，像是以CC0釋出Europeana詮釋資料，使其可以在商業與非商業用途下重複使用。不過，若要使這些完全發揮潛能，就需要有進一步的加乘作用。也就是說，要從原本少數有志者形成的成員網絡轉變為一場群體參與的大規模運動。&lt;/p&gt;
+
+&lt;p&gt;Europeana成員網絡由900多位代表文化遺產及數位科技部門的成員組成，同時也和歐盟會員國的內容提供者合作，一起為了歐洲公眾的利益發展Europeana。在眾志成城之際，我們必須問個問題：「要怎麼做才可以讓我們最佳化管理這個過程及我們創造出的資源？」&lt;/p&gt;
+
+&lt;p&gt;起初，我們被「匯集」資源的需要所推動，而現在我們更關注的是「散布」，要使這些內容被維基百科編輯者、軟體與應用程式開發者、學校及文創產業等使用者取用。&lt;/p&gt;
+
+&lt;p&gt;之前以CC0釋出詮釋資料，讓我們可以根據「&lt;a href=&quot;http://pro.europeana.eu/linked-open-data&quot; target=&quot;_blank&quot;&gt;鏈結開放資料(linked open data)&lt;/a&gt;」原則取用資料。這意味著任何人可以將Europeana的詮釋資料及搜尋功能融入自己的網站和應用程式，讓我資料可以在HistoryPin與維基百科等網站上重新使用，且打開商業重複使用的大門。雖然這是好消息，但是原本的Europeana模型是單方向將資訊推給使用者，並不符合擴展式散佈的新型態。目前，共享權利及合作的程度還不夠，使用者並沒有在管理結構裡扮演重要角色。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;給歐洲的文化公共財(Cultural Commons)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;2012年三月，我們問自己，是否Europeana可以和內容提供者、Europeana網絡成員及使用者形成一個相互支持並不斷尋找新方式吸引使用者的社群，共同為歐洲建構一個文化公眾資產？另外，藉由將Europeana形塑成文化公共財，我們可以達成聯繫起歐洲民眾與文化的共享目標嗎？&lt;/p&gt;
+
+&lt;p&gt;要回答這些問題，我們需要先理解公共財的基本原則。試想人人都享受其中的綠草如茵或潺潺清水，這些並不屬於任何人，也可以說它們屬於每個人，而且我們都對其負有責任。為什麼我們不會破壞綠地，也不會將垃圾丟到附近的水庫？因為我們知道，好好為他人對待共享資源，就是在為我們自己預留更多使用機會。&lt;/p&gt;
+
+&lt;p&gt;根據Charlotte Hess，公共財(Common)是一個廣泛的概念，指的是「一群人共享的資源」。此概念提供一種「看待哪些是共享的，或哪些是應該在世界被共享的」之新方式，且著重於集體行動及對於「誰分享了什麼、如何分享、如何為了下個世代維持」之重要性的理解。&lt;/p&gt;
+
+&lt;p&gt;自然資源是很明顯的公共財，其實在許多其他領域也都有公共財。像是分享學術文章的&lt;a href=&quot;http://arxiv.org/&quot; target=&quot;_blank&quot;&gt;ArXiv&lt;/a&gt;就是研究公共財，&lt;a href=&quot;http://www.library.manchester.ac.uk/aboutus/locationsandopeninghours/learningcommons/&quot; target=&quot;_blank&quot;&gt;曼徹斯特大學&lt;/a&gt;及&lt;a href=&quot;http://library.illinois.edu/ugl/lc/&quot; target=&quot;_blank&quot;&gt;伊利諾大學&lt;/a&gt;都提供教育公共財，還有巴塞隆納數位文化計畫&lt;a href=&quot;http://citilab.eu/&quot; target=&quot;_blank&quot;&gt;Citilan&lt;/a&gt;與英國的&lt;a href=&quot;http://www.bbc.co.uk/blogs/bbcinternet/2011/10/digital_public_space_idea.html&quot; target=&quot;_blank&quot;&gt;數位公眾空間&lt;/a&gt;這些文化公共財。&lt;/p&gt;
+
+&lt;p&gt;若我們把數位文化遺產視為公共財，就意味著我們將藝術作品、文學、音樂與影片的數位版本及它們的詮釋資料當成我們有興趣取用及維持的公眾資源。一但開始做此思考，一些難以回答的問題便接踵而來：&lt;/p&gt;
+
+&lt;p&gt;「如果使用者有近用並參與其文化的權利，在這個總是彼此連結、無時無刻不開放、多種平台並存的數位世界中，我們可以怎麼在最符合使用者需求及期望的情況下傳遞文化？這會對我們的機構及其在文化景觀的地位產生何種意義？數位化可以如何為徵集、保存及提供內容的傳統活動增加進一步價值？在一些形式的開放內容支持下，是否有機會與私人企業文化部門產生新關係？這些產品與服務將如何影響出版者及其他內容供應商的商業報價？」&lt;/p&gt;
+
+&lt;p&gt;雖然要回答這些問題需要花不少時間，但是文化公共財預期可帶來的好處將激勵我們產生更高目標。&lt;/p&gt;
+
+&lt;p&gt;假如我們可以建構歐洲文化公共財，那我們就能讓文創產業、開發者及創新者使用我們的內容、發揮我們所缺乏的技巧。就像Michael Edson所說的，「當創作者可以藉由公眾領域、合理使用、公共財或其他方法，自由免費且無限制的取用他人作品，創新就會被激發。」未來將會出現以嶄新方式使用文化遺產內容的出版品、應用程式、網站和遊戲，這些可以反過來回饋文化遺產機構(藝術館、圖書館、檔案館、博物館)，帶來新的使用者群及引發更多工作及經濟成長機會。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;歐洲文化公共財的五項原則&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;目前我們已有了明顯的進展。首先，專案小組就文化公共財的概念做了一番探究，在經過一系列和歐洲政策制定者合作的工作坊以及多次Europeana成員網絡的聚會後，專案小組對於歐洲文化公共財達成了五項原則共識：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;相互性(Mutuality)：基於獲取共同利益的想法建立社群，出於善意並假定自己代表他人的做出行動。&lt;/li&gt;
+	&lt;li&gt;近用(Access)：提供可以重複使用的高品質內容、工具、服務以引發創意及創新。&lt;/li&gt;
+	&lt;li&gt;標示出處(Attribution)：承諾透過標示出處表達對於智慧財產權或著作權的尊重。&lt;/li&gt;
+	&lt;li&gt;一致性(Consistency)：在原部門的既有價值及原則做出進一步發展。&lt;/li&gt;
+	&lt;li&gt;參與(Engagement)：社群成員應該承諾積極使用及貢獻公共財。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;我們不僅將公共財當作內容，我們認為它還牽涉到所有相關人士可以如何共同行動，以及要如何達成協議、共享技術、處理權利標示議題。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Europeana公共財前導計畫&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;為了測試上述這些原則，我們提出三個公共財前導計畫。希望能了解哪些原則可以發揮作用、哪些不行、哪些需要協商。公共財強調合作及相互性，因此這些前導計畫將會回報文化公共財專案小組他們的經驗，分享他們的發現，並與Europeana成員網絡進行討論。&lt;/p&gt;
+
+&lt;p&gt;前兩項前導計畫屬於2013年3月展開的三年計畫Europeana Cloud。&lt;/p&gt;
+
+&lt;p&gt;第一項前導計畫是發展基礎設備(infrastructure)。Europeana會將240萬筆詮釋資料紀錄及500萬件數位物件置於雲端基礎設備，發揮雲端運算技術的潛力產生更佳的近用機會及可持續性，讓Europeana更好使用，並盡量滿足每個想要近用內容與工具的使用者。&lt;/p&gt;
+
+&lt;p&gt;在發展雲端技術基礎建設時，將會應用文化公共財的原則，並著眼於我們必然無法避免的管理、法律、經濟議題，發展出能有利於整體Europeana生態體系的基礎建設，及找出能克服文化遺產機構內容和工具分享困境的方法。&lt;/p&gt;
+
+&lt;p&gt;第二項前導計畫是研究公共財。Europeana Research是提供給人文社會科學研究者使用資料、內容與工具貢獻新研究給平台的服務。其目標是應用公共財原則服務研究者這群特殊觀眾。&lt;/p&gt;
+
+&lt;p&gt;會提出此計畫，其實是因為發現許多擔心商業利用的內容提供者其實都樂於提供研究者使用。透過這項前導計畫將會讓我們更了解內容提供者在定義開放內容的使用者時遭遇哪些議題，同時也可能因為此計畫限縮於研究用途，而能提升內容貢獻者的數量。另外，我們將會探討要如何釋出內容給研究社群，要如何在公共財原則的基礎上，奠定支持歐洲共享研究環境之基礎。&lt;/p&gt;
+
+&lt;p&gt;最後一個前導計畫是文化旅遊公共財，這是2013年2月展開的Europeana Creative之一部分。文化遺產機構與開發者將和旅遊業者及營利公司合作，重新檢視這些與景點、遺址的相關內容可以如何被重新使用。這樣做將可能強化機構在網路上的公眾存在感與重要性。在此計畫中，只有邀請能接受此執行方式的機構。&lt;/p&gt;
+
+&lt;p&gt;隨著Europeana Cloud與Europeana Creative計畫的展開，我們即將把到目前為止純然理論性的討論轉變為對於公共財思維的實務應用。無疑的，我們將會遇到挑戰並發現許多未知的問題，但是我們將學習並調整，同時繼續堅信我們欲使公眾能免費自由使用文化遺產的目標。我們鄭重發誓，將捍衛並持續發展我們的這片茵茵綠地，鼓勵人們使用它們，在上面嬉戲、野餐，並為了今日及未來的所有歐洲人珍藏之。&lt;/p&gt;
+
+&lt;p&gt;原文/ Europeana基金會執行長Jill Cousins、Europeana基金會公關及編輯部Beth Daley&lt;br /&gt;
+出處/ &lt;a href=&quot;http://www.smk.dk/fileadmin/user_upload/Billeder/forsiden/94124_sharing_is_Caring_UK.pdf&quot; target=&quot;_blank&quot;&gt;Sharing is Caring 2014: Openness and sharing in the cultural heritage sector&lt;/a&gt; 以創用CC BY授權釋出&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 07 Dec 2015 00:26:34 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1149 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151207#comments</comments>
+</item>
+<item>
+ <title>OpenGLAM：開放美術館、圖書館、檔案館與博物館</title>
+ <link>https://creativecommons.tw/blog/20151123</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;OpenGLAM全名為「開放美術館、圖書館、檔案館與博物館」，乃&lt;a href=&quot;https://okfn.org/&quot; target=&quot;_blank&quot;&gt;開放知識基金會&lt;/a&gt;的計畫，由歐盟執委會的&lt;a href=&quot;http://dm2e.eu/&quot; target=&quot;_blank&quot;&gt;DM2E計畫&lt;/a&gt;贊助。其透過工作坊、指導原則、文件、工作小組來協助文化機構開放內容和資料，希望能建立全球文化共享資源，讓每個人都能使用、取用和享受這些文化資產。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/OpenGLAM.ch_Logo.png?itok=sr_ntMBL&quot; style=&quot;height:250px; width:690px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(&lt;a href=&quot;http://commons.wikimedia.org/wiki/File:OpenGLAM.ch_Logo.png&quot; target=&quot;_blank&quot;&gt;資料來源：wikicommons&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;OpenGLAM認為，美術館、圖書館、典藏館和博物館是文化資產的看管人，守護館藏就是守護整體人類的記錄，這些文化機構在協助人類知識進步上扮演關鍵角色。網路提供文化資產機構一個前所未見的機會，讓他們能吸引來自全世界的觀眾、使館藏比以往更容易被發現和連結，並讓使用者能成為主動的貢獻、參與、分享者。&lt;/p&gt;
+
+&lt;p&gt;開放館藏的第一步是採用開放授權，如果文化資產機構理解網路在近用、創新和數位學術傳播上的潛能，就會知道最終最重要的其實是開放合作機會及讓使用者產生嶄新的參與方式。&lt;/p&gt;
+
+&lt;p&gt;根據開放知識基金會的定義，「開放」意味著這些內容或資料是「任何人都可以免費使用、再利用和散佈的，頂多需要滿足姓名標示或相同方式分享之要求」。美術館、圖書館、檔案館與博物館逐漸開始採用許多和此定義相符的授權條款，像是詮釋資料常用的「公眾領域貢獻宣告」（CC0），以及內容常用的「創用CC 姓名標示」、「創用CC姓名標示—相同方式分享」條款。&lt;/p&gt;
+
+&lt;p&gt;透過開放館藏，文化機構可以增加館藏在維基共享資源(Wikimedia Commons)、網際網路檔案館(Internet Archive)、Europeana、google等管道的曝光度，提高公眾對於館藏的注意、讓公眾更容易找到館藏，並提升觀眾參與策展館藏的機會。&lt;/p&gt;
+
+&lt;p&gt;對於整體社會而言，不論是在課堂中被用來傳遞知識，或是被研究者善用資料探勘或視覺化等新技術發現人、事、物間的新關係，還是讓世界各地的人欣賞、增加理解、用以創作。就像牛頓所言「如果我能看得更遠，是因為我站在巨人的肩膀上。」以及歌德說的「我總是在收割前人所播的種」，開放館藏可以激發更多社會創新。&lt;/p&gt;
+
+&lt;p&gt;OpenGLAM在各地舉辦許多工作坊推動開放館藏，於網站上整裡許多對於開放文化很重要的&lt;a href=&quot;http://openglam.org/documentation/&quot; target=&quot;_blank&quot;&gt;參考資料&lt;/a&gt;，並在&lt;a href=&quot;http://openglam.org/blog/&quot; target=&quot;_blank&quot;&gt;部落格&lt;/a&gt;更新開放文化的最新動態，網站上的原創內容都以「創用CC 姓名標示」授權分享。在OpenGLAM的&lt;a href=&quot;http://openglam.org/culture-labs/&quot; target=&quot;_blank&quot;&gt;開放文化實驗室&lt;/a&gt;中，則可以看到一些簡單好用且開放資源碼的小工具，協助老師、研究者及公眾能與數位文化內容及資料進行更多互動。&lt;/p&gt;
+
+&lt;p&gt;同樣由開放知識基金會發展的「&lt;a href=&quot;http://publicdomainreview.org/&quot; target=&quot;_blank&quot;&gt;公眾領域評論&lt;/a&gt;」，是OpenGLAM的姊妹計畫。在這個網站上可以看到來自&lt;a href=&quot;http://publicdomainreview.org/collections/&quot; target=&quot;_blank&quot;&gt;不同機構&lt;/a&gt;、&lt;a href=&quot;http://publicdomainreview.org/collections/&quot; target=&quot;_blank&quot;&gt;不同類型&lt;/a&gt;的公眾領域素材，顯現擁抱開放的數位公眾領域作品是多麼棒的資源，也可以&lt;a href=&quot;http://publicdomainreview.org/shop/&quot; target=&quot;_blank&quot;&gt;直接購買利用公眾領域素材做成的文創產品&lt;/a&gt;。另外，他們還邀請世界各地文化遺產機構策展人&lt;a href=&quot;http://openglam.org/curators-choice/&quot; target=&quot;_blank&quot;&gt;每個月寫一篇文章來介紹一組開放數位作品&lt;/a&gt;。除了讓使用者更了解這些館藏的故事，也能藉此展現當數位公眾領域作品能被重新置於不同脈絡下使用時，將帶來何種效益，希望能因此激發更多人重新編排這些數位公眾領域作品成為不一樣的新故事。&lt;/p&gt;
+
+&lt;p&gt;最後，附上OpenGLAM工作小組起草的第四版原則，身為OpenGLAM的機構將會擁護以下原則：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. 使用如CC0的合適法律工具發布關於物件的數位資訊（即詮釋資料），使其成為公眾領域。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;這將促成資料盡可能得被再次利用，並讓資源可以與Europeana及美國數位公共圖書館(DPLA)這些主流文化資料聚合器(aggregator)相容，因而能被更容易的找到。&lt;/li&gt;
+	&lt;li&gt;開放詮釋資料授權政策請見：&lt;a href=&quot;http://pro.europeana.eu/files/Europeana_Professional/Publications/Europeana Licensing Framework.pdf&quot; target=&quot;_blank&quot;&gt;Europeana Licensing Framework&lt;/a&gt;、&lt;a href=&quot;http://dp.la/info/wp-content/uploads/2013/04/DPLAMetadataPolicy.pdf&quot; target=&quot;_blank&quot;&gt;Digital Public Library of America&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;2. 讓超過著作權保障期限的作品數位化後仍然維持公眾領域的狀態，而不會對期主張額外的新權利。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;超過著作權保障期限的作品的數位化複本或再現，應該明確以「創用CC公眾領域標章」等合適的法律工具標示。這將促使這些數位內容有機會能最大程度的被再次利用。&lt;/li&gt;
+	&lt;li&gt;開放內容授權政策請參考：&lt;a href=&quot;https://www.rijksmuseum.nl/en/api/terms-and-conditions-of-use&quot; target=&quot;_blank&quot;&gt;The Rijksmuseum&lt;/a&gt;、&lt;a href=&quot;http://www.bl.uk/catalogues/illuminatedmanuscripts/reuse.asp&quot; target=&quot;_blank&quot;&gt;The British Library&lt;/a&gt;、&lt;a href=&quot;http://thewalters.org/rights-reproductions.aspx&quot; target=&quot;_blank&quot;&gt;The Walters Art Museum&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;欲了解數位公眾領域眾要性的深入文件請見：&lt;a href=&quot;http://pd4pd.org/zh-hant/blog/82&quot; target=&quot;_blank&quot;&gt;Europeana公眾領域憲章&lt;/a&gt;、&lt;a href=&quot;http://pd4pd.org/zh-hant/blog/47&quot; target=&quot;_blank&quot;&gt;Communia公眾領域宣言&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;3. 發布資料時，要將對於資料描述、整體資料館藏、館藏附屬品被重複使用及賦予新用途的期望，做出清楚且堅定的宣言。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;這類宣言的範例請參考：&lt;a href=&quot;https://www.rijksmuseum.nl/en/api/terms-and-conditions-of-use&quot; target=&quot;_blank&quot;&gt;The Rijksmuseum&lt;/a&gt;、&lt;a href=&quot;http://www.bl.uk/catalogues/illuminatedmanuscripts/reuse.asp&quot; target=&quot;_blank&quot;&gt;The British Library&lt;/a&gt;、&lt;a href=&quot;http://thewalters.org/rights-reproductions.aspx&quot; target=&quot;_blank&quot;&gt;The Walters Art Museum&lt;/a&gt;、&lt;a href=&quot;http://natlib.govt.nz/about-us/strategy-and-policy/collection-use-and-reuse-policy&quot; target=&quot;_blank&quot;&gt;National Library of New Zealand&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;4. 發布資料時，使用可供機讀的開放檔案格式。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;機讀格式是能讓資料被電腦程式擷取的一種格式。如果以封閉的檔案格式釋出資訊，會造成重新使用資訊的嚴重阻礙，導致想要使用資訊的人必須購買特定軟體才能開啟。另外，資料的結構及可能使用方式應該在&lt;a href=&quot;http://www.dnb.de/EN/Service/DigitaleDienste/LinkedData/linkeddata_node.html&quot; target=&quot;_blank&quot;&gt;網頁&lt;/a&gt;或&lt;a href=&quot;http://translate.google.com/translate?sl=nl&amp;amp;tl=en&amp;amp;js=n&amp;amp;prev=_t&amp;amp;hl=en&amp;amp;ie=UTF-8&amp;amp;layout=2&amp;amp;eotf=1&amp;amp;u=http%3A%2F%2Fwww.opencultuurdata.nl%2F%3Fincsub_wiki%3Damsterdam-museum&quot; target=&quot;_blank&quot;&gt;datablog&lt;/a&gt;中妥善說明清楚。&lt;/li&gt;
+	&lt;li&gt;欲了解更多開放格式的資訊請見：&lt;a href=&quot;http://opendatahandbook.org/en/appendices/file-formats.html&quot; target=&quot;_blank&quot;&gt;Open Data Handbook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;5. 應該追求以創新方式在網路上吸引觀眾投入的機會。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;清楚說明所提供的開放資料、內容和服務，以便讓他人可以輕易再利用、建立、提升這些已開放的事物。&lt;/li&gt;
+	&lt;li&gt;發布資料時，積極回應有興趣的團體所提出的資料及支持資料取用的相關問題。&lt;/li&gt;
+	&lt;li&gt;提供觀眾機會由這些館藏中蒐集物件並組織策展。Rijksmuseum的&lt;a href=&quot;https://www.rijksmuseum.nl/en/rijksstudio?ii=7&amp;amp;p=0&quot; target=&quot;_blank&quot;&gt;Rijksstudio&lt;/a&gt;是一個好例子。&lt;/li&gt;
+	&lt;li&gt;有可能的話，透過人力外包的工具讓使用者能豐富和強化詮釋資料。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;資料來源：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://openglam.org/faq/&quot; target=&quot;_blank&quot;&gt;http://openglam.org/faq/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://openglam.org/principles/#sthash.cCLIztCb.dpuf&quot; target=&quot;_blank&quot;&gt;http://openglam.org/principles/#sthash.cCLIztCb.dpuf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 23 Nov 2015 01:52:25 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1147 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151123#comments</comments>
+</item>
+<item>
+ <title>荷蘭國家博物館經驗談：開放館藏的決策過程</title>
+ <link>https://creativecommons.tw/blog/20151113</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;「&lt;em&gt;所有透過API可以取得的資料和圖像若非屬於公眾領域就是以CC0授權。這些資料和圖像都不用支付權利金，且可以在無須荷蘭國家博物館(Rijksmuseum)允許的情況下被複製、散佈、修改、和使用。&lt;/em&gt;」-- &lt;a href=&quot;https://www.rijksmuseum.nl/en/api/terms-and-conditions-of-use&quot; target=&quot;_blank&quot;&gt;荷蘭國家博物館網站的使用條件說明&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.rijksmuseum.nl/&quot; target=&quot;_blank&quot;&gt;Rijksmuseum&lt;/a&gt;是荷蘭於1800年成立、致力於藝術及歷史的國家博物館，實體館藏超過一百萬件。2003-2013年間由於建物整修，因此只開放800平方公尺的展區，就算2013年後的新館展區多達22000平方公尺，卻也只能展出約莫8000件展品。為了能讓更多館藏被看到，荷蘭國家博物館花費很多心力進行館藏數位化。&lt;/p&gt;
+
+&lt;p&gt;荷蘭和多數歐洲國家一樣，作品在作者過世後70年便自動進入公眾領域，讓任何人都能自由複製和散布這些作品。而且根據多數歐洲的著作權法，公眾領域作品的複製品並不會產生新的保護，因此被數位化後的公眾領域作品仍然屬於公眾領域。除非公眾領域作品被改造後產生創新價值，才會有新的著作權主張空間。&lt;/p&gt;
+
+&lt;p&gt;2011年，荷蘭國家博物館開始與Europeana基金會合作，欲使公眾領域圖像及詮釋資料(metadata)能在&lt;a href=&quot;http://www.europeana.eu/portal/&quot; target=&quot;_blank&quot;&gt;Europeana入口網站&lt;/a&gt;取用。同年年底，&lt;a href=&quot;http://www.opencultuurdata.nl/english/&quot; target=&quot;_blank&quot;&gt;荷蘭開放文化資料計畫(Open Cultuur Data initiative)&lt;/a&gt;向荷蘭國家博物館申請於&lt;a href=&quot;http://blog.iliou-melathron.de/index.php/tag/apps4netherlands/&quot; target=&quot;_blank&quot;&gt;Apps4Netherlands競賽&lt;/a&gt;中使用該館館藏，此競賽意圖讓機構與程式設計師、設計師合作善用開放取用的資料。&lt;/p&gt;
+
+&lt;p&gt;最初，荷蘭國家博物館館藏部門謹慎的只提供他們一組少有人知的中國畫作。然而，行銷部門出面指出應該要提供最好的素材，他們認為博物館的核心目標就是要讓公眾熟悉館藏，網路是一個很好的通路，數位化館藏會吸引人們進一步想要購票參觀。因此，他們最終決定將已經無著作權保護的&lt;a href=&quot;https://www.rijksmuseum.nl/en/explore-the-collection/overview/vincent-van-gogh&quot; target=&quot;_blank&quot;&gt;梵谷&lt;/a&gt;、&lt;a href=&quot;https://www.rijksmuseum.nl/en/explore-the-collection/overview/johannes-vermeer&quot; target=&quot;_blank&quot;&gt;維梅爾&lt;/a&gt;、&lt;a href=&quot;https://www.rijksmuseum.nl/en/explore-the-collection/overview/rembrandt-harmensz-van-rijn&quot; target=&quot;_blank&quot;&gt;林布蘭&lt;/a&gt;等人的名作都進行數位化。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/rijk.jpg&quot; style=&quot;height:512px; width:512px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(維梅爾的名畫，你可以註冊&lt;a href=&quot;https://www.rijksmuseum.nl/en/rijksstudio&quot; target=&quot;_blank&quot;&gt;Rijksstudio&lt;/a&gt;後免費下載圖片。)&lt;/p&gt;
+
+&lt;p&gt;做出這項決定後，荷蘭國家博物館對於授權方式卻產生爭執。館方希望使用「&lt;a href=&quot;http://creativecommons.org/licenses/by/3.0/tw/&quot; target=&quot;_blank&quot;&gt;創用CC 姓名標示&lt;/a&gt;」的授權方式，要求使用者使用圖像時標示出處，Europeana、維基媒體基金會、開放知識基金會則認為應該讓數位化後的作品仍維持公眾領域狀態。幾經討論後，這些數位化圖像最終以&lt;a href=&quot;https://www.google.com.tw/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=4&amp;amp;cad=rja&amp;amp;uact=8&amp;amp;ved=0CC8QFjAD&amp;amp;url=https%3A%2F%2Fcreativecommons.org%2Fpublicdomain%2Fzero%2F1.0%2Fdeed.zh_TW&amp;amp;ei=lAROVe-9JouA8gXQg4GIAw&amp;amp;usg=AFQjCNFd0NAOU47pfLeybW5eaPF3EZEu3A&amp;amp;sig2=sVW1RMdSBL2zbEwPwrYZOA&quot; target=&quot;_blank&quot;&gt;「公眾領域貢獻宣告」（CC0）&lt;/a&gt;授權釋出，在圖像的詮釋資料裡都清楚標示出作品的創作年代及公眾領域法律地位。&lt;/p&gt;
+
+&lt;p&gt;荷蘭國家博物館最終做出此決議，主要有三個理由：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;&lt;strong&gt;博物館在實務上很難控制數位化圖像的使用。&lt;/strong&gt;&lt;br /&gt;
+	圖像一旦在線上開放，便會流散在網路上廣為使用，若採用「CC 姓名標示」授權，博物館必須支付額外成本追查使用者是否標上出處，對於博物館將形成龐大負擔。&lt;br /&gt;
+	&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;網路上早已存在許多版本畫質不佳、來源不可靠的數位化藝術作品。&lt;/strong&gt;&lt;br /&gt;
+	荷蘭國家博物館認為既然網路上都能找到這些圖片了，何不由博物館提供高品質、色澤近似原作的圖片版本？的確，荷蘭國家博物館一開放高品質圖像便立即被維基百科採用，之前網路上流傳的較差版本則被迅速淘汰。&lt;br /&gt;
+	&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;開放圖像可以讓館藏在不同平台上被更多使用者取用。&lt;/strong&gt;&lt;br /&gt;
+	目前荷蘭國家博物館有6499張圖像都上傳到&lt;a href=&quot;https://commons.wikimedia.org/wiki/Rijksmuseum_Amsterdam/Collections&quot; target=&quot;_blank&quot;&gt;維基共享資源&lt;/a&gt;，其中2175張圖像都用於維基百科的文章中。透過維基百科，大幅提升使用者對這些作品的使用率，使用者無須先進入博物館網站才知道有這些作品存在。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;一開始，荷蘭國家博物館網站提供兩種類型的圖像，一種是jpg檔、約2MB，可以自由下載，另一種是tiff檔、高達200MB，需要支付40歐元才能下載。他們意外發現，「免費下載」為網站吸引了大量使用者，也順帶提升了需要高解析度使用者的流量，導致荷蘭國家博物館在2012年光靠販售圖像就獲得18萬1千歐元。&lt;/p&gt;
+
+&lt;p&gt;不過，荷蘭國家博物館為了數位化館藏每年要支出10萬歐元，圖像收益並無法打平既往支出，甚至還要為了付費圖像的業務支出額外行政成本。於是，2013年，荷蘭國家博物館便放棄收費，將目標定為「做善事兼推廣館藏與博物館」，將重心擺在利用藝術基金會的資金來數位化所有館藏。&lt;/p&gt;
+
+&lt;p&gt;荷蘭國家博物館除了在網站上免費提供公眾領域館藏數位圖像的下載，還進一步於2012年成立&lt;a href=&quot;https://www.rijksmuseum.nl/en/rijksstudio&quot; target=&quot;_blank&quot;&gt;Rijksstudio&lt;/a&gt;，讓使用者可以輕易的在其網站上自行重新組織館藏或利用館藏進行創作，像是改編藝術作品、設計專屬自己的資料夾、衣服、手機殼等。他們每年3月都會舉辦「&lt;a href=&quot;https://www.rijksmuseum.nl/en/rijksstudio-award&quot; target=&quot;_blank&quot;&gt;Rijksstudio大賞&lt;/a&gt;」，前三名可以獲得10000、2500、1000歐元的獎金，作品會在館內展出。當然，荷蘭國家博物館也&lt;a href=&quot;https://www.rijksmuseum.nl/en/api&quot; target=&quot;_blank&quot;&gt;開放API&lt;/a&gt;，歡迎程式設計師善用館藏開發新軟體，在2012年春季前便已經開發了13個APP。&lt;/p&gt;
+
+&lt;p&gt;荷蘭國家博物館光是開放的前三個月，就有11萬多件作品被下載，網站使用者增加了34%，Rijksstudio則吸引了3萬多人註冊，網站使用時間和平板使用者也都上升。另外，他們也因此成為開放館藏的經典案例，吸引了國際媒體報導以及眾多開發者與設計師的注目，並常常受邀參與各個博物館和文化資產研討會。不得不說，開放政策帶給荷蘭國家博物館驚人的宣傳成效，而且讓他們的館藏能走出實體博物館，接觸到更多使用者、產生更多影響力，其決策的動機與過程都值得國內有致於開放的文化機構參考。&lt;/p&gt;
+
+&lt;p&gt;註：最後來看看荷蘭國家博物館的資料管理人&lt;a href=&quot;https://www.youtube.com/watch?v=2oY3__UrXYo&quot; target=&quot;_blank&quot;&gt;Lizza Jongma對於開放館藏的看法&lt;/a&gt;吧。Lizza指出，幸好館藏主要是公眾領域，所以開放起來特別容易；而且他認為身為教育機構和博物館，盡可能的分享最能達成機構的政策方針。&lt;/p&gt;
+
+&lt;p&gt;參考資料：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://pro.europeana.eu/files/Europeana_Professional/Publications/Democratising the Rijksmuseum.pdf&quot; target=&quot;_blank&quot;&gt;Democratising the Rijksmuseum: Why did the Rijksmuseum make available their highest quality material without restrictions, and what are the results? / Joris Pekel (Europeana Foundation)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.smk.dk/fileadmin/user_upload/Billeder/forsiden/94124_sharing_is_Caring_UK.pdf&quot; target=&quot;_blank&quot;&gt;Sharing is Caring 2014：Openness and sharing in the cultural heritage sector / Merete Sanderho (Statens Museum for Kunst)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 13 Nov 2015 00:41:12 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1143 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151113#comments</comments>
+</item>
+<item>
+ <title>如何讓開放文化資料更容易的被再次利用？</title>
+ <link>https://creativecommons.tw/blog/20151112</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;2012年，&lt;a href=&quot;http://www.opencultuurdata.nl/english/&quot;&gt;荷蘭的開放文化資料計畫&lt;/a&gt;獲得來自開發者和開放資料使用者對於資料提供者的建議。Lotte Belice Baltussen於本文中，全方位的提供幾個最重要的建議，以便增加開放文化資料的再利用機會。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/wakingtiger/4097835586&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/4097835586_6e0114ef27_o.jpg&quot; style=&quot;height:380px; width:517px&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+圖片資訊：by &lt;a href=&quot;https://www.flickr.com/photos/wakingtiger/4097835586&quot;&gt;Gideon Burton&lt;/a&gt;, under &lt;a href=&quot;http://https://creativecommons.org/licenses/by-sa/2.0/&quot;&gt;CC BY-SA &lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;哪裡是存放資料的最佳場合？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;要讓你的資料（不論是內容或詮釋資料）總是能在你自己的網站上被取用。一方面這樣一來可以很清楚的顯示出你是原始提供者，另一方面，比起只在他處提供取用管道，這樣更能全方位的掌控資料取用和再利用情形。&lt;/li&gt;
+	&lt;li&gt;你可以同時提供內容（例如：圖像、影片）以及關於內容的資訊（也就是詮釋資料）。比起內容，詮釋資料幾乎總是會存放在不同地方。若同時提供兩者，最好確定自己已經清楚呈現出能在哪裡找到他們。理想上的狀況是，在詮釋資料中增加一個獨立欄位提供內容（圖像、影片）的連結網址。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;可以做什麼以提供更多關於開放文化資料的資訊？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;如上所述，理想上，使用者能在詮釋資料輕易找到原始目錄或網站的連結。&lt;/li&gt;
+	&lt;li&gt;如果你的機構有讓使用者訂購內容的線上商店，最好能以創用CC授權條款等清楚標示出這些開放文化資料內容是開放的。因為，使用者同時看到線上商店的付費圖像與在其他網站上提供的免費圖像時，會對於自己可以如何利用感到困惑。也就是說，若未清楚標示出這些資料可以被再次使用，最終將會減少再次使用的情形。&lt;/li&gt;
+	&lt;li&gt;確定你的網站上有對機構提供的開放文化資料類型作出解釋，這裡的文字可以使用資料部落格(data blog)上的內容。&lt;/li&gt;
+	&lt;li&gt;在詮釋資料裡總是要提供一個說明使用權利狀態的欄位，清楚呈現這些內容或詮釋資料是以何種授權或條款釋出。開放文化資料的建議是：以「公眾領域貢獻宣告」（CC0）授權後設資料，以「創用CC 姓名標示」、「創用CC姓名標示—相同方式分享」授權內容，或在內容已超過著作權保障期限時以「公眾領域標章（PDM）」授權內容。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;提供詮釋資料的最佳方式為何？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;採用上述方式清楚展現取用內容及詮釋資料的使用方式。&lt;/li&gt;
+	&lt;li&gt;開發者和其他使用者的偏好不同。有些人只要有簡單的詮釋資料csv檔或txt檔就滿足了，有些人則偏好取用提供不同資料取用方式(如JSON、xml檔)的完整API。不論選擇哪種方式，你至少要確認自己已經清楚說明了人們在資料部落格中的詮釋資料欄位能找到什麼，並盡可能的提供使用者有許多近用、下載、搜尋資料的選項。若你有API，就說明你使用的標準為何，以及使用者可以在哪裡找到更多相關資訊。&lt;/li&gt;
+	&lt;li&gt;在你的資料部落格或詮釋資料中清楚指出這些資料的最後修正時間。若常常會修正，就要漸進式的更新或甚至是提供資料集的不同版本。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;提供內容（圖像、影片）的最佳方式為何？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;如果你要提供開放內容，建議你提供高解析度的取用機會。這將會大幅促進重新使用的可能性！不過有些開發者也喜歡使用較小解析度的作品，因為檔案比較小。因此理想上，最好提供不同解析度的內容。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;將開放文化內容放上維基百科時要注意些什麼？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;若要在維基百科上被再次使用，以下的詮釋資料欄位是最重要的，應確保有恰當的說明這些欄位：作者姓名、作品標題、物件類型、描述、創造日期、尺寸、目前所處位置、內部ID、授權方式。&lt;/li&gt;
+	&lt;li&gt;若你的內容在維基共享資源上被標記為特殊種類，像是&lt;a href=&quot;http://commons.wikimedia.org/wiki/Category:Media_from_Open_Beelden&quot; target=&quot;_blank&quot;&gt;Category:Media_from_Open_Beelden&lt;/a&gt;，就能獲得&lt;a href=&quot;https://tools.wmflabs.org/glamtools/baglama.php&quot; target=&quot;_blank&quot;&gt;維基百科的使用數據&lt;/a&gt;。這些種類是由維基社群所指派的。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;原文/ Lotte Belice Baltussen &lt;a href=&quot;http://openglam.org/2012/11/21/tips-for-data-providers-how-to-make-open-culture-data-re-use-easier/#sthash.WMKjRREl.dpuf&quot; target=&quot;_blank&quot;&gt;“Tips for data providers: how to make open culture data re-use easier”&lt;/a&gt; 以創用CC BY授權釋出。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 12 Nov 2015 01:12:05 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1148 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151112#comments</comments>
+</item>
+<item>
+ <title>瑞典LSH經驗談：基於開放使命看待授權方式</title>
+ <link>https://creativecommons.tw/blog/20151110</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;瑞典的Livrustkammaren och Skoklosters slot med Stiftelsen Hallwylska museet (LSH)由三個博物館聯合組成：皇家兵器博物館(Livrustkammaren)、Skokloster城堡(Skoklosters Slott)與Hallwyl博物館(Hallwylska museet)，館藏十分多元。&lt;/p&gt;
+
+&lt;p&gt;皇家兵器博物館是瑞典最老的博物館，由國王Gustav二世Adolph於1628年建立，最初是想保存他在波蘭行軍路程中所穿的衣服，館藏包含16世紀以來的武器、盔甲、皇家服飾及配件，見證了軍事史的發展。Skokloster城堡是北歐最大型的巴洛克式建築之一，由Carl Gustaf Wrangel於1654-1676年建立，館藏主要來自城堡主人蒐藏的藝術品。Hallwyl博物館則於1893-1898年間建立，原本是Wilhelmina von Hallwyl與Walther von Hallwyl的冬季行館，累積了Hallwyl 家族旅行的照片及大量藝術品。&lt;/p&gt;
+
+&lt;p&gt;LSH博物館自2005年開始進行館藏數位化，當時他們販售高畫質圖像以支付尋找圖像、燒成光碟、寄送等行政費用。2012年，在瑞典創新資金Vinnova約31000歐元的贊助下，他們開始進行「&lt;a href=&quot;http://lsh.se/sv/openimagearchive&quot; target=&quot;_blank&quot;&gt;開放圖像典藏計畫(project Open Image Archive)&lt;/a&gt;」，目標是能讓大眾免費使用博物館的圖像。&lt;img alt=&quot;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Portr%C3%A4tt._Rudolph_II_som_Vertumnus._Guiseppe_Arcimboldo_-_Skoklosters_slott_-_39253.tif/lossy-page1-800px-Portr%C3%A4tt._Rudolph_II_som_Vertumnus._Guiseppe_Arcimboldo_-_Skoklosters_slott_-_39253.tif.jpg&quot; style=&quot;height:738px; width:600px&quot; /&gt;&lt;br /&gt;
+&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Portr%C3%A4tt,_Rudolf_II_som_Vertumnus._Guiseppe_Arcimboldo_-_Skoklosters_slott_-_87582.tif&quot; target=&quot;_blank&quot;&gt;圖片來源：wikimedia commons，公眾領域(PD)。 &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;計畫展開後，LSH開始討論智慧財產權的問題。由於歐盟正提出&lt;a href=&quot;http://ec.europa.eu/digital-agenda/en/europeanlegislation-reuse-public-sector-information&quot; target=&quot;_blank&quot;&gt;公部門資訊修正法案提案&lt;/a&gt;，鼓勵歐洲各國盡可能讓由公部門控制及贊助的資訊能被重複使用，文化記憶機構也包含在內。加上數位館藏部門及三館館長都認同他們的核心使命為「保存館藏，以及貢獻持續發展且可以取用的的文化資產，讓人們能提升對於過往及當下的認識」，因此他們很迅速達成共識，認定「開放」是正確道路。&lt;/p&gt;
+
+&lt;p&gt;LSH的「開放」展現在費用收取及授權兩個方面。&lt;/p&gt;
+
+&lt;p&gt;首先，LSH的數位圖像是完全無須支付費用的。館方認為既然機構已經獲得來自民眾支付的稅金，就應該免費提供圖像回饋大眾。現在只有在申請使用尚未數位化的圖像時才會收取費用，而且如果使用者願意等待三個月再使用，還是可以免費取用。&lt;/p&gt;
+
+&lt;p&gt;LSH數位化後的作品分成三類：已超過著作權保障期限、仍在著作權保障期限內且博物館乃權利人、仍在著作權保障期限內且第三方乃權利人。其中，超過著作權保障期限的作品數量最多，LSH便以「公眾領域標章(PDM)」進行標示，讓使用者清楚知道他們可以任意使用這類作品。&lt;/p&gt;
+
+&lt;p&gt;不過，即便實體作品是公眾領域，然而負責替這些平面或立體作品照相的人是否擁有著作權呢？&lt;/p&gt;
+
+&lt;p&gt;Thomas Margoni在他的研究中將數位化分成三個類型：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;缺乏人為干涉的自動數位化，如Google自動掃描書籍。&lt;/li&gt;
+	&lt;li&gt;由為了產生高品質產出特別雇用的專家進行數位化，如攝影師在不同光影下拍出最好的照片。&lt;/li&gt;
+	&lt;li&gt;由某執行者進行的自動數位化，如為了清點、分類而手動拍照、複製。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;他認為第一種狀況不會產生新的著作權；第二種狀況下因為攝影師會調燈光、挑角度，多少有一些創意的展現，而會產生新的權利；第三種則是最難判斷的狀況。&lt;/p&gt;
+
+&lt;p&gt;瑞典的著作權法保障後兩種狀況，因此LSH其實可以針對這兩類數位化作品主張著作權。然而，館方認為應該先思考到底希望透過館藏達成何種目標，再考量著作權對於目標的阻礙與否。最終他們最後決定要採納&lt;a href=&quot;http://pd4pd.org/zh-hant/blog/82&quot; target=&quot;_blank&quot;&gt;Europeana公眾領域憲章&lt;/a&gt;的觀點，讓所有數位化後的作品維持公眾領域的狀態，以達成他們盡可能開放的目標。因此，除了對自動數位化的作品採用「&lt;a href=&quot;https://creativecommons.org/publicdomain/mark/1.0/&quot; target=&quot;_blank&quot;&gt;公眾領域標章(PDM)&lt;/a&gt;」，攝影師也以「創用CC 姓名標示」授權其拍攝的作品。&lt;/p&gt;
+
+&lt;p&gt;LSH在提出開放圖像典藏計畫時設定了幾點目標：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;改善現有網站介面與功能，以便能展示及下載高畫質圖像。&lt;/li&gt;
+	&lt;li&gt;增加關鍵字、授權方式、攝影師資訊等詮釋資料。&lt;/li&gt;
+	&lt;li&gt;設定伺服器，使其可以被瑞典開放文化機構(Swedish Open Cultural Heritage , SOCH)聚合器(aggregators)所存取。&lt;/li&gt;
+	&lt;li&gt;替所有圖像加上版權聲明。&lt;/li&gt;
+	&lt;li&gt;在著作權允許的範圍內，將高畫質圖像貢獻給&lt;a href=&quot;https://commons.wikimedia.org/wiki/Category:Images_from_Livrustkammaren_och_Skoklosters_slott_med_Stiftelsen_Hallwylska_museet&quot; target=&quot;_blank&quot;&gt;維基共享資源&lt;/a&gt;，並於維基共享資源頁面設定連結回到博物館的資料庫。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;最終，他們達成所有計畫目標。LSH於2013年3月發布網站並以開放授權釋出40000張圖像，其中三分之一為高解析度畫質。網站的功能及詮釋資料品質皆如當初的設定，並與瑞典SOCH聚合器連結。2013年10月LSH將12000張高解析度圖像和7000張負片檔案貢獻給維基共享資源，並於2014年6月與11月先後又上傳了500張與6500張圖像。2014年5月美國博物館聯盟(American Alliance of Museums)首次創立媒體與科技MUSE獎的開放類別獎項，就將金牌獎頒給他們。&lt;/p&gt;
+
+&lt;p&gt;在進行計畫之前，瑞典以外的地區沒有太多人有看過LSH的館藏。開放之後，這些圖片迅速的被用在維基百科裡，散佈到英語、日語、俄語、荷蘭語、越南語、泰語的維基百科，而且至2015年2月為止這些圖像已經被瀏覽過將進五百萬次。館方對於他們的館藏被看到感到既驕傲又滿足，他們節省了一筆行銷金費就能成功在瑞典外拓展可見度。&lt;/p&gt;
+
+&lt;p&gt;LSH於其&lt;a href=&quot;http://lsh.se/en/about-us/vision-2014&quot; target=&quot;_blank&quot;&gt;2014年的願景&lt;/a&gt;中仍提到了「開放」，希望透過開放鼓勵參與，讓博物館成為社會裡知識發展的重要角色。透過建構發展數位博物館，將讓大眾有更多接觸博物館的新管道。&lt;/p&gt;
+
+&lt;p&gt;參考資料：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://pro.europeana.eu/files/Europeana_Professional/Publications/Making%20Impact%20on%20a%20Small%20Budget%20-%20LSH%20Case%20Study.pdf&quot; target=&quot;_blank&quot;&gt;Making a big impact on a small budget: How the Livrustkammaren och Skoklosters slott med Stiftelsen Hallwylska museet (LSH) shared their collection with the world Joris Pekel, Europeana Foundation&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://lsh.se/en/about-us/vision-2014&quot; target=&quot;_blank&quot;&gt;http://lsh.se/en/about-us/vision-2014&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/Commons:Livrustkammaren_och_Skoklosters_slott_med_Stiftelsen_Hallwylska_museet&quot; target=&quot;_blank&quot;&gt;https://commons.wikimedia.org/wiki/Commons:Livrustkammaren_och_Skoklosters_slott_med_Stiftelsen_Hallwylska_museet&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/Category:Images_from_Livrustkammaren_och_Skoklosters_slott_med_Stiftelsen_Hallwylska_museet&quot; target=&quot;_blank&quot;&gt;https://commons.wikimedia.org/wiki/Category:Images_from_Livrustkammaren_och_Skoklosters_slott_med_Stiftelsen_Hallwylska_museet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 10 Nov 2015 10:58:51 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1144 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151110#comments</comments>
+</item>
+<item>
+ <title>荷蘭開放文化資料促成多元應用程式產生</title>
+ <link>https://creativecommons.tw/blog/20151105</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;文化機構保存了許多獨特藏品，也有關於藏品的豐富知識、活動展覽消息，以及訪客的資訊與回饋記錄。美術館、圖書館、檔案館、博物館透過開放資料，可以達成機構開放取用文化資產、促成創新利用的任務，也能促成文化機構間彼此合作發展新服務。然而，機構在管理這些資料時，往往沒有意識到潛在價值，透過技術限制使用者的取用機會。&lt;/p&gt;
+
+&lt;p&gt;2011年九月，荷蘭開展「&lt;a href=&quot;http://www.opencultuurdata.nl/&quot; target=&quot;_blank&quot;&gt;開放文化資料(Open Cultuur Data)&lt;/a&gt;」計畫，希望能開放文化資料以激發更多有用且創新的應用程式產生。此計畫聚集了許多相信開放力量的專家參與實驗，他們原本因為缺乏相關知識，或是出於對資料開放後的風險考量，而對開放資料運動猶豫不決。然而，在這場實驗後，他們獲得了開放資料的實務經驗、了解開放對於館藏的價值，甚至願意進一步成為未來開放運動的領頭羊。許多文化機構也發現，原來連結機構外的駭客、設計師、學生，可以一起挖掘出更多嶄新的資料應用方式。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/16159697748_c85b3f9f88_k.jpg?itok=08FBn-ip&quot; style=&quot;height:250px; width:690px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/kl/16159697748/in/photostream/&quot; target=&quot;_blank&quot;&gt;圖片：by Kennisland ＠flickr,&lt;/a&gt; under&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/2.0/&quot;&gt; CC BY-SA&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;推動過程&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;最初，開放文化資料計畫和&lt;a href=&quot;http://www.hackdeoverheid.nl/&quot; target=&quot;_blank&quot;&gt;Hack de Overheid(駭入政府)&lt;/a&gt;合作，主要是使用開放政府資料創造新的應用程式。此時他們訂下一些原則，指出開放文化資料應具備以下五點特性：&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;開放文化資料包含館藏物件的數位展現，以及文化機構與館藏、活動和組織相關計畫的知識與資訊。&lt;/li&gt;
+	&lt;li&gt;每個人都可以查詢、使用、散佈、再利用開放文化資料，可能是經由開放授權釋出，或將素材作為公眾領域提供取用。&lt;/li&gt;
+	&lt;li&gt;開放文化資料可以經由能再次使用的數位標準型式取用。&lt;/li&gt;
+	&lt;li&gt;會在&lt;a href=&quot;http://www.opencultuurdata.nl/datasets/&quot; target=&quot;_blank&quot;&gt;資料部落格&lt;/a&gt;等處說明開放文化資料的結構和可能應用程式。&lt;/li&gt;
+	&lt;li&gt;開放文化資料的提供者已經準備好將回答他人對於資料提出的問題，並且會尊重開放資料社群投入應用程式開發的努力。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;他們將開放文化資料區分成「內容」及「詮釋資料(metadata)」。內容即數位化文化物件，像是掃描的圖畫、物件照片、數位文本，關於這些物件的描述性資訊則為詮釋資料。由於創用CC授權在世界各地使用，其授權條款也符合許多開放資料計畫對於權利開放的要求，因此成為開放資料時首選的授權方式。詮釋資料可以使用「公眾領域貢獻宣告CC0」授權，內容則可以使用「公眾領域標章PDM」、「創用CC 姓名標示」、「創用CC 姓名標示—相同方式分享」授權。&lt;/p&gt;
+
+&lt;p&gt;有了這些原則後，他們開始邀請文化遺產機構的人參加工作坊及開放資料。此時，他們邀請到荷蘭國家博物館&lt;a href=&quot;http://www.rijksmuseum.nl/&quot; target=&quot;_blank&quot;&gt;Rijksmuseum&lt;/a&gt;、&lt;a href=&quot;http://www.amsterdammuseum.nl/&quot; target=&quot;_blank&quot;&gt;阿姆斯特丹博物館&lt;/a&gt;、&lt;a href=&quot;http://www.eyefilm.nl/en/&quot; target=&quot;_blank&quot;&gt;荷蘭國家電影資料館&lt;/a&gt;、&lt;a href=&quot;http://en.nationaalarchief.nl/&quot; target=&quot;_blank&quot;&gt;國家檔案館&lt;/a&gt;、&lt;a href=&quot;http://en.wikipedia.org/wiki/Netherlands_Institute_for_Sound_and_Vision&quot; target=&quot;_blank&quot;&gt;荷蘭視聽覺研究中心&lt;/a&gt;與國家荷蘭遺產網站提供資料集。&lt;/p&gt;
+
+&lt;p&gt;2011年9月敲定了一場荷蘭應用程式競賽，希望能促使開發展善用荷蘭政府的開放資料。11月底開始進行黑客松（Hackathon），開發者、程式設計員等人齊聚一堂，上述機構也在此時開放他們的資料集，並舉辦一場工作坊說明。在黑客松進行期間，一共開發了&lt;a href=&quot;http://www.opencultuurdata.nl/2012/01/apps4nl-overzicht-van-open-cultuur-data-demos/&quot; target=&quot;_blank&quot;&gt;13個文化應用程式&lt;/a&gt;，其中8個完成度高而進一步參與競賽，種類多元，可以看出開發者對於文化資料的興趣。文化機構也從此次競賽中體會到這些數位館藏可以如何被再次利用。&lt;/p&gt;
+
+&lt;p&gt;Glimworm IT2使用&lt;a href=&quot;http://www.openimages.eu/&quot; target=&quot;_blank&quot;&gt;開放圖像(Open Images)&lt;/a&gt;的影片與歷史搭配地理定位技術開發的&lt;a href=&quot;http://www.vistory.nl/&quot; target=&quot;_blank&quot;&gt;Vistory&lt;/a&gt;應用程式，在這次競賽過程中獲得大獎。Vistory的使用者選擇一個所處位置附近的歷史影片，將影片停在當地的歷史畫面後拍攝現在的當地景象，影片就會被標記上地理位置及新照片。&lt;/p&gt;
+
+&lt;p&gt;2012年4月到6月，開放文化資料計畫和荷蘭的創用CC合作推出專家課程，主講授權、技術、應用等開放資料過程會遇到的課題，有17間文化機構完成課程。2012年6月到12月，則舉辦了開放文化資料競賽，徵求能以嶄新方式拓展觀眾取用管道及連結不同資料集的應用程式，首獎得主將能獲得3000歐元。參賽者有35個開放授權的資料集可以使用，共有27個應用程式參與競賽，其中8個來自專家課程的文化機構代表。&lt;/p&gt;
+
+&lt;p&gt;最後獲得首獎的是&lt;a href=&quot;http://www.museapp.org/&quot; target=&quot;_blank&quot;&gt;Muse&lt;/a&gt;，人們可以使用這個應用程式聚集及混搭世界名畫及自己的創作。第二名是&lt;a href=&quot;http://www.frontwise.nl/lab/histagram/&quot; target=&quot;_blank&quot;&gt;Histagram&lt;/a&gt;，透過此應用程式可以使用&lt;a href=&quot;http://www.gahetna.nl/node/8315&quot; target=&quot;_blank&quot;&gt;國家檔案館&lt;/a&gt;的照片創作電子賀卡。第三名是&lt;a href=&quot;http://simmuseum.haykranen.nl/&quot; target=&quot;_blank&quot;&gt;SimMuseum&lt;/a&gt;，這是一個讓使用者擔任博物館館長、自行買賣荷蘭博物館藝術作品的遊戲。&lt;/p&gt;
+
+&lt;p&gt;雖然透過這幾次活動產生了40個應用程式，但是只有少數可以持續經營。另外，並非每個資料集的使用頻率都相同，同時開放內容和詮釋資料會比單獨開放詮釋資料吸引更多人使用。在所有資料集中，荷蘭國家博物館由於有12萬多幅高解析度畫像及好用的API，而成為最多人用以開發應用程式的資料集。&lt;/p&gt;
+
+&lt;p&gt;開放文化資料計畫之後將發展一個評估模型(GLAMetrics)，用以獲得開放資料影響的實證。目前這個模型已經在測試階段，之後將進行問卷調查或舉辦工作坊了解文化機構的想法，並試圖與Europeana、OpenGLAM、GLAM-WIKI等國際計畫展開合作。最終結果將會免費在線上分享。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;困難與好處&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;許多文化機構的代表也提出幾個開放資料時的風險。首先，資料在沒有標示出處的情況下散佈，文化機構無法因此累積聲譽，也難以控制資料的利用方式，如此一來將可能損及機構的品牌價值及營銷收入。另外，文化機構的資料（像是家譜）有些會透露個人訊息，因此也會牽涉到資料隱私的保障問題。&lt;/p&gt;
+
+&lt;p&gt;不過，文化機構的代表也指出，開放資料符合其使命，尤其是接受公眾資金的機構。而且透過開放，他們可以讓這些資料普及到更多網站，增加資料連結和取用的機會。使用者可以在自己有需要的時候隨時取用、分享這些館藏，讓館藏產生更多元且嶄新的互動方式。&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;開放文化資料集及開發應用程式一覽表：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table border=&quot;1&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;strong&gt;22&lt;/strong&gt;&lt;strong&gt;間文化機構&lt;/strong&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;&lt;strong&gt;開放物件&lt;/strong&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;&lt;strong&gt;採取授權&lt;/strong&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;strong&gt;40&lt;/strong&gt;&lt;strong&gt;個&lt;/strong&gt;&lt;a href=&quot;http://www.opencultuurdata.nl/category/apps/&quot;&gt;&lt;strong&gt;應用程式&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; (&lt;/strong&gt;&lt;strong&gt;粗體字的為現行可用者)&lt;/strong&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;荷蘭國家博物館&lt;a href=&quot;http://www.rijksmuseum.nl/&quot;&gt;Rijksmuseum&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;111000張圖像&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：PD&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.opencultuurdata.nl/2012/12/art-from-the-rijksmuseum/&quot;&gt;Art from the Rijksmuseum&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2012/12/rijksmuseum/&quot;&gt;Rijksmuseum&lt;/a&gt;、&lt;a href=&quot;https://itunes.apple.com/nl/app/meesterwerken/id524160205?mt=8&quot;&gt;&lt;strong&gt;Rijksmuseum Meesterwerken&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2015/02/breng-afbeeldingen-tot-leven-met-wiggle/&quot;&gt;Breng afbeeldingen tot leven met Wiggle&lt;/a&gt;、&lt;a href=&quot;http://vrmuseum.nl/&quot;&gt;&lt;strong&gt;Virtueel Museum&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2013/01/heatmaps-monumenten/&quot;&gt;Heatmaps monumenten&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2013/01/histagram/&quot;&gt;Histagram&lt;/a&gt;、&lt;a href=&quot;http://www.museapp.org/&quot;&gt;&lt;strong&gt;Muse App&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://simmuseum.haykranen.nl/&quot;&gt;&lt;strong&gt;SimMuseum&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2012/12/maak-jezelf-rijks/&quot;&gt;Maak Jezelf Rijk(s)&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2013/01/muse-the-personal-mobile-museum/&quot;&gt;Muse – The Personal Mobile Museum&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2012/11/doek-voor-in-je-hoek/&quot;&gt;Doek voor in je Hoek&lt;/a&gt;、&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;https://itunes.apple.com/nl/app/naar-toen/id552890202?mt=8&quot;&gt;&lt;strong&gt;Naar Toen&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://projects.haykranen.nl/rijksmuseum/&quot;&gt;&lt;strong&gt;Het Virtuele Rijksmuseum&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.wittyman.nl/RijksmuseumQuiz/&quot;&gt;&lt;strong&gt;Rijksmuseum Quiz&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://rm.contentecontent.com/tijdlijn&quot;&gt;&lt;strong&gt;Rijksmuseum Tijdlijn&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://openarchief.org/&quot;&gt;&lt;strong&gt;Openarchief Twitterstreams&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://mash.openbeelden.nl/apps/openbeelden/51207/&quot;&gt;&lt;strong&gt;Open Beelden video’s verrijkt&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2011/02/connected-collection/&quot;&gt;Connected Collection&lt;/a&gt;、&lt;a href=&quot;http://weblab.ab-c.nl/rijksmuseum&quot;&gt;&lt;strong&gt;Gezichten van het Rijksmuseum&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://him.arkyves.org/HIM/RIJKSMUSEUM/?language=en&quot;&gt;&lt;strong&gt;Arkyves ICONCLASS Browser&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://en.nationaalarchief.nl/&quot;&gt;國家檔案館 Nationaal Archief&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;144050張相片、1170張地圖&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;相片：CC BY-SA、CC0&lt;/div&gt;
+
+			&lt;div&gt;地圖：CC0&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.opencultuurdata.nl/2013/01/anefo-1959-89/&quot;&gt;Anefo 1959-1989&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2013/01/anefoetbal/&quot;&gt;ANEFOetbal&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2015/02/breng-afbeeldingen-tot-leven-met-wiggle/&quot;&gt;Breng afbeeldingen tot leven met Wiggle&lt;/a&gt;、&lt;a href=&quot;http://vrmuseum.nl/&quot;&gt;&lt;strong&gt;Virtueel Museum&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://tijdbalk.nl/&quot;&gt;&lt;strong&gt;Tijdbalk&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://simmuseum.haykranen.nl/&quot;&gt;&lt;strong&gt;SimMuseum&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.merkestijn.nl/school/project/&quot;&gt;&lt;strong&gt;Cabaretier Archief&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;https://itunes.apple.com/nl/app/naar-toen/id552890202?mt=8&quot;&gt;&lt;strong&gt;Naar Toen&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.saira-ayurveda.nl/film/&quot;&gt;&lt;strong&gt;Dutch Film Angle&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2011/02/historische-kaarten-op-de-ipad/&quot;&gt;Historische kaarten op de iPad&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2011/02/connected-collection/&quot;&gt;Connected Collection&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.amsterdammuseum.nl/&quot;&gt;阿姆斯特丹博物館 Amsterdam Museum&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;70000張圖像&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：PD&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://vrmuseum.nl/&quot;&gt;&lt;strong&gt;Virtueel Museum&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2013/01/culthunt/&quot;&gt;CultHunt&lt;/a&gt;、&lt;a href=&quot;http://www.museapp.org/&quot;&gt;&lt;strong&gt;Muse App&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://simmuseum.haykranen.nl/&quot;&gt;&lt;strong&gt;SimMuseum&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2013/01/where-on-earth-is/&quot;&gt;Where on earth is…&lt;/a&gt;、&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://openarchief.org/&quot;&gt;&lt;strong&gt;Openarchief Twitterstreams&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://mash.openbeelden.nl/apps/openbeelden/51207/&quot;&gt;&lt;strong&gt;Open Beelden video’s verrijkt&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2011/02/connected-collection/&quot;&gt;Connected Collection&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Netherlands_Institute_for_Sound_and_Vision&quot;&gt;荷蘭視聽覺研究中心 Netherlands Institute for Sound and Vision&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;2100個聲音檔、12000張圖像、18000篇維基百科文章、1800支影片&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;聲音檔、圖像、文章、影片：CC BY-SA&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://sndrv.nl/soundsvisual/&quot;&gt;&lt;strong&gt;Sounds Visual&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://bites.designpunt.nl/&quot;&gt;&lt;strong&gt;Bites&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://simmuseum.haykranen.nl/&quot;&gt;&lt;strong&gt;SimMuseum&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2013/01/mix-van-nederland/&quot;&gt;Mix van Nederland&lt;/a&gt;、&lt;a href=&quot;http://www.merkestijn.nl/school/project/&quot;&gt;&lt;strong&gt;Cabaretier Archief&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2012/12/toms-tijdmachine/&quot;&gt;Tom’s Tijdmachine&lt;/a&gt;、&lt;a href=&quot;http://mash.openbeelden.nl/apps/openbeelden/51207/&quot;&gt;&lt;strong&gt;Open Beelden video’s verrijkt&lt;/strong&gt;&lt;/a&gt;、&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;Arts%20Holland&quot;&gt;Arts Holland&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;100000 筆活動記錄&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.opencultuurdata.nl/2013/01/tubes-list/&quot;&gt;Tube’s List&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2012/12/randomapp/&quot;&gt;Randomapp&lt;/a&gt;、&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.opencultuurdata.nl/2012/12/weamsterdam/&quot;&gt;WeAmsterdam&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.cultureelerfgoed.nl/&quot;&gt;荷蘭文化遺產國家辦事處 Rijksdienst voor het Cultureel Erfgoed&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;550000張圖像、150000筆圖書館記錄&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：CC BY-SA&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;https://itunes.apple.com/nl/app/naar-toen/id552890202?mt=8&quot;&gt;&lt;strong&gt;Naar Toen&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.rijksmonumenten.nl/&quot;&gt;&lt;strong&gt;Rijksmonumenten&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://rijksmonumenten.nl/&quot;&gt;Rijksmonumenten&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;61000筆附有脈絡資源的遺址&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：CC BY-SA&lt;/div&gt;
+
+			&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;https://itunes.apple.com/nl/app/naar-toen/id552890202?mt=8&quot;&gt;&lt;strong&gt;Naar Toen&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://rijksmonumenten.info/&quot;&gt;&lt;strong&gt;Rijksmonumenten.info&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.eyefilm.nl/en/&quot;&gt;荷蘭國家電影資料館 EYE Film Institute Netherlands&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;170筆電影記錄&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;、&lt;a href=&quot;http://www.saira-ayurveda.nl/film/&quot;&gt;&lt;strong&gt;Dutch Film Angle&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.niod.nl/en/node/11&quot;&gt;戰爭、大屠殺、種族滅絕研究中心Institute for War, Holocaust and Genocide Studies(NIOD)&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;140000筆記錄&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.opencultuurdata.nl/2013/01/map-the-war/&quot;&gt;Map the war&lt;/a&gt;、&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;、&lt;/div&gt;
+
+			&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.archiefeemland.nl/&quot;&gt;Archief Eemland&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;2000張地圖&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：CC BY&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://centraalmuseum.nl/&quot;&gt;中央博物館 Centraal Museum&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;8500筆記錄、650張圖像&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：PD/CC0&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.europeana.eu/portal/&quot;&gt;Europeana&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;23000000筆記錄&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.friesmuseum.nl/?language=en&quot;&gt;Fries Museum&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;17000筆記錄、 2100張圖像&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：PD&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.groenehartarchieven.nl/&quot;&gt;Groene Hart Archieven&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;80張地圖&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：PD&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;https://www.kb.nl/&quot;&gt;荷蘭皇家圖書館 Koninklijke Bibliotheek&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;454800份手稿、11240本書&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;手稿：CC0&lt;/div&gt;
+
+			&lt;div&gt;書：PD&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.4en5mei.nl/&quot;&gt;National Committee for 4 and 5 May&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;3500筆戰爭遺址資料&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;https://www.erfgoedleiden.nl/&quot;&gt;Regionaal Archief Leiden&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;4086171筆家譜記錄、80000筆圖像記錄(有些許圖像)&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：CC BY-SA&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www2.nijmegen.nl/wonen/oudste_stad/Archief&quot;&gt;Regionaal Archief Nijmegen&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;681張圖像&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：CC BY-SA&lt;/div&gt;
+
+			&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.rmo.nl/&quot;&gt;荷蘭古物博物館Rijksmuseum van Oudheden&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;15000張圖像&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：CC BY-SA&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://tropenmuseum.nl/&quot;&gt;荷蘭熱帶博物館 Tropenmuseum&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;50000張圖像&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：CC BY-SA&lt;/div&gt;
+
+			&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.uu.nl/en/university-library&quot;&gt;烏特勒支大學圖書館 University Library Utrecht&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;111張地圖&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：PD&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;width:137px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://www.visserijmuseum.com/&quot;&gt;Visserijmuseum Zoutkamp&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:110px&quot;&gt;
+			&lt;div&gt;562筆記錄&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+			&lt;div&gt;圖像：PD&lt;/div&gt;
+
+			&lt;div&gt;詮釋資料：CC0&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:193px&quot;&gt;
+			&lt;div&gt;&lt;a href=&quot;http://opendatanederland.org/&quot;&gt;&lt;strong&gt;OpenDataNederland.org&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;參考資料：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.opencultuurdata.nl/english/&quot; target=&quot;_blank&quot;&gt;http://www.opencultuurdata.nl/english/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://mw2013.museumsandtheweb.com/paper/open-culture-data-opening-glam-data-bottom-up/&quot; target=&quot;_blank&quot;&gt;http://mw2013.museumsandtheweb.com/paper/open-culture-data-opening-glam-data-bottom-up/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://openglam.org/2012/02/16/open-cultural-data-the-first-step-towards-open-cultural-data-in-the-netherlands/#sthash.AgnNPx5f.dpuf&quot; target=&quot;_blank&quot;&gt;http://openglam.org/2012/02/16/open-cultural-data-the-first-step-towards-open-cultural-data-in-the-netherlands/#sthash.AgnNPx5f.dpuf&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://openglam.org/2012/03/12/open-cultural-data-success-of-cultural-apps-in-the-apps-for-the-netherlands-competition/#sthash.J4qYdSFK.dpuf&quot; target=&quot;_blank&quot;&gt;http://openglam.org/2012/03/12/open-cultural-data-success-of-cultural-apps-in-the-apps-for-the-netherlands-competition/#sthash.J4qYdSFK.dpuf&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://openglam.org/2012/04/17/open-cultural-data-lessons-learned-and-next-steps/#sthash.DEUTppSs.dpuf&quot; target=&quot;_blank&quot;&gt;http://openglam.org/2012/04/17/open-cultural-data-lessons-learned-and-next-steps/#sthash.DEUTppSs.dpuf&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://openglam.org/2013/01/17/open-culture-data/#sthash.QKvmmYrl.dpuf&quot; target=&quot;_blank&quot;&gt;http://openglam.org/2013/01/17/open-culture-data/#sthash.QKvmmYrl.dpuf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 05 Nov 2015 11:44:36 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1146 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151105#comments</comments>
+</item>
+<item>
+ <title>丹麥CC計畫：開放授權，開放學習</title>
+ <link>https://creativecommons.tw/blog/20151013</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;如果你想知道免費取用數位文化資產可以帶來什麼好處，Peter Leth可以告訴你！他在丹麥有多年的公立學校教學經驗，因此知道高品質且值得信賴的素材備受需要。而且，他也很了解學生的線上行為，學生為了求知而進行的網路搜尋對於其學習活動很重要，他們可以因此親自動手、積極參與、發揮創意的使用網路上的各式素材。分享、取樣、混搭是持久學習的關鍵，他們將是文化資產的未來使用者。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/styles/news-list/public/imagecache/blog-img/Peter_Leth.jpg?itok=ryNZygtA&quot; style=&quot;height:250px; width:690px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(&lt;a href=&quot;http://commons.wikimedia.org/wiki/File:Peter_Leth_at_Wikimania_2014.jpg&quot; target=&quot;_blank&quot;&gt;圖片來源：wikimedia commons&lt;/a&gt;，圖中為作者Peter Leth )&lt;/p&gt;
+
+&lt;p&gt;學校的責任在於引發學習、理解以及整體素養的渴望。同時，學校於今日面對的是身為數位原民的好奇實踐達人。那麼，當我們將文化資產藉由開放授權完全開放時會發生什麼事情呢？如果我們不開放又會發生什麼事情呢？這對於同時身兼老師、家長、市民多種角色的我而言，是一個很重要的問題。&lt;/p&gt;
+
+&lt;p&gt;近年來，在數位策略的制定中包含使用開放授權已經日益頻繁，丹麥國家藝術館便是其中一個例子。這帶來了很棒的嶄新教學機會，讓文化資產能展示給新的世代。&lt;/p&gt;
+
+&lt;p&gt;「可取用性(Accessibility)」指的並不單純只是將作品在網頁上顯示而已。如果光是觀看一些東西就能學習或是被稱為受過教育，那老師很久以前就可以在家吃著外賣、將每日播放的連結寄給學生。然而，「學習」是學生產生理解力並以不同自我表達形式進行溝通的主動過程。因此，資訊和知識可以被以新方式進行複製、重製、處理、混搭等活動是很重要的。當然，實體的藝術作品很難被分享，但是在數位世界中，分享變得很容易，數位副本的改變及散布並不會對原始物件產生影響。丹麥國家藝術館採取創用CC 姓名標示授權，就讓每個人有機會能更深入的認識藝術館的館藏。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;學校的日常兩難問題&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;學校會鼓舞學生對於學習和行動的渴望，同時也會鼓舞學生產生貢獻、合作、主動溝通、自由思考，這些都伴隨著知識和能力的養成。在丹麥的法律及公立學校課程中對此都有詳加說明。學校想目睹並支持有創意、有想像力的年輕人學習如何與這個世界互動，但是學校如果讓自己及學生違反法律，將會造成其內部及其與外界的衝突。事實上，每當老師要用一些受到著作權法保障的資訊及知識才能完成教學活動時，都會有這樣的煩惱。但是學生對於學習的渴望又會促使老師去使用數位工具以不同方式處理、修改和重新製作數位內容。&lt;/p&gt;
+
+&lt;p&gt;現在有一個衝突是，我們已經為了學校添購電腦、制定關於特定技術達人(tinkerer)的法律、建立融入科技於各科的學校體系，同時卻又忽視我們的知識散佈方式改變的事實。至少，我們必須確保用以提升教學的資訊內容是合法且豐富的。由於學校只能教一些他人願意分享的資訊和知識，不然光是教學本身就可能讓老師違法。這樣的兩難處境會迫使學校違背他們教學考量，在共享文化資產之類的保護規章下，減少一定的教學內容。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SkoleTube上的開放內容&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;我們在&lt;a href=&quot;http://www.skoletube.dk/&quot; target=&quot;_blank&quot;&gt;SkoleTube&lt;/a&gt;上發布了一些讓使用者較容易進行學習的合法計畫。由於有超過50萬名丹麥師生使用SkoleTube，自然會鼓勵並協助學校重視這個瘡疤，有許多學校開始教導師生開放內容及創用CC相關事宜。&lt;/p&gt;
+
+&lt;p&gt;電影工作坊MovieCut是SkoleTube上的工具之一，可以讓使用者減少違法機會。使用者在此可以取用Flickr上CC授權的圖像、Jamedo的歌曲，以及丹麥藝術博物館Skolearkivet的150個媒體作品。&lt;/p&gt;
+
+&lt;p&gt;使用者可以立即取用不同的媒體，而且無須花費珍貴時間自己尋找及上傳可疑的素材。一旦學生在這裡完成任務，此軟體將會自動在作品底端標示學生所用素材出處，反映實際上他們使用的內容是由其他人創造的。學生由此會看到要怎麼列出處，同時也對世界送出清楚訊號—藉由一句感謝展現他們對著作權的重視及對開放授權的賞識。&lt;/p&gt;
+
+&lt;p&gt;簡言之，你可以在此找到展示方式對使用者友善的專業素材，且能教導學生在無需妥協素材範疇或品質的情況下安全合法的瀏覽網路。而熟稔著作權法是開始談論媒體教學及妥當數位使用相關話題的前提。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;展望未來&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;雖然現在有超過5億件作品都以創用CC授權釋出，仍然要問：如果並非每件東西可以取用，那麼誰來告訴我們哪些是不能取用的？如果我們不能竄改任何東西，那麼誰會來確保這些不能觸碰的東西仍將能被使用？&lt;/p&gt;
+
+&lt;p&gt;說的簡單點，創用CC授權讓權利擁有者及使用者的關係更容易且顯而易見，由此創造出廣闊的開放世界是歐美年輕文化的產品。這幾年我們已經見證了不少，像是丹麥Randers的生物學家率先提供兩個能免費取用的丹麥考古自然資源—Golden Horns與Sun Chariot，我們的部分知識來自這些喜愛所見所聞並樂於分享的業餘愛好者，Flickr仍然展現了沒有貧窮、汙染、壓迫的世界，但是只要有少數照片就能改變這個世界的印象。&lt;/p&gt;
+
+&lt;p&gt;由此看來，貢獻我們共享的世界是容易的，而且這代表我們必須理解並使用網路作為促進創意社群的工具。不過，根據目前網路上可以取用的開放內容，丹麥在世界上的可見度並不高。要改變這件事並不難，我們如果想要就可以做出改變。&lt;/p&gt;
+
+&lt;p&gt;為了文化和歷史，我們應該盡力讓規範(norm)能被取用，如此一來將能確保共享知識也能在未來被用以學習、發展及個人成長。畢竟，歷史唯有在被訴說時才會被記憶。&lt;/p&gt;
+
+&lt;p&gt;原文/ 丹麥創用CC計畫教育顧問、LÆR IT教學顧問Peter Leth&lt;br /&gt;
+出處/ &lt;a href=&quot;http://www.smk.dk/fileadmin/user_upload/Billeder/forsiden/94124_sharing_is_Caring_UK.pdf&quot; target=&quot;_blank&quot;&gt;Sharing is Caring 2014: Openness and sharing in the cultural heritage sector &lt;/a&gt;以創用CC BY授權釋出&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 13 Oct 2015 12:43:47 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1150 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20151013#comments</comments>
+</item>
+<item>
+ <title>丹麥國家藝術館經驗談：逐步開放、鼓勵應用</title>
+ <link>https://creativecommons.tw/blog/20150923</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;自從2008年，&lt;a href=&quot;http://www.smk.dk/&quot; target=&quot;_blank&quot;&gt;丹麥國家藝術館(Statens Museum for Kunst)&lt;/a&gt;獲得Nordea-fonden提供大量資金後，他們便開始進行館藏數位化。丹麥國家藝術館的館藏主要分成三部分：繪畫雕刻皇家館藏(約10500件)、圖像藝術皇家館藏(約245000件)、石膏模型皇家館藏(約2500件)，主要來自丹麥皇室的蒐集，作品年代可以溯及至16世紀中，三分之二的館藏都屬於公眾領域。&lt;/p&gt;
+
+&lt;p&gt;丹麥國家藝術館從中選了160幅經典公眾領域畫作及100支與這些作品有關的影片，將其數位化後於線上開放取用。相較耶魯大學、華盛頓的國家藝術館、荷蘭Rijksmuseum，這樣的規模很小，只是一個初步嘗試。&lt;/p&gt;
+
+&lt;p&gt;在&lt;a href=&quot;http://www.smk.dk/en/about-smk/smks-publications/sharing-is-caring/read-sharing-is-caring/&quot; target=&quot;_blank&quot;&gt;Sharing is caring 2014&lt;/a&gt;這份報告中，丹麥國家藝術館分享了他們從數位化館藏到開放分享的經驗。其中提到，博物館收取公眾領域作品圖像費用，一方面是希望能獲得進一步數位化的經費，另一方面則是避免因缺乏控制導致作品被誤用。雖然並非所有使用者都會誤用，但是數位化提升誤用的機會，就會使文化機構產生未雨綢繆之心。&lt;/p&gt;
+
+&lt;p&gt;然而，限制這些作品的近用其實有違身為公眾文化機構的存在目的，而且會讓博物館失去機會成為使用者學習藝術作品時率先拜訪的中心單位，無異於自行將有興趣的使用者推開，讓他們無法使用具有權威的作品來源。&lt;/p&gt;
+
+&lt;p&gt;起初，丹麥國家藝術館選擇以「創用CC 姓名標示」授權這些館藏，使用者可以免費下載和任意改變這些高解析度畫作，甚至能拿來營利，但是必須標示作品來自丹麥國家藝術館。現在在他們的網站上，雖然為高品質數位公眾領域作品標上「公眾領域貢獻宣言CC0」，不過，在&lt;a href=&quot;http://www.smk.dk/en/use-of-images-and-text/free-download-of-artworks/&quot; target=&quot;_blank&quot;&gt;圖像下載的說明頁&lt;/a&gt;上，仍希望使用者能著名出處及作品作者姓名。&lt;/p&gt;
+
+&lt;p&gt;丹麥國家藝術館表示，他們認同公眾領域憲章裡說的「公眾領域知識的數位化並不會形成新的權利」，也知道將不受著作權保障的公眾領域作品進行額外授權很矛盾，但是他們希望藉此養成使用者記得標示出處的習慣，也讓使用者有機會知道原始館藏在哪並進而使用。況且，採取開放授權，其實是文化機構從「保留所有權利」到「保留部分權利」的重要一步，也是目前許多機構開放館藏的實驗性第一步。&lt;/p&gt;
+
+&lt;p&gt;2012年4月丹麥國家藝術館開放圖像下載後，當年便有7400人至少下載過一幅作品，其中百分之34的使用者來自國外，而且這些圖像已經被用於維基百科上27種不同語言的544篇文章中。除了增加館藏的使用者，丹麥國家藝術館也因為早期採取開放授權及釋出高品質圖像而吸引其他組織的興趣。與此同時，館方原本的圖像銷售業績並未受到影響，甚至還些微上升。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/denmark.jpg&quot; style=&quot;height:700px; width:561px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(丹麥國家美術館提供高品質的圖畫下載，網站上也有&lt;a href=&quot;http://www.smk.dk/en/explore-the-art/art-stories/&quot; target=&quot;_blank&quot;&gt;串聯起這些作品脈絡的文章介紹&lt;/a&gt;。)&lt;/p&gt;
+
+&lt;p&gt;除了單純提供公眾領域圖像下載，丹麥國家美術館還設計了一些吸引使用者參與的計畫。2013年，他們和丹麥其他11間美術館合作，展開一個共享的博物館行動平台計畫&lt;a href=&quot;http://hintme.dk/&quot; target=&quot;_blank&quot;&gt;HintMe&lt;/a&gt;，希望能透過行動裝置讓下個世代使用者分享和闡釋公眾領域作品。參與計畫的博物館都要以創用CC授權分享數位館藏，並讓使用者參與平台的概念與內容發展。HintMe並未開發一個新的平台，而是直接使用twitter，在圖像以創用CC授權的情況下，使用者可以任意轉發和混搭這些公眾領域作品，在作品下方發表自己的觀點。&lt;/p&gt;
+
+&lt;p&gt;同年，丹麥國家美術館和哥本哈根的捷運公司及在地居民合作，由&lt;a href=&quot;http://www.smk.dk/en/explore-the-art/young-peoples-art-lab/&quot; target=&quot;_blank&quot;&gt;年輕人藝術實驗室(Young People’s Laboratories for Art)&lt;/a&gt;善用開放圖像，混搭後重新繪製在捷運的牆上。混搭數位作品對於年輕人而言是件很自然的事情，但是長輩一開始很難接受，認為這樣做有辱原創作。因此，藝術家和在地居民就此展開了一場對話和妥協。丹麥國家藝術館之前從來沒有想過，竟然使用者也會擔心這些開放後的畫作會被誤用。透過開放數位化館藏，讓定義「藝術是什麼」及「藝術可以用來做什麼」的權力交給一般大眾。由這個計畫中他們開始了解公眾到底希望如何使用這些數位化的文化遺產，以及了解他們重新創造的過程。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://wiki.creativecommons.org/Case_Studies/Highlights_from_SMK,_The_National_Gallery_of_Denmark&quot; target=&quot;_blank&quot;&gt;丹麥國家藝術館前館長Karsten Ohrt有言&lt;/a&gt;：「丹麥國家藝術館就像其他博物館一樣，都是文化遺產的守門人。它們屬於公眾。免費近用可以確保我們的館藏能持續對現在及未來的使用者產生意義。我們免費分享數位化圖像的動機是要讓使用者能貢獻他們的知識及共同創造文化。丹麥國家藝術館希望藉由這種方式成為使用者創意的催化劑。」&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.smk.dk/en/explore-the-art/smk-blogs/artikel/mikkel-bogh-blogs-enlightenment-in-the-age-of-digitisation/&quot; target=&quot;_blank&quot;&gt;現任館長Mikkel Bogh則說&lt;/a&gt;：「數位化是確保文化遺產在今日可以觸及更廣泛的觀眾並獲得更多注意力的先決條件。然而，並不只是增加取用機會而已，真正的目標在於：再利用、重複使用。……可以重複使用的數位文化遺產提供一種新型原始素材，讓當代民主社會中的每個人都可以挖掘使用。在當代民主社會中我們需要每個人的積極參與，以及每個人的觀點、創意與知識。積極的挪用(appropriate)文化遺產可以讓我們更深入且細微的討論『我們是誰』及『我們可以做什麼』。丹麥國家藝術館將此視為一項貢獻，其能實現伴隨網路興起而來的願景—透過可讀可寫(read/write)的網路，讓每個人在任何時間都可以一起豐富可用的素材庫。」&lt;/p&gt;
+
+&lt;p&gt;在懷有相同開放信念的館長繼往開來之下，丹麥國家藝術館想必會持續探索更多開放館藏的好處。未來，他們希望可以和丹麥其他機構有更多合作機會，讓丹麥的文化遺產能在維基被世界各地的人看到，同時藉由合作提升系統品質、設計更友善便利的檢索和展示平台，也共同協商著作權問題及蒐集不同機構的使用者行為資料，提供更符合文化機構下個世代使用者需求的服務。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;參考資料：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;https://wiki.creativecommons.org/Case_Studies/Highlights_from_SMK,_The_National_Gallery_of_Denmark&quot; target=&quot;_blank&quot;&gt;https://wiki.creativecommons.org/Case_Studies/Highlights_from_SMK,_The_National_Gallery_of_Denmark&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.smk.dk/en/about-smk/smks-publications/sharing-is-caring/read-sharing-is-caring/&quot; target=&quot;_blank&quot;&gt;http://www.smk.dk/en/about-smk/smks-publications/sharing-is-caring/read-sharing-is-caring/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.smk.dk/en/explore-the-art/smk-blogs/artikel/mikkel-bogh-blogs-enlightenment-in-the-age-of-digitisation/&quot; target=&quot;_blank&quot;&gt;http://www.smk.dk/en/explore-the-art/smk-blogs/artikel/mikkel-bogh-blogs-enlightenment-in-the-age-of-digitisation/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://openglam.org/2013/07/08/2353/&quot; target=&quot;_blank&quot;&gt;http://openglam.org/2013/07/08/2353/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://pro.europeana.eu/blogpost/case-study-danish-museums-on-twitter&quot; target=&quot;_blank&quot;&gt;http://pro.europeana.eu/blogpost/case-study-danish-museums-on-twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 23 Sep 2015 10:23:00 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">1142 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20150923#comments</comments>
+</item>
+<item>
+ <title>公眾領域貢獻宣告(CC0)在資料上的應用</title>
+ <link>https://creativecommons.tw/blog/20131022</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;謝良奇 譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;公眾領域貢獻宣告，CC0，讀作CC Zero，可用來永久放棄作品的著作權與資料庫保護權(database rights)，從而將其盡可能地置於公眾領域。CC0這項法律工具改善了過去以美國為中心的公眾領域貢獻與認證中的貢獻功能。CC0具有普遍形式，不需為不同司法管轄區的法律作出更改，即可在全球各地應用於各種內容上。正如我們的授權條款，CC0可以用三種不同形式表達：授權條款、一般人看的授權標章、給電腦看的數位標籤。&lt;/p&gt;
+
+&lt;p&gt;CC0對於資料和資料庫分享尤其重要，那是因為著作權與其他權利，並沒有明確地限制高度事實性資料與資料庫。資料庫可能會包含不受著作權法保護的事實資料，但是許多司法管轄區的著作權法，卻涵蓋了經過創造性選擇或排列彙編的事實資料，以及創造性的資料庫設計與結構，許多司法權區，例如歐盟，便制定了額外的專門法(sui generis laws)，對資料庫的使用加以限制。CC0用來涵蓋所有著作權與資料庫權利，因此儘管資料與資料庫受到著作權等的限制，這些權利全都會被放棄。CC0和科學資料特別相關，Nature一篇觀點文章 「Post-publication sharing of data and tools」明確地建議開放分享，並使用CC0將資料置於公眾領域：「公開資料以供免費存取使用，這是主要的公共資料庫一貫的做法，但對其使用加諸的任何限制，都應該堅決抵制，我們支持對開放分享表示明確鼓勵，例如創用CC新的CC0公眾領域棄權宣告。」&lt;/p&gt;
+
+&lt;p&gt;公眾領域貢獻宣告(CC0)使用案例：以下是CC0在資料與資料庫上的使用案例。至於創用CC授權的案例，請見資料與創用CC授權一文。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;大英圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;大英圖書館利用CC0公眾領域貢獻，在公眾領域中釋出了大量的書目資料。這些書目資料來自於英國國家書目(British National Bibliography)，其中包含英國以及愛爾蘭共和國自1950年起的出版活動資料，佔整個大英圖書館目錄的20%。這個資料集目前有3百萬筆各別紀錄。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;歐洲核子研究中心圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;歐洲核子研究中心(CERN)，大型強子對撞機與全球資訊網的起源地，運用CC0公眾領域貢獻向公眾領域釋出他們的書目資料。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;位於科隆的圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;位於科隆的圖書館的所有書目資料，未加以著作權限制，公開給大眾使用。位於科隆的圖書館使用CC0公眾領域捐獻，放棄他們的著作權，這些圖書館包括：科隆大學與公共圖書館(University and Public Library of Cologne)、科隆媒體藝術學院(Academy of Media Arts Cologne)等。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Digg&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;社群新聞網站Digg上的所有內容，預設採用CC0，表示Digg放棄對其內容的所有著作權。這些內容包括讀者的評論、文章表題、文章描述，以及Digg網站上所有用戶貢獻的內容。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;美國數位公共圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;DPLA對於從各個資料提供夥伴所彙集的後設資料，承諾不主張新的權利，同時他們也承諾要將這些後設資料，免費以CC0公眾領域捐獻加以釋出。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Dryad&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Dryad是針對學術論文與科學出版品中資料的線上資料儲存庫。國家演化綜合研究中心(National Evolutionary Synthesis Center)與北卡羅萊納大學後設資料研究中心(University of North Carolina Metadata Research Center)，與各個期刊和研究社群合作，推動Dryad資料集的發展，所有資料透過CC0公眾領域捐獻釋出。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Europeana&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;歐洲數位圖書館、博物館與典藏機構Europeana，也是公共領域標誌第一批主要採用者，通過了新的資料交換協議，將數以百萬計的文化作品的後設資料，利用CC0公眾領域捐獻釋出至公眾領域。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;FigShare&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;研究人員可以在FigShare上，以可引述、搜尋、共享的方式，發表他們的資料。根據FigShare的常見問題集，所有圖片、媒體、多重檔案上傳，全都以創用CC姓名標示(CC BY)授權釋出，所有資料集則以CC0發佈。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;德國國家圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;德國國家圖書館已經開始使用CC0公眾領域貢獻，將他們的標準資料發佈至公眾領域。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;德國維基百科&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;德國維基百科使用CC0將資料貢獻至公眾領域，更具體地說，他們的PND-BEACON檔案可供下載。由於維基百科連接到數量相當多的外部資源，有許多文章都連接至相同的外部資源，德國維基百科使用PND-BEACON;檔案來組織各種資料。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;美國哈佛大學圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;依據其開放後設資料政策(Open Metadata Policy)，美國哈佛大學圖書館使用CC0在公眾領域中釋出1200萬則目錄記錄。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;義大利皮埃蒙特大區政府&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;義大利皮埃蒙特大區政府(Piemonte Regional Government)為其開放資料入口網站(dati.piemonte.it)，採用CC0公眾領域貢獻。在政府層面上，皮埃蒙特大區在義大利的開放資料運動扮演領導地位，是唯一不加限制開放所有資料的地區政府。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;MichiganView&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;MichiganView使用CC0，放棄在Landsat 5號與7號衛星，以及NAIP共多達93GB以上影像數據的所有著作權。MichiganView聯盟在網路上，免費公開美國密西根州的航拍和衛星圖像給大眾使用。作為AmericaView聯盟成員之一，MichiganView支持透過教育、勞動力開發、研究，存取並使用這些影像資料集。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;開放臨床創新網路&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;透過CC0公眾領域貢獻，開放臨床創新網路(Open Clinical Innovation Network)尋求開放分享臨床工具與資料，以改造臨床研究與發展，從而實現開放式創新。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;開放圖書館&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Internet Archive計劃之一的開放圖書館(Open Library)是一個線上目錄資料，目標是為出版的每一本書提供網頁。得力於全球現有的圖書館目錄，以及使用者貢獻，開放圖書館目前已經擁有2千萬筆紀錄，提供170萬本掃瞄書籍。開放圖書館資料的所有權利都透過CC0加以放棄。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;參考來源：&lt;a href=&quot;http://wiki.creativecommons.org/CC0_use_for_data&quot;&gt;http://wiki.creativecommons.org/CC0_use_for_data&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 21 Oct 2013 16:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">904 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20131022#comments</comments>
+</item>
+</channel>
+</rss>

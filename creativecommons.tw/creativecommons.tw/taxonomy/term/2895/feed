@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 科學資料</title>
+ <link>https://creativecommons.tw/category/tags/%E7%A7%91%E5%AD%B8%E8%B3%87%E6%96%99</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>科學資料的開放近用與自由流通</title>
+ <link>https://creativecommons.tw/blog/20090805</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;莊庭瑞(trc)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;&lt;img alt=&quot;20090327seminarposter.jpg;&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/scientificdata2009.jpg&quot; style=&quot;width:350px&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;今年3月27日中央研究院舉行了一場「公共出資的科學資料與出版品的一般使用與授權」學術研討會。該會議邀集了不同領域的學者專家、公眾授權的倡議者與採用者、以及研究機構的策略規劃者，就科學資料與出版品的開放近用與自由流通，進行了廣泛的討論（詳見&lt;a href=&quot;http://scientificdata2009.creativecommons.org.tw/&quot;&gt;研討會網址&lt;/a&gt;，以及&lt;a class=&quot;newpage&quot; href=&quot;http://www.slideshare.net/event/symposium-on-common-use-licensing-of-publicly-funded-scientific-data-and-publications/slideshows&quot;&gt;講者投影片&lt;/a&gt;）。&lt;/p&gt;
+
+&lt;p&gt;科學出版品（指可被視為著作的部份），在一般使用與公眾授權方面，已受到相當的重視。在觀念推展與實務作法上，無論是法律工具如創用CC授權條款，或是散布管道如採用開放近用 (Open Access) 的學術期刊及機構典藏庫 (Institutional Repository) 的建立，甚或是政策規範如&lt;a class=&quot;newpage&quot; href=&quot;http://publicaccess.nih.gov/policy.htm&quot;&gt;美國〈國家衛生研究院公共近用政策〉&lt;/a&gt; (‹NIH Public Access Policy›) 等各方面，目前已有許多可以借鏡、相互學習的地方。&lt;/p&gt;
+
+&lt;p&gt;科學資料（因進行科學研究而所蒐集產生的資料）的開放近用與自由流通，情況就比較複雜。資料 (Data) 以及資料庫 (Database) ，是否為受法律保護的客體，在不同國家有不同的法律規範。歐洲議會於1996年3月所通過的&lt;a class=&quot;newpage&quot; href=&quot;http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0009:EN:HTML&quot;&gt;《資料庫之法律保護指令》&lt;/a&gt; («Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases») ，對於資料庫給予法律保護，並認為對資料庫的權利是特有的 (sui generis) ，與對著作的權利不同，兩者分別受到保護。但在美國、台灣、以及其他許多國家，資料庫不被視為著作，不受到著作權法的保護，也未必以法律給予特有的保護。&lt;/p&gt;
+
+&lt;p&gt;使用創用CC授權條款來作資料的釋出，嚴謹來說並不合適，因為資料並不是受著作權法保護的客體。荷蘭 CC 計畫 (Creative Commons Netherlands) 在 進行 CC 授權條款本地化的過程裡，考量了歐盟資料庫保護指令的情形，對荷蘭版的 CC 授權條款，就做了一些調整。為了避免使用CC授權條款所釋出的著作，是否也可被視為是資料庫，而有適用上的疑慮，&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by/3.0/nl/legalcode&quot;&gt;荷蘭版的 CC 授權條款&lt;/a&gt;裡，將著作本身的定義放寬到包括資料庫，以擴大該授權條款的適用的範圍。但在台灣以及其它（無資料庫保護法律的）國家，該國本地化的 CC 授權條款，目前並沒有（也不合適）作這些調整。&lt;/p&gt;
+
+&lt;p&gt;為因應科學資料在自由流通上的需要，最近 Creative Commons &lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/13304&quot;&gt;正式發佈了一項稱為 CC0 (CC Zero) 的宣告&lt;/a&gt;。聲明人可使用 &lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/publicdomain/zero/1.0/&quot;&gt;CC0 宣告&lt;/a&gt;，表示對所宣告的作品，不保留著作權及相關權利。這些著作權及相關權利，包括著作權利、資料庫權利、以及萃取使用該作品所內含資料等權利；聲明人也不對使用人作「姓名標示」或「相同方式分享」上的要求&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-1&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-1&#039;)&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;。 Creative Commons 希望透過 CC0 宣告，可以讓所宣告的著作和資料的流通使用更加自由，近一步擴展創意、文化、科學的共有領域。目前已有兩項計畫採用了 CC0 宣告，分別是 &lt;a class=&quot;newpage&quot; href=&quot;https://proteomecommons.org/tranche/&quot;&gt;The ProteomeCommons.org Tranche network&lt;/a&gt; 以及 &lt;a class=&quot;newpage&quot; href=&quot;http://www.personalgenomes.org/&quot;&gt;Personal Genome Project&lt;/a&gt; 。兩項都有關於生命科學的資料分享與使用。&lt;/p&gt;
+
+&lt;p&gt;科學資料的公眾釋出與一般使用，在散布管道與施行方法上，也較少有示範性或共通性的作為。為呈現學術研究的成果，研究者主要著重於論文的發表。用以佐證研究結果的原始資料的整理發佈，並不受到格外的重視。將原始資料清理成公眾可以獨立使用的格式，對研究者反而是額外的工作。（這讓人想到一則關於自由軟體的聽聞：有些程式開發者心理很願意釋出程式的原始碼，但最後沒能釋出，原因是覺得自己寫的程式有些醜，或是程式碼沒加註釋，覺得不好意思，但也沒時間修改了，所以就不釋出。）&lt;/p&gt;
+
+&lt;p&gt;一般的研究機構對其所蒐集產生的科學資料，通常在釋出政策上也不多作要求，在行政程序或是資訊技術上，也未必對研究者提供必要的協助。研究機構或是研究者本身，也常以智慧財產的角度，對科學資料的釋出，持保留的態度；當資料還沒被分析發表為論文之前，這些資料的開放近用與自由流通，尤其困難。但在現今的研究環境，能夠取得其他研究團隊的第一手原始資料，自由進行各種資料的整合、萃取、與分析，以互惠的精神協力合作，卻是非常的重要。分享觀測資料的&lt;a class=&quot;newpage&quot; href=&quot;http://www.ivoa.net/&quot;&gt;虛擬天文台&lt;/a&gt;，已是常見的典範模式。&lt;/p&gt;
+
+&lt;p&gt;公共所出資的科學研究的產出（即使是原始資料），應該給所有公民（包括其他研究者）所使用，這在法律、政治、與倫理上，都有不可逃避的理由&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-2&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-2&#039;)&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;。民主國家中政府資訊公開，以及公共出資的科學產出的開放近用議題，也逐漸受到重視。有足夠的例證顯示，政府資訊（包括公共出資的科學資料）的公開對於社會經濟活動，相當有助益。一些研究報告就指出，相對於歐盟，美國聯邦政府採取較開放的方式，釋出所掌有的資料（如地理量測、即時氣象等原始資料），因此在相關產業的規模與發展（如地理資訊、氣象預報等服務），領先歐盟甚多。&lt;/p&gt;
+
+&lt;p&gt;對於科學資料與出版品的開放近用與自由流通，台灣在政策上並沒有特別的規範。雖然&lt;a class=&quot;newpage&quot; href=&quot;http://www.nsc.gov.tw/rule/S&amp;amp;T_law.html&quot;&gt;《科學技術基本法》&lt;/a&gt;的第二十條提到：「為推動科學技術研究發展，政府應擬訂科學技術資訊流通政策，採取整體性計畫措施，建立國內外科學技術研究發展之相關資訊網路及資訊體系」，但這似乎是高層次的宣示；個別研究機構對於其所產出的科學資料與出版品，是否釋出供一般使用，在作法上可能差異很大。以下簡要介紹兩項示範性的作為，供大家參考。&lt;/p&gt;
+
+&lt;p&gt;國科會的‹專題研究計畫執行同意書›，要求以調查法（如面訪、電話訪問、郵寄問卷等）進行計畫之主持人，應將「研究成果報告、資料讀我檔、空白問卷、過錄號碼簿、電腦資料數據檔、資料欄位定義程式等及調查資料檔案利用授權書」，送中央研究院人文社會科學研究中心&lt;a class=&quot;newpage&quot; href=&quot;http://survey.sinica.edu.tw/&quot;&gt;調查研究專題中心&lt;/a&gt;。而該中心對所保管的調查資料，於一定時間後，釋出給國內外研究機構、大專院校的研究人員、教授或研究生使用。&lt;/p&gt;
+
+&lt;p&gt;2001年由行政院核定通過的「生物多樣性行動方案」中，明示應建置國家生物多樣性資訊中心，整合全國生物多樣性相關資料，促進研究、教育、及保育之功能。為此中央研究院已接受國科會與農委會部份經費補助，負責整合台灣生物多樣性的各式資料，並維運「&lt;a class=&quot;newpage&quot; href=&quot;http://www.taibif.org.tw/&quot;&gt;台灣生物多樣性資訊入口網&lt;/a&gt;」 (Taiwan Biodiversity Information Facility, TaiBIF) 。該網站是台灣在「&lt;a class=&quot;newpage&quot; href=&quot;http://www.gbif.org/&quot;&gt;全球生物多樣性資訊機構&lt;/a&gt;」 (Global Biodiversity Information Facility, GBIF) 的入口網站，與其它參與 GBIF 的國家入口網站，進行生物多樣性資料的全球交換與分享。&lt;/p&gt;
+
+&lt;p&gt;以上兩項工作的內容與挑戰，請參見張苙雲、邵廣昭兩位研究員在3月研討會的介紹。科學資料的開放近用與自由流通，還有許多努力的空間，也需要大家的關注。&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;Taipei Held Meeting on Public Licensing of Scientific Data and Publications&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Creative Commons Taiwan organized the &lt;a href=&quot;http://scientificdata2009.creativecommons.org.tw/&quot;&gt;Symposium on Common Use Licensing of Publicly Funded Scientific Data and Publications&lt;/a&gt; at Taipei, Taiwan, on March 27, 2009. The symposium was jointly organized by &lt;a class=&quot;newpage&quot; href=&quot;http://codata.sinica.edu.tw/&quot;&gt;CODATA Taiwan&lt;/a&gt;, &lt;a class=&quot;newpage&quot; href=&quot;http://www.stpi.org.tw/STPI/index.htm&quot;&gt;NARL Science &amp;amp; Technology Policy Research and Information Center&lt;/a&gt; (STPI), Taiwan, and &lt;a class=&quot;newpage&quot; href=&quot;http://sites.nationalacademies.org/pga/brdi/index.htm&quot;&gt;NRC Board on Research Data and Information&lt;/a&gt;, USA. The meeting was held in Academia Sinica, the host of Creative Commons Taiwan.&lt;/p&gt;
+
+&lt;p&gt;The symposium program, as well as the abstracts and slides of the presentations, is available at the &lt;a href=&quot;http://scientificdata2009.creativecommons.org.tw/programme&quot;&gt;symposium website&lt;/a&gt;. The one day symposium consists of three sessions and one panel. The symposium touches upon the history of and the rationale for commons use of scientific data and publications (session 1), emphasizes the current practice and trend of common use licensing (session 2), and discusses the various issues and challenges faced by the scientific communities (session 3).&lt;/p&gt;
+
+&lt;p&gt;Joining from US at the symposium are Paul F. Uhlir from the National Academy of Sciences, Harlan J. Onsrud from University of Maine, and Kaitlin Thaney from Science Commons. Gene Hettel from the &lt;a class=&quot;newpage&quot; href=&quot;http://beta.irri.org/index.php/Home/Welcome/Frontpage.html&quot;&gt;International Rice Research Institute (IRRI)&lt;/a&gt;, the Philippines, and whom the Creative Commons Taiwan team met at the &lt;a class=&quot;newpage&quot; href=&quot;http://cc-asia-pacific.wikidot.com/&quot;&gt;Commons Crossroads&lt;/a&gt; meeting at Manila in February, also joins the symposium and gives a presentation on IRRI&#039;s new Creative Commons licensing policy for its scientific publications.&lt;/p&gt;
+
+&lt;p&gt;The Taiwanese speakers include Ted Lau (STPI), Ly-yun Chang, Kwang-Tsao Shao, and Eric Yen (all from Academia Sinica), Chau Chin Lin (Taiwan Forestry Research Institute), and Ming-Che Wu (Taiwan Livestock Research Institute). Ly-yun Chang gives an overview of the Survey Research Data Archive that has been collected and maintained at the &lt;a class=&quot;newpage&quot; href=&quot;http://survey.sinica.edu.tw/&quot;&gt;Center for Survey Research&lt;/a&gt;, Academia Sinica. Shao and Lin discuss issues and challenges in sharing biodiversity data and publications, and present the &lt;a class=&quot;newpage&quot; href=&quot;http://www.taibif.org.tw/&quot;&gt;Taiwan Biodiversity Information Facility&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The symposium was closed by a panel, chaired by D. T. Lee (Chairman of CODATA Taiwan), on policy issues in implementing common use licensing of scientific data and publications. The panelists consist of Paul F. Uhlir, Ted Lau, Harlan J. Onsrud, and Tyng-Ruey Chuang (Creative Commons Taiwan). They exchange thoughts on policy issues and examine potential policy instruments to actively enable the sharing of scientific data and publications.&lt;/p&gt;
+
+&lt;div&gt;
+&lt;div&gt;Footnotes&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-1&#039;)&quot;&gt;1&lt;/a&gt;. Creative Commons, &lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/CC0_FAQ&quot;&gt;‹CC0 FAQ›&lt;/a&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-2&#039;)&quot;&gt;2&lt;/a&gt;. Paul F. Ulhir, ‹The emerging role of open repositories for scientific literature as a fundamental component of the public research infrastructure›. In &lt;a class=&quot;newpage&quot; href=&quot;http://www.polimetrica.com/index.php?p=productsMore&amp;amp;iProduct=52&quot;&gt;«Open Access: Open Problems»&lt;/a&gt;, pp. 59-103, G. Sica (editor), Polimetrica, Torino, Italy (2007).&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+講者投影片連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 05 Aug 2009 04:00:00 +0000</pubDate>
+ <dc:creator>trc</dc:creator>
+ <guid isPermaLink="false">160 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20090805#comments</comments>
+</item>
+</channel>
+</rss>

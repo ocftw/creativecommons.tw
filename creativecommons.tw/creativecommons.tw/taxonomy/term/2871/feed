@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - ccPublisher</title>
+ <link>https://creativecommons.tw/category/tags/ccpublisher</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>雷席格的CC每週通信（十一）：介紹各種CC工具</title>
+ <link>https://creativecommons.tw/in-depth/74</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jedi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;勞倫斯．雷席格（Lawrence Lessig）著，2005年12月14日&lt;/p&gt;
+
+&lt;p&gt;CC提供各種「code」，以給予創作者一項能力──亦即能在創作內容上標註他們希望作品能帶有哪些自由。這裡英文的「code」有兩種意思──一種是法律性的條款（legal code，亦即授權條款，也就是license），以及技術性的程式碼（software）。我在前幾次通信中花了很多時間介紹法律性的條款。不過大多數人都不知道我們也寫程式，雖然呢，在我看來，那些程式其實是我們做得最棒的事情之一。&lt;/p&gt;
+
+&lt;p&gt;不過首先，我們得先弄清楚寫程式的目的。我們只是個規模不大的非營利組織（nonprofit）。我們不可能進入軟體業來建立並維護程式碼。所以我們的程式計劃乃是採取在此情況下最有可能的方式來進行──亦即我們將程式計劃用自由軟體授權方式散播（我們採用的是GPL），努力支持程式計劃，然後希望最終這些程式都能擁有自己的生命。至於要推動哪些程式計劃，則是看我們希望能公開提供哪些功能。如果我們播的種，能在別人那邊變成百萬美金的大事業，那我們可是再高興不過了。&lt;/p&gt;
+
+&lt;p&gt;我們寫的程式──都是一些工具，這些工具有的，舉例來說，讓&lt;a class=&quot;newpage&quot; href=&quot;http://www.flickr.com/&quot;&gt;flickr&lt;/a&gt; 這樣的相簿共享網站，可以把我們的授權條款引擎，整合進他們自家的平台上；&lt;a class=&quot;newpage&quot; href=&quot;http://yergler.net/projects/mozcc/&quot;&gt;有的則是像這個很厲害的Mozilla系列瀏覽器（包括FireFox）的外掛（plug-in）&lt;/a&gt;，讓你可以輕易瀏覽網頁的授權資訊，還會在瀏覽器視窗底下顯示一個小圖示。&lt;/p&gt;
+
+&lt;p&gt;另外呢，我們還寫了一些較不為人知的程式，這些是為了讓網路上的內容重混（remix）變得更容易而做的。&lt;/p&gt;
+
+&lt;p&gt;最簡單而且最容易明瞭的例子，當然要屬&lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/CcPublisher&quot;&gt;ccPublisher&lt;/a&gt; 了。ccPublisher是一個桌面應用程式，讓人們可以很容易地將他們的創作──在標上了CC授權條款之後──放到網路上。一旦你安裝好這個程式，你就可以輕鬆地把檔案拖到ccPublisher裡面。這個程式會帶出一道程序，首先會要你指定一個用在著作上的CC授權條款，然後程式便將檔案上傳到伺服器上。&lt;/p&gt;
+
+&lt;p&gt;目前程式所設定的伺服器是Internet Archive。網路英雄布魯斯特．卡利（Brewster Kahle）承諾為任何將著作內容以CC授權條款公開的人，永遠提供免費的儲存空間及頻寬。所以透過Internet Archive，你可以為你的著作找到一塊永遠的家，同時還有一個URL連結，可以告訴別人去哪下載你的作品。只要三個步驟，你的作品──不管多大、不管多難遞送──就可以讓所有人取用了，而且是永遠可以的。&lt;/p&gt;
+
+&lt;p&gt;我們還寫了一個&lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/CcLookup&quot;&gt;簡單的檢查程式&lt;/a&gt;（validator），讓大家可用來檢查標有CC授權的MP3檔案。一個MP3檔案裡所嵌入的授權，只有在檔案同時提供一個正確連回網站的連結時，才能被檢查程式認定是正確的。這個工具讓你可以驗證這個連回去的連結，好讓你真的可以相信說這個MP3檔案確實是照檔案上所說的方式授權的。&lt;/p&gt;
+
+&lt;p&gt;不過呢，到目前為止，我們寫過最酷的作品，是受到一群MIT大學部學生的啟發，並且是在傑出的音樂人兼程式設計者維克多．史東（Victor Stone）的協助下完成的。這程式叫作 ccMixter。&lt;/p&gt;
+
+&lt;p&gt;ccMixter 是某種類似「Friendster」那樣的交友網站，只是是以音樂作為交流的基礎（而且沒有像「Friendster」那樣是商業公司的服務）。你將你的音軌放上來，其他人重混（remix）你的音軌，而系統則記錄有哪些重混。所以你找ccMixter上的任何一首歌，都可以看到這首歌是由哪些其他曲子重混而成的（如果有使用重混的話），以及哪一首歌重混的那一首歌（如果有被重混的話）。使用者可以為歌曲評分、下載歌曲、使用串流播放（streaming），或是將作品用音樂訂閱播出（podcast）的方式散播。&lt;/p&gt;
+
+&lt;p&gt;這個服務的概念，是建立一個協同創作的技術平台，技術平台建立在協同合作的法律平台上（亦即CC的各種授權條款）。 ccMixter 最初放的是 Wired CD 的16首歌，包括了吉爾貝托．吉爾（Gilberto Gil）、野獸男孩（Beastie Boys）、大衛布爾恩（David Bryne）、Chukd D等人的創作。現在該網站上已經有超過1,600首曲子了。&lt;/p&gt;
+
+&lt;p&gt;我最喜歡的 ccMixter 故事，是一個代名「Minus Kelvin」的歌手。「Minus Kelvin」是一位高中物理老師。他於2005年二月加入了 ccMixter 。他在他的個人資料上寫說他想要找「一家唱片公司」。六月的時候，「Minus Kelvin」跟一家唱片公司簽了約，這家公司是透過 ccMixter 發現了他。雖然世界上只有一位「Minus Kelvin」，但是 ccMixter 上有越來越多像他這樣的經歷。&lt;/p&gt;
+
+&lt;p&gt;我們預期為 ccMixter 提供主機一陣子。我們未來會將該網站移植變為國際性的網站，以支持iCommons計劃，同時讓該服務能在教育領域起作用。不過我們的夢想呢，就是希望有人能將程式拿去，將之拿來營運一個有上萬創作者使用、彼此使用對方作品創作新東西的網站。在此同時，請參觀&lt;a class=&quot;newpage&quot; href=&quot;http://ccMixter.org&quot;&gt;http://ccMixter.org&lt;/a&gt;。並請&lt;a class=&quot;newpage&quot; href=&quot;https://support.creativecommons.org/&quot;&gt;支持我們的工作&lt;/a&gt;，好讓該網站能更加廣為流傳。&lt;/p&gt;
+
+&lt;p&gt;在下一次的通信裡，我將說明我們其他的新計劃。再下一次，就是這一系列的最後一篇了。&lt;/p&gt;
+
+&lt;p&gt;在本次通信結束前，我想要為前兩次通信的內容做個更正。從我收到的迴響看來，我想表達的意思並不是很清楚。&lt;/p&gt;
+
+&lt;p&gt;首先，在&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.tw/betacc/in-depth/73&quot;&gt;上一次通信&lt;/a&gt;裡，我提到了在「自由」軟體運動與「開放原始碼」軟體運動之間的爭鬥，我說，「對一些人來說，這是一場相信理念價值的陣營與相信現實原則（pragmatism）陣營的爭鬥」。至於到底誰是那「一些人」，則不是很清楚。就我的經驗，推動開放原始碼運動的人，是我所認識最有理念與原則的一群人。但是「有些人」認為那是一場爭鬥，而就我看來，真正爭的是兩種價值願景。&lt;/p&gt;
+
+&lt;p&gt;另外，在&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.tw/betacc/in-depth/65&quot;&gt;第二次通信&lt;/a&gt;裡，我提到了「我們認為，這樣的設計，會和自由軟體運動相似，讓創造力能有一塊空間，不致受到著作權的太多束縛。但我們和自由軟體運動不同的是，我們的目標並不在去除『私有財產的文化』，而在自由軟體運動裡，起碼有一部份的人是希望除去私有軟體的」。有些人將這段話解讀為，我認為自由軟體運動想要鏟除「私有財產的文化」。我的意思不是這樣。我單純只是想說，雖然自由軟體運動有很多推動人士，都希望能有一個沒有私有軟體的世界，自由文化運動的推動者們並不企求一個沒有私有財產文化的世界。&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+http://ccMixter.org連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 24 Feb 2006 05:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">74 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/74#comments</comments>
+</item>
+</channel>
+</rss>

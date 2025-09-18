@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - CC BY-SA</title>
+ <link>https://creativecommons.tw/category/tags/cc-by-sa</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>繪圖技法大公開</title>
+ <link>https://creativecommons.tw/blog/20141201</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;程式語言往往被看成冷冰冰、沒有生命力的，但是透過&lt;a href=&quot;http://blog.lyhdev.com/2012/04/processing.html&quot;&gt;Processing&lt;/a&gt;，就可以將程式語言轉化為藝術品，工程師也能身兼藝術家；透過&lt;a href=&quot;http://www.openprocessing.org/&quot;&gt;OpenProcessing&lt;/a&gt;，則可以讓這些「程式語言藝術家」在分享與互動的過程中，更能善用 processing 創造出多元、突破自我的作品。&lt;br /&gt;
+&lt;br /&gt;
+Processing是奠基於JAVA的開放源碼程式語言，由麻省理工學院媒體實驗室的Casey Reas和Ben Fry所開發。它以視覺化的方式呈現學習者撰寫的電腦程式，在影音、動畫、互動領域裡都算是容易上手的介面，透過剪貼和複製就能完成有趣的程式、畫出具創 造力的圖像。&lt;a href=&quot;http://www.openprocessing.org/&quot;&gt;OpenProcessing.org&lt;/a&gt;則是一個協力合作的社群平台，讓Processing的開發者和藝術家能上傳、分享、瀏覽、評論與研究彼此的互動繪圖和程式原始碼。&lt;br /&gt;
+&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/hui_tu_ji_fa_1_0.jpg&quot; /&gt;&lt;br /&gt;
+OpenProcessing的前身是OpenVisuals，是開發者&lt;a href=&quot;http://www.wiredpieces.com/&quot;&gt;Sinan Ascioglu&lt;/a&gt;在 紐約大學互動通訊學程(Interactive Telecommunications)的碩士論文成品。當時他十分著迷於網路上的社會互動演進，也對將程式語言視覺化的Processing社群感興 趣，因此他設計了OpenVisuals平台讓Processing使用者社群能簡單上傳和分享繪圖，並將這些記錄視覺化呈現，以了解使用者彼此的互動關 係。&lt;br /&gt;
+&lt;br /&gt;
+在這個過程中，Sinan Ascioglu發現Processing使用者社群很需要一個類似flickr的平台設計協助他們的創作；同時，他的指導教授Daniel Shiffman鼓勵他能設計出一個能讓使用者上傳Processing繪圖成品的平台，不只是蒐集和分析使用者的記錄而已。於是，他就改版設計了 OpenProcessing平台。&lt;br /&gt;
+這個平台與其他具有社會互動性、使用者參與的平台不同之處在於，人們不只是想要被娛樂或是有個整理編排資料的工具，而是真的很想在此貢獻自己的知識。使用者將自己的創作公開到平台上，以便共享和對話，並由自己定標籤(tag)來決定作品的分類和與他人作品的關聯性。&lt;br /&gt;
+&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/imagecache/blog-img/hui_tu_ji_fa_2_0.jpg&quot; /&gt;&lt;br /&gt;
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(&lt;a href=&quot;http://www.openprocessing.org/sketch/100835&quot;&gt;http://www.openprocessing.org/sketch/100835&lt;/a&gt;)&lt;br /&gt;
+許多老師會在此平台上開課，將課程示範的原始碼和成品圖由淺入深、循序漸進的提供給學生參考。在教學過程中，學生可以同時看到原始碼和成品圖的對應關係、可以快速複製一段寫得很好的程式碼，也能互相評論和學習同儕的編碼或構圖方式。&lt;br /&gt;
+&lt;br /&gt;
+Sinan Ascioglu曾做過一個比喻，將程式原始碼比喻為藝術家的畫筆，一般人不會用畫筆來定義藝術家作品的好壞，也不會因此影響藝術作品的價值；開放程式原 始碼相當於分享藝術家操作畫筆的方式，透過方法的效仿和改造，或是讓這些方法有機會與不同藝術美感經驗的結合，將會帶來更多創新的機會。&lt;br /&gt;
+為了能讓讓這個社群能真正的分享，這個平台採取創用CC「&lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/us/&quot;&gt;姓名標示─相同方式分享&lt;/a&gt;」授權，著明創作者的姓名後就可以利用此平台上的程式語言和繪圖成品，但是利用後產生的作品也必須利用此授權方式分享，確保創新的過程不會中斷。&lt;br /&gt;
+&lt;br /&gt;
+現在，OpenProcessing的流量僅次&lt;a href=&quot;http://processing.org/&quot;&gt;processing.org&lt;/a&gt;， 已成為繪圖、原始碼和社群溝通的大型圖書館，網站也持續根據使用者的資料分析加以修正。最大的問題是Processing社群是現在少數的java使用者 之一，而Java和許多瀏覽器的相容性不高，對於創作者和使用者而言都不甚方便，不過，此平台目前還沒有朝其他方向發展的打算。&lt;br /&gt;
+&lt;br /&gt;
+註 : 可以參考成功大學建築系簡聖芬教授的課程利用方式&lt;a href=&quot;http://www.openprocessing.org/user/4674&quot;&gt;http://www.openprocessing.org/user/4674&lt;/a&gt; - See more at: http://creativecommons.tw/blog/20141201#sthash.OWk3Tvnq.dpuf&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 03 Dec 2014 02:52:36 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">690 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20141201#comments</comments>
+</item>
+<item>
+ <title>以政府為首的協同創造計畫</title>
+ <link>https://creativecommons.tw/blog/20141202</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;李佩璇&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/medialab.jpg&quot; style=&quot;border:0px; display:block; height:350px; line-height:inherit; margin:0px auto; padding:10px; vertical-align:baseline; width:630px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://medialab-prado.es/&quot;&gt;Medialab Prodo&lt;/a&gt;於2006年開始，是&lt;a href=&quot;http://www.madrid.es/portales/munimadrid/es/Inicio?vgnextfmt=default&amp;amp;vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&quot;&gt;馬德里市議會&lt;/a&gt;推 行藝術、體育、旅遊推展計畫的一部分，納入公民生產、研究、傳播的可能，目的在提供一個開放研究及產品生產的平台，透過漸次邀請各方專業人士加入，允許使 用的用戶進行自由配置、修改和生產的工作，促進集體創作，因此，不論自身專業背景為何，都可以透過這個網站使自己的創造及科技使用能夠有效的被運 用，Media Prodo計畫相信藉由不同領域的人交流對話後，各類型的協同創造將獲得爆炸性的收穫。&lt;/p&gt;
+
+&lt;p&gt;而為能持續獲得不斷注入的新能量，&lt;a href=&quot;http://medialab-prado.es/&quot;&gt;Media Prodo&lt;/a&gt;透過多樣的參與形式（包括有國際研討會的舉行、成立各類型之工作組合、辦理講座及辯論活動、展覽或其他活動，作為媒合各專業技能及知識生產的契機。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/3d.jpg&quot; style=&quot;border:0px; display:block; height:320px; line-height:inherit; margin:0px auto; padding:10px; vertical-align:baseline; width:630px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://reprap.org/wiki/Main_Page&quot;&gt;Reprap&lt;/a&gt;機器是一台可快速打印的3D列印機器原型，&lt;a href=&quot;http://medialab-prado.es/&quot;&gt;Media Prodo&lt;/a&gt;其中一支擁有九位成員的工作組合以這台機器出發，合力創建完成&lt;a href=&quot;http://makerbot.com/&quot;&gt;MakerBot&lt;/a&gt;，成為一例藉由互動設計生產出低成本的3D印表機，2009年&lt;a href=&quot;http://medialab-prado.es/&quot;&gt;Media Prodo&lt;/a&gt;啟動了一場研討會，正式使用這台3D列印機器，也作為組織地方社區的力量，使協同創造的生產能繼續推進，宣示未來也將開啟更多協力創作的新工作組合。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://medialab-prado.es/&quot;&gt;Media Prodo&lt;/a&gt;至今已舉辦超過15場國際研討會，提供多功能的空間以做思考，期待衍生出進一步的研究及深入可能，累計參加人數超過900人，並且發展出140餘件的原型協作，目前網站中正在進行的工作組合有Digital&lt;a href=&quot;http://medialab-prado.es/fachada_digital&quot;&gt;Facade&lt;/a&gt;、&lt;a href=&quot;http://medialab-prado.es/avlab2&quot;&gt;AVLAB&lt;/a&gt;、&lt;a href=&quot;http://medialab-prado.es/laboratorio_del_procomun&quot;&gt;Commons Lab&lt;/a&gt;、&lt;a href=&quot;http://medialab-prado.es/inclusiva-net&quot;&gt;Inclusiva-net&lt;/a&gt;、&lt;a href=&quot;http://medialab-prado.es/visualizar&quot;&gt;Visualizar&lt;/a&gt;、&lt;a href=&quot;http://medialab-prado.es/interactivos&quot;&gt;Interactivos&lt;/a&gt;分別進行音樂協作、環境討論、理論研究等工作。&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/avlab.jpg&quot; style=&quot;border:0px; display:block; height:200px; line-height:inherit; margin:0px auto; padding:10px; vertical-align:baseline; width:640px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://medialab-prado.es/avlab2&quot;&gt;AVLAB會議&lt;/a&gt;固定每月聚會，以實驗性的方式讓各 方技術可以結合，成員為以電子和電聲音樂，聲音藝術，互動裝置音頻和視頻處理領域為專業的人，每次會議會邀請三個左右的音樂家的DJ、VJ們或邀請其他人 提供了一個簡短的概念和技術介紹自己的工作，而與會者也有機會看到每個藝術家所使用的手段和工具，在這樣相互激盪的過程中，最後會產生了一個想法以提供一 個共享的創建過程&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://medialab-prado.es/&quot;&gt;Media Prodo&lt;/a&gt;網站中所分享的著作權均使用創用CC條款-&lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/es/&quot;&gt;「姓名標示─相同方式分享」&lt;/a&gt;，除非作者另有其他釋出條件，則可由作者自行規定。&lt;/p&gt;
+
+&lt;p&gt;國外有&lt;a href=&quot;http://medialab-prado.es/&quot;&gt;Media Prodo&lt;/a&gt;這麼樣一個由政府領頭，結合社區力量，推動協同創造的計畫，未來，或許有更多的國家會在國家發展中特別強調社區協同創造的重要吧！&lt;br /&gt;
+&lt;br /&gt;
+參考資料：&lt;br /&gt;
+&lt;a href=&quot;http://opendesignnow.org/index.php/case/medialab-prado-laura-fernandez/#fnref-455-1&quot;&gt;http://opendesignnow.org/index.php/case/medialab-prado-laura-fernandez/#fnref-455-1&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://medialab-prado.es/&quot;&gt;http://medialab-prado.es/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://makerbot.com/&quot;&gt;http://makerbot.com/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 01 Dec 2014 16:00:00 +0000</pubDate>
+ <dc:creator>l1shan</dc:creator>
+ <guid isPermaLink="false">746 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20141202#comments</comments>
+</item>
+<item>
+ <title>透過開放建築設計改變世界</title>
+ <link>https://creativecommons.tw/blog/20140902</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;「我們相信在資源和專家稀少的地方，創新、可持續性且共同合作的設計能帶來改變。」&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/kai_fang_jian_zhu_-1_0.jpg&quot; style=&quot;border:0px; display:block; height:400px; line-height:inherit; margin:0px; padding:10px; vertical-align:baseline; width:700px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://architectureforhumanity.org/&quot;&gt;Architecture for Humanity&lt;/a&gt;由&lt;a href=&quot;http://www.ted.com/talks/cameron_sinclair_on_open_source_architecture.html&quot;&gt;Cmeron Sinclair&lt;/a&gt;等一群關懷人道的設計師、建築師所組成。&lt;/p&gt;
+
+&lt;p&gt;在1999年，他們為了解決科索沃的移民問題而在網站上召喚眾人一起提供設計藍圖；2001年，他們轉為關注在非洲撒哈拉以南設立愛滋病流動診所；2004年，他們針對伊朗的自然災後重建；2005年，則是為了卡崔納颶風帶來的災情共同努力。&lt;/p&gt;
+
+&lt;p&gt;當他們接獲越來越多的建築請求之後，便決定要將這些徵求計劃公開，利用網路平台讓更多人可以提案、分享想法，且有機會能與不同專業和社群的人合作，也使當地的人可以參與問題解決的流程、陳述他們對於建築的真正需求為何。透過此平台，產生的不只是一個想法，而是成千上萬個能促進所有人生活品質的設計想法。於是，在2006年他們建立了&lt;a href=&quot;http://openarchitecturenetwork.org/&quot;&gt;Open Architecture&lt;/a&gt;網站，2011年&lt;a href=&quot;http://architectureforhumanity.org/&quot;&gt;Architecture for Humanity&lt;/a&gt;和&lt;a href=&quot;http://openarchitecturenetwork.org/&quot;&gt;Open Architecture&lt;/a&gt;正式合併改名為&lt;a href=&quot;http://www.worldchanging.com/&quot;&gt;Worldchanging&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;這個平台除了歡迎建築師、設計師、工程師和任何對建築有興趣的人之外，也很歡迎社群領袖、非營利團體、志工組織、政府機構、科技夥伴、健康照護工作者、教育者等其他專業參與，因為他們發現許多問題並非單純的建築設計可以解決，真正的解決之道會和教育、治理等有關，因此建築和設計若要帶給社群好處，就需要不同的專業人才共同參與，也因而這個平台有特別提供專業人員交流方式的查找。&lt;/p&gt;
+
+&lt;p&gt;從另一方面來看，透過建築，其實可以賦權給社區、提升生活地區的品質，單純的建築成品，則可能會影響到其他社會層面，舉例來說，當建築的設計目的之一乃作為社群中心，就會有利此社群後續的共識凝聚。&lt;/p&gt;
+
+&lt;p&gt;基於建築關聯的面相甚廣，且相互影響，此平台分成七大類切入討論可持續性、綠色、符合人道公益、強調公平自由的生活，分別為「物品、庇護所、城市、社群、商業、政治、星球」，讓設計、建築和社會產生緊密連結。&lt;/p&gt;
+
+&lt;p&gt;每隔一段時間，平台會舉辦&lt;a href=&quot;http://openarchitecturenetwork.org/competitions&quot;&gt;設計競賽&lt;/a&gt;，讓各參賽者將自己的建築設計公開來讓所有人票選，其中「Open Architecture challenge」的評選標準包涵社群影響力、經濟可行性、生態足跡、全球及地方脈絡合適度、整體設計品質，也就是說，此平台希望募集到的是能引起社群意識、產生正面影響，充分尊重環境與文化特性，設計規劃完善且可以實現的建築設計，並且透過平台上眾人的集思廣益，建立更安全、更可持續、更創新的建築。&lt;/p&gt;
+
+&lt;p&gt;Worldchanging是開放資源，所有新計劃之初始設定都是「公眾取用」，每件計畫裡包含的事情(計劃整體、團隊空間、更新、計劃工作地點、月曆、檔案)都能被公眾所見，基本上採取的授權方式是創用CC「&lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/us/&quot;&gt;姓名標示─相同方式分享&lt;/a&gt;」，讓繪圖、文件、圖片、投影片等都可以在尊重作者和持續再利用的前提下免費下載和分享。但是，使用者也可以讓計劃是隱私的，只有團隊成員可以看到，或是自行決定其他類型的授權方式。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;藉由「開放」，World changing吸引到更多元的參與者、發現不同的合作方式，讓只要有電腦的地方社群都可以運用這些資源，也讓任何想要回應人道主義卻不想被中介公司包攬受益的設計師也多了一條可選擇的道路，共同提升世界的生活水平。&lt;/p&gt;
+
+&lt;p&gt;註 : &amp;nbsp;另外還有一個網站&lt;a href=&quot;http://www.architectsforpeace.org/index.php&quot;&gt;Architects for peace&lt;/a&gt;，是設計師、建築師、工程師、藝術家等可以獨立而多元的討論城市設計問題之論壇，網站內容採創用 CC「&amp;nbsp;&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-nd/3.0/&quot;&gt;姓名標示-非商業性-禁止改作&lt;/a&gt;」授權。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 02 Sep 2014 06:18:02 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">702 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20140902#comments</comments>
+</item>
+<item>
+ <title>Openwear ─ 共同創作的開放服飾品牌</title>
+ <link>https://creativecommons.tw/blog/20131227-8</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;羅凱勻 /文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;不是服裝設計師，但你對服裝和衣著、飾品穿搭很有想法嗎？躍躍欲試想製作出自己的個性化服飾和配件？想應用手機等科技產品創作出你生活中的創意嗎？進來「&lt;a class=&quot;newpage&quot; href=&quot;http://openwear.org/&quot;&gt;開放穿著Openwear&lt;/a&gt;」 逛逛吧！&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://openwear.org/&quot;&gt;開放穿著Openwear&lt;/a&gt;是一個開放的服飾品牌。這個時尚設計的協作平台(collaborative platform)秉持著共同生產(co-production)的集體商標理念，透過不同於傳統的價值傳播方式，策略性地讓所有共同生產者在品牌管理上都有發言權。Openwear具有實踐性地實驗精神，制度化地藉由收入分享等方法，讓共同創作(co-creation)的消費者們也能受益，並將消費者納入設計和生產的過程中，推動品牌的整體社會價值。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/openwear.jpg&quot; /&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;http://openwear.org/&lt;/p&gt;
+
+&lt;p&gt;在這個開放時尚設計平台上，製造者、時尚生產者、地方小企業、教育機構等多方人士可透過網絡力量來參與，打造出一個嶄新、永續性的時尚微型社群。對於服裝系所學生、獨立設計師、社會企業家來說，他們可註冊個人資料、將活動和創作上傳到這個公共空間，並經由集體合作者使計畫和作品更完善；這個網路社群提供工具，利用集體之力使微型時尚生產更有效率、對設計和產製等出現的問題共同找出解決之道、並促進知識和技能學習的機會。網站上的集體作品集(Collaborative Collections)裡提供一系列版型等服裝作品，使用者可自由下載並客製化去改作它們、加上自己創作的配件，再以「開放資源集體品牌」(open-source collective brand)的方式去販售。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/openwear_item6.jpg&quot; /&gt;&amp;nbsp; &amp;nbsp;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/openwear_item62.jpg&quot; style=&quot;height:297px; width:233px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;http://openwear.org/lookmap/item/6&lt;/p&gt;
+
+&lt;p&gt;譬如以上這款集體作品集裡的「再製袖：無袖連衣裙Reshirt : Sleeveless Dress」，就從男性襯衫之衣袖、領子等剪裁，而重新設計成女裝。&lt;/p&gt;
+
+&lt;p&gt;Openwear社群的成員只要在其產製和販售的產品上，除了自己的商標也標示出Openwear的品牌標籤，就可以自由地下載其開放集體作品集裡的創作，並以這些作品來延伸創作出自己的衣服和配件。此外，Openwear亦要求若成員有以社群裡的資源去延伸創作、並出售的話，其產品必需有手工製作的部分，且必需將自己延伸創作的衣著設計藍圖上傳到他自己的Openwear資料夾來分享。雖然Openwear不是用創用CC授權，但從這些使用規範來看，Openwear License與創用CC的&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by-sa/3.0/legalcode&quot;&gt;「姓名標示─相同方式分享」(BY-SA)&lt;/a&gt;條款有異曲同工的相近精神，因為成員都必需標示出Openwear品牌來源、和要求開放分享。&lt;/p&gt;
+
+&lt;p&gt;時尚設計推陳出新、競爭激烈的時代，客製化生產、消費者參與式設計等方法不僅為時尚企業的行銷和宣傳手段，也能讓更多消費者的需求被聽見、並同享設計的樂趣。現在，歡迎來到開放穿著Openwear這個時尚的開放服裝市集，將你獨具一格的穿搭品味分享給全世界吧！&lt;/p&gt;
+
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 20 May 2014 16:00:00 +0000</pubDate>
+ <dc:creator>kathy4106</dc:creator>
+ <guid isPermaLink="false">987 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20131227-8#comments</comments>
+</item>
+<item>
+ <title>政府資料該採取公眾授權（Public License）或是視為公眾領域（Public Domain）來公開？</title>
+ <link>https://creativecommons.tw/blog/20131129</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;劉芊影 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;美國&amp;nbsp;&lt;a href=&quot;http://www.techdirt.com/&quot;&gt;Techdirt&lt;/a&gt;網站的創辦人Mike Masnick提出了一個問題：究竟&lt;a href=&quot;http://www.techdirt.com/articles/20110616/10445214719/does-it-make-sense-governments-to-make-their-content-creative-commons-full&quot;&gt;政府的資訊內容應該採取創用CC的授權方式，或者完全以公眾領域來公開？&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;他認為，所有的公部門消息都應納入公眾領域範圍才是最理想的，亦即在該等消息上面沒有任何著作權或其他相關權利的限制。其亦指出美國聯邦政府下述政策為一良好政策：「幾乎所有由美國聯邦政府所為之作品皆自動納入公眾領域內，且不接受任何形式的著作權限制。」&lt;br /&gt;
+&lt;br /&gt;
+不過事實上，有些聯邦政府的作品仍然具有著作權，該等作品非由聯邦政府雇員或公務人員所作，這包括由承包商或贊助者資助所為的作品；而另一部分由聯邦政府雇員或公務人員所作之作品亦僅明確代表在美國境內無著作權，但並不應被認為成為世界性的公眾領域的一部份。&lt;br /&gt;
+&lt;br /&gt;
+這並不是說聯邦政府的政策不是一個主要的政策，他和其他層級的美國政府的政策相比確實屬之，也為美國人民和其經濟帶來巨大利益。然而，我們身處於一個全球化以及高度連結的世界，即使是主要的政策也都有改善的空間。&lt;br /&gt;
+&lt;br /&gt;
+因此，這亦帶來一個新問題：我們應該如何改善關於公部門消息的政策?聯邦政府著作的地位在美國著作權法中皆有所指定。許多其他司法管轄權下的著作權法也都對於各自政府的著作指定其地位和特殊的限制及其例外。所以，顯然的，改變司法管轄權下的著作權法於公部門消息的地位將是最強而有力的，然而，這樣的改變並不會迅速、決定性的去影響每一個人。&lt;br /&gt;
+&lt;br /&gt;
+在這一段時間中(預估已有好幾年)，使政府所資助、持有或製造的內容和資料能夠揭開並具更佳的接近性，這樣的想法趨勢非常的巨大，然而，公部門著作權的默認確被認為是達成這項目標得阻礙。由其是在過去幾年中，政府已經開始實行他們現代化公部門消息的目標，而且有些政府機關和政治機更是尋求更快速的轉變，而行動主義的公民們則是急迫的推動清除開放政府(open government)運動裡潛在的阻礙。這是政府使用公眾授權的一個地方，而通常使用的則是創用cc授權。也就是說，一個政府機構、省份、城市或其他主體對於他們所持有或資助創作的享有著作權之作品，可以選擇適合的創用cc條款內容做開放釋出行為。而若是他們真的希望更具革新進步性，也可以選擇以CC0公眾領域標章的方式。&lt;br /&gt;
+&lt;br /&gt;
+各國政府使用創用cc授權多是以幾種固定的幾種組合，我們相信這在未來會有更多種類創用cc是權條款地採用。而若是真得政府政策轉而使更多的政府資訊自動的成為公眾領域的一部份，我們也相當鼓勵。事實上，創用cc現在有一工具可以標示屬於公眾領域的著作，雖然創用cc的公眾領域標章(The CC Public Domain Mark)目前多用於相當古老的著作，但政府資訊若明白決定使其著作成為公眾領域內容，也可因此適用此標章，如此將是相當令人樂見的。&lt;br /&gt;
+&lt;br /&gt;
+不過，許多的政府喜歡以著作權的方式控制公部門消息，這有時是基於良好的出發點，例如掌握資料被使用的方式以避免誤導大眾其中隱含有政府許可利用但實際上並沒有的情況等出現。但其實，採用創用cc授權方式，其有各種機制可以防免上述及類似的顧慮，例如標示原始的URL、標明改作的部份等。&lt;br /&gt;
+&lt;br /&gt;
+若在公部門消息上使用創用cc授權通常也將給予大眾相比現在更多的權利。但是在此應注意，若授權條款選擇設有非商業性使用或是不可有衍生著作的限制則對於公部門消息的使用上會較具侷限性，為使公部門消息最大化其價值，企業需要能夠近用該等資料；而為了最大化人民能夠在該等內容上為各種有趣行為的能力，改作的權利應該被允許。也因此，我們傾向建議政府可以選擇使用完全開放的創用cc工具，包括公眾領域貢獻宣告(the CC0 Public Domain Dedication)、姓名標示條款(BY)、姓名標示-相同方式分享(BY-SA)的授權條款。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 28 Nov 2013 16:00:00 +0000</pubDate>
+ <dc:creator>sunlight</dc:creator>
+ <guid isPermaLink="false">912 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20131129#comments</comments>
+</item>
+<item>
+ <title>Open source ecology—開放資源生態學締造在地文明新視野</title>
+ <link>https://creativecommons.tw/blog/20131115</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;近年來，越來越多人開始關心全球貧富差距以及地球資源耗盡的問題，運用「開放」的概念是否能改變這些問題呢？「&lt;a href=&quot;http://opensourceecology.org/&quot;&gt;開放資源生態學&lt;/a&gt;」就是答案。&lt;/div&gt;
+
+&lt;div&gt;&lt;br /&gt;
+「開放資源生態學」動員了來自世界各地的企業家、生產者、製造者、支持者，他們善用當地天然資源和開放資源工具，選擇無汙染且能再生的生產方式來建構在地文明基礎設備，同時顧及環境、社會和科技系統的生態平衡。&lt;/div&gt;
+
+&lt;div&gt;&lt;br /&gt;
+「開放資源生態學」最終的目標是形成「開放資源經濟學」。「開放資源」讓使用者能參與製作與服務設計的流程，帶來的好處由電腦軟體Linux等的推動結果可見一斑；「開放資源經濟學」則是要擴展開放資源模式從電腦軟體到生活中的實體產品和服務，讓開放的力量進入各地。&lt;/div&gt;
+
+&lt;div&gt;&lt;br /&gt;
+當實體產品設計是開放的，也就代表科技使用的門檻降低，每個社群都因此更容易了解科技與自然的互動實況，並因此發現自己舒適的生活來自於自然資源，而非人造商品。人們有了這樣的體悟，就會由衷的尊敬自然、願意採取最適合當地且最能永續發展的生產方式，減少資本社會下專業分工、相互競爭造成的資源浪費，也不再只重視生產而漠視資源分配。整體而言，將促使人類整體生產力提高、自然資源被更有效的利用。&lt;br /&gt;
+&amp;nbsp;&lt;/div&gt;
+
+&lt;div&gt;
+&lt;div&gt;實踐「開放資源生態學」最主要的計劃是「世界村建構套裝」(Global Village Construction Set)，這個套裝包含50種低成本、高效率、可持續發展的機械，這些工具能滿足任何地方、任何社群所需的當代基本生活品質需求，包含在地食物、能量、運輸等，且這些機械都經過模組化，因此社群能快速而省錢的自助組裝、調整。&lt;br /&gt;
+&amp;nbsp;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;http://opensourceecology.org/wiki/Proposal_2012_-_50_Tool_Descriptions&quot;&gt;50種機器&lt;/a&gt;依據用途分成6大類—原生地(Habitat)、農業(Agriculture)、工業(Industry)、能源(Energy)、原物料(Materials)、交通(Transportation)，機器之間緊密相連，一旦一個機器開發出來，就可以用此機器來開發下一個機器，甚至是用來自我複製。&lt;/div&gt;
+
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div&gt;&lt;img alt=&quot;&quot; src=&quot;http://opensourceecology.org/w/images/thumb/8/8b/LTIICompleted.jpg/300px-LTIICompleted.jpg&quot; style=&quot;border:0px; display:block; height:225px; line-height:inherit; margin:0px auto; padding:10px; vertical-align:baseline; width:300px&quot; /&gt;&lt;/div&gt;
+
+&lt;div&gt;每個機器根據開發的現況標上顏色，分成「開發、製成模型、說明文件、完整發布」，並因階段的不同，附上3D設計圖、分析圖、教學影片、預算、產品手冊，這些機器的原型最後都會在合作的e Farm測試，確保這樣的設計是可行的。&lt;br /&gt;
+&amp;nbsp;&lt;/div&gt;
+
+&lt;div&gt;「開放資源生態學」平台上的所有資訊都已經編成一本線上開放電子書，只要燒錄在&lt;a href=&quot;http://opensourceecology.org/wiki/Civilization_Starter_Kit_DVD_v0.01&quot;&gt;一片光碟片&lt;/a&gt;內，就能輕鬆把攸關人類基本生活品質的50種機器設計帶著走，容易且迅速的能在各地展開新的文明生活。&lt;/div&gt;
+
+&lt;div&gt;&lt;img alt=&quot;&quot; src=&quot;http://opensourceecology.org/w/images/thumb/a/a5/Open_Source_Ecology_-_DVD_-_Cover_-_v0.01_-_05.jpg/200px-Open_Source_Ecology_-_DVD_-_Cover_-_v0.01_-_05.jpg&quot; style=&quot;border:0px; height:259px; line-height:inherit; margin:0px; padding:10px; vertical-align:baseline; width:200px&quot; /&gt;&lt;/div&gt;
+
+&lt;div&gt;不論是網站平台，或是光碟片、電子書，都採用創用CC「&lt;a href=&quot;http://creativecommons.org/licenses/by-sa/2.5/tw/&quot;&gt;姓名標示─相同方式分享&lt;/a&gt;」的授權方式，也就是說，只要表達出對著作者的尊重，並願意用相同授權方式分享這些資源，任何人都能善用「開放資源生態學」、推動「開放資源經濟學」，一同參與全球貧富差距以及地球資源耗盡問題的解決之道。&lt;br /&gt;
+&amp;nbsp;&lt;/div&gt;
+
+&lt;div&gt;註 : 可以看看TED的介紹&lt;a href=&quot;http://www.ted.com/talks/marcin_jakubowski.html&quot;&gt;http://www.ted.com/talks/marcin_jakubowski.html&lt;/a&gt;、以及「開放資源經濟學」的介紹影片&lt;a href=&quot;http://youtu.be/5RB4XKDDLF0&quot;&gt;http://youtu.be/5RB4XKDDLF0&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 14 Nov 2013 16:00:00 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">908 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20131115#comments</comments>
+</item>
+<item>
+ <title>開放設計的全新樣貌 由我們共同想像</title>
+ <link>https://creativecommons.tw/blog/20130806</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;李佩璇&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;「設計是設計一個設計來創造另一個設計(design is to design a design to produce a design)」，Open Design + hardware網站中用了這麼一段常用的引述，卻深深的打中了設計師們的心。&lt;/p&gt;
+
+&lt;p&gt;你認為的設計樣貌是什麼呢？有沒有一種可能性可以讓我們再次定義所謂的已完成的設計呢？&lt;/p&gt;
+
+&lt;p&gt;Open Design + hardware是由三位致力於推廣「開放設計」概念的設計師-Kat Braybrooke、Massimo Menichinelli及Primavera de Filippi聯合串聯而成的組織。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;這是一個高聲疾呼開放設計重要性的組織，認為閉門造車的設計已經是過時的創作習慣了，設計是社會集體文化造就的傑作，設計是讓我們重新檢視物件的可能，透過設計我們欣賞並學習，設計何其美好，怎該獨自佔有？&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/open_design_hardware_0.png&quot; style=&quot;display:block; height:320px; margin-left:auto; margin-right:auto; vertical-align:baseline; width:640px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;西元2000年，Open Design的概念首先被揭示，於今已有超過十年的歷史，而實際的行動卻是於近幾年才被漸次發展，Open Design + hardware特別注意到了開放設計的重要性，認為許多設計產品仍舊有著待設計發展的空間，然而，現行對於開放設計的定義卻是相當模糊，對此甚感可惜。&lt;/p&gt;
+
+&lt;p&gt;因此，Open Design + hardware首要計畫為「定義開放設計」，以理論及實踐的發展作為參考，鼓勵設計師們加入組織中的公眾討論及分享平台，透過舉辦開放設計定義工作坊邀請多方的設計師夥伴們加入討論，藉由不斷的對話及實作，期望共同定義出開放設計的明確概念及應用，更邀請超過150位設計師加入GOOGLE+作為即時的交流互動平台，在平台中可以展示個人成果亦可同時獲得來自他人的寶貴意見，靈感激烈碰撞的時刻，美好的設計將油然而生。&lt;/p&gt;
+
+&lt;p&gt;於開放設計的應用上，則是藉由提倡「物件再製-Hardware Remix」，將已被納入公眾領域的一首詩、一段旋律、一部劇作……等，提倡使用公眾領域作品，網站採取創用CC「&lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/Case_Studies/Pamoyo&quot;&gt;姓名標示─相同方式分享&lt;/a&gt;」授權，取自作品想法或做法揉合新的創意發想，創造出符合集體文化記憶的物件，與時俱進的全新設計將使原始物件再次獲得嶄新活力。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/o-pen_0.png&quot; style=&quot;height:200px; vertical-align:baseline; width:250px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(Public Domain Work)&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/open3_0.png&quot; style=&quot;display:block; height:200px; margin-left:auto; margin-right:auto; vertical-align:baseline; width:250px&quot; /&gt;(Remix Example:O-PEN)&lt;/p&gt;
+
+&lt;p&gt;圖／授權資訊：&lt;a class=&quot;newpage&quot; href=&quot;http://www.okhaos.com/#&quot;&gt;Khaos&lt;/a&gt;，「&lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/Case_Studies/Pamoyo&quot;&gt;姓名標示─相同方式分享&lt;/a&gt;」&lt;/p&gt;
+
+&lt;p&gt;一個產品，將來自於數個設計師的合力創作，創意及智慧在生產的過程中重複堆疊，該是如此珍貴啊！&lt;/p&gt;
+
+&lt;p&gt;開放設計的魅力令這群設計師們深深著迷，他們是一群夢想家，從自身出發並付諸行動的夢想家，如果你也認同開放設計的發想，開放設計的樣貌將由我們共同想像，一起加入吧！&lt;/p&gt;
+
+&lt;p&gt;參考資料:&lt;a href=&quot;http://design.okfn.org/&quot;&gt;http://design.okfn.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;註 : &lt;a class=&quot;newpage&quot; href=&quot;http://engagebydesign.org/&quot;&gt;Engage by design&lt;/a&gt;同樣是促進設計團體持續交流、分享的網站，而且他們還將設計方面的專家對談錄影分享出來，讓更多人可以加入設計理念的對話。採取創用CC「&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by-nc-nd/3.0/&quot;&gt;姓名標示─非商業性─禁止改作&lt;/a&gt;」授權方式。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 06 Aug 2013 14:32:16 +0000</pubDate>
+ <dc:creator>l1shan</dc:creator>
+ <guid isPermaLink="false">697 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20130806#comments</comments>
+</item>
+<item>
+ <title>Wikihouse—輕鬆組裝出自己的房子</title>
+ <link>https://creativecommons.tw/blog/20130722</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;「一個令人感到不適的事實是，幾乎所有我們今日稱之為「建築」的，都是為了世界人口中最有錢的百分之一所做的商業設計。」--Alastair Parvin&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/wikihouse1_0.jpg&quot; style=&quot;display:block; height:442px; vertical-align:baseline; width:640px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://www.wikihouse.cc/&quot;&gt;Wikihouse&lt;/a&gt;的創辦人&lt;a class=&quot;newpage&quot; href=&quot;http://www.ted.com/talks/alastair_parvin_architecture_for_the_people_by_the_people.html&quot;&gt;Alastair Parvin&lt;/a&gt;，是英國倫敦「&lt;a class=&quot;newpage&quot; href=&quot;http://project00.net/projects.php&quot;&gt;00:/&lt;/a&gt;」建築合作團隊的一員，自2011年起開始這個計劃。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Alastair Parvin的目的是想要建立一個有利於災後重建、能簡單迅速上手的建築模型，並且讓這樣的建築設計進入公共領域，使所有人都能免費使用，迅速建立出屬於在地的緊急避難所。他稱此作「生產的民主化」，從普遍讓全民掌握「消費」能力進而為「製造」能力，藉由降低蓋房子的門檻，使房子能真正的為「全民」所用，不再由少數1%的人所專享。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Wikihouse所堅守的10個設計原則中，處處彰顯開放、分享、共用的精神。像是「像狐狸一樣懶惰」－要像狐狸一樣「善用他人已有的解決之道、並給他們好處」才能既聰明又省力；或是「比起蛋糕和餅乾，食譜更容易運送」－給別人設計圖比起成品更容易。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;而為了讓這些設計能更為公眾普遍適用，建築的材料和成分的設計要成本低廉、可回收、低排碳，架構不需要太多技巧訓練就能組成且有容錯設計，房子可以輕易拆除並不需要動力工具就能組裝，在能源運用上要很有效率，且能確保使用者生存在其中能兼顧安全、心理及生理健康。&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/wikihouse2_0.jpg&quot; style=&quot;display:block; height:420px; margin-left:auto; margin-right:auto; vertical-align:baseline; width:640px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; 圖/授權資訊 Wikihouse，&amp;nbsp;&lt;a class=&quot;newpage&quot; href=&quot;http://wiki.creativecommons.org/Case_Studies/Pamoyo&quot;&gt;姓名標示─相同方式分享&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;Wikihouse的成品是開放建築設計套裝，垂直整併三個面相—硬體、設計軟體和分享合作的網路平台。人們從網路上下載檔案，利用外掛將&lt;a class=&quot;newpage&quot; href=&quot;http://help.sketchup.com/en/zh-Hant/article/36201&quot;&gt;google SketchUp&lt;/a&gt;所做的3D模型以CNC雕刻機印成2D切割檔，最後像是拼圖般的利用三夾板或其他當地適合的材料加以敲打拼湊，就能&lt;a class=&quot;newpage&quot; href=&quot;http://vimeo.com/65715046&quot;&gt;組裝出屬於自己的房子&lt;/a&gt;。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;這些檔案在創用CC「&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by-sa/3.0/tw/&quot;&gt;姓名標示─相同方式分享&lt;/a&gt;」的授權下可以免費下載，只要標示出作品的作者，並保證使用或改製之後的成品也會以相同授權方式分享，那就可以盡情利用這些建築素材。&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;在組裝此套裝時，不需要使用電動工具，只要多一點志工就能快速組成房屋架構，出乎意料的是，組裝過程是一個很好的社交活動，不少參與者都從中獲得DIY的樂趣。&lt;/p&gt;
+
+&lt;p&gt;緊接著wikihouse計畫，出現了另一個「&lt;a class=&quot;newpage&quot; href=&quot;https://www.opendesk.cc/&quot;&gt;open desk&lt;/a&gt;」計畫，讓蓋好的房子有更完整的配置。網站上有三種用途的桌子可以選擇 : 工作用途、會議用途、非正式用途，使用者可以透過網站下載經過創用CC「&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by-nc/3.0/&quot;&gt;姓名標示─非商業性&lt;/a&gt;」授權的藍圖，於在地利用當地素材數位列印並組裝。另外，網站上也可以看到這些桌子的實踐案例，同時讓人了解有哪些地方有提供數位製造的工具。&lt;/p&gt;
+
+&lt;p&gt;唯一美中不足的是，雖然CNC雕刻機已經越來越普遍，但是多數仍然很貴，因此對於社會弱勢來說還不算那麼的友善，需要有更多合作迴響，方能達成這個平台的終極期望。&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;註 :&lt;a class=&quot;newpage&quot; href=&quot;http://dickreynoldsdesign.com/Home.html&quot;&gt;DickReynoldsDesign.com&lt;/a&gt;同樣也有提供用google sketch繪製的椅子模型，採創用CC「&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;姓名標示─非商業性─相同方式分享&lt;/a&gt;」授權。&lt;a class=&quot;newpage&quot; href=&quot;http://www.filson-rohrbacher.com/atfab_12.html&quot;&gt;AtFAB furniture objects&lt;/a&gt;則提供桌、椅、床等的家具藍圖，可以下載後自行3D列印組裝，同樣採用創用CC「&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;姓名標示─非商業性─相同方式分享&lt;/a&gt;」授權。&lt;/p&gt;
+
+&lt;p&gt;備註：&lt;br /&gt;
+google SketchUp連結失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 21 Jul 2013 18:37:48 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">701 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20130722#comments</comments>
+</item>
+<item>
+ <title>Pamoyo—開放設計的時尚服飾</title>
+ <link>https://creativecommons.tw/blog/20130628</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;決定穿上什麼衣服，也就決定了別人眼中的自己是何樣貌。&lt;/p&gt;
+
+&lt;p&gt;2008年，德國設計師Cecilia Palmer成立的時尚品牌Pamoyo引起眾多矚目。&lt;/p&gt;
+
+&lt;p&gt;這是第一個強調使用對生態友善的素材以及再生資源的綠色品牌，並且它秉持著開放資源的精神，公開服飾版型於網路上，有利於設計成品能融合在地不同文化特色，或是展現出自己的獨特風格。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/1-.jpg&quot; style=&quot;display:block; height:466px; margin-left:auto; margin-right:auto; width:640px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;透過這個品牌，讓設計不只是淺層表面意義的服裝樣式，而是深度傳達出社會公益與價值，及尊重環境、強調創意與公平之態度。&lt;/p&gt;
+
+&lt;p&gt;Cecilia Palmer認為，如果人們不互相模仿和複製，就不會帶動時尚潮流，時尚既然源起於自自由開放的文化，就更應該投入開放資源的運動。設計應加以傳播、分享，讓任何人可以參與合作和開發出更棒的想法，而不應該過度保護，像是許多衣服的商標變成名牌極力以法律遏止他人仿冒，獲取大量商業利益，也減少設計過程中的合作與創新。&lt;/p&gt;
+
+&lt;p&gt;為服裝設計創造出一個商業模式以外的開放資源選項是很重要的，因為這將挑戰一直以來的全球化分工模式，並且能利用開放的網路，讓非營利目的的相關團體和時尚服裝設計結盟，不像長久以來時尚雜誌靠廣告存活，也就需要配合廣告商展現一些非設計者想透露的價值。&lt;/p&gt;
+
+&lt;p&gt;當服裝設計的版型能在網站上找到並使用，就有利於設計師、藝術家、裁縫師、消費者等的自發性溝通交流。因此，本網站採取創用CC「姓名標示─相同方式分享」授權，使用者在標示著作者的情況下，可以下載版型設計圖使用和改造，並將成品用相同的授權方式再次分享。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/2_0.jpg&quot; style=&quot;display:block; height:400px; vertical-align:baseline; width:700px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 圖/授權資訊Cecilia Palmer，姓名標示─相同方式分享。&lt;/p&gt;
+
+&lt;p&gt;除了開創Pamoyo品牌，Cecilia Palmer還舉辦「時尚重組(Fashion Reloaded)」的活動，這是一整天的工作坊，參與者將各自帶來舊有的衣物發揮自己手工DIY的潛力加以改造，同時將過程記錄下來，透過網路與他人分享。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/3_0.jpg&quot; style=&quot;display:block; height:400px; vertical-align:baseline; width:700px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;這個活動不僅適合金融蕭條的時代、也符合益發重視環境生態的世界觀，參與者會透過此活動重新發現舊有衣物的價值，跳脫商業主流環境所重視的重新展現自己，久而久之，將減少購買大量製造、迅速過時、品質不佳的成衣，且會提升對衣物的品味、了解如何改造再生。&lt;/p&gt;
+
+&lt;p&gt;服裝設計展現的態度比起樣式更為重要，透過開放與分享，將使服裝與穿著者產生更緊密的關係，更能透過服裝來表達自己的品味和價值觀。&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;參考資料&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://futurezone.at/digitallife/12516-open-source-mode-recyclen-und-reparieren.php&quot;&gt;http://futurezone.at/digitallife/12516-open-source-mode-recyclen-und-reparieren.php&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://fad.cat/congres/en/?p=700&quot;&gt;http://fad.cat/congres/en/?p=700&lt;/a&gt;&lt;/p&gt;
+
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 28 Jun 2013 07:50:33 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">695 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20130628#comments</comments>
+</item>
+<item>
+ <title>Open source ecology—開放資源生態學締造在地文明新視野</title>
+ <link>https://creativecommons.tw/blog/20130625</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;柯俊如&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;
+&lt;div&gt;近年來，越來越多人開始關心全球貧富差距以及地球資源耗盡的問題，運用「開放」的概念是否能改變這些問題呢？「&lt;a class=&quot;newpage&quot; href=&quot;http://opensourceecology.org/&quot;&gt;開放資源生態學&lt;/a&gt;」就是答案。&lt;/div&gt;
+
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div&gt;「開放資源生態學」動員了來自世界各地的企業家、生產者、製造者、支持者，他們善用當地天然資源和開放資源工具，選擇無汙染且能再生的生產方式來建構在地文明基礎設備，同時顧及環境、社會和科技系統的生態平衡。&lt;/div&gt;
+
+&lt;div&gt;&amp;nbsp; &amp;nbsp;&lt;/div&gt;
+
+&lt;div&gt;「開放資源生態學」最終的目標是形成「開放資源經濟學」。「開放資源」讓使用者能參與製作與服務設計的流程，帶來的好處由電腦軟體Linux等的推動結果可見一斑；「開放資源經濟學」則是要擴展開放資源模式從電腦軟體到生活中的實體產品和服務，讓開放的力量進入各地。&lt;/div&gt;
+
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div&gt;當實體產品設計是開放的，也就代表科技使用的門檻降低，每個社群都因此更容易了解科技與自然的互動實況，並因此發現自己舒適的生活來自於自然資源，而非人造商品。人們有了這樣的體悟，就會由衷的尊敬自然、願意採取最適合當地且最能永續發展的生產方式，減少資本社會下專業分工、相互競爭造成的資源浪費，也不再只重視生產而漠視資源分配。整體而言，將促使人類整體生產力提高、自然資源被更有效的利用。&lt;/div&gt;
+
+&lt;div&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;
+
+&lt;div&gt;實踐「開放資源生態學」最主要的計劃是「世界村建構套裝」(Global Village Construction Set)，這個套裝包含50種低成本、高效率、可持續發展的機械，這些工具能滿足任何地方、任何社群所需的當代基本生活品質需求，包含在地食物、能量、運輸等，且這些機械都經過模組化，因此社群能快速而省錢的自助組裝、調整。&lt;/div&gt;
+
+&lt;div&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;
+
+&lt;div&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://opensourceecology.org/wiki/Proposal_2012_-_50_Tool_Descriptions&quot;&gt;50種機器&lt;/a&gt;依據用途分成6大類—原生地(Habitat)、農業(Agriculture)、工業(Industry)、能源(Energy)、原物料(Materials)、交通(Transportation)，機器之間緊密相連，一旦一個機器開發出來，就可以用此機器來開發下一個機器，甚至是用來自我複製。&lt;/div&gt;
+
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div&gt;&lt;img alt=&quot;&quot; src=&quot;http://opensourceecology.org/w/images/thumb/8/8b/LTIICompleted.jpg/300px-LTIICompleted.jpg&quot; style=&quot;display:block; height:225px; margin-left:auto; margin-right:auto; width:300px&quot; /&gt;&lt;/div&gt;
+
+&lt;div&gt;每個機器根據開發的現況標上顏色，分成「開發、製成模型、說明文件、完整發布」，並因階段的不同，附上3D設計圖、分析圖、教學影片、預算、產品手冊，這些機器的原型最後都會在合作的e Farm測試，確保這樣的設計是可行的。&lt;/div&gt;
+
+&lt;div&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;
+
+&lt;div&gt;「開放資源生態學」平台上的所有資訊都已經編成一本線上開放電子書，只要燒錄在&lt;a class=&quot;newpage&quot; href=&quot;http://opensourceecology.org/wiki/Civilization_Starter_Kit_DVD_v0.01&quot;&gt;一片光碟片&lt;/a&gt;內，就能輕鬆把攸關人類基本生活品質的50種機器設計帶著走，容易且迅速的能在各地展開新的文明生活。&lt;/div&gt;
+
+&lt;div&gt;&lt;img alt=&quot;&quot; src=&quot;http://opensourceecology.org/w/images/thumb/a/a5/Open_Source_Ecology_-_DVD_-_Cover_-_v0.01_-_05.jpg/200px-Open_Source_Ecology_-_DVD_-_Cover_-_v0.01_-_05.jpg&quot; style=&quot;height:259px; width:200px&quot; /&gt;&lt;/div&gt;
+
+&lt;div&gt;不論是網站平台，或是光碟片、電子書，都採用創用CC「&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by-sa/2.5/tw/&quot;&gt;姓名標示─相同方式分享&lt;/a&gt;」的授權方式，也就是說，只要表達出對著作者的尊重，並願意用相同授權方式分享這些資源，任何人都能善用「開放資源生態學」、推動「開放資源經濟學」，一同參與全球貧富差距以及地球資源耗盡問題的解決之道。&lt;/div&gt;
+
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div&gt;註 : 可以看看TED的介紹&lt;a class=&quot;newpage&quot; href=&quot;http://www.ted.com/talks/marcin_jakubowski.html&quot;&gt;http://www.ted.com/talks/marcin_jakubowski.html&lt;/a&gt;、以及「開放資源經濟學」的介紹影片&lt;a class=&quot;newpage&quot; href=&quot;http://youtu.be/5RB4XKDDLF0&quot;&gt;http://youtu.be/5RB4XKDDLF0&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 24 Jun 2013 16:28:14 +0000</pubDate>
+ <dc:creator>dkoooh</dc:creator>
+ <guid isPermaLink="false">692 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20130625#comments</comments>
+</item>
+</channel>
+</rss>

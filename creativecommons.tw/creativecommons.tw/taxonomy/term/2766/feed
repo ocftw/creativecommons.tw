@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 新聞</title>
+ <link>https://creativecommons.tw/category/tags/%E6%96%B0%E8%81%9E</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>挑戰影響力與獲利的雙贏模式：衛報的開放式新聞之路 </title>
+ <link>https://creativecommons.tw/in-depth/598</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Chih-Ying Huang, Tzu-Chiang Liou/文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;英國衛報（The Guardian）甫在2012年3月24-25日舉辦為期兩天的開放週末（&lt;a href=&quot;http://www.guardian.co.uk/news/series/guardian-open-weekend?INTCMP=SRCH&quot; target=&quot;_blank&quot;&gt;Open Weekend&lt;/a&gt;）活動，採用（半）BarCamp形式讓參與者和平常深藏幕後的編輯台成員和各領域專家，有近距離的互動與對話機會，分享與討論衛報的期望與未來。兩天的活動有超過200名的講者、吸引了5,000多名參與者購票入場，週邊活動如&lt;a href=&quot;http://www.guardian.co.uk/help/insideguardian/2012/mar/21/kings-cross-london-streetstories-app&quot; target=&quot;_blank&quot;&gt; Streetstories mobile APP&lt;/a&gt; 的推出，也展示了企業將其資料開放後，創新加值應用的無窮樂趣與可能性。Open Weekend 係衛報宣告其開放式新聞（Open Journalism）的首波行動。而經過了6年在倫敦區的試播，衛報&lt;a href=&quot;http://www.guardian.co.uk/help/insideguardian/2012/mar/21/guardian-app-google-tv&quot; target=&quot;_blank&quot;&gt;網路電視APP&lt;/a&gt;（適用於Google TV）也宣告開放美國地區觀眾使用，此亦為Open Journalism 的實踐，即希望新聞資料與內容透過多元的數位頻道與通路，散佈至全世界社群，亦廣邀各地使用者回饋意見。&lt;/p&gt;
+
+&lt;p&gt;無論是新聞內容開放、透過視覺化方式呈現資料以強化報導之專業及可讀性、到後續應用加值與服務（Open Service）、或從閱聽人出發的使用者共創與參與（Co-creation and participatory）；衛報從 2006 年起一系列多元、全面而大膽的嘗試，以及2012年終於有成熟面貌的 Data Journalism 宣告，顯示其放手一搏、在數位時代擁抱開放的決心。做為全世界媒體關注的焦點，衛報究竟做了些甚麼？&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;多元開放途徑與策略&lt;/strong&gt; 我們依照時間序列，觀看衛報的幾個重要策略：&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;2006 開放編輯台：Comment is Free&lt;/li&gt;
+	&lt;li&gt;2009 開放新聞資料&lt;strong&gt;[1]&lt;/strong&gt; ：成立Data store和Data Blog&lt;/li&gt;
+	&lt;li&gt;2010 開放平台技術：&lt;a href=&quot;http://www.guardian.co.uk/open-platform&quot; target=&quot;_blank&quot;&gt;Open Platform&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;2012.3 開放週末：&lt;a href=&quot;http://www.guardian.co.uk/open-weekend&quot; target=&quot;_blank&quot;&gt;Open Weekend&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;2012.3 開放式新聞：Open Journalism&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;開放這條路，衛報走得前衛、勇敢而充滿信心，早從 2006 年推出&lt;a href=&quot;http://www.guardian.co.uk/commentisfree/uk-edition&quot; target=&quot;_blank&quot;&gt; Comment is Free &lt;/a&gt;平台，開放讀者對報社或內容，公開進行提問、挑戰與辯論。2009 年進行的新聞資料開放計劃，更將新聞內容開放使用，同時也進行資料驅動新聞報導（&lt;a href=&quot;http://www.guardian.co.uk/help/insideguardian/2012/feb/02/guardian-open-weekend&quot; target=&quot;_blank&quot;&gt;Data Driven Journalism&lt;/a&gt;）與新聞資料視覺化（&lt;a href=&quot;http://www.guardian.co.uk/technology/data-visualisation&quot; target=&quot;_blank&quot;&gt;Data Visualization&lt;/a&gt;），鼓勵新聞內容跳脫傳統統計數字、文字的呆板模式，以多元化視覺呈現，強化直覺理解效果，甚至成為一種藝術展示。如衛報目前和Google合辦的競賽&lt;strong&gt;[2]&lt;/strong&gt; ，就是列出歐盟經濟公開資訊，提供dataset與獎金，徵求更多創意的資料解讀與呈現方式，針對實際世界的問題提供一個創新理解甚至解決方法的可能&lt;strong&gt;[3]&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;2010 年衛報推出&lt;a href=&quot;http://www.guardian.co.uk/open-platform/apps&quot; target=&quot;_blank&quot;&gt; Open Platform&lt;/a&gt; ，展示其對資料公開的成果，及報業在新媒體的衝擊中能掌握技術並進行變革；而做為營利媒體的衛報，又有怎樣的實際效益呢？衛報開始和公部門與商業單位合作，&lt;a href=&quot;http://www.guardian.co.uk/media/pda/2010/may/20/guardian-open-platform&quot; target=&quot;_blank&quot;&gt;新的商業模式&lt;/a&gt;與效益也逐漸浮現。例如，衛報和英國政府在觀光旅遊專案&lt;a href=&quot;http://www.enjoyengland.com/Official-Enjoy-England-app/&quot; target=&quot;_blank&quot;&gt;Enjoy England&lt;/a&gt;中合作，使用Open Platform介接政府 Open Data （英國觀光局的全國景點資料）製作了&lt;a href=&quot;http://www.guardian.co.uk/open-platform/apps-case-study-enjoy-england&quot; target=&quot;_blank&quot;&gt;創意互動地圖&lt;/a&gt; APP，成果公開在衛報和觀光局亦開放給公眾。衛報也和其它商業單位合作並鼓勵開發者上傳&lt;a href=&quot;http://www.guardian.co.uk/open-platform/apps&quot; target=&quot;_blank&quot;&gt;APP作品&lt;/a&gt;。透過資料開放搭配技術，資料加值與應用等商業的可能性，在衛報有系統的操作下，一個百花齊放的創新花園正蓄勢待發。 於2012年3月宣告的 Open Journalism，則強調促進新聞資料在不同的數位平台（如：手機、電子書）被分享和使用；同時亦鼓勵網路回饋機制和實體活動，虛實相交的促進閱聽人的參與和貢獻。什麼是Open Journalism？可從衛報引起廣大迴響的廣告「&lt;a href=&quot;http://www.guardian.co.uk/media/video/2012/feb/29/open-journalism-three-little-pigs-advert?newsfeed=true&quot; target=&quot;_blank&quot;&gt;誰殺了三隻小豬&lt;/a&gt;」，了解其精神。 &lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;開放平台與 API&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;衛報希望使用者再利用內容，故授權部分也特別鼓勵開放使用。面對數位時代的挑戰，部分傳統媒體逐漸用內容付費的方式將內容封閉起來，如紐約時報與倫敦時報等。衛報則採取不同的思維，他們相信，將內容開放出來之後，會讓自身在數位化時代當中更為成功，在這其中，開放平台與 API 是兩大主要的關鍵因素。 使用者除了可以直接到 Open Platform 外，針對第三方內容夥伴，衛報也提供了便利的方式，讓使用者可以使用資料。衛報提供三種的 API 方案，不同方案各可使用衛報中不同程度的內容，同時也有相對應的權利義務，可參考&lt;a href=&quot;http://www.guardian.co.uk/open-platform/faq&quot; target=&quot;_blank&quot;&gt;http://www.guardian.co.uk/open-platform/faq&lt;/a&gt;。衛報的消費者媒體總監 Adam Freeman 表示，這樣的作法對於那些中小型出版商有很大幫助，因為這些出版商可能沒有太多資源去產製大量內容&lt;strong&gt;[4]&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;開放創造商機&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;在&lt;a href=&quot;http://www.guardian.co.uk/help/insideguardian/2012/feb/29/open-journalism-at-the-guardian&quot; target=&quot;_blank&quot;&gt;世界新聞在你指尖&lt;/a&gt;一文中，衛報總編輯Alan Rusbridger簡潔有力的說：「(網路世代的)報業已超越傳統報業。記者能在讀者的參與與貢獻下，對全貌了解更多。平面和網路讀者都持續撐加，而廣告廠商也喜歡這樣的發展，這就是我們所謂的開放。」&lt;strong&gt;[5]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;就獲利模式而言，究竟是向網路讀者收費的紐約時報模式可行，還是開放內容爭取廣告收益的衛報模式勝出，成敗仍在未定之天，對讀者提供免費開放與收費內容這天秤的兩端，全世界都還在觀察誰能夠存活。然而，姑且不論成果，衛報種種開放而勇敢、與讀者互動的積極作法，在在反映了一個專業新聞媒體的信心和尊嚴。誠懇的去擁抱變動，而不是用華麗的口號包裝保守的傳統，一直不斷做出實際行動的衛報，後續的發展令人期待和關注；數位時代的專業內容媒體，如何在影響力和獲利之間創造新的可能性，讓我們拭目以待。&lt;/p&gt;
+
+&lt;p&gt;[1] 不同於開放資料（Open Data）的概念，衛報似乎尚未做到新聞內容的全面結構化，並將結構化後的資料開放釋出給公眾全然使用，而是將其新聞資料開放出來&lt;br /&gt;
+[2] Help us visualise the world&#039;s economic recovery&lt;br /&gt;
+[3] &lt;a href=&quot;http://www.guardian.co.uk/news/datablog/2012/mar/29/google-data-visualisation-competition-economy&quot; target=&quot;_blank&quot;&gt;http://www.guardian.co.uk/news/datablog/2012/mar/29/google-data-visualisation-competition-economy&lt;/a&gt;&lt;br /&gt;
+[4] &lt;a href=&quot;http://www.mediaweek.co.uk/news/1003156/Guardian-targets-revenue-Open-Platform&quot; target=&quot;_blank&quot;&gt;http://www.mediaweek.co.uk/news/1003156/Guardian-targets-revenue-Open-Platform/&lt;/a&gt;&lt;br /&gt;
+[5] Alan Rusbridger對於Open Journalism的見解另可詳於&lt;a href=&quot;http://www.guardian.co.uk/media/2010/jan/25/cudlipp-lecture-alan-rusbridger&quot; target=&quot;_blank&quot;&gt;&quot;The Hugh Cudlipp lecture: Does journalism exist?&quot;一文&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 04 May 2012 10:50:19 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">598 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/in-depth/598#comments</comments>
+</item>
+<item>
+ <title>澳洲公共廣電機構使用創用CC授權釋出新聞檔案</title>
+ <link>https://creativecommons.tw/blog/20120406</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ChiuHao Chen 編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ABC_Mobile_Studio_Caravan.jpg/639px-ABC_Mobile_Studio_Caravan.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h6&gt;&lt;strong&gt;圖片出處：&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:ABC_Mobile_Studio_Caravan.jpg&quot; rel=&quot;cc:attributionURL&quot; style=&quot;color: #4374b7; font-size: 12px; line-height: 11px; font-family: &#039;Helvetica Neue&#039;, Helvetica, Arial, sans-serif;&quot;&gt;ABC Mobile Studio Caravan&lt;/a&gt;&amp;nbsp;&amp;nbsp;/&amp;nbsp;&lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0&quot; rel=&quot;license&quot; style=&quot;color: #4374b7; font-size: 12px; line-height: 11px; font-family: &#039;Helvetica Neue&#039;, Helvetica, Arial, sans-serif;&quot;&gt;CC BY-SA&lt;/a&gt;&lt;/strong&gt;&lt;/h6&gt;
+
+&lt;p&gt;全球的廣播電視新聞機構之中，又有一位重量級機構加入了創用CC授權的陣容。CC澳洲日前宣布了澳洲公共廣電機構 (ABC, Australian Broadcasting Corporation) 使用維基共享( Wikimedia Commons) 並在”CC姓名標示-相同方式分享 澳洲” (CC BY-SA)之授權下釋出歷史上重要的新聞片段。&lt;/p&gt;
+
+&lt;p&gt;為了慶祝ABC的80歲生日，隨著慶祝活動網站”改變我們的80天”，在維基共享上也陸續釋出了許多歷史典藏素材。然而，這些活動網站僅僅是ABC開放檔案(Open Archive) 計畫的延伸，開放檔案專案計畫釋出歷史事件與其相關的聲音、影像讓人可以重新使用，更包含了當前事務的新聞檔案。因此，ABC建立了一個社群媒體網站叫做Pool，在這邊可以看到更多的介紹。&lt;/p&gt;
+
+&lt;p&gt;當然，許多傳播機構也利用創用CC授權釋出相關素材，但”開放檔案”計畫的重要之處在於釋出的新聞片段都是經過精心編輯的歷史重要事件，而不是那些主題不明確或是未經過整理編輯過的新聞剪輯。例如，它包含了1969年的阿波羅11號太空船登陸事件，1986年林迪.張伯倫(Lindy Chamberlain)的澳洲失嬰懸案，1983年澳洲開始開放的浮動貨幣政策，更不用說還有發生在1974年，知名科幻小說 - 2001太空漫遊(Space Odessy)作者克拉克 (Arthur Clarke)精準的針對網際網路的樣貌做出預測的訪談片段 (影片中說的未來應該是指2001年之後)。&lt;/p&gt;
+
+&lt;p&gt;另外，在維基共享上釋出素材也鼓勵了在維基百科上的重新使用，例如這篇關於板球世界盃的介紹。選用在維基共享釋出的作法不僅助長資訊傳播，並將新聞媒材之影響力從ABC自有的網站上釋放至無遠弗屆。ABC的創意長Agnela Clark這麼說：”使用此分享方式不但讓大家都能取得ABC的素材，也能吸引新的觀眾發揮創意，探索利用這些影片的無限可能”。&lt;/p&gt;
+
+&lt;p&gt;維基百科說：這是第一個於維基共享上釋出的套裝(packaged)影片。當然，ABC的這套影片也依循了維基百科的CC姓名標示-相同方式分享(BY-SA)開放授權下釋出。我們也期待更多使用創用CC授權的案例，歡迎與我們一起分享！&lt;/p&gt;
+原文出處: http://creativecommons.org/weblog/entry/32102&lt;br /&gt;
+備註： Agnela Clark言詞出處連結失效&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 06 Apr 2012 01:20:16 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">591 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20120406#comments</comments>
+</item>
+<item>
+ <title>CC新書簡介：開放的力量</title>
+ <link>https://creativecommons.tw/blog/20110704</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Catherine Casserly , Joi Ito / ChiuHao Chen 譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://creativecommons.tw/sites/creativecommons.tw/files/cover.jpg&quot; style=&quot;float:left; height:323px; width:250px&quot; /&gt;放眼世界，一股“開放”的浪潮正風起雲湧著。從獨立藝術家開始提供創作，將其作品開放權利給其他創作者使用，到大眾可以自由取得由政府基金所贊助的所有事務。無論是分享的精神或是實際行動，都正蓄勢待發著準備創造一波新的歷史。&lt;/p&gt;
+
+&lt;p&gt;時至今日，已經有超過40億個創用CC授權作品活躍於網際網路上。然而，創用CC從開始提供開放授權至今也不過十多個年頭。這些開放作品包羅萬象，從音樂到相片，從研究著作以至於整個大學的課程。創用CC創造了法律與資訊基礎架構，使得不管是個人、組織亦或是政府，都能夠有效的分享知識、藝術作品和資料。更重要的是，為數超過百萬的創作者能夠從中獲益，進而豐潤了全人類的創用智識。&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://thepowerofopen.org/&quot;&gt;《開放的力量》&lt;/a&gt;一書收集了這些創作者的成功故事。其中像是普立茲獎(Pulitzer Prize) 調查新聞得主&amp;nbsp;&lt;a class=&quot;newpage&quot; href=&quot;http://www.propublica.org/&quot;&gt;ProPublica&lt;/a&gt; ，他們使用了創用CC授權，而進一步能與世界最大的媒體公司合作。還有像是游牧電影製作人(nomadic filmmaker) Vincent Moon，他讓創用CC授權成為鼓吹創造力的一個重要元素。因此，對於選擇開放內容、創作與點子給他人的組織與個人，廣泛的運用創用CC授權將與創造力一樣重要。&lt;/p&gt;
+
+&lt;p&gt;當我們展望未來，採用開放概念的創作不斷不斷的累積數量，這鼓力量足以讓原來只提供傳統&quot; 版權所有&quot; 的版本，開始把&quot;分享&quot; 視為預設的版權準則。更讓人興奮的是，使用創用CC授權工具潛移默化的促進了全球福祉(global welfare) ，也加深了文化、教育與創新政策彼此之間的開放性。&lt;/p&gt;
+
+&lt;p&gt;我們希望《開放的力量》一書能夠帶來一些啟發，讓大家能夠開始檢視與接觸開放授權的實務操作。至此之後，你我對於全球創用智識的貢獻，就更能嘉惠於全人類。&lt;/p&gt;
+
+&lt;p&gt;對於使用創用CC授權的成功故事充滿好奇嘛？可以來&lt;a class=&quot;newpage&quot; href=&quot;http://thepowerofopen.org/assets/pdfs/tpoo_webres.pdf&quot;&gt;這邊/a&amp;gt;&amp;nbsp;(PDF)&amp;nbsp;瞧瞧。&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;newpage&quot; href=&quot;http://thepowerofopen.org/assets/pdfs/tpoo_webres.pdf&quot;&gt;備註：&lt;br /&gt;
+PDF 連結失效 &lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 04 Jul 2011 09:37:05 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">530 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20110704#comments</comments>
+</item>
+<item>
+ <title>眾志與眾智？「禁止改作」與公民新聞的同儕生產</title>
+ <link>https://creativecommons.tw/blog/20101025</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;黃泰然&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;公視一直是台灣創用 CC 重要的推動者之一。&lt;a class=&quot;newpage&quot; href=&quot;http://cc.pts.org.tw/New_MainPage.aspx&quot;&gt;「公視創用」&lt;/a&gt;提供了許多公共電視製作的新聞影片，其影片都以創用 CC 授權釋出。&lt;a class=&quot;newpage&quot; href=&quot;http://www.peopo.org/&quot;&gt;「 PeoPo 公民新聞平台 」&lt;/a&gt;則是一個由註冊的公民記者上傳影片與撰寫報導的公民新聞的交流平台，在上傳影片與報導時，也提供了創用 CC 的授權選項。不過，很可惜的是，公視創用所有的新聞影片都是採用「姓名標示-非商業性-禁止改作」， 而 PeoPo 公民新聞平台在公民記者上傳影片時的預設選項也是「姓名標示-非商業性-禁止改作」，所以大部分的影片都是採用此種創用 CC 授權條款。&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;01.JPG&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/01.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;其實，「禁止改作」此一授權條件，與公視創用原本旨在「讓更多的衍生著作在此地分享、衍生、再分享、再衍生」&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-1&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-1&#039;)&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;的目的並不相符，也不利於創用 CC 和公民新聞原本結合的目標—-透過「眾志與眾智」由下而上的對議題發聲。&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-2&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-2&#039;)&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;這是因為「禁止改作」與「同儕生產」（peer-production）的模式是相衝突的，也與自由文化的理念不符。另外，採行「禁止改作」的疑慮，例如正確性與浮水印的問題，其實可以透過其他方式處理，不需要因此增加不必要的限制。 再從國外的例子來看，其他媒體以創用 CC 授權釋出的影片很少採用「禁止改作」的授權條件，而知名的公民新聞「全球之聲」（Global Voice），其生產模式同樣也是建立在「允許改作」，而非「禁止改作」的基礎上。本文認為公視應該考慮不包括禁止改作條件的其他創用 CC 授權條款。 以下，將詳細討論個別議題。&lt;/p&gt;
+
+&lt;h4&gt;壹、同儕生產與公民新聞&lt;/h4&gt;
+
+&lt;p&gt;「同儕生產」（peer-production）是 Yochai Benkler 提出的概念，此種生產模式與過去階層化組織的不同在於，參與者比較處於平行的關係，且可能素未謀面，其主要的生產誘因往往也不是金錢報酬&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-3&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-3&#039;)&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;。同儕生產於的經典例子是維基百科和自由軟體。兩者都是透過社群的合作，讓人們可以異時異地的共同產出一篇維基百科的條目、 或者像 Linux、 Gimp 等自由軟體。 維基百科與自由軟體的同儕生產所以可行，除了網路讓這些人得以連結與合作，以及社群的凝聚力等因素之外，授權條款（稱治理架構其實更適合）選擇得當，更是其生產模式得以運作不可或缺的要素。 維基百科原本採用的是「GNU 自由文件授權」（GNU Free Documentation Licenses）Licenses），2009年則轉換到相容的創用 CC「姓名標示-相同方式分享」，而自由軟體則大多是採用「GNU 通用公眾授權」（GNU General Public License），或者其他符合自由軟體定義的公眾授權 。 這些授權條款的共通特色之一是「允許改作」 ，其核心精神亦在此。 為了要「允許改作」，所有的自由軟體都要開放原始碼(目的碼沒「人」看得懂，其他人如何修改改善？)，改作之後的軟體，也要「相同方式分享」，允許社群的其他人繼續改作。 維基百科的情形也與此相類，沒有允許改作，同儕生產的力量就很難發生。 讓我們假設當初維基百科當初採用了「禁止改作」的授權方式，會是什麼的情況？首先，有位熱心的老師寫了一篇紫斑蝶的條目，但只有大致的介紹，另一名平日熱心生態觀察的人，在寫信取得原作者的同意後，補充了一些內容，於是這篇條目現在有了兩位共同作者，第三位作者要取得前兩位的同意，才可以透過授權的方式修改、第四位則要前面三位全部同意、第五位要四人同意…….。 很明顯地，採用這種授權條款的「維基百科」絕對不可能有今天的成就，它的條目會少得可憐，造成「反共用地悲劇」（anti-commons tragedy）。&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-4&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-4&#039;)&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;同樣地，像 PeoPo 公民新聞這樣的新聞平台，如果要透過「眾智與眾志」的公民新聞的生產，達成由下而上介入與實踐的力量，「禁止改作」的授權條件反而會妨礙其理想的實現。它讓大部分的影片一上傳之後，就不太會有人再去修改、或者和其他的影片與音樂混合，甚至剪輯到在自己影片中成為另外一篇公民新聞的一部份。另一方面，許多 PeoPo 公民新聞中的影片，往往還不是完整的報導但卻有可能是珍貴且取得困難的一手影像，其最具價值之處本來就是作為他人改作與報導的素材，但是 「禁止改作」卻妨礙了此種運用的實現。公視創用中的影片雖然是完整的報導，但因為仍不乏使用者可能只想要用其中部份的畫面或影片，&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-5&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-5&#039;)&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;「禁止改作」的限制條件，也降低了這些影片在運用上的價值。（因為在教育部全國創用 CC 諮詢中心工作之故，有些老師會向我反應他/她們對「禁止改作」的影片要運用在教材製作、 甚至擷取「部份」影片播放會有疑慮）。 簡言之，選擇「姓名標示-非商業性-禁止改作」，並不利於「同儕生產」，因此會使得公視創用與 PeoPo 公民新聞平台的發展，可能停留在在 web 1.0 的階段，只是作為個別作者典藏與出版的媒介，而不能實現 「眾智與眾志」的理想。 我想這也是熱心推動創用 CC 與公民新聞的公視所不樂見的。&lt;/p&gt;
+
+&lt;h4&gt;貳、 正確性與姓名標示的疑慮&lt;/h4&gt;
+
+&lt;p&gt;會採用或預設「姓名標示-非商業性-禁止改作」的創用 CC 授權條款，可能的顧慮是報導的「正確性」與「扭曲」的問題。 但是，同樣以維基百科為例，我們也可以發現任何人都可以匿名修改的條目，只要有適當的機制予以處理，正確性的問題並不嚴重。《科學》雜誌過去即有將維基百科與大英百科全書與科學有關的42個條目作比較，最後的結論是兩者「在正確性的差異並不特別顯著」。&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-6&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-6&#039;)&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;PeoPo 與公視創用，應該以更開放的角度來面對這個問題。 其實，與其讓作者/權利人「事前」自己決定，他人的改作與修改，是否有扭曲與正確性的問題，不如「事後」 透過同儕的與社群的公評來建立市場機制。 而這才是「自由文化」的精神所在，如果後來的創作者都要取得前人的「允准」才可以修改，不僅費時費力，也有事前內容審查的問題。 再者，與同儕生產可能產生的效益相比，即使偶有惡意扭曲之作，我們也不該因噎廢食。&lt;/p&gt;
+
+&lt;p&gt;公視創用另一個採用「姓名標示-非商業性-禁止改作」的理由，可能是考量到影片中公視創用的浮水印會被使用者以「改作」的方式移除。 但是，這層顧慮只要能清楚說明浮水印的保留是遵守「指定姓名標示方式」的條件之一即可。 如果使用者仍擅自移除浮水印，此時即等於未遵守「姓名標示」。我們不需要以「禁止改作」確保浮水印的存在，造成資源在利用上不必要的限制。&lt;/p&gt;
+
+&lt;h4&gt;參、 幾個國外的例子&lt;/h4&gt;
+
+&lt;p&gt;其實，就筆者的觀察，以荷蘭的公共廣播事業 VPRO (Vrijzinnig Protestantse Radio Omroep)為例，它在 eeuwvandestad 以創用 CC 授權釋出的&lt;a class=&quot;newpage&quot; href=&quot;http://eeuwvandestad.nl/archives/223&quot;&gt;歷史影片&lt;/a&gt;素材，少有採用「禁止改作」的例子，因為這些影片的價值即在作為剪輯使用；此外 VPRO 也將它的&lt;a class=&quot;newpage&quot; href=&quot;http://eeuwvandestad.nl/download&quot;&gt;部份紀錄片&lt;/a&gt;以創用 CC 授權釋出，絕大多數亦採「姓名標示-非商業性-相同方式分享」的方式授權。紀錄片會採用創用 CC 授權，原因是希望除了在電視之外提供更多的流通管道，而且作為公共廣播事業其亦有責任讓公眾可以盡可能的以各種方式使用其資源。&lt;sup&gt;&lt;a class=&quot;footnoteref&quot; href=&quot;javascript:;&quot; id=&quot;footnoteref-7&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnote-7&#039;)&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;02.JPG&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/02.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;另一個值得注意的案例，是總部在卡達的半島電視台 (Al Jazeera) 於2009年設立的 &lt;a class=&quot;newpage&quot; href=&quot;http://cc.aljazeera.net/&quot;&gt;Creative Commons Repository&lt;/a&gt;，雖然網站本身採用「姓名標示-非商業性-禁止改作」，但是其提供的下載的影片全部都是以創用 CC「姓名標示」的方式釋出，方便他人（包括商業媒體）改作與重製。其中有不少影片是在西方媒體無法進入的加薩地區所拍攝，相當珍貴。 這樣的授權方式有利於其影片被公眾廣為使用與知悉。不過，半島電視台另外在2009年設立的 &lt;a class=&quot;newpage&quot; href=&quot;http://blogs.aljazeera.net/&quot;&gt;Al Jazeera Blog&lt;/a&gt;，其中的報導文章採用的是「姓名標示-非商業性-禁止改作」。這可能是出自於轉貼文章時，不希望被節錄而保持完整性的考量，但是，與影片素材相較，文字報導採用「禁止改作」所造成的限制與不便，尚不太大，因為著作權僅保護文字的表達方式，而不保護其中傳達的事實與思想，所以即使禁止改作，在得悉這些資訊後，仍然可以參考其意旨而撰寫相關報導；相反地，影片如果禁止改作，不能剪輯實際的畫面，而僅能以文字敘述其中的事實，就喪失了最重要的功用。&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;03.JPG&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/03.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;其實，在&lt;a class=&quot;newpage&quot; href=&quot;http://zh.globalvoicesonline.org/hant/m&quot;&gt;全球之聲&lt;/a&gt;（Global Voice）這個部落客公民記者報導與翻譯的網路平台，採用的就是創用 CC「姓名標示」的授權條款。許多參與全球之聲公民報導的部落客，並不是第一手的報導者，而是扮演翻譯或協同翻譯的角色。如果全球之聲採用了含有 「禁止改作」的創用 CC 授權條款，其運作將會受到阻礙，這其實也透露了「禁止改作」的條件可能妨礙同儕生產的眾志與眾智實現的可能性。 全球之聲如此，作為全球之聲友好媒體的 PeoPo 公民新聞平台亦然。&lt;/p&gt;
+
+&lt;div&gt;&lt;img alt=&quot;04.JPG&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/04.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;h4&gt;肆、 未來方向的建議&lt;/h4&gt;
+
+&lt;p&gt;簡言之，我認為 PeoPo 公民新聞平台不應該將「姓名標示-非商業性-禁止改作」設為選項，而可以考慮將創用 CC「姓名標示-非商業性-相同方式分享」授權條款設為預設選項 ；「公視創用」甚至可以考慮採用「姓名標示」，讓這些影片可以更自由的流通。 就 PeoPo 公民新聞平台，因為有公民記者可能不希望其報導被作為商業使用，而「非商業性」可以避免此爭議，「相同方式分享」則可以確保改作後的影片同樣屬於共用資源。 至於公視創用，因為沒有確保生產誘因的互惠層面的問題，其考量的應該是讓資源可以被最自由的利用，因此甚至可以考慮採用創用 CC「姓名標示」的授權條款。&lt;/p&gt;
+
+&lt;blockquote&gt;本文為著作人接受中央研究院資訊科技創新研究中心台灣創用 CC 計畫「專題研究獎助計畫」的產出。本文內容不必然代表中央研究院資訊科技創新研究中心或台灣創用 CC 計畫的立場。本文的著作權利為著作人所有，且著作人（黃泰然）已同意採用創用 CC 「姓名標示」3.0 台灣版授權條款釋出。&lt;/blockquote&gt;
+
+&lt;div&gt;
+&lt;div&gt;Footnotes&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-1&#039;)&quot;&gt;1&lt;/a&gt;. 此為公視創用推動緣起的文字，參&lt;a class=&quot;newpage&quot; href=&quot;http://cc.pts.org.tw/about.html&quot;&gt;http://cc.pts.org.tw/about.html&lt;/a&gt; (last visited 2010/07/31)。&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-2&#039;)&quot;&gt;2&lt;/a&gt;. 參羅志宏，《眾智與眾志的想像：數位典藏、公民新聞與創用CC結合的可能性》，&lt;a class=&quot;newpage&quot; href=&quot;http://groups.google.com/group/cc-taiwan-newsletter/browse_thread/thread/6d02842bc6349848#&quot;&gt;創用 CC 電子報第13期&lt;/a&gt;，2007年5月。&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-3&#039;)&quot;&gt;3&lt;/a&gt;. See Generally YOCHAI BENKLER, THE WEALTH OF NETWORKS: HOW SOCIAL PRODUCTION TRANSFORM MARKETS AND FREEDOM (2006). available at &lt;a class=&quot;newpage&quot; href=&quot;http://cyber.law.harvard.edu/wealth_of_networks/Download_PDFs_of_the_book&quot;&gt;http://cyber.law.harvard.edu/wealth_of_networks/Download_PDFs_of_the_book&lt;/a&gt;.&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-4&#039;)&quot;&gt;4&lt;/a&gt;. See Generally MICHAEL HELLER, GRIDLOCK-ECONOMY: HOW TOO MUCH OWNERSHIP WRECKS MARKETS, STOPS INNOVATIONS, AND COSTS LIVES (2008)。&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-5&#039;)&quot;&gt;5&lt;/a&gt;. 因為在教育部全國創用 CC 諮詢中心工作之故，有些老師會向我反應他/她們對「禁止改作」的影片要運用在教材製作、甚至擷取「部份」影片播放會有疑慮。&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-6&#039;)&quot;&gt;6&lt;/a&gt;. Jim Gilles, “Special Report： Internet encyclopedias go head to head,” Nature, Dec 14, 2005.&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;WIKIDOT.page.utils.scrollToReference(&#039;footnoteref-7&#039;)&quot;&gt;7&lt;/a&gt;. See &lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/weblog/entry/18128&quot;&gt;http://creativecommons.org/weblog/entry/18128&lt;/a&gt; (last visited 2010/07/29)&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 25 Oct 2010 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">228 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20101025#comments</comments>
+</item>
+<item>
+ <title>微型投資自營模式：以Spot.Us新聞報導媒合平台為例</title>
+ <link>https://creativecommons.tw/blog/20100414</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;周文茵&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;&lt;a href=&quot;http://spot.us/&quot;&gt;&lt;img alt=&quot;Spot.Us.jpg&quot; class=&quot;image&quot; src=&quot;/sites/creativecommons.tw/files/spot.us.jpg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;你覺得地方上有些值得調查或者應該報導的主題，卻總是被主流報導所忽略？你想做一番值得深究的專題，卻苦於無經費支持？你想要做些具有深度的報導，卻無力再聘請更多人力？你認為新聞報導的價值不該只限於該完成品，更重要的在於它的製作與散佈的過程…..&lt;/p&gt;
+
+&lt;p&gt;那麼，導入類似微型投資概念，目前仍以舊金山與洛杉磯為經營主力的 &lt;a class=&quot;newpage&quot; href=&quot;http://spot.us/&quot;&gt;Spot.Us&lt;/a&gt;，將提供我們一個不一樣的想像。這個2008年開始的非營利實驗計畫，透過平台聚結整合讀者、報導者、報社組織的需求與資源，而藉由平台的自營設計，讓大眾可以透過自己的力量找回在地新聞的生命力。&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;Spot.Us的做法&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;你若想提供一些故事的發想點、應該研究調查的主題、值得關心的議題、重要且被忽略的專題，可以透過簡單的註冊成為平台社群的成員，將想法丟出。&lt;/p&gt;
+
+&lt;p&gt;而或許來自這些發想的啟發，成員中有興趣的自由作家，即可在平台上&lt;a class=&quot;newpage&quot; href=&quot;http://spot.us/pages/about#pitch_advice&quot;&gt;建立主題攤位（The Pitch）&lt;/a&gt;，開啟募款的歷程。主題攤位的開設需說明此攤位的主題為何？為何此主題值得受到關注？自己為何是執行報導的不二人選？把自己構想的方案、時程以及欲呈現的形式陳述出來。&lt;/p&gt;
+
+&lt;p&gt;透過預先保證捐獻的設計模式（pledge donations），所有成員皆可利用PayPal參與捐款支持有興趣的主題攤位。&lt;a class=&quot;newpage&quot; href=&quot;http://spot.us/pages/about#donation_goal&quot;&gt;當攤位募款達到80％，發起主題的自由作家就要開始針對於主題進行大綱規劃&lt;/a&gt;。一旦達到募款目標值，自由作家就開始進行整個作業，生產這個主題內容，而所有捐款人也在此時才會進行扣款。所有認捐者都可以透過平台的設定，準確掌握此主題完成公布的時程。&lt;/p&gt;
+
+&lt;p&gt;其中，特別獨立出來的認捐角色是報社組織，這需要透過個別的申請處理。唯有取得這個帳號身份，才可以在Spot.Us認捐主題攤位募款超過20％的金額。若報社&lt;a class=&quot;newpage&quot; href=&quot;http://spot.us/pages/about#work_with&quot;&gt;組織認捐達到50％，則可獲得「第一次發佈」的權利&lt;/a&gt;。倘若報社希望這個主題能夠盡早完成，甚至可以在任何時候認捐100%的款項，啟動報導作業進行；在此同時，所有額外的認捐金額則會退回原認捐的社群成員，讓他們可以在平台系統裡轉而支持其它的主題攤位。&lt;/p&gt;
+
+&lt;p&gt;所有完成的報導，Spot.Us要求&lt;a class=&quot;newpage&quot; href=&quot;http://spot.us/pages/terms&quot;&gt;以創用CC姓名標示授權條款3.0版方式釋出&lt;/a&gt;，免費供大眾利用，因此無須註冊，大眾即可閱讀已完成的報導。Spot.Us更肩負盡可能讓完成的報導在各管道曝光的責任。讀者可以透過平台的紀錄，瞭解故事報導的發想、歷程與支持者和募款狀況。&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;以民為本的微型經濟&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;平台透過機制設計，導入微型投資概念，媒合了關心議題的讀者、報導者、報社與金源，讓具有深度的在地新聞報導，得以被關注並且產出。也引進公眾授權概念，不採取壟斷/控制新聞報導內容的方式，讓新聞報導廣為週知的核心價值不被抹滅。而與報社的商業互動關係，則著眼在「第一次發佈權」的交涉，抓住新聞報社「即時/獨家」的關鍵需求。&lt;/p&gt;
+
+&lt;p&gt;把價格訂定的主導權還諸於民，是網路微型經濟的關鍵思考。透過這種民主的方式，讓消費者能夠得到他真正想要/需要的產品，這概念也開始應用推演於各種產業。不過，在這個例子上，仍有些待思考的議題。&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;仍有待探討的議題&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;如何確保觀點的獨立性：新聞報導重要的是切入的角度與呈現的觀點。是否會因為投資者異，而影響到觀點呈現的獨立性，甚至出現置入性行銷的問題，都是有待觀察的。&lt;/p&gt;
+
+&lt;p&gt;如何穩定品質：目前Spot.Us有規劃 &lt;a class=&quot;newpage&quot; href=&quot;http://spot.us/pages/about#qa_editor%E5%AF%A9%E6%A0%B8%E6%A9%9F%E5%88%B6&quot;&gt;The Peer-Review Editor&lt;/a&gt; ，必須要獲得的審核，新聞報導完成後，才能正式發佈。審核員來自Spot.Us指派以及合作的報社所提供，一般新聞工作者也可以提報自己成為該報導的審核員。然而，審核員的選任，似乎欠缺一個透明的標準，若有見解分歧時，恐怕難以服眾。而審核員是需要負擔責任與付出時間，卻沒有清楚的回饋機制，有可能因為沒有誘因，而無法讓此機制發揮預期作用。&lt;/p&gt;
+
+&lt;p&gt;如何訂定合理的價格？目前Spot.Us依據新聞報導所需要的時間，將報導分成 &lt;a class=&quot;newpage&quot; href=&quot;http://spot.us/pages/reporter_agreement&quot;&gt;Investigative Report、Enterprise Report、Beat Report、Quick Hit 四種類型&lt;/a&gt;，以每小10-25美金來估算。然而，如何估算出所謂合理工時？時薪該如何計價，才算合理？都是必須思考的問題。&lt;/p&gt;
+
+&lt;p&gt;無論如何，這個模式似乎獲得不錯的迴響，未來也希望拓展服務區域，你也可以上Spot.Us建議希望辦理的城市；或者導入到自己的產業領域，實驗一番～&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 14 Apr 2010 04:00:00 +0000</pubDate>
+ <dc:creator>emyleo</dc:creator>
+ <guid isPermaLink="false">200 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20100414#comments</comments>
+</item>
+<item>
+ <title>「新聞學研究」百期學術文章，以創用CC授權釋出</title>
+ <link>https://creativecommons.tw/blog/20090914</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;辜雅蕾&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;記得以前在寫論文的時候，「&lt;a class=&quot;newpage&quot; href=&quot;http://mcr.nccu.edu.tw/&quot;&gt;新聞學研究&lt;/a&gt;」是屬於必看的學術期刊之一，這是由政大新聞系所負責出版的期刊，其收錄的學術文章範圍不僅限新聞領域，還包含傳播法律、政策等，而所有與傳播領域相關研究者都可以投稿。雖然「新聞學研究」約三個月才出版一期，但是對於台灣念傳播相關學系的師生都很有影響性。&lt;/p&gt;
+
+&lt;p&gt;今年（2009）七月「新聞學研究」出版第一百期，他們將過去一百期的文章數位化後放在網路上供大眾自由下載，其採用創用CC「&lt;a class=&quot;newpage&quot; href=&quot;http://creativecommons.org/licenses/by-nc-nd/3.0/tw/&quot;&gt;姓名標示-非商業性-禁止改作&lt;/a&gt;」授權釋出。我想，一本具有影響力的學術期刊，決定以創用CC授權釋出這些研究結果，對於未來的研究者絕對是正面的影響居多。&lt;/p&gt;
+
+&lt;p&gt;另一方面，過去只有在特定書局、圖書館或是校園才能找到這本期刊，一旦可以上網被下載使用，對於知識的擴散也有相當的幫助；不論是對其他領域的研究者或是其他一般大眾。隨著台灣受高等教育的人日眾，高等教育的研究結果也越來越多，相對國家也投注更多的資源在高等教育上，然而這些學術研究結果卻往往無法被容易的取得，這些資源等同被浪費，學術研究也跟大眾生活越離越遠。所以或許在「新聞學期刊」採用創用CC授權釋出之後，其他的學術期刊也可以考慮相同的作法。&lt;/p&gt;
+
+&lt;p&gt;新聞學期刊&lt;a class=&quot;newpage&quot; href=&quot;http://mcr.nccu.edu.tw/data100.html&quot;&gt;100期光碟下載&lt;/a&gt;(連結失效)。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 14 Sep 2009 04:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">172 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20090914#comments</comments>
+</item>
+<item>
+ <title>開放文化相關研討會再添一成員：Open Tech Summit Taiwan</title>
+ <link>https://creativecommons.tw/blog/20080502-2</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;台灣創用CC計畫&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;4月25日到 4月29日，開放原始碼組織 Open Hardware Initiative 臺灣社群與華碩電腦合作協辦第一屆的「Open Tech Summit Taiwan」，同時邀請OSSF 的林誠夏、Wikia 的 KJ 及創用 CC 一同參加。&lt;/p&gt;
+
+&lt;p&gt;Open Tech Summit Taiwan 企圖營造社群通力合作的感覺，是以邀集了各式開放文化的相關組織與個人一同參加。在這數天的活動中，以 4月26日 及 4月27日 在華碩關渡總部舉辦的研討會彙集最多方的人馬。創用CC 計劃亦協助邀請莫尚、豬頭皮等人分享使用創用 CC 的心得，並於會後派對協力演出。&lt;/p&gt;
+
+&lt;p&gt;除了在華碩總部的研討會之外，Open Tech Summit Taiwan 也包含了前往大專院校的工作坊活動，分別於 4月25日 在淡江大學、4月29日 在元智大學由開放源碼軟硬體開發者與學員討論前瞻技術，並在下午的時間讓大家彼此分享、展示作品，期能更深地傳播自由文化的理念。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 01 May 2008 16:00:00 +0000</pubDate>
+ <dc:creator>ccworker</dc:creator>
+ <guid isPermaLink="false">819 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20080502-2#comments</comments>
+</item>
+<item>
+ <title>南非BMW支持CC授權條款</title>
+ <link>https://creativecommons.tw/blog/20070803-1</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;林懿萱/編譯&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;在BMW推出一系列新型掀背跑車之際，南非BMW與當地一個影片與相片分享網站&lt;a class=&quot;external&quot; href=&quot;http://zoopy.com/&quot;&gt;Zoopy&lt;/a&gt;合作，推出BMW1系列掀背跑車廣告片競賽的活動。參賽者將作品上傳至Zoopy網站，讓全世界的人都可以觀賞之外，並需同意其作品以Creative Commons「姓名標示-非商業性」授權條款南非2.5版釋出，提供大眾利用。&lt;/p&gt;
+
+&lt;p&gt;該則&lt;a class=&quot;external&quot; href=&quot;http://www.chilibean.co.za/2007/07/04/bmw-promotes-creative-commons-licenses&quot;&gt;新聞來源&lt;/a&gt;欲知更多關於該則新聞的&lt;a class=&quot;external&quot; href=&quot;http://www.bmw.co.za/campaigns/one/galleryofones/&quot;&gt;細節&lt;/a&gt;及&lt;a class=&quot;external&quot; href=&quot;http://www.zoopy.com/video_channels/90/&quot;&gt;訊息&lt;/a&gt;。&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+備註：&lt;br /&gt;
+Zoopy及新聞來源、新聞訊息之連結已失效&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 02 Aug 2007 16:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">838 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/20070803-1#comments</comments>
+</item>
+</channel>
+</rss>
