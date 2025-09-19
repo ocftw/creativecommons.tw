@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://creativecommons.tw"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>台灣創用CC計畫 - 與使用者直接接觸</title>
+ <link>https://creativecommons.tw/category/tags/%E8%88%87%E4%BD%BF%E7%94%A8%E8%80%85%E7%9B%B4%E6%8E%A5%E6%8E%A5%E8%A7%B8</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>「開放政府資料」座談會實況報導</title>
+ <link>https://creativecommons.tw/blog/02011226</link>
+ <description>&lt;div class=&quot;field field-name-field-author field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;盧美慈&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 由中研院台灣創用CC計畫籌辦的「開放政府資料：現況、願景、策略」座談會在12月14日順利召開。（&lt;a class=&quot;newpage&quot; href=&quot;http://www.slideshare.net/cctwOpenDataForum/presentations&quot;&gt;座談會投影片&lt;/a&gt;）由政治大學李治安老師主持、六位講者與會，和在 場七十多位參與者進行熱烈對談，議程安排緊湊、內容豐富，讓許多與會者大感意猶未盡。本次研討會由公部門代表、民間合作者以及中研院研究員分享他們對於開 放政府資料的心得、實施經驗和目前成果。本次座談在台北市南港的中央研究院資訊科技創新研究中心舉行，以下僅依座談進行順序，簡要報導研討會的情況。&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 座談會首先由&lt;strong&gt;&lt;a href=&quot;http://opendata.tw/&quot; target=&quot;_blank&quot;&gt;opendata.tw&lt;/a&gt;&lt;/strong&gt;&lt;a href=&quot;#_ftn1&quot;&gt;[1]&lt;/a&gt;的 徐子涵先生分享過去一年來，Open data在台灣的發展。分享內容首先提到Open data在各領域所需面對的挑戰，例如資訊技術、社群、資訊權利、相關媒體。並以美國和歐盟的Open data實行內容為例，分析台灣目前可以作到的Open data領域範疇。他在座談會中提到，與美國、歐盟相比，東方具有傳統封建社會的國家，均傾向從 E-Government 作 Open data 的嘗試，台灣目前也是朝相同的方向發展。最後，他強調Open data擁有一種經濟力量，透過開放資訊、資訊加值、產生資訊產品的過程，可以創造新的工作機會與商機，並且Open Government也提升了國民民主概念與素質。&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 開放國會與公民參與計畫&lt;a href=&quot;#_ftn2&quot;&gt;[2]&lt;/a&gt;顧 問莊友欣先生則提出他對政府Open data未來可行的建議。他認為Open data是一種讓民眾覺得有效率、對政府政策有感的政策方式，透過資料開放與近用可以促進政府與人民接觸。他提出如果政府應該「少一些社交，多一點資 料」，降低政府用來進行社交活動的時間，改以提供簡潔明確的資訊給民眾，使民眾可以簡單接觸、理解政府施政成果。他以台北市政府1999與公車到站時間表 為例，1999是一種比較&lt;strong&gt;社交&lt;/strong&gt;的方式，讓政府需要派遣人力、花費時間在與民眾接觸、解決民眾諮詢等方面；相較之下，電子公車到站時間表，係一種透過公開資料且較有效率的方式，民眾在日常生活中也較快速、輕易地感受到政府「確實有在作事情」。&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 台北市政府資訊處管理師陳崴逸先生則上台發表目前台北市政府在Open Government的發展進度。他首先說明台北市政府發展Open Government的優勢：(1)具有豐富行政資料 (2)行動上網率高(3)wifi免費上網範圍廣泛 (4)資訊通訊廠商多 (5)市民所得和教育程度高等，陳崴逸先生也說明台北市政府在政府資訊公開法之下，未來將如何發展Open Government政策。他指出，台北市政府的目標在於提供「更簡單的取得管道」，並且使資料可以容易地加值和應用，進而提升政府與民眾效率。他也提 到，台北市政府的Open data發展程度與世界各國城市相比，排名並不遜色。&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;　 接下來則是由行政院研究發展考核委員會副主委宋餘俠先生以「從電子資料流通到加值運用」主題，分享行政院自84年開始的電子資訊政策。他指出行政院今年6月的&lt;strong&gt;行動電子化政府計畫&lt;/strong&gt;， 其實就是Open data的概念，重點在於如何提供民眾加值運用、擴增基礎資料庫等應用。但是，在進行詳細計畫中政府也面臨了公開訊息的必然問題：未來提供資訊時，要如何 流通包含個人隱私資料的資訊？未來碰到涉及經濟應用的資料是否應循政府採購程序？這些都是未來我國政府在實現Open data所應注意的重點。&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 最後一位在Open data主題分享的則是中研院資創中心蕭景燈先生。他分享自己參與W3c&lt;a href=&quot;#_ftn3&quot;&gt;[3]&lt;/a&gt;舉辦的Open data會議。並介紹W3c所提出的Open data目前成果、各組織比較，以及目前可在該平台上獲得Open data之相關資訊。&amp;nbsp;&amp;nbsp; &lt;img alt=&quot;&quot; src=&quot;https://lh3.googleusercontent.com/-ypeScQOrjf4/TwPydRqaqmI/AAAAAAAABgk/MMtmlor7_aA/s573/%2525E9%252596%25258B%2525E6%252594%2525BE%2525E6%252594%2525BF%2525E5%2525BA%25259C%2525E8%2525B3%252587%2525E6%252596%252599.JPG&quot; style=&quot;display:block; height:459px; margin-left:auto; margin-right:auto; width:573px&quot; /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 在數位與談人結束主題分享後，由台下聽眾提問討論，以下節錄重點討論：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;一、&lt;/strong&gt;&lt;strong&gt;台北&lt;/strong&gt;&lt;strong&gt;市政府公開的資料被使用最多得是何種資訊？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;陳崴逸&lt;/u&gt;先生：目前台北市使用最多之公開資訊為環保局提供的公廁資料、公車動態資訊。這些資訊是與民眾生活切身相關，並且公開後並不會引起民眾反感或疑慮的資訊。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;二、&lt;/strong&gt;&lt;strong&gt;政府還是對&lt;/strong&gt;&lt;strong&gt;Open data&lt;/strong&gt;&lt;strong&gt;有興趣，在擁有這些資料的時候，要如何把資料回覆給政府，使政府可以有效利用資訊來改善人民生活，那以政府的立場，如果今天有一個廠商或學術單位有能力可以統合使用者整理的資料，政府該如何將加值利用完的資訊再回饋給使用者？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;宋餘俠&lt;/u&gt;先生：我國政府還在摸索如何將資訊加值利用並回饋給人民，在這其中還牽涉到資料的格式，目前我們認為應最優先該處理的是行動資料的格式，因為行動資料格式是目前民眾最常接觸、資訊內容最豐富的資料。&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;徐子涵&lt;/u&gt;先生：這個問題還涉及了end to end的資訊使用，從人民獲取資料、最終再回饋給人民的作法，因為需要作到軟硬整合，目前台灣距離這種資訊公開還有一段路要走。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;三、&lt;/strong&gt;&lt;strong&gt;資料格式的問題，不知道研考會對於&lt;/strong&gt;&lt;strong&gt;W3c&lt;/strong&gt;&lt;strong&gt;制定資料格式的行為，採取肯定或否定意見？台灣政府的開放資訊格式其實不能讓所有人都可以使用，要如何解決這個格式問題？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;宋餘俠&lt;/u&gt;先生：原則上我們重視W3c制定的公開格式，但我們還需要持續摸索出各種格式，並採取一種最方便民眾取用的格式作為未來公開資料的格式。&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;蕭景燈&lt;/u&gt;先生：政府的固定格式，是希望讓政府資料與民間資料可以連結在一起。但W3c制定格式方向以及授權時，希望政府不僅只開放資訊、還希望政府可以與民間作資訊連結。但這些格式和授權規定對台北市政府、台灣政府都還算比較後面的程度，目前台灣還用不到後續的這些格式與授權。另外，若真要討論格式標準化的問題，當然是希望政府可以選擇最多瀏覽器可支援的資訊格式，才能真正達到資訊開放的目的。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;四、 &lt;/strong&gt;&lt;strong&gt;台北市政府有個資訊內容授權規範，這些資訊在我國著作權法有些並非受著作權保障的標的，但政府卻自行規定授權條款，該授權有沒有法律效力？另外，若該資料確實有著作權，但政府在思考資料應用時，通常是以&lt;/strong&gt;&lt;strong&gt;CC&lt;/strong&gt;&lt;strong&gt;授權或採用授權金制度，但二種作法是其實是相反的方式，目前政府是以何種作法為主呢？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;麥浩銘&lt;/u&gt;先生：政府資訊是否收費，可參考政府資訊公開法第22條規定。政府資訊除依著作權法第9條不受保護外，只要符合著作權法保護要件，仍受到著作權法保護。市府Open data是參考美國聯邦政府的作法，他們的憲法及著作權法學者多數認為政府機關「資料庫」不受著作權法保護，才符合美國保障言論自由的理念；但歐盟傾向保護資料庫製作人所付出蒐集整理的辛勞，於1996年3月發布指令賦予資料庫製作人享有禁止他人未經授權擷取權（unauthorized extraction right）。&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;李治安&lt;/u&gt;先生：在討論此議題時，還要注意到一般政府公開的資訊的「授權」不一定是指著作權的｢授權｣，如果仔細看內容，會發現比較像是使用條款(term of use)，包含資訊的使用方式等。況且許多政府公開的資訊，如果非「公文書」且具有原創性，那麼該資訊久很可能仍受著作權法保護。&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;宋餘俠&lt;/u&gt;先生：政府應以不收費為目標。民間的資訊加值是否收費，則應依市場決定。另外，某些資訊的不公開，是因為該資訊公開面臨了開放資料與公共利益的平衡，例如國土規劃資料，要公開這種資料會面對更多的公共衡量。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;五、&lt;/strong&gt;&lt;strong&gt;Open data&lt;/strong&gt;&lt;strong&gt;的目標到底主要是對人民產生何種效果?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;蕭景燈&lt;/u&gt;先生：讓政府更透明，同時也會讓人民生活更好。&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;宋餘俠&lt;/u&gt;先生：Open data的內涵是隨時間、技術在轉變的，去年11月時，對於Open data的概念，當時的重點擺在政府資訊電子化，大家關心的重點是政府把資訊公開給人民；但今年行動資訊盛行，Open data的重點好像又逐漸轉向了Open data的加值服務上。&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;徐子涵&lt;/u&gt;先生：Data是下一個世代的經濟重點，各國的使用方式就不一樣，故各國Open Government的重點操作上，本就會因時地制宜。民間本來就不是很理解政府的施政重點在哪，我認為民間仍需要政府提供合作方案，才能讓民間有效地利用這些政府資訊。&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;陳崴逸&lt;/u&gt;先生：台北市的Open data仍在萌芽階段，目前北市府傾向盡可能地開放資訊讓民眾使用。但是，某些依法令須付費取得的資訊，就不會以Open data的形式供應，並須依法令規定取得。當然，有效的運用政府資訊便利市民的生活，仍是北市府最大的目標。&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;莊友欣&lt;/u&gt;先生: 應該要以民間團體力量，督促政府提出好的資料。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;六、&lt;/strong&gt;&lt;strong&gt;以公車資訊為例，是否有再混合應用該資訊的可能性? 這些資訊會不會因為各城市的資訊程度而有效果差異? 例如台北市作得比屏東好?各地政府提供的資料程度，是不是允許民眾混用？會不會資訊程度較低的政府，因為人民對該資訊需求低，政府資訊化的動力也比較低?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;陳崴逸&lt;/u&gt;先生：跨縣市的資料，台北市政府還在加強中，並會遵從中央訂定的標準。另外，到底要提供原始資料還是加值後資料？台北市傾向提原始資料，以方便民眾運用，但碰到與民眾隱私權相關的內容，仍須作「去個資化」的動作，以確保不侵犯民眾的權益。&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;宋餘俠&lt;/u&gt;先生：至於混搭應用，應該是由民間來作。至於對資源比較缺乏的地區，可能需要政府介入去促進民間多作一些資訊整合。&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;蕭景燈&lt;/u&gt;先生：數位落差的問題，在推動政府資料公開的階段中是必然要面對的問題。能力比較好的政府本就會早點享受資訊公開的優點。為了減少這種落差，政府應該選用格式簡單、原始資料才是最好的解決方法。&lt;/p&gt;
+
+&lt;p&gt;由於時間有限，熱烈地討論也延續到最後的茶會時間，座談會參加者和與談人在享用茶點的同時仍持續討論我國Open data未來可能的走向。&lt;/p&gt;
+
+&lt;div&gt;&lt;strong&gt;座談會資料&lt;/strong&gt;（投影片）：&lt;a href=&quot;http://www.slideshare.net/cctwOpenDataForum/presentations&quot; target=&quot;_blank&quot;&gt;http://www.slideshare.net/cctwOpenDataForum/presentations&lt;/a&gt;。
+
+&lt;hr /&gt;
+&lt;div&gt;
+&lt;p&gt;[1] 官方網站：&lt;a href=&quot;http://www.opendata.tw/&quot;&gt;http://www.opendata.tw/&lt;/a&gt;。&lt;br /&gt;
+[2] 開放國會與公民參與計畫官方網站：&lt;a href=&quot;http://opencongress.tw/&quot;&gt;http://opencongress.tw/&lt;/a&gt;。&lt;br /&gt;
+[3] 全球資訊網聯盟（W3C）為一國際共同認可的非營利組織，成立於1994年10月，其宗旨為盡力提昇與維護全球資訊網(World Wide Web, WWW)之發展。詳見官方網站：&lt;a href=&quot;http://www.w3.org/&quot;&gt;http://www.w3.org/&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 25 Dec 2011 20:45:52 +0000</pubDate>
+ <dc:creator>bonjovilll</dc:creator>
+ <guid isPermaLink="false">571 at https://creativecommons.tw</guid>
+ <comments>https://creativecommons.tw/blog/02011226#comments</comments>
+</item>
+</channel>
+</rss>
