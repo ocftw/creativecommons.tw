@@ -3,10 +3,11 @@
 ## todo
 
 - [ ] 重新下載 *.delayed 檔案
-- [ ] 列出所有的頁面目錄與標題清單
 - [ ] 把檔案中的外部資源內部化
 - [ ] 刪除沒有附檔名，但是有同名 .html 檔案的檔案
 - [ ] 把頁面中到 http(s)?://creativecommons.tw 的連結改成相對連結
+
+- [x] 列出所有的頁面目錄與標題清單
 - [x] 重新下載 zero_bytes_url.txt 的檔案
 - [x] 刪除 <title>40x 的 HTML 檔案
 - [x] 設定 git-pages repo 並將 /creativecommons.tw/creativecommons.tw 搬移到根目錄下以便打開 github pages
