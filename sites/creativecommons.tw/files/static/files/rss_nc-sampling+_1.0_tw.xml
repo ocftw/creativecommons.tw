@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule">
+  <channel>
+  <creativeCommons:license>http://creativecommons.org/licenses/nc-sampling+/1.0/tw/</creativeCommons:license>
+    <item>
+    <creativeCommons:license>http://creativecommons.org/licenses/nc-sampling+/1.0/tw/</creativeCommons:license>
+    </item>
+  </channel>
+</rss>

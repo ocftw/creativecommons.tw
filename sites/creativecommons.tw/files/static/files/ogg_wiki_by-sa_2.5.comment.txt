@@ -1,0 +1,2 @@
+Ogg's comment
+comment[N]="LICENSE=[YEAR] [LICENSOR]. Licensed to the public under http://creativecommons.org/licenses/by-sa/2.5/ verify at HTTP://YOUR.HOME.NET/HERE/";

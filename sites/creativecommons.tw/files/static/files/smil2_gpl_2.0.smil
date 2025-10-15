@@ -1,0 +1,43 @@
+<smil>
+<head>
+<metadata id="meta-rdf">
+
+<rdf:RDF
+    xmlns="http://web.resource.org/cc/"
+    xmlns:rdf = "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs = "http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:dc = "http://purl.org/dc/elements/1.1/">
+<Work rdf:about="HTTP://YOUR.HOME.NET/HERE/">
+  <dc:title>[TITLE]</dc:title>
+  <dc:description>[DESCRIPTION]</dc:description>
+  <dc:creator><Agent>
+    <dc:title>[AUTHOR]</dc:title>
+  </Agent></dc:creator>
+  <dc:rights><Agent>
+    <dc:title>[LICENSOR]</dc:title>
+  </Agent></dc:rights>
+  <dc:date>[YEAR]</dc:date>
+  <dc:format>application/smil</dc:format>
+  <rdf:Seq>
+    <rdf:li><dc:source>HTTP://SOURCE.SMIL.NET/HERE.SMIL</dc:source></rdf:li>
+  </rdf:Seq>
+  <license rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+</Work>
+
+<License rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+  <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+  <permits rdf:resource="http://web.resource.org/cc/Distribution" />
+  <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+  <requires rdf:resource="http://web.resource.org/cc/Notice" />
+  <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />
+  <requires rdf:resource="http://web.resource.org/cc/SourceCode" />
+</License>
+</rdf:RDF>
+
+</metadata>
+</head>
+<body>
+<seq>
+</seq>
+</body>
+</smil>

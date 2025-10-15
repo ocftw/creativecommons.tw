@@ -1,0 +1,6 @@
+
+	[YEAR] (CC)(LGPL)(BY)(SRC)(SA) [AUTHOR]. Some Rights Reserved.
+
+or,
+
+	[YEAR] (CC)(LGPL)(BY)(SRC)(SA) [AUTHOR].
