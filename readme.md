@@ -5,9 +5,9 @@
 - [ ] 重新下載 *.tmp 檔案
 - [ ] 重新下載 *.delayed 檔案
 - [ ] 把檔案中的外部資源內部化
-- [ ] 刪除沒有附檔名，但是有同名 .html 檔案的檔案
 - [ ] 把頁面中到 http(s)?://creativecommons.tw 的連結改成相對連結
 
+- [x] 把沒有副檔名的 html 檔案加入 .html 副檔名
 - [x] 補回頁面上遺失的圖片檔
 - [x] 加入 script 把 github lfs 管理的檔案動態指向 github repo
 - [x] 列出所有的頁面目錄與標題清單
