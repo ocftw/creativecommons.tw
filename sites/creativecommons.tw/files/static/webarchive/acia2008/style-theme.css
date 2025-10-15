@@ -1,0 +1,98 @@
+#header{
+  height: 10em;
+  padding: 10px 10px 0 10px;
+  background: #B82619 url(http://meeting.creativecommons.org.tw/local--files/ac:start/ACIAback.png) no-repeat;
+}
+#header h1 {
+  padding: 0;
+}
+#header h1 a {
+  background: url(/local--files/ac:start/ACIAtitle.png) no-repeat left top;
+  display:block;
+  height:0pt;
+  overflow:hidden;
+  padding-top:45px;
+  width:398px;
+  margin-left: 80px;
+}
+#header h2 {
+  display: block;
+  font-size: 120%;
+  margin-left: 83px;
+}
+#search-top-box{
+  bottom: 3px;
+  right: 10px;
+  top: auto;
+  z-index: 100;
+}
+#login-status {
+  right: 10px;
+}
+#top-bar ul{
+  margin-left: 80px;
+}
+#main-content{
+  text-align: left;
+  font-size: 110%;
+}
+
+
+/* Program */
+.speaker div.photo {
+  float: left;
+  width: 250px
+}
+.speaker div.photo img {
+  margin: 0 auto;
+  width: 240px
+}
+
+.speaker div.intro {
+  margin-left: 255px;
+}
+
+.speaker div.intro span.name {
+  font-weight: bold;
+  font-size: 2.5em;
+}
+.speaker div.intro span.title{
+  text-transform: uppercase;
+}
+.speaker div.intro span.company,  .speaker div.intro span.department{
+  font-style: italic; 
+  font-size: .8em;
+}
+#top-bar p{
+  margin: 0pt; padding: 0pt; display: inline; float: left;
+}
+/* for table */
+table.program, table.program td{
+	border: 1px black solid;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+table.program td{
+	padding: 3px;
+	vertical-align: top;
+}
+
+table.program tr.break {
+	background-color: lightyellow;
+	text-align: center !important;
+}
+
+table.program tr.separator {
+	background-color: pink;
+}
+table.program strong{
+	font-size: 1.2em;
+}
+table.program .panelspeaker{
+display:block;
+margin-left: 2em;
+}
+table.program p {
+margin-top: 0;
+}

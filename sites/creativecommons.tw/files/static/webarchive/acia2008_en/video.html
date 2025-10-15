@@ -1,0 +1,15 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>video</title>
+	<style type="text/css">
+		body { margin:0; padding: 0;}
+	</style>
+	<script type="text/javascript">
+	window.onload = function(){
+		fullURL = window.location.href;
+		num = fullURL.substring(fullURL.indexOf('?')+1, fullURL.length);
+		document.getElementById("video").innerHTML = (isNaN(num))?  'not a valid blip.tv video id': '<object type="application/x-shockwave-flash" data="http://blip.tv/scripts/flash/showplayer.swf?enablejs=true&file=http%3A//blip.tv/rss/flash/' + num + '&feedurl=http%3A//cctw.blip.tv/rss/&autostart=false&brandname=ACIA%20Workshop&brandlink=http%3A//meeting.creativecommons.org.tw/" width="500" height="319" allowfullscreen="true" id="showplayer"><param name="movie" value="http://blip.tv/scripts/flash/showplayer.swf?enablejs=true&file=http%3A//blip.tv/rss/flash/' + num + '&feedurl=http%3A//cctw.blip.tv/rss/&autostart=false&brandname=ACIA%20Workshop&brandlink=http%3A//meeting.creativecommons.org.tw/" /><param name="quality" value="best" /></object>';
+	}
+	</script>
+</head><body id="video">Loading...</body></html>

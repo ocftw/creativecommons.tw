@@ -1,0 +1,142 @@
+/* Import External Styles */
+@font-face {
+    font-family: "PecitaBook";
+    src: url("../fonts/AgencyFB.ttf") format("truetype");
+    font-weight:  400;
+    font-style:   normal;
+    font-variant: normal;
+    font-stretch: normal;
+
+    letter-spacing: 0em;
+    line-height: 1em;
+    text-decoration: none;
+    text-shadow: none;
+    text-transform: none;
+    word-spacing: 0em;
+}
+
+body {
+    background: #000000;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-family: PecitaBook, serif;
+}
+
+a {
+    color: #FFFFFF;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 16px;
+}
+
+h3 {
+    font-size: 14px;
+}
+
+p, hr {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#canvas {
+    background: url('../images/bg.jpg') no-repeat top 150px;
+	margin: 40px 0 0 0;
+    min-height: 822px;
+}
+
+#header {
+    float: left;
+}
+
+#nav-event,
+#nav-music,
+#nav-thanks,
+#nav-connect {
+    font-size: 36px;
+    margin: 50px 0 0 0;
+    padding: 0 .5em;
+    cursor: pointer;
+}
+
+#nav-event:hover,
+#nav-music:hover,
+#nav-thanks:hover,
+#nav-connect:hover {
+    color: #CCCCCC;
+}
+
+
+#footer {
+	left: 250px;
+    bottom: 0px;
+    position: absolute;
+}
+
+#company-name {
+    text-align: center;
+    margin: 0 auto;
+}
+
+#contact-info {
+    font-size: 1em;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#contact-info #tel {
+    margin-left: 1.3em;
+}
+
+#copyright {
+    font-size: .7em;
+    text-align: center;
+    text-transform: upper;
+    margin: 0 auto;
+}
+
+ul.options {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.tab-content{
+	display:none;
+    background: #FFFFFF;
+    color: #000000;
+    opacity: 0.9;
+    filter: alpha(opacity=90);
+    width: 700px;
+    min-height: 500px;
+    margin-left: 180px;
+    padding: 20px 10px;
+    overflow-y: auto;
+    border: 1px solid #C2C9BE;
+    border-bottom-left-radius: 11px 11px;
+    border-bottom-right-radius: 11px 11px;
+    border-top-left-radius: 11px 11px;
+    border-top-right-radius: 11px 11px;
+}
+
+
+.title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.content {
+    font-size: 1.5em;
+    padding: 20px 20px;
+}
+
+.content a {
+    color: #000000;
+}
+
