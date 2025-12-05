@@ -34,7 +34,7 @@
       return;
     }
 
-    if (u.origin !== location.origin) return;
+    if (u.origin !== location.origin.replace("web-archive-2025.", "")) return;
 
     var ext = getExtension(u.pathname);
     if (LFS_EXTS.indexOf(ext) === -1) return;
