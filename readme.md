@@ -47,6 +47,13 @@
   - sftp 進去主機找該檔案，下載後置入，於 httrack.sh 手動排除該路徑
   - 再用 httrack_url_list.sh 抓取其餘的 binary 檔案
 
+## 處理流程
+
+1. 使用 `page_search_to_list.sh` 搜尋問題頁面（如 "Page not found"）
+2. 使用 `files_to_urls.sh` 將檔案路徑轉換為 URL
+3. 使用 `extract_media.sh` 提取多媒體檔案清單
+4. 使用 `httrack_url_list.sh` 抓取清單列出的 URL 目標
+
 ## 完整頁面清單
 
 [pages.tsv](https://github.com/ocftw/creativecommons.tw/blob/main/pages.tsv) 中列舉了所有頁面
